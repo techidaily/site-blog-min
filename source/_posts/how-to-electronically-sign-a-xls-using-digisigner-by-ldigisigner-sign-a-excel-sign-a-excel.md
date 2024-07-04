@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .xls Using DigiSigner
-date: 2024-05-19T18:32:10.931Z
-updated: 2024-05-20T18:32:10.931Z
+date: 2024-07-03T17:27:01.870Z
+updated: 2024-07-04T17:27:01.870Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to Electronically Sign a .xls Using DigiSigner
 excerpt: This article describes How to Electronically Sign a .xls Using DigiSigner
 keywords: .xlsx signature app,.xlsx signature best,.xlsx signer online,best sign excel
-thumbnail: https://www.lifewire.com/thmb/upymkFD17829BoXqvYndmLQPGU4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safari-photo--canon-and-nikon-digital-cameras-and-lenses--masai-mara-game-reserve--kenya--769713645-5bde071546e0fb0026a2c012.jpg
+thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac2a8c7cff5efd5d21044d91c.jpg
 ---
 
 ## 1. How to Electronically Sign a .xls Using DigiSigner

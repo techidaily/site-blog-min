@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Move Contacts From Sony Xperia 1 V to iPhone (13/14/15) | Dr.fone
-date: 2024-05-19T18:32:51.665Z
-updated: 2024-05-20T18:32:51.665Z
+date: 2024-07-03T17:26:51.830Z
+updated: 2024-07-04T17:26:51.830Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Move Contacts From Sony Xperia 1 V to iPhone (13/14/15)
 excerpt: This article describes 5 Ways to Move Contacts From Sony Xperia 1 V to iPhone (13/14/15)
 keywords: transfer from Sony Xperia 1 V to pc,transfer from android to mac,transfer from Sony Xperia 1 V to ipad,transfer from android to android,transfer from android to ipad,transfer from android to iphone
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## 5 Ways to Move Contacts From Sony Xperia 1 V to iPhone (13/14/15)
@@ -193,7 +193,7 @@ These advanced capabilities make Wondershare Dr.Fone an all-in-one phone manager
 
 Here’s how you can use Wondershare Dr.Fone to transfer data from a Samsung device to a Pixel 8/Pixel 8 Pro:
 
-1. Download Wondershare Dr.Fone from [the official website](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)and launch it on your PC.
+1. Download Wondershare Dr.Fone from [the official website](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) and launch it on your PC.
 2. Connect the Samsung and the Pixel 8/Pixel 8 Pro phones to the PC.
 3. Navigate to **Toolbox > Phone Transfer**.
 

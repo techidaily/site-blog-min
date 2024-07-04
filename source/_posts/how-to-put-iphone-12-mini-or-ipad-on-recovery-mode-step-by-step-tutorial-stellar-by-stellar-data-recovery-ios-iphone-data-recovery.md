@@ -1,7 +1,7 @@
 ---
 title: How to Put iPhone 12 mini or iPad on Recovery mode? (Step by Step Tutorial) | Stellar
-date: 2024-05-19T18:32:13.754Z
-updated: 2024-05-20T18:32:13.754Z
+date: 2024-07-03T17:27:20.027Z
+updated: 2024-07-04T17:27:20.027Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Put iPhone 12 mini or iPad on Recovery mode? (Step by Step Tutorial)
 excerpt: This article describes How to Put iPhone 12 mini or iPad on Recovery mode? (Step by Step Tutorial)
 keywords: recover iPhone 12 mini data after reset,recover iPhone data without backup,recover iPhone data after backup,recover iPhone 12 mini data after hard reset,recover iPhone data after restore without backup,recover iPhone 12 mini data after factory reset,recover iPhone data after system update,recover iPhone data after restore,recover iPhone 12 mini data after update
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## How to Put iPhone or iPad on Recovery mode? (Step by Step Tutorial)
@@ -37,7 +37,7 @@ Recovery Mode helps fix iPhone updates or restore issues, such as [iPhone stuck
 
 Device Firmware Update or DFU mode lets your iPhone connect with iTunes on the computer without iBoot. As DFU mode doesn’t use iBoot, you can make changes in the operating system of the iOS device. An iPhone in DFU mode has a completely black screen.
 
-Putting iPhone into DFU mode is the solution when Recovery Mode doesn’t resolve the problem. DFU mode can restore or upgrade iPhone. This mode is also commonly used to downgrade or [jailbreak iPhone](https://www.stellarinfo.com/blog/how-to-jailbreak-iphone-without-data-loss/)s.
+Putting iPhone into DFU mode is the solution when Recovery Mode doesn’t resolve the problem. DFU mode can restore or upgrade iPhone. This mode is also commonly used to downgrade or [jailbreak iPhone](https://www.stellarinfo.com/blog/how-to-jailbreak-iphone-without-data-loss/) s.
 
 ### **Caution — you may lose all your iPhone data!**
 
@@ -333,7 +333,7 @@ Apple has made it easy to recover deleted iPhone photos. Here’s what you need 
 
 _Figure 1 represents how to recover photos from Recently Deleted folder_
 
-**_\*\*Important:_ _In the ‘Recently Deleted’ folder, you’ll find photos, video & music files that have been deleted within the last 30 days only. To recover them before that period, either you have to restore from iTunes or iCloud backups or use [iPhone photo recovery software](https://www.stellarinfo.com/iphone-data-recovery/iphone-photo-recovery.php)_.**
+**_\*\*Important:_ _In the ‘Recently Deleted’ folder, you’ll find photos, video & music files that have been deleted within the last 30 days only. To recover them before that period, either you have to restore from iTunes or iCloud backups or use [iPhone photo recovery software](https://www.stellarinfo.com/iphone-data-recovery/iphone-photo-recovery.php) _.**
 
 **Solution 2:**
 

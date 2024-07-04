@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone SE without Losing Data? | Dr.fone
-date: 2024-05-19T18:32:10.792Z
-updated: 2024-05-20T18:32:10.792Z
+date: 2024-07-03T17:27:46.828Z
+updated: 2024-07-04T17:27:46.829Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Downgrade iPhone SE without Losing Data?
 excerpt: This article describes How to Downgrade iPhone SE without Losing Data?
 keywords: reset iPhone,DFU mode on iPhone SE,reset iPhone SE,repair iPhone system issues,recovery mode on iPhone SE,upgrade or downgrade iPhone SE without iTunes,recovery mode on iPhone,upgrade or downgrade iPhone without iTunes,DFU mode on iPhone,repair iPhone SE system issues
-thumbnail: https://www.lifewire.com/thmb/zWxNYaUUEWKWwcCxwdQ9gx8_XCw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e18215ac7c02404eb389cacb68b2.jpg
 ---
 
 ## How To Upgrade or Downgrade iPhone SE Without iTunes?
