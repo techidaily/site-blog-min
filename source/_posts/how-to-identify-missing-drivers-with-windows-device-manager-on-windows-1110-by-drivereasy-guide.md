@@ -1,6 +1,6 @@
 ---
 title: How to identify missing drivers with Windows Device Manager on Windows 11/10
-date: 2024-05-19T18:32:12.882Z
+date: 2024-07-17T10:13:13.620Z
 tags: 
   - driver
   - device driver
@@ -19,12 +19,18 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -32,6 +38,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -78,6 +87,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
@@ -152,6 +164,9 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -184,6 +199,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -207,10 +225,16 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -231,3 +255,44 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-convert-your-social-media-presence-into-a-sustainable-business-model/"><u>[New] 2024 Approved  How to Convert Your Social Media Presence Into a Sustainable Business Model</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-online-places-for-youtube-video-growth/"><u>[New] Best Online Places for YouTube Video Growth</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mastering-twitter-broadcast-alive-tweets-guide-for-2024/"><u>[New] Mastering Twitter Broadcast  Alive Tweets Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mythos-makers-mecca-prime-pantheon-seven-for-2024/"><u>[New] Mythos Makers’ Mecca - Prime Pantheon Seven for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-using-high-dynamic-range-auto-hdr-in-windows-11/"><u>[Updated] Mastering the Art of Using High Dynamic Range (Auto HDR) in Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quicken-or-slow-down-netflix-content/"><u>[Updated] Quicken or Slow Down Netflix Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-a-guide-to-mastering-steams-switch-pro-controller/"><u>2024 Approved  A Guide to Mastering Steam's Switch Pro Controller</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unleash-your-potential-with-these-elite-12-vlogger-friendly-cameras/"><u>2024 Approved  Unleash Your Potential with These Elite 12 Vlogger-Friendly Cameras</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/efficient-youtube-video-logging-solutions-for-2024/"><u>Efficient YouTube Video Logging Solutions for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/exclusive-collection-vimeo-video-clippers-for-2024/"><u>Exclusive Collection  Vimeo Video Clippers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-skies-in-4k-with-mi-drone/"><u>Exploring Skies in 4K with MI Drone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-pixel-fold-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Pixel Fold.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-poco-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Poco .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-poco-c65-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Poco C65.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-poco-f5-pro-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Poco F5 Pro 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-poco-m6-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Poco M6 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-poco-x6-pro-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Poco X6 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-razr-40-ultra-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Razr 40 Ultra.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-realme-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Realme .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-realme-10t-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Realme 10T 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-realme-11-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Realme 11 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-realme-c67-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Realme C67 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-realme-gt-5-240w-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Realme GT 5 (240W).</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-realme-gt-5-pro-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Realme GT 5 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-realme-gt-5-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Realme GT 5.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-realme-gt-neo-5-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Realme GT Neo 5.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-realme-narzo-60-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Realme Narzo 60 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-realme-narzo-60x-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Realme Narzo 60x 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-red-magic-8s-pro-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Red Magic 8S Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Samsung .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-a05s-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Samsung Galaxy A05s.</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone X</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a05s-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A05s Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-s24-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy S24 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-say-goodbye-to-watermarks-top-tiktok-removal-tools-for-2024/"><u>New Say Goodbye to Watermarks Top TikTok Removal Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/personal-vocalization-changing-your-tone-for-stories-and-reels-for-2024/"><u>Personal Vocalization  Changing Your Tone for Stories & Reels for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audio-editing-techniques-for-mp4-files/"><u>Updated In 2024, Audio Editing Techniques for MP4 Files</u></a></li>
+</ul></div>

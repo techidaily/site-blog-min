@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in .uot file
-date: 2024-05-19T18:32:13.204Z
-updated: 2024-05-20T18:32:13.204Z
+date: 2024-07-17T10:18:26.286Z
+updated: 2024-07-18T10:18:26.286Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to insert sign in .uot file
 excerpt: This article describes How to insert sign in .uot file
 keywords: sign .txt file online,free sign .rtf file,sign .wps file,.uot file signature tool,.doc file signature,sign .wpt file
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## 1. How to insert sign in .uot file
@@ -47,16 +47,25 @@ These detailed instructions demonstrate how to sign a Word document online. Our 
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Word document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -69,6 +78,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -77,6 +89,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -106,6 +121,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Word on Windows
 
 You can use the standard features of Microsoft Office Word to digitally sign a document. There are several options:
@@ -128,6 +146,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -149,6 +170,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-word-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +185,63 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-comparing-the-leading-no-cost-video-communication-apps-iosandroid-for-2024/"><u>[New] Comparing the Leading No-Cost Video Communication Apps (iOS/Android) for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-record-your-rush-make-every-game-count/"><u>[New] In 2024, Record Your Rush  Make Every Game Count</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-top-10-free-applications-expertly-designed-for-discord-audio-tracking/"><u>[New] In 2024, Top 10 FREE Applications Expertly Designed for Discord Audio Tracking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instagram-collage-hacks-unveiled/"><u>[New] Instagram Collage Hacks Unveiled</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-voice-overhaul-two-efficient-ways-revealed/"><u>[New] Snapchat Voice Overhaul  Two Efficient Ways Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-a-cool-youtube-video-intro-in-imovie-step-by-step/"><u>[Updated] 2024 Approved  How to Make a Cool YouTube Video Intro in iMovie (Step-by-Step)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-pedal-power-parade-of-playtime/"><u>[Updated] In 2024, Pedal Power Parade of Playtime</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-harmonious-mixes-the-audacity-crossfade-method/"><u>2024 Approved  Crafting Harmonious Mixes  The Audacity Crossfade Method</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-from-unnoticed-to-noteworthy-building-a-viral-fb-presence/"><u>2024 Approved  From Unnoticed to Noteworthy  Building a Viral FB Presence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hololens-review-unleashing-virtual-potential-with-microsoft/"><u>2024 Approved  HoloLens Review – Unleashing Virtual Potential with Microsoft</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-audio-for-your-movie-trailer/"><u>2024 Approved  Selecting Audio for Your Movie Trailer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-vr-game-engines-of-2023/"><u>2024 Approved  Unveiling the Best VR Game Engines of 2023</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-ultimate-avs-video-editor-review/"><u>2024 Approved The Ultimate AVS Video Editor Review</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-x-flip-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/delve-into-the-art-of-text-animation-14-stunning-examples/"><u>Delve Into the Art of Text Animation  14 Stunning Examples</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/eyevid-fb-content-grabber-for-2024/"><u>EyeVid  FB Content Grabber for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmonize-with-inshots-music-load-functionality-for-2024/"><u>Harmonize with InShot's Music Load Functionality for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Plus without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Plus without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro Max without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-21-edition-examination-the-gamblers-guide-to-vegas-pro/"><u>In 2024, '21 Edition Examination – The Gambler’s Guide to Vegas Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-leading-talents-premier-instragram-hlv-creators/"><u>In 2024, Leading Talents  Premier Instragram HLV Creators</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-iphone-and-ipad-video-compression-made-easy-5-free-apps-to-try/"><u>New In 2024, IPhone and iPad Video Compression Made Easy 5 Free Apps to Try</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-c67-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme C67 5G</u></a></li>
+</ul></div>

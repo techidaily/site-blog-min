@@ -1,6 +1,6 @@
 ---
 title: How to identify missing drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-05-19T18:32:12.880Z
+date: 2024-07-17T10:13:11.016Z
 tags: 
   - driver
   - device driver
@@ -19,6 +19,9 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
@@ -32,6 +35,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -67,6 +73,9 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
@@ -75,6 +84,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -101,6 +113,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -118,6 +133,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 
@@ -146,3 +164,50 @@ There are two reasons why…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-drafting-dynamic-news-endings/"><u>[New] Drafting Dynamic News Endings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-express-windows-file-audit-procedure/"><u>[New] Express Windows File Audit Procedure</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-sew-your-way-to-success-an-advanced-guide-to-tiktok-videos/"><u>[New] In 2024, Sew Your Way to Success  An Advanced Guide to TikTok Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-maximizing-income-the-streamlined-three-part-process-for-calculating-youtube-profits/"><u>[New] Maximizing Income  The Streamlined Three-Part Process for Calculating YouTube Profits</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-pioneering-clear-high-definition-on-twitter-videos-for-2024/"><u>[New] Pioneering Clear, High-Definition on Twitter Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-a-to-z-guide-for-delivering-captivating-streams-using-zoom-and-youtube/"><u>[New] The A-to-Z Guide for Delivering Captivating Streams Using Zoom & YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-vrecorder-integration-from-download-to-deployment/"><u>[Updated] In 2024, VRecorder Integration  From Download to Deployment</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/9-best-free-and-easy-editing-apps-you-should-know-for-2024/"><u>9 Best Free and Easy Editing Apps You Should Know for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-itel-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Itel .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-itel-a60-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Itel A60.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-itel-a60s-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Itel A60s.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-itel-a70-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Itel A70.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-itel-p40-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Itel P40.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-itel-p40plus-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Itel P40+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-itel-s23-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Itel S23.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-itel-s23plus-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Itel S23+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-lava-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Lava .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-lava-agni-2-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Lava Agni 2 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-lava-blaze-2-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Lava Blaze 2 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-lava-blaze-2-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Lava Blaze 2.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-lava-blaze-pro-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Lava Blaze Pro 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-lava-storm-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Lava Storm 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-lava-yuva-3-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Lava Yuva 3.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-magic-vs-2-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Magic Vs 2.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-meizu-21-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Meizu 21.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-edge-2023-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Motorola Edge 2023.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-edge-40-neo-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Motorola Edge 40 Neo.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-edge-40-pro-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Motorola Edge 40 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-edge-40-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Motorola Edge 40.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Motorola Moto G Stylus (2023).</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Motorola Moto G Stylus 5G (2023).</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-moto-g04-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Motorola Moto G04.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-moto-g14-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Motorola Moto G14.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-moto-g24-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Motorola Moto G24.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-moto-g73-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Motorola Moto G73 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-moto-g84-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Motorola Moto G84 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-motorola-razr-40-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Motorola Razr 40.</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-reduce-audio-noise-in-video-recording-free-and-paid/"><u>How to Reduce Audio Noise in Video Recording [Free and Paid]</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-xiaomi-redmi-13c-by-drfone-android/"><u>In 2024, How to Bypass FRP from Xiaomi Redmi 13C?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-edge-no-8-online-photomontage-toolkit/"><u>In 2024, Leading Edge  No. 8 Online Photomontage Toolkit</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-chapter-division-in-youtube-videos/"><u>In 2024, Mastering Chapter Division in YouTube Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-guide-to-mp3-modification-software-for-mac-uncovering-the-best-tools-and-comparisons-for-2024/"><u>The Ultimate Guide to MP3 Modification Software for Mac Uncovering the Best Tools and Comparisons . For 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-motorola-edge-40-neo-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Motorola Edge 40 Neo Location | Dr.fone</u></a></li>
+</ul></div>

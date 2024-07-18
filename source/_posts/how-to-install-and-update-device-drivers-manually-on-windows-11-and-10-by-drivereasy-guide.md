@@ -1,6 +1,6 @@
 ---
 title: How to install and update device drivers manually on Windows 11 & 10
-date: 2024-05-19T18:32:13.279Z
+date: 2024-07-17T10:19:20.355Z
 tags: 
   - driver
   - device driver
@@ -27,6 +27,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -46,10 +49,16 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -69,6 +78,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -100,6 +112,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -162,6 +177,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -172,6 +190,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -218,3 +239,57 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-from-minuscule-to-monumental-a-tiktok-guide-for-oversized-characters/"><u>[New] In 2024, From Minuscule to Monumental  A TikTok Guide for Oversized Characters</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-elevate-your-presence-50plus-hashtags-on-the-rise-in-tiktok/"><u>[Updated] 2024 Approved  Elevate Your Presence  50+ Hashtags on the Rise in TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-apples-m1-performance-enhancing-video-editing/"><u>[Updated] Apple’s M1 Performance  Enhancing Video Editing?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-digital-delights-top-15-comical-creations-on-youtube-bars/"><u>[Updated] Digital Delights  Top 15 Comical Creations on YouTube Bars</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instant-anonymity-shield-face-details/"><u>[Updated] Instant Anonymity  Shield Face Details</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-push-boundaries-in-image-editing-expert-distortion-techniques/"><u>[Updated] Push Boundaries in Image Editing  Expert Distortion Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-camera-gimbals-summary-1-10-iphoneandroiddslr-compared/"><u>2024 Approved  Optimal Camera Gimbals Summary  #1-#10 iPhone/Android/DSLR Compared</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-cloud-storage-guide-for-enterprises/"><u>2024 Approved  Premier Cloud Storage Guide for Enterprises</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-v30-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo V30 to Roku | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-efficiency-on-pc-best-apps-for-personalized-time-themed-screen-saver-creation/"><u>Boost Efficiency on PC: Best Apps for Personalized Time-Themed Screen Saver Creation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/cutting-edge-techniques-for-your-instagram-story-success-for-2024/"><u>Cutting-Edge Techniques for Your Instagram Story Success for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/guaranteeing-smooth-play-resolving-civ-5-crashes/"><u>Guaranteeing Smooth Play: Resolving Civ 5 Crashes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-6-plus-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-s23-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Itel S23 Phone with Broken Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-11r-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus 11R to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y200e-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-mastering-metadata-title-and-description-for-youtube-traction/"><u>In 2024, Mastering Metadata  Title and Description for YouTube Traction</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-streaming-supremacy-tivo-and-comcasts-dvr-battle-royale/"><u>New In 2024, Streaming Supremacy TiVo and Comcasts DVR Battle Royale</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/parroting-the-pirates-speech-patterns/"><u>Parroting the Pirate's Speech Patterns</u></a></li>
+<li><a href="https://facebook.techidaily.com/revolutionizing-your-marketing-with-engaging-facebook-practices/"><u>Revolutionizing Your Marketing with Engaging Facebook Practices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-achieving-balanced-video-audios-four-essential-techniques/"><u>Updated 2024 Approved Achieving Balanced Video Audios Four Essential Techniques</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-seek-a-guide-to-add-motion-in-blender-this-article-explains-the-blender-motion-blur-effect-in-detail-and-helps-you-master-it/"><u>Updated 2024 Approved Do You Seek a Guide to Add Motion in Blender? This Article Explains the Blender Motion Blur Effect in Detail and Helps You Master It</u></a></li>
+</ul></div>

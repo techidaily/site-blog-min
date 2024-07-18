@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated your drivers with Windows Device Manager on Windows 11/10/7
-date: 2024-05-19T18:32:13.094Z
+date: 2024-07-17T10:16:51.533Z
 tags: 
   - driver
   - device driver
@@ -49,6 +49,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -72,6 +75,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -94,6 +100,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -144,6 +153,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 ## How to update all your drivers with just 1 click
@@ -162,6 +174,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -185,10 +200,16 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -209,3 +230,53 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-dynamic-designs-drive-dazzling-tiktok-videos-quickly/"><u>[New] 2024 Approved  Dynamic Designs Drive Dazzling TikTok Videos Quickly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-apples-podcast-potential-an-instructional-guide/"><u>[New] Unlocking Apple's Podcast Potential  An Instructional Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-spotting-sham-followers-on-business-pages/"><u>[Updated] 2024 Approved  Spotting Sham Followers on Business Pages</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unveiling-the-secrets-of-showmores-screen-capture-software/"><u>[Updated] In 2024, Unveiling the Secrets of ShowMore’s Screen Capture Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-refining-your-online-visual-experience-with-zooms/"><u>[Updated] Refining Your Online Visual Experience with Zooms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-essential-list-top-15-tools-beyond-obs-for-broadcasting/"><u>[Updated] The Essential List  Top 15 Tools Beyond OBS for Broadcasting</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-when-does-instagram-get-most-active-a-comprehensive-look-for-2024/"><u>[Updated] When Does Instagram Get Most Active? A Comprehensive Look for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-guide-for-youtube-video-clips/"><u>2024 Approved  Essential Guide for YouTube Video Clips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/debating-digital-communication-who-wins-discord-or-skype-in-2024/"><u>Debating Digital Communication  Who Wins, Discord or Skype, In 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-realme-v30t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Realme V30T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-red-magic-9-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Red Magic 9 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-redmi-note-12-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Redmi Note 12 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-redmi-note-12r-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Redmi Note 12R</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-redmi-note-13-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-reno-11f-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Reno 11F 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-reno-8t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Reno 8T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-reno-9a-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Reno 9A</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-rog-phone-7-ultimate-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-rog-phone-8-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on ROG Phone 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-a15-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-a15-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-a34-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-a54-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-f14-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-f54-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-m34-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy M34</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-m34-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-s21-fe-5g-2023-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-s23-ultra-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-xcover-7-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-samsung-galaxy-z-flip-5-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-smart-8-plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Smart 8 Plus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-spark-20-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Spark 20</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-tecno-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Tecno</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-smart-7-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Smart 7 for Free? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-6-best-voice-changers/"><u>In 2024, 6 Best Voice Changers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-elite-puzzles-unlocked-discovering-best-escape-halls/"><u>In 2024, Elite Puzzles Unlocked  Discovering Best Escape Halls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-matching-tunes-to-themes-in-film-clips/"><u>In 2024, Matching Tunes to Themes in Film Clips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-free-translation-top-8-choices-revealed-for-2024/"><u>Mastering Free Translation  Top 8 Choices Revealed for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-surge-in-anti-tracking-sentiment-among-iphones/"><u>The Surge in Anti-Tracking Sentiment Among iPhones</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-14-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from 14</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-comparing-leading-4k-youtube-to-mp3-extractors-for-2024/"><u>Ultimate Guide to Comparing Leading 4K YouTube to MP3 Extractors for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-take-your-gopro-footage-to-the-next-level-best-editing-software-options/"><u>Updated 2024 Approved Take Your GoPro Footage to the Next Level Best Editing Software Options</u></a></li>
+</ul></div>

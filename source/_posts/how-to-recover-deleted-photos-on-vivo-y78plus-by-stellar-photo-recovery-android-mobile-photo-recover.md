@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Vivo Y78+
-date: 2024-05-19T18:32:08.056Z
+date: 2024-07-17T09:06:54.385Z
 tags: 
   - recover
 categories: 
@@ -37,6 +37,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Vivo Y78+ model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Recover Gallery photos from Google Drive
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
@@ -44,6 +47,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -72,11 +78,17 @@ The software works on damaged, corrupt, formatted, inaccessible mobile SD cards 
 
 In addition, you can also restore your Gallery videos and audio files with the help of Stellar Photo Recovery. It is available for both Windows and Mac computers.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover Gallery photos with Stellar Photo Recovery:
 
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
@@ -92,6 +104,9 @@ Watch this video for the step-by-step process to recover Gallery pictures from A
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Recover deleted Gallery from Android internal storage
 
 Mostly Android photos are saved in the internal storage of the Android device. You can recover the permanently deleted Android photos with the help of a recovery software. However, make sure your Vivo Y78+ device is rooted and has USB debugging enabled.
@@ -124,6 +139,9 @@ If you had turned on the device backup service, restore the deleted Gallery pict
 
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Vivo Y78+ to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -143,16 +161,25 @@ Apart from built-in Google cloud backup apps, you might be using other cloud sto
 
 The benefit of cloud backup is that you can recover deleted smartphone photos from any device simply by login into the account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Cloud-backup-in-Android-Xiaomi-768x469.webp)
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Tips to Protect Photos from Loss on Android
 
 1. Back up Android photos on cloud.
 2. Always ensure some free space on your Vivo Y78+ device. Use any secure Android cleaner like CCleaner utility.
 3. Regularly delete image cache files in Android, if only image thumbnails are visible.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Wrapping up & FAQ
 
 Backup is a huge respite from accidental deletion or sudden loss of your precious photos from Android Gallery. You can always get back your photos from Google Photos, Google Drive, DropBox, or your phone’s Android backup service.
@@ -168,6 +195,9 @@ Download the software’s free trial to assess its performance and preview the d
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery of Samsung phone?
 
 You can recover Gallery pictures from Google Photos, Google Drive or Samsung Cloud. Also try to recover missing photos with the help of ES File Explorer on Samsung smartphone.
@@ -182,6 +212,9 @@ Yes, you can recover permanently deleted photos from Android with the help of a 
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after factory reset?
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -213,3 +246,44 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-enhance-your-media-masterpiece-with-canvas-soundscape-edition/"><u>[New] Enhance Your Media Masterpiece with Canva's Soundscape Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-setup-17-tools-for-swift-image-enhancement-and-cleaning/"><u>[New] Ideal Setup  17 Tools for Swift Image Enhancement and Cleaning</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-5-second-lapses-recorder-top-pick/"><u>[New] In 2024, Best 5-Second Lapses Recorder - Top Pick</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-leveraging-lut-technology-in-adobe-premiere/"><u>[New] Leveraging LUT Technology in Adobe Premiere</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-efficiently-documenting-your-fb-chats-and-meets/"><u>[Updated] In 2024, Efficiently Documenting Your FB Chats & Meets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-effortless-music-extraction-choose-the-right-apps-for-youtube-and-mp3/"><u>[Updated] In 2024, Effortless Music Extraction  Choose the Right Apps for YouTube & MP3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-11-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 11 | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-11-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 11 Pro | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-12-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 12 | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-12-mini-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 12 mini | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-12-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 12 Pro | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-12-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 12 Pro Max | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-13-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 13 | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-13-mini-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 13 mini | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-13-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 13 Pro | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-13-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 13 Pro Max | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-14-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 14 | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 14 Plus | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-14-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 14 Pro | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-14-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 14 Pro Max | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-15-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 15 | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-15-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 15 Plus | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 15 Pro | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-15-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 15 Pro Max | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-6-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 6 | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-6-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 6 Plus | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-6s-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 6s | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 6s Plus | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 7 | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-7-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 7 Plus | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 8 | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-8-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone 8 Plus | Stellar</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 15 Pro | Stellar</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/volution-of-streaming-youtube-tv-in-focus-for-2024/"><u>The Evolution of Streaming  YouTube TV In Focus for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-power-supplies-for-sonys-ps5-controller-dualsense/"><u>Unmatched Power Supplies for Sony's PS5 Controller DualSense</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-a-text-effect-video-with-filmora-for-2024/"><u>Updated How to Create a Text Effect Video with Filmora for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-update-seamlessly-integrating-apples-wireless-earbuds-with-your-computer/"><u>Updated Update Seamlessly Integrating Apples Wireless Earbuds With Your Computer</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: How to Repair Corrupt Excel 2016 Workbook?
-date: 2024-03-02 13:33:28
+date: 2024-07-17T11:19:11.338Z
 tags: 
   - repair
   - repair excel
@@ -20,6 +20,9 @@ keywords: repair .xls,repair excel 2021,repair excel 2010,repair .xlsx,repair ex
 
 Is your Excel behaving differently, for instance, [stops responding](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) or freezes? Or have you encountered a warning or an error message indicating corruption in the Excel workbook?
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Corruption in Excel File](https://www.stellarinfo.com/blog/wp-content/uploads/2021/03/Corrupt-workbook-cannot-be-opened-or-repaired-1.png)
 
 Figure 1 - Corruption Warning in Excel: The corrupt workbook cannot be opened or repaired
@@ -48,6 +51,9 @@ Other common reasons causing Excel file corruption are virus attack, network err
 
 **_Note:_** _Repairing the corrupt workbook may result in data loss. And so, it?s recommended to back up the workbook before attempting to repair the file._
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### **Method 1 ? Repair the Excel Workbook Manually**  
 
 Use the Excel ?Open and Repair? feature to repair your corrupt workbook manually. Here?s how:
@@ -62,6 +68,9 @@ Figure 3 - Excel Open and Repair Feature
 
 Step 3: In Microsoft Excel dialog box that opens, click **Repair** to begin repairing your corrupt workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Repair the Microsoft Excel File](https://www.stellarinfo.com/blog/wp-content/uploads/2021/03/Repair-Excel-workbook-4.png)
 
 Figure 4 - Repair the Microsoft Excel File
@@ -70,6 +79,9 @@ Figure 4 - Repair the Microsoft Excel File
 
 Performing these steps will repair your Excel file. If the issue persists, skip to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 2 ? Use Excel File Repair Software**
 
 If the above method failed to fix corruption in the workbook, use [Excel file repair software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to repair your workbook quickly. This Excel repair tool is purpose-built to help users repair large-sized Excel files (.xlsx and .xls) in just a few clicks. Also, it helps recover all the data from the corrupted workbook while preserving the cell formatting and worksheet properties.
@@ -82,6 +94,9 @@ Step 1: Download, install, and open **Stellar Repair for Excel** software.
 
 Step 2: Click **Browse** to select your corrupted .xlsx or .xls file. If you are not aware of the file location, click **Search** to locate and select the file.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Select Corrupt Excel Workbook](https://www.stellarinfo.com/blog/wp-content/uploads/2021/03/Select-corrupt-excel-workbook-5-1.png)
 
 Figure 5 - Select Corrupt Excel Workbook
@@ -90,6 +105,9 @@ Step 3: Once the file is selected, click **Repair**.
 
 Step 4: A preview of recoverable workbook data gets displayed.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Preview of Recoverable Excel Workbook Data](https://www.stellarinfo.com/blog/wp-content/uploads/2021/03/Preview-recoverable-excel-workbook-data-6-1024x671.png)
 
 Figure 6 - Preview of Recoverable Excel Workbook Data
@@ -139,3 +157,54 @@ If your Excel workbook has turned corrupt, try using the methods discussed in th
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-exploring-public-domain-art-what-is-it-and-website-recommendations/"><u>[New] Exploring Public Domain Art  What Is It and Website Recommendations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-financial-aspects-of-youtube-promotions/"><u>[New] Financial Aspects of YouTube Promotions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-capture-and-connect-dslr-tips-for-live-streaming-to-pcmac-for-2024/"><u>[Updated] Capture and Connect  DSLR Tips for Live-Streaming to PC/Mac for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-constructing-your-own-high-definition-pc-for-immersive-video-creation/"><u>[Updated] Constructing Your Own High-Definition PC for Immersive Video Creation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-advice-on-optimal-hdr-camera-selection/"><u>2024 Approved  Expert Advice on Optimal HDR Camera Selection</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-financial-face-off-comparing-dailymotion-and-youtube-profitability/"><u>2024 Approved  Financial Face-Off  Comparing Dailymotion & YouTube Profitability</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>2024 Approved Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-x7b-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor X7b to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-x8b-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor X8b to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-x9a-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor X9a to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-x9b-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor X9b to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-htc-u23-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from HTC U23 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-htc-u23-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from HTC U23 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-huawei-nova-y71-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Huawei Nova Y71 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-huawei-nova-y91-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Huawei Nova Y91 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-huawei-p60-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Huawei P60 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-gt-10-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix GT 10 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-hot-30-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Hot 30 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-hot-30i-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Hot 30i to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-hot-40-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Hot 40 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-hot-40-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Hot 40 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-hot-40i-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Hot 40i to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-note-30-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Note 30 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-note-30-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Note 30 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-note-30-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Note 30 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-note-30-vip-racing-edition-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Note 30 VIP Racing Edition to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-note-30-vip-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Note 30 VIP to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-note-30i-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Note 30i to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-smart-7-hd-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Smart 7 HD to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-smart-7-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Smart 7 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-smart-8-hd-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Smart 8 HD to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-smart-8-plus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Smart 8 Plus to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-smart-8-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Smart 8 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-smart-8-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Smart 8 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-zero-30-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Zero 30 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-zero-5g-2023-turbo-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Zero 5G 2023 Turbo to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-itel-a05s-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Itel A05s to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-itel-a60-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Itel A60 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-itel-a60s-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Itel A60s to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-itel-a70-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Itel A70 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-techniques-to-remove-black-screen-glitches-in-youtube/"><u>In 2024, Techniques to Remove Black Screen Glitches in YouTube</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-canine-chorus-a-library-of-realistic-dog-sounds/"><u>In 2024, The Canine Chorus A Library of Realistic Dog Sounds</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-xiaomi-14-ultra-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Xiaomi 14 Ultra Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-13-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 13 Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-dvd-playback-made-easy-top-10-windows-10-players/"><u>New Free DVD Playback Made Easy Top 10 Windows 10 Players</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-resize-for-success-how-to-customize-linkedin-video-thumbnails/"><u>New In 2024, Resize for Success How to Customize LinkedIn Video Thumbnails</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+</ul></div>

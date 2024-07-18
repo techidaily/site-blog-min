@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Honor X50i
-date: 2024-05-19T18:32:07.206Z
+date: 2024-07-17T08:51:50.207Z
 tags: 
   - recover
 categories: 
@@ -21,6 +21,9 @@ However, we all make mistakes, sometimes in a hurry or unknowingly, which lead t
 
 But no worries. Here you will know how to recover deleted photos from Android Gallery app. This post shares the best 7 ways worth trying to restore deleted photos on Android devices, both with and without software.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/How-to-Recover-Deleted-Photos-from-Android-Gallery-app.webp)
 
 ## Method 1: Recover Android photos from Google Photos
@@ -34,6 +37,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Honor X50i model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
@@ -44,6 +50,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -53,6 +62,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -72,13 +84,31 @@ The software works on damaged, corrupt, formatted, inaccessible mobile SD cards 
 
 In addition, you can also restore your Gallery videos and audio files with the help of Stellar Photo Recovery. It is available for both Windows and Mac computers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Steps to recover Gallery photos with Stellar Photo Recovery:
 
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
 
 Watch this video for the step-by-step process to recover Gallery pictures from Android SD card with the help of Stellar Photo Recovery : 
@@ -92,6 +122,9 @@ Watch this video for the step-by-step process to recover Gallery pictures from A
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Recover deleted Gallery from Android internal storage
 
 Mostly Android photos are saved in the internal storage of the Android device. You can recover the permanently deleted Android photos with the help of a recovery software. However, make sure your Honor X50i device is rooted and has USB debugging enabled.
@@ -100,6 +133,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 
 **Caution**: Rooting makes your Honor X50i phone’s warranty null and void.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover deleted Gallery photos from Android internal storage:
 
 - Download any secure Android recovery software on Windows or Mac computer.
@@ -147,6 +183,9 @@ The benefit of cloud backup is that you can recover deleted smartphone photos fr
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Tips to Protect Photos from Loss on Android
 
 1. Back up Android photos on cloud.
@@ -168,6 +207,9 @@ Download the software’s free trial to assess its performance and preview the d
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery of Samsung phone?
 
 You can recover Gallery pictures from Google Photos, Google Drive or Samsung Cloud. Also try to recover missing photos with the help of ES File Explorer on Samsung smartphone.
@@ -213,3 +255,48 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-journey-beyond-the-frantic-crafting-epic-slow-motion-content-for-instragram/"><u>[New] 2024 Approved  Journey Beyond the Frantic  Crafting Epic Slow Motion Content for Instragram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-inexpensive-high-quality-cameras/"><u>[New] Inexpensive High-Quality Cameras</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-discord-pics-download-and-edit-tutorial-for-2024/"><u>[New] Mastering Discord Pics  Download & Edit Tutorial for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-maximize-your-footage-pro-level-tips-for-gopro-studio-users-for-2024/"><u>[New] Maximize Your Footage  Pro-Level Tips for GoPro Studio Users for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-legally-convert-youtube-videos-to-mp4-format-for-2024/"><u>[Updated] How to Legally Convert YouTube Videos to MP4 Format for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-seamless-computer-based-tiktok-live-broadcast-setup/"><u>2024 Approved  Seamless Computer-Based TikTok LIVE Broadcast Setup</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-youtube-zoom-to-fill-is-a-great-feature-for-viewing-things-in-depth-this-article-answers-all-questions-about-fixing-youtube-zoom-to-fill-not-w/"><u>2024 Approved YouTube Zoom to Fill Is a Great Feature for Viewing Things in Depth. This Article Answers All Questions About Fixing YouTube Zoom to Fill Not Working on Your Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-zte-axon-40-lite-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does ZTE Axon 40 Lite Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-samsung-galaxy-xcover-7-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-smart-7-hd-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Smart 7 HD</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-spark-20-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Spark 20 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-t2-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on T2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-t2x-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on T2x 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-tecno-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Tecno</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-tecno-camon-20-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Tecno Camon 20</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-tecno-spark-10-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Tecno Spark 10 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-tecno-spark-10c-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Tecno Spark 10C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-tecno-spark-20-proplus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-tecno-spark-20c-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Tecno Spark 20C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-v30-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on V30</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-s17-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo S17 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-s18-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo S18 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-v27-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo V27 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-v29-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo V29</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-v29e-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo V29e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-x100-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo X100 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-x90s-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo X90S</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-y02t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo Y02T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-y100i-power-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-y27-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo Y27 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-y27s-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo Y27s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-vivo-y78plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Vivo Y78+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-x-flip-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on X Flip</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-x50i-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on X50i</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/illuminating-the-art-of-iphone-long-exposure/"><u>Illuminating the Art of iPhone Long Exposure</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-c55-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme C55 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-mobile-development-top-15-android-virtual-machines-for-2024/"><u>Mastering Mobile Development  Top 15 Android Virtual Machines for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/rising-above-the-rest-crafting-content-for-top-spot-at-vimeo/"><u>Rising Above the Rest  Crafting Content for Top Spot at Vimeo</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/swift-methodology-to-weed-out-fake-pals-from-insta-network/"><u>Swift Methodology to Weed Out Fake Pals From Insta Network</u></a></li>
+</ul></div>

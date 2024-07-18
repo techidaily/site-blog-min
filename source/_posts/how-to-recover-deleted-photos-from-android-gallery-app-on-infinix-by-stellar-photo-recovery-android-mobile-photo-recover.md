@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Infinix
-date: 2024-05-19T18:32:07.443Z
+date: 2024-07-17T08:55:46.588Z
 tags: 
   - recover
 categories: 
@@ -34,9 +34,15 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Infinix Smart 7 model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Recover Gallery photos from Google Drive
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
@@ -92,6 +98,9 @@ Watch this video for the step-by-step process to recover Gallery pictures from A
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Recover deleted Gallery from Android internal storage
 
 Mostly Android photos are saved in the internal storage of the Android device. You can recover the permanently deleted Android photos with the help of a recovery software. However, make sure your Infinix Smart 7 device is rooted and has USB debugging enabled.
@@ -106,6 +115,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 - Connect the rooted Android phone with your PC or Mac.
 - Launch the software, select the Android device to scan and follow the prompts in the software.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5: Restore photos with inbuilt Android backup services
 
 These days, Android phone manufacturers provide their own inbuilt backup functions in the devices. You can back up your Infinix Smart 7 phone’s app data to the phone’s cloud backup, local backup, Google backup, or external storage. The options vary with the mobile phone brands. Some mobile phones like Huawei even have a builtin backup app.
@@ -124,6 +136,9 @@ If you had turned on the device backup service, restore the deleted Gallery pict
 
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Infinix Smart 7 to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -132,6 +147,9 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
@@ -166,8 +184,14 @@ Download the software’s free trial to assess its performance and preview the d
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. I have deleted photos from Google Photos and now don’t know how to recover Gallery pictures from Google Photos
 
 You can recover deleted Gallery pictures from the Google Photos app’s Trash or Bin. Photos deleted from both Android Gallery and Google Photos on your Android phone stay for 60 days in the Trash or Bin of Google Photos app. Here are the steps to recover deleted photos from Android Gallery on Google Photos:
@@ -176,10 +200,16 @@ You can recover deleted Gallery pictures from the Google Photos app’s Trash or
 - Click Trash or Bin.
 - Touch and hold the photo you want to restore and tap Restore.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery without backup?
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -188,6 +218,9 @@ You can recover deleted photos from Android Gallery without backup using a photo
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after format?
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -215,3 +248,55 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-cutting-ties-with-instagram-users/"><u>[New] 2024 Approved  Cutting Ties with Instagram Users</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-beyond-reality-boundaries-the-vr-journey-continues/"><u>[New] Beyond Reality Boundaries  The VR Journey Continues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-online-income-the-creators-path-to-prosperity/"><u>[New] Unlocking Online Income  The Creator’s Path to Prosperity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-handling-haters-strategies-for-content-creators/"><u>[Updated] 2024 Approved  Handling Haters  Strategies for Content Creators</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beginners-basics-of-video-clarity-and-sharpness/"><u>[Updated] Beginner's Basics of Video Clarity and Sharpness</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-navigating-the-future-of-fb-advertising-key-predictions/"><u>[Updated] In 2024, Navigating the Future of FB Advertising – Key Predictions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-trivia-trek-exploring-yts-fascinating-figures-and-infographics/"><u>[Updated] Trivia Trek  Exploring YT's Fascinating Figures and Infographics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-strategic-plan-for-top-tier-advertising-results/"><u>2024 Approved  A Strategic Plan for Top-Tier Advertising Results</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-apple-iphone-7-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>How to Change GPS Location on Apple iPhone 7 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-x-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone X After iOS Update? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-x-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-xr-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone XR After iOS Update? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-xr-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-xs-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone XS After iOS Update? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-xs-max-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone XS Max After iOS Update? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-xs-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-xs-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-itel-a60-by-fonelab-android-recover-data/"><u>How to recover lost data from Itel A60?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-itel-a60s-by-fonelab-android-recover-data/"><u>How to recover lost data from Itel A60s?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-itel-p40-by-fonelab-android-recover-data/"><u>How to recover lost data from Itel P40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-itel-p40plus-by-fonelab-android-recover-data/"><u>How to recover lost data from Itel P40+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-itunes-backup-file-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iTunes Backup File? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-k11-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from K11 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-lava-agni-2-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Lava Agni 2 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-lava-blaze-2-by-fonelab-android-recover-data/"><u>How to recover lost data from Lava Blaze 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-lava-storm-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Lava Storm 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-lava-yuva-2-by-fonelab-android-recover-data/"><u>How to recover lost data from Lava Yuva 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-motorola-by-fonelab-android-recover-data/"><u>How to recover lost data from Motorola ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-motorola-edgeplus-2023-by-fonelab-android-recover-data/"><u>How to recover lost data from Motorola Edge+ (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-motorola-g54-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Motorola G54 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-data/"><u>How to recover lost data from Motorola Moto G Stylus 5G (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-nokia-by-fonelab-android-recover-data/"><u>How to recover lost data from Nokia ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-nokia-105-classic-by-fonelab-android-recover-data/"><u>How to recover lost data from Nokia 105 Classic?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-nokia-c110-by-fonelab-android-recover-data/"><u>How to recover lost data from Nokia C110?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-nokia-c12-pro-by-fonelab-android-recover-data/"><u>How to recover lost data from Nokia C12 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-nokia-c12-by-fonelab-android-recover-data/"><u>How to recover lost data from Nokia C12?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-nokia-c210-by-fonelab-android-recover-data/"><u>How to recover lost data from Nokia C210?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-nokia-g42-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Nokia G42 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-note-30-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Note 30 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-data/"><u>How to recover lost data from Nubia Red Magic 8S Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-data/"><u>How to recover lost data from Nubia Red Magic 9 Pro+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-oneplus-by-fonelab-android-recover-data/"><u>How to recover lost data from OnePlus ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from OnePlus Nord CE 3 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-oneplus-open-by-fonelab-android-recover-data/"><u>How to recover lost data from OnePlus Open?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-oppo-a1x-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Oppo A1x 5G?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/hubsan-h501s-exploration-the-ultimate-fpv-experience/"><u>Hubsan H501S Exploration  The Ultimate FPV Experience</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-from-idea-to-reality-examining-mycams-video-recorder-performance/"><u>In 2024, From Idea to Reality  Examining MyCam’s Video Recorder Performance</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-best-free-imovie-replacements-you-need-to-know-about/"><u>New 2024 Approved The Best Free iMovie Replacements You Need to Know About</u></a></li>
+</ul></div>

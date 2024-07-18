@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Driver in Windows 11/10
-date: 2024-05-19T18:32:13.581Z
+date: 2024-07-17T10:23:52.832Z
 tags: 
   - driver
   - device driver
@@ -27,6 +27,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -54,6 +57,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -61,6 +67,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -83,6 +92,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 
@@ -98,10 +110,16 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -139,6 +157,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -161,6 +182,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -214,3 +238,61 @@ To understand why, you first have to understand what drivers actually are…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-daily-digital-domination-top-10-youtube-viewership-ranking/"><u>[New] 2024 Approved  Daily Digital Domination  Top 10 YouTube Viewership Ranking</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-cutting-ties-with-instagram-users-for-2024/"><u>[New] Cutting Ties with Instagram Users for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-elite-gamers-top-10-on-tiktok-unleashed/"><u>[New] In 2024, Elite Gamers  Top 10 on TikTok Unleashed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-transform-slideshow-into-video/"><u>[New] In 2024, Transform Slideshow Into Video</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-pros-of-choosing-best-pc-video-grabbers-for-win11/"><u>[New] Pros of Choosing Best PC Video Grabbers for Win11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-share-a-world-view-iphone-360-film-techniques/"><u>[New] Share a World View  IPhone 360 Film Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-list-of-best-4k-monitors/"><u>[New] The Ultimate List of Best 4K Monitors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-your-watch-experience-youtube-list-shuffle/"><u>[Updated] 2024 Approved  Elevating Your Watch Experience  YouTube List Shuffle</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ideal-frequencies-in-podcast-launches/"><u>[Updated] 2024 Approved  Ideal Frequencies in Podcast Launches</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-exploring-the-best-15-alternatives-to-obs-for-video-recording-for-2024/"><u>[Updated] Exploring the Best 15 Alternatives to OBS for Video Recording for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pixel-prodigies-top-10-gaming-ladies-on-yt/"><u>2024 Approved  Pixel Prodigies  Top 10 Gaming Ladies on YT</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-full-potential-in-sub4sub-start-with-essentials-only/"><u>2024 Approved  Unlocking Full Potential in Sub4sub – Start with Essentials Only</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-video-editing-made-easy-how-to-proficiently-use-movie-maker-in-win11/"><u>2024 Approved  Video Editing Made Easy  How to Proficiently Use Movie Maker in Win11</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-transform-your-videos-the-best-iphone-editing-apps/"><u>2024 Approved Transform Your Videos The Best iPhone Editing Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-gionee-f3-pro-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Gionee F3 Pro Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-f15-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-v29e-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo V29e.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-x100-pro-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo X100 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-x100-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo X100.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-y02t-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo Y02T.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-y100i-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo Y100i.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-y200-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo Y200.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-y27s-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo Y27s.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-y28-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo Y28 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-y77t-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo Y77t.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-x6-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from X6.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Xiaomi .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-13-ultra-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Xiaomi 13 Ultra.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-13t-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Xiaomi 13T.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-14-pro-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Xiaomi 14 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-14-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Xiaomi 14.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-redmi-12-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Xiaomi Redmi 12.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-redmi-a2-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Xiaomi Redmi A2.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-redmi-a2plus-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Xiaomi Redmi A2+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-redmi-k70e-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Xiaomi Redmi K70E.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Xiaomi Redmi Note 12T Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Xiaomi Redmi Note 13 Pro+ 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-y27-4g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Y27 4G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-zero-30-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Zero 30 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-zte-axon-40-lite-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from ZTE Axon 40 Lite.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-zte-blade-a73-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from ZTE Blade A73 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-zte-nubia-z60-ultra-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from ZTE Nubia Z60 Ultra.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-13t-pro-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from 13T Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-14-ultra-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from 14 Ultra.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-90-gt-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from 90 GT.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-nubia-z50-ultra-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Nubia Z50 Ultra’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-color-lut-is-an-easy-and-powerful-tool-to-make-your-video-stands-out-from-the-crowd-check-this-article-to-learn-the-details-about-color-lut/"><u>In 2024, Color Lut Is an Easy and Powerful Tool to Make Your Video Stands Out From the Crowd. Check This Article to Learn the Details About Color Lut</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-realme-note-50-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Realme Note 50 Phone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-navigating-through-the-world-of-io-screenshots/"><u>In 2024, Navigating Through the World of Io Screenshots</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-mount-tech-for-smooth-sensor-motion/"><u>Innovative Mount Tech for Smooth Sensor Motion</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top-10-online-platforms-for-sourcing-professional-quality-montage-tracks/"><u>New Top 10 Online Platforms for Sourcing Professional-Quality Montage Tracks</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/top-10-mp3-capture-software-for-windows-users-for-2024/"><u>Top 10 MP3 Capture Software for Windows Users for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-winpcs-fatal-pink-flash/"><u>Troubleshooting WinPC's Fatal Pink Flash</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-bypass-tools-to-bypass-lock-screen-xiaomi-by-drfone-android-unlock-android-unlock/"><u>Xiaomi Bypass Tools to Bypass Lock Screen(Xiaomi )</u></a></li>
+</ul></div>

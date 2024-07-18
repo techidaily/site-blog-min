@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on HTC U23
-date: 2024-05-19T18:32:07.895Z
+date: 2024-07-17T09:03:53.962Z
 tags: 
   - recover
 categories: 
@@ -21,6 +21,9 @@ However, we all make mistakes, sometimes in a hurry or unknowingly, which lead t
 
 But no worries. Here you will know how to recover deleted photos from Android Gallery app. This post shares the best 7 ways worth trying to restore deleted photos on Android devices, both with and without software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/How-to-Recover-Deleted-Photos-from-Android-Gallery-app.webp)
 
 ## Method 1: Recover Android photos from Google Photos
@@ -37,6 +40,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your HTC U23 model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Recover Gallery photos from Google Drive
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
@@ -53,6 +59,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -77,8 +86,14 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
 
 Watch this video for the step-by-step process to recover Gallery pictures from Android SD card with the help of Stellar Photo Recovery : 
@@ -114,6 +129,9 @@ The location path of the backup function may differ with Android phones. General
 
 For example,
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/image.webp)
 
 - On Xiaomi Redmi phones: Settings> Additional Settings> Backup & reset
@@ -137,12 +155,18 @@ Your photos will be visible again in the Gallery app.
 - In ES File Explorer Menu go to **Settings> Display** Settings.
 - Enable **Show Hidden Files**. All the .nomedia files will be visible in the phone’s folders. You can delete them now.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Method 7: Recover Gallery photos from Android cloud backup
 
 Apart from built-in Google cloud backup apps, you might be using other cloud storage such as DropBox or OneDrive etc. If you have enabled Android Gallery backup in any such cloud backup, restore the deleted Gallery photos from there.
 
 The benefit of cloud backup is that you can recover deleted smartphone photos from any device simply by login into the account.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Cloud-backup-in-Android-Xiaomi-768x469.webp)
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
@@ -168,6 +192,9 @@ Download the software’s free trial to assess its performance and preview the d
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover photos when my Android SD card asks to format before I can open it?
 
 You can perform chkdsk scan on your PC followed by photo recovery. If this doesn’t help, you are left with no choice except to format the mobile SD card. However, before that retrieve the lost photos, videos, and audio from the SD card with Stellar Photo Recovery.
@@ -180,10 +207,16 @@ Steps to perform Chkdsk scan:
 - Hit Enter.
 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery without backup?
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -219,3 +252,57 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-innovative-zooctorial-conceptual-kits/"><u>[Updated] 2024 Approved  Innovative Zooctorial Conceptual Kits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-optimize-obs-encoding-quick-solutions/"><u>[Updated] In 2024, Optimize OBS Encoding  Quick Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-precision-in-capturing-movie-moments/"><u>[Updated] Precision in Capturing Movie Moments</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-top-8-accessories-for-vr-games/"><u>2024 Approved  Innovative Top 8 Accessories for VR Games</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719337024529-get-chrome-back-in-windows-11-quick-recovery-methods/"><u>Get Chrome Back in Windows 11 – Quick Recovery Methods.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-max-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro Max to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-max-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro Max to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-max-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro Max to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-max-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro Max to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-max-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro Max without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro Max without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 Plus to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 Plus to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 Plus to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 Plus to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-forge-an-impeccable-vr-self-representation/"><u>In 2024, How to Forge an Impeccable VR Self-Representation</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-list-of-online-video-reversal-software/"><u>New In 2024, The Ultimate List of Online Video Reversal Software</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/streamlined-video-production-youtube-studio-edition/"><u>Streamlined Video Production  YouTube Studio Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-guide-how-to-record-hulu-on-winmacmobile/"><u>The Ultimate Guide  How To Record Hulu On Win/Mac/Mobile</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlocking-your-youtube-monetization-potential-essential-view-numbers/"><u>Unlocking Your YouTube Monetization Potential  Essential View Numbers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/windows-10-key-additions-and-tweaks-in-focus-for-2024/"><u>Windows 10  Key Additions and Tweaks in Focus for 2024</u></a></li>
+</ul></div>

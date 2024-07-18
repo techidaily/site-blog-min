@@ -1,7 +1,7 @@
 ---
 title: How to Sign Excel 2019 document with Digital Signature - (Tutorial)
-date: 2024-03-11 16:57:28
-updated: 2024-03-12 10:32:24
+date: 2024-07-17T12:53:05.130Z
+updated: 2024-07-18T12:53:05.130Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to Sign Excel 2019 document with Digital Signature - (Tutorial)
 excerpt: This article describes How to Sign Excel 2019 document with Digital Signature - (Tutorial)
 keywords: .xlsx signature,.xlsx signature service,.xlsx signature app,excel signature online
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## 1. How to Sign Excel 2019 document with Digital Signature - (Tutorial)
@@ -39,6 +39,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Excel
 
 These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -53,6 +56,9 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -71,6 +77,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -79,6 +88,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -118,10 +130,16 @@ You can use the standard features of Microsoft Office Excel to digitally sign a 
 
 To implement each of the ways to install a digital signature in Excel, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -130,6 +148,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -151,6 +172,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +185,41 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-exclusive-apps-for-gamers-screenshots/"><u>[New] 2024 Approved  Exclusive Apps for Gamers' Screenshots</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-guide-to-quick-video-recording-on-youtube/"><u>[New] 2024 Approved  Guide to Quick Video Recording on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-innovative-techniques-in-digital-display-recording/"><u>[New] In 2024, Innovative Techniques in Digital Display Recording</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-sync-twitch-with-snapchat-a-step-by-step-guide/"><u>[New] In 2024, Sync Twitch with Snapchat  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-drones-best-deals-today/"><u>[New] Premium Drones, Best Deals Today</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-designing-direct-urls-for-automatic-content-subscription/"><u>[Updated] Designing Direct URLs for Automatic Content Subscription</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-download-part-of-youtube-video-in-2024/"><u>[Updated] How to Download Part of YouTube Video, In 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-guide-on-purging-stored-videos-from-youtube-watchlater/"><u>[Updated] In 2024, Guide on Purging Stored Videos From YouTube Watchlater</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oppo-a1-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/closer-conversations-mastering-in-camera-precision-for-2024/"><u>Closer Conversations  Mastering In-Camera Precision for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/film-creation-tools-go-free-and-green/"><u>Film Creation Tools  Go Free and Green</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-asus-rog-phone-7-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Asus ROG Phone 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-asus-rog-phone-7-ultimate-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-asus-rog-phone-8-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Asus ROG Phone 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-asus-rog-phone-8-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-camon-20-pro-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Camon 20 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-find-n3-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Find N3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-find-x6-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Find X6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-galaxy-m54-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Galaxy M54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-gionee-f3-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Gionee F3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-google-pixel-7a-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Google Pixel 7a</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-google-pixel-8-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Google Pixel 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-google-pixel-8-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-gt-5-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on GT 5 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-90-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor 90 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-magic-6-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor Magic 6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-magic-v2-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor Magic V2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-magic-vs-2-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor Magic Vs 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-play-7t-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor Play 7T</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-itel-a60-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Itel A60 Device</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-words-to-sound-the-art-of-converting-text-to-mp3/"><u>New 2024 Approved From Words to Sound The Art of Converting Text to MP3</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-blueprint-to-establishing-an-online-review-community-for-toys/"><u>The Blueprint to Establishing an Online Review Community for Toys</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-10-free-online-neon-text-creators-you-need-to-try/"><u>Updated In 2024, 10 Free Online Neon Text Creators You Need to Try</u></a></li>
+</ul></div>

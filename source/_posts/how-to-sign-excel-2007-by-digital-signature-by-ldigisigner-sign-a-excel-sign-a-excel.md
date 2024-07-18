@@ -1,7 +1,7 @@
 ---
 title: How to sign Excel 2007 by digital signature
-date: 2024-03-10 12:29:41
-updated: 2024-03-12 11:52:27
+date: 2024-07-17T12:52:30.539Z
+updated: 2024-07-18T12:52:30.539Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to sign Excel 2007 by digital signature
 excerpt: This article describes How to sign Excel 2007 by digital signature
 keywords: .xlsx signature online,free sign excel,excel signature
-thumbnail: https://www.lifewire.com/thmb/emyPhVf3B4VLTCj8T835W3AqyOU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-93420821-0ce0b19097fb47d78dec8dbc039c1260.jpg
+thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f4062f523abbe17fcfc5ae5fc7.jpg
 ---
 
 ## 1. How to sign Excel 2007 by digital signature
@@ -23,6 +23,18 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -49,10 +61,16 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -65,12 +83,18 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -79,6 +103,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -95,6 +122,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -122,6 +152,9 @@ To implement each of the ways to install a digital signature in Excel, you need 
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -161,3 +194,48 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-booktoks-15-essential-titles-for-avid-readers-for-2024/"><u>[New] BookTok's 15 Essential Titles for Avid Readers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-a-deeper-dive-into-documenting-gaming-sessions-on-the-ps3/"><u>[New] In 2024, A Deeper Dive Into Documenting Gaming Sessions on the PS3</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-maximizing-gopro-content-integration-with-social-networks/"><u>[New] In 2024, Maximizing GoPro Content  Integration with Social Networks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-secret-fine-tuning-fcpx-for-high-aspect-videos/"><u>[New] Instagram's Secret  Fine-Tuning FCPX for High Aspect Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-screen-recorder-guide-for-the-creative-mac-user/"><u>[New] The Ultimate Screen Recorder Guide for the Creative Mac User</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-no-money-down-best-web-converters-from-tiktok-to-mp3-ranked-for-2024/"><u>[Updated] No Money Down  Best Web Converters From TikTok To MP3 Ranked for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-checklist-for-capturing-live-conversations/"><u>[Updated] The Ultimate Checklist for Capturing Live Conversations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-simple-guide-transforming-fb-videos-into-720p1080p-mp4-format-free/"><u>2024 Approved  Simple Guide  Transforming FB Videos Into 720P/1080p MP4 Format (Free)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-video-editing-like-a-pro-expert-techniques-for-jaw-dropping-effects/"><u>2024 Approved Video Editing Like a Pro Expert Techniques for Jaw-Dropping Effects</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/audio-artistry-rendering-and-animating-auditory-data-in-roxio-media-creator-for-2024/"><u>Audio Artistry Rendering and Animating Auditory Data in Roxio Media Creator for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-lava-yuva-2-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Lava Yuva 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-motorola-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Motorola</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-motorola-edge-2023-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Motorola Edge 2023</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-motorola-edge-40-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Motorola Edge 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-motorola-edge-40-neo-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-motorola-edgeplus-2023-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-motorola-g54-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Motorola G54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-motorola-moto-g14-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Motorola Moto G14</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-motorola-moto-g73-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Motorola Moto G73 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-motorola-razr-40-ultra-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-narzo-60-pro-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-nokia-105-classic-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Nokia 105 Classic</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-nokia-130-music-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Nokia 130 Music</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-nokia-150-2023-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Nokia 150 (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-nokia-c210-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Nokia C210</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-nokia-g310-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Nokia G310</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-nokia-g42-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Nokia G42 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-oneplus-12-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from OnePlus 12</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-oneplus-nord-n30-se-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-oneplus-open-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from OnePlus Open</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-oppo-a1-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Oppo A1 5G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone XS Max</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimizing-video-calls-a-guide-from-skype-to-zoom/"><u>In 2024, Optimizing Video Calls  A Guide From Skype to Zoom</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 10 & 7
-date: 2024-05-19T18:32:12.857Z
+date: 2024-07-17T10:12:45.901Z
 tags: 
   - driver
   - device driver
@@ -19,12 +19,18 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -32,6 +38,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -53,6 +62,9 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -118,12 +130,18 @@ To automatically update to the correct version of all the drivers that are missi
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -149,3 +167,44 @@ There are two reasons why…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-foremost-frame-starters-leading-16-youtube-videos-for-more-watchers/"><u>[New] 2024 Approved  Foremost Frame Starters  Leading 16 YouTube Videos for More Watchers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-from-dorm-room-to-mainstream-trending-short-hashtags/"><u>[New] In 2024, From Dorm Room to Mainstream  Trending Short Hashtags</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-your-complete-tiktok-camera-operation-manual/"><u>[New] Your Complete TikTok Camera Operation Manual</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-is-itops-performance-worth-your-investment/"><u>[Updated] In 2024, Is ITop's Performance Worth Your Investment?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-simple-procedure-reverse-video-order-via-vlc-for-2024/"><u>[Updated] Simple Procedure  Reverse Video Order via VLC for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/15-aesthetic-background-music-for-youtube-video/"><u>15 Aesthetic Background Music For YouTube Video</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-locking-out-youtube-channels-on-computers-and-phones/"><u>2024 Approved  Locking Out Youtube Channels on Computers and Phones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-offerings-best-devices-for-hd-video-processing/"><u>2024 Approved  Optimal Offerings  Best Devices for HD Video Processing</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-your-vlogs-with-epic-youtube-reactions-discover-3-pro-tips/"><u>Elevate Your Vlogs with Epic YouTube Reactions – Discover 3 Pro Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-nubia-red-magic-9-pro-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-nubia-z50-ultra-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Nubia Z50 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oneplus-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from OnePlus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-a1-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo A1 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-a18-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo A18</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-a1x-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo A1x 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-a2-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo A2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-a38-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo A38</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-a58-4g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo A58 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-a59-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo A59 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-a78-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo A78</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-f23-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo F23 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-find-n3-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo Find N3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-find-x6-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo Find X6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-find-x6-pro-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo Find X6 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-k11-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo K11 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-k11x-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo K11x</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-reno-10-proplus-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-reno-11-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo Reno 11 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-play-8t-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Play 8T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-poco-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Poco</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-poco-c55-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Poco C55</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-poco-m6-pro-4g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Poco M6 Pro 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-poco-x6-pro-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Poco X6 Pro</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-5-top-rated-hd-webcam-conferencing-recorder-tools/"><u>In 2024, 5 Top-Rated HD Webcam Conferencing Recorder Tools</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-make-a-vacation-slideshow-in-5-minutes/"><u>Updated In 2024, How to Make a Vacation Slideshow in 5 Minutes</u></a></li>
+</ul></div>

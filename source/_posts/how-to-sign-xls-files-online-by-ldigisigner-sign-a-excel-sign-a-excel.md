@@ -1,7 +1,7 @@
 ---
 title: How to sign .xls files online
-date: 2024-06-18T01:01:23.451Z
-updated: 2024-06-19T01:01:23.451Z
+date: 2024-07-17T12:56:24.149Z
+updated: 2024-07-18T12:56:24.149Z
 tags: 
   - signer
   - signer online
@@ -23,6 +23,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -39,9 +42,15 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Excel
 
-These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required![https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required ![https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
 
 #### 2.2.1. Upload a file
 
@@ -51,6 +60,9 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -63,6 +75,9 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -77,6 +92,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -106,6 +124,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -134,6 +155,18 @@ You can also use a signature line in Excel to insert a signature with properties
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -161,3 +194,51 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-audio-artists-almanac-your-guide-to-video-submission/"><u>[Updated] 2024 Approved  Audio Artists' Almanac  Your Guide to Video Submission</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-boost-your-video-reach-on-desktop-for-tiktok/"><u>[Updated] 2024 Approved  Boost Your Video Reach on Desktop for TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-boost-your-files-future-with-these-20-best-in-class-no-cost-services/"><u>[Updated] Boost Your Files' Future with These 20 Best-in-Class No-Cost Services</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ioss-best-selection-of-premium-psp-emulators/"><u>[Updated] In 2024, IOS's Best Selection of Premium PSP Emulators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-sites-that-link-you-to-youtube-promo-deals/"><u>[Updated] Unveiling Sites That Link You to YouTube Promo Deals</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-14-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 14</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/bypass-software-for-youtube-downloads/"><u>Bypass Software for YouTube Downloads</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-a2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi A2 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-y78plus-t1-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Y78+ (T1) Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-yuva-2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Yuva 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-zero-30-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Zero 30 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-10t-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on 10T 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-13t-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on 13T Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-14-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on 14</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-14-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on 14 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-150-2023-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on 150 (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-a38-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on A38</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-a59-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on A59 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-a70-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on A70</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-asus-rog-phone-8-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Asus ROG Phone 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-asus-rog-phone-8-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-c110-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on C110</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-c32-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on C32</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-camon-20-premier-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Camon 20 Premier 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-edge-40-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Edge 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-f5-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on F5 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-g2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on G2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-g42-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on G42 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-galaxy-a14-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Galaxy A14 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-galaxy-f54-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Galaxy F54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-galaxy-m14-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Galaxy M14 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-galaxy-m54-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Galaxy M54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-galaxy-s23-tactical-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-gionee-f3-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Gionee F3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-gt-10-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on GT 10 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-gt-5-240w-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on GT 5 (240W)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-honor-100-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Honor 100</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-100-pro-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after 100 Pro has been deleted</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/solo-stardom-in-the-podcast-universe/"><u>Solo Stardom in the Podcast Universe</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tailor-made-youtube-closings-how-to-get-them-right-for-2024/"><u>Tailor-Made YouTube Closings  How to Get Them Right for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-best-practices-for-recording-apex-heroes/"><u>The Best Practices for Recording Apex Heroes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-streamlining-your-workflow-import-and-export-videos-in-adobe-premiere-pro-2023/"><u>Updated In 2024, Streamlining Your Workflow Import and Export Videos in Adobe Premiere Pro 2023</u></a></li>
+</ul></div>

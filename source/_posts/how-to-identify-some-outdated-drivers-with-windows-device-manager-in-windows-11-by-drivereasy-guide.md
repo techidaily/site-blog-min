@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated drivers with Windows Device Manager in Windows 11
-date: 2024-05-19T18:32:13.044Z
+date: 2024-07-17T10:15:54.107Z
 tags: 
   - driver
   - device driver
@@ -42,6 +42,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -56,6 +59,9 @@ And without all these drivers, none of your devices will work.
 
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -99,14 +105,23 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -120,6 +135,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 <ins class="adsbygoogle"
@@ -137,3 +155,38 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-deciding-on-ideal-vimeo-subscription-plan/"><u>[Updated] 2024 Approved  Deciding on Ideal Vimeo Subscription Plan</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-your-step-by-step-roadmap-for-instagrams-latest-feature-sharing-gifs/"><u>[Updated] In 2024, Your Step-by-Step Roadmap for Instagram's Latest Feature - Sharing GIFs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-mac-streamnetflix-with-screen-capture/"><u>[Updated] Mastering Mac  StreamNetflix with Screen Capture</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-tecno-spark-20c-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Tecno Spark 20C to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-tecno-spark-go-2023-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Tecno Spark Go (2023) to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-g2-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo G2 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-s17-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo S17 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-s17-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo S17 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-s17e-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo S17e to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-s17t-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo S17t to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-s18-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo S18 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-s18-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo S18 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-s18e-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo S18e to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-t2-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo T2 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-t2-pro-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo T2 Pro 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-t2x-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo T2x 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-v27-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo V27 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-v27-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo V27 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-v27e-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo V27e to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-v29-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo V29 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-v29-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo V29 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-v29e-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo V29e to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-v30-lite-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo V30 Lite 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/broadcast-battlegrounds-where-does-streaming-technology-stand-strongest/"><u>Broadcast Battlegrounds  Where Does Streaming Technology Stand Strongest?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/crafting-chorus-in-a-click-essential-insights-into-shortform-song-videos/"><u>Crafting Chorus in a Click  Essential Insights Into Shortform Song Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Samsung Galaxy XCover 7?</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-best-15-female-anime-characters-who-is-your-favorite/"><u>In 2024, Best 15 Female Anime Characters-Who Is Your Favorite?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-secrets-of-content-creators-finding-free-music/"><u>In 2024, Secrets of Content Creators  Finding Free Music</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/superior-online-forums-and-boards-for-2024/"><u>Superior Online Forums and Boards for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-partners-for-steam-decks-a-rundown-of-the-top-9-emulators/"><u>The Perfect Partners for Steam Decks: A Rundown of the Top 9 Emulators</u></a></li>
+</ul></div>

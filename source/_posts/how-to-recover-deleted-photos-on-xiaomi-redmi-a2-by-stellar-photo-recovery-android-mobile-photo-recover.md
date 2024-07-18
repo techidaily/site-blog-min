@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Xiaomi Redmi A2
-date: 2024-05-19T18:32:08.063Z
+date: 2024-07-17T09:07:04.219Z
 tags: 
   - recover
 categories: 
@@ -53,6 +53,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -72,6 +75,9 @@ The software works on damaged, corrupt, formatted, inaccessible mobile SD cards 
 
 In addition, you can also restore your Gallery videos and audio files with the help of Stellar Photo Recovery. It is available for both Windows and Mac computers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Steps to recover Gallery photos with Stellar Photo Recovery:
 
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
@@ -79,6 +85,9 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Select your SD card from the location window. Click **Scan**.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
 
 Watch this video for the step-by-step process to recover Gallery pictures from Android SD card with the help of Stellar Photo Recovery : 
@@ -92,6 +101,9 @@ Watch this video for the step-by-step process to recover Gallery pictures from A
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 4: Recover deleted Gallery from Android internal storage
 
 Mostly Android photos are saved in the internal storage of the Android device. You can recover the permanently deleted Android photos with the help of a recovery software. However, make sure your Xiaomi Redmi A2 device is rooted and has USB debugging enabled.
@@ -100,6 +112,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 
 **Caution**: Rooting makes your Xiaomi Redmi A2 phone’s warranty null and void.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover deleted Gallery photos from Android internal storage:
 
 - Download any secure Android recovery software on Windows or Mac computer.
@@ -114,6 +129,9 @@ The location path of the backup function may differ with Android phones. General
 
 For example,
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/image.webp)
 
 - On Xiaomi Redmi phones: Settings> Additional Settings> Backup & reset
@@ -124,6 +142,9 @@ If you had turned on the device backup service, restore the deleted Gallery pict
 
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Xiaomi Redmi A2 to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -132,6 +153,9 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
@@ -147,6 +171,9 @@ The benefit of cloud backup is that you can recover deleted smartphone photos fr
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Tips to Protect Photos from Loss on Android
 
 1. Back up Android photos on cloud.
@@ -180,6 +207,9 @@ Yes, you can recover permanently deleted photos from Android with the help of a 
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after factory reset?
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -188,6 +218,9 @@ You can recover deleted photos from Android Gallery after factory reset using a 
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after software update?
 
 You can recover deleted photos from Android Gallery after software update using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -211,3 +244,59 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-expert-tips-on-jump-cuts-for-dynamic-video-editing/"><u>[New] In 2024, Expert Tips on Jump Cuts for Dynamic Video Editing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-prime-steps-in-digital-archiving-saving-computer-hosted-tv-shows-for-2024/"><u>[New] Prime Steps in Digital Archiving  Saving Computer-Hosted TV Shows for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-decrease-environmental-noise-in-video-recordings/"><u>[Updated] 2024 Approved  Decrease Environmental Noise in Video Recordings</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-skyrocket-views-mastery-of-title-and-tag-optimization/"><u>[Updated] 2024 Approved  Skyrocket Views  Mastery of Title and Tag Optimization</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-elevating-your-presence-on-tiktok-essential-7-must-haves-for-2024/"><u>[Updated] Elevating Your Presence on TikTok  Essential 7 Must-Haves for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-apex-workplace-data-sphere/"><u>2024 Approved  Apex Workplace Data Sphere</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cinematic-masterpiece-dialogues/"><u>Cinematic Masterpiece Dialogues</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/demystifying-youtubes-keyword-power-play-for-2024/"><u>Demystifying YouTube's Keyword Power Play for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/harnessing-powerful-tools-for-effective-youtubers-seo-for-2024/"><u>Harnessing Powerful Tools for Effective YouTubers' SEO for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-v27-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo V27</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-v27e-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo V27e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-v29-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo V29 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-v30-lite-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-x100-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo X100 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-x90s-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo X90S</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-y100-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo Y100</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-y100i-power-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-y27-4g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo Y27 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-y36i-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo Y36i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-y78t-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo Y78t</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-x-flip-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on X Flip</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-x-fold-2-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on X Fold 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-x100-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on X100 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-x9b-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on X9b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-xiaomi-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Xiaomi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-xiaomi-civi-3-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Xiaomi Civi 3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-xiaomi-mix-fold-3-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-xiaomi-redmi-12-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Xiaomi Redmi 12</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-xiaomi-redmi-12-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-xiaomi-redmi-k70-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-xiaomi-redmi-note-12r-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-xiaomi-redmi-note-13-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-xiaomi-redmi-note-13-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-y27-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Y27 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-y27s-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Y27s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-y36-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Y36</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-y78-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Y78 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-z50-ultra-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Z50 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-zero-30-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Zero 30 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-zte-blade-a73-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on ZTE Blade A73 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-pixel-7a-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Google Pixel 7a PIN</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-pixel-8-pro-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Google Pixel 8 Pro PIN</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-c33-2023-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme C33 2023 Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-steps-to-crossfade-audio-in-logic-pro-x/"><u>In 2024, Steps To Crossfade Audio In Logic Pro X</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/iphone-sound-capturing-101-voice-memo-processing-for-2024/"><u>IPhone Sound Capturing 101 – Voice Memo Processing for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/maximize-your-music-library-tips-and-reviews-for-youtube-to-mp3-conversion-for-2024/"><u>Maximize Your Music Library Tips and Reviews for YouTube to MP3 Conversion for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unleash-your-creativity-best-gaming-intro-makers-for-pc-and-mac/"><u>New 2024 Approved Unleash Your Creativity Best Gaming Intro Makers for PC and Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ps5-expansion-leading-external-drives-unveiled/"><u>Ps5 Expansion  Leading External Drives Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unlocking-the-potential-of-your-vr-gametime-recordings/"><u>Unlocking the Potential of Your VR Gametime Recordings</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-the-top-english-voice-generator-to-convert-text-into-desired-accent/"><u>Updated In 2024, The Top English Voice Generator To Convert Text Into Desired Accent</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-top-virtualdub-alternatives-for-video-editing-a-detailed-analysis/"><u>Updated In 2024, Top Virtualdub Alternatives for Video Editing A Detailed Analysis</u></a></li>
+</ul></div>

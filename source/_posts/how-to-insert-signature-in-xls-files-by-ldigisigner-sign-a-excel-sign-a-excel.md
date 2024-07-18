@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in .xls files
-date: 2024-06-09T01:56:29.310Z
-updated: 2024-06-10T01:56:29.310Z
+date: 2024-07-17T10:18:59.066Z
+updated: 2024-07-18T10:18:59.066Z
 tags: 
   - signer
   - signer online
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
@@ -53,18 +56,27 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -75,6 +87,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -85,6 +100,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -95,6 +113,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -130,6 +151,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -163,3 +187,48 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-achieve-10-free-tools-for-thumbnail-extraction/"><u>[New] 2024 Approved  Achieve 10 Free Tools for Thumbnail Extraction</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-download-and-audit-voice-recordings/"><u>[New] Download & Audit Voice Recordings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-enhance-live-footage-overcoming-blurry-video-issues-in-chrome/"><u>[Updated] In 2024, Enhance Live Footage  Overcoming Blurry Video Issues in Chrome</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-online-income-from-youtubes-adsense-to-direct-payments/"><u>2024 Approved  Mastering Online Income  From YouTube's AdSense to Direct Payments</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-social-media-symphony-composing-jake-pauls-youtube-success/"><u>2024 Approved  The Social Media Symphony  Composing Jake Paul's YouTube Success</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-s23-fe-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-s23-ultra-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy S23 Ultra Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-motorola-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Motorola FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-se-2022-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone SE (2022) Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-se-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone SE Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-se-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone SE Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-x-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone X Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-x-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone X Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-xr-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone XR Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-xr-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone XR Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-xs-max-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone XS Max Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-xs-max-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone XS Max Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-xs-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone XS Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-xs-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone XS Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2000-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2000 Error Code 0x800A03EC?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2000-error-code-0x800a03ec-stellar-by-stellar-guide/"><u>How to Fix Microsoft Excel 2000 Error Code 0x800A03EC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2000-has-stopped-working-error-by-stellar-guide/"><u>How to fix Microsoft Excel 2000 has stopped working error?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2000-has-stopped-working-error-stellar-by-stellar-guide/"><u>How to fix Microsoft Excel 2000 has stopped working error? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2003-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2003 Error Code 0x800A03EC?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2003-error-code-0x800a03ec-stellar-by-stellar-guide/"><u>How to Fix Microsoft Excel 2003 Error Code 0x800A03EC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2003-has-stopped-working-error-by-stellar-guide/"><u>How to fix Microsoft Excel 2003 has stopped working error?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2003-has-stopped-working-error-stellar-by-stellar-guide/"><u>How to fix Microsoft Excel 2003 has stopped working error? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2007-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2007 Error Code 0x800A03EC?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2007-error-code-0x800a03ec-stellar-by-stellar-guide/"><u>How to Fix Microsoft Excel 2007 Error Code 0x800A03EC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2007-has-stopped-working-error-by-stellar-guide/"><u>How to fix Microsoft Excel 2007 has stopped working error?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2007-has-stopped-working-error-stellar-by-stellar-guide/"><u>How to fix Microsoft Excel 2007 has stopped working error? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2010-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2010 Error Code 0x800A03EC?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2010-error-code-0x800a03ec-stellar-by-stellar-guide/"><u>How to Fix Microsoft Excel 2010 Error Code 0x800A03EC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2010-has-stopped-working-error-by-stellar-guide/"><u>How to fix Microsoft Excel 2010 has stopped working error?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2010-has-stopped-working-error-stellar-by-stellar-guide/"><u>How to fix Microsoft Excel 2010 has stopped working error? | Stellar</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-nokia-c210-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Nokia C210 online without jailbreak</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-an-ai-video-maker-in-2024/"><u>New What Is an AI Video Maker, In 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/obs-full-screen-nightmare-ended-for-2024/"><u>Obs Full-Screen Nightmare Ended for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/strategies-to-enhance-your-viewing-experience-on-facebook-for-2024/"><u>Strategies to Enhance Your Viewing Experience on Facebook for 2024</u></a></li>
+</ul></div>

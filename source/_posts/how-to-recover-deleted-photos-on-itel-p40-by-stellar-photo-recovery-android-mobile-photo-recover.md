@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on Itel P40
-date: 2024-05-19T18:32:07.909Z
-updated: 2024-05-20T18:32:07.909Z
+date: 2024-07-17T09:04:09.524Z
+updated: 2024-07-18T09:04:09.524Z
 tags: 
   - recover
 categories: 
@@ -37,9 +37,15 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Itel P40 model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 2: Recover Gallery photos from Google Drive
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
@@ -47,6 +53,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -75,6 +84,9 @@ The software works on damaged, corrupt, formatted, inaccessible mobile SD cards 
 
 In addition, you can also restore your Gallery videos and audio files with the help of Stellar Photo Recovery. It is available for both Windows and Mac computers.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover Gallery photos with Stellar Photo Recovery:
 
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
@@ -82,6 +94,9 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Select your SD card from the location window. Click **Scan**.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
 
 Watch this video for the step-by-step process to recover Gallery pictures from Android SD card with the help of Stellar Photo Recovery : 
@@ -109,6 +124,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 - Connect the rooted Android phone with your PC or Mac.
 - Launch the software, select the Android device to scan and follow the prompts in the software.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5: Restore photos with inbuilt Android backup services
 
 These days, Android phone manufacturers provide their own inbuilt backup functions in the devices. You can back up your Itel P40 phone’s app data to the phone’s cloud backup, local backup, Google backup, or external storage. The options vary with the mobile phone brands. Some mobile phones like Huawei even have a builtin backup app.
@@ -117,6 +135,9 @@ The location path of the backup function may differ with Android phones. General
 
 For example,
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/image.webp)
 
 - On Xiaomi Redmi phones: Settings> Additional Settings> Backup & reset
@@ -125,6 +146,9 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
@@ -150,6 +174,9 @@ The benefit of cloud backup is that you can recover deleted smartphone photos fr
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Tips to Protect Photos from Loss on Android
 
 1. Back up Android photos on cloud.
@@ -181,6 +208,9 @@ You can follow the methods shared in this post to recover photos from Android ph
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery without backup?
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -193,6 +223,9 @@ You can recover deleted photos from Android Gallery after factory reset using a 
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after software update?
 
 You can recover deleted photos from Android Gallery after software update using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -216,3 +249,62 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-fastest-8-capture-tools-unveiled/"><u>[Updated] 2024 Approved  Fastest 8 Capture Tools Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-mastering-screens-on-windows-with-best-no-cost-recorder-tools/"><u>[Updated] Mastering Screens on Windows with Best No-Cost Recorder Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-6-strategies-for-mc-village-housebuilding/"><u>[Updated] Top 6 Strategies for MC Village Housebuilding</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-infinix-zero-5g-2023-turbo-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Infinix Zero 5G 2023 Turbo Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-a-personalized-approach-developing-an-individualistic-tiktok-keyword/"><u>2024 Approved  A Personalized Approach  Developing an Individualistic TikTok Keyword</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-life-with-iphones-dual-function-capability-for-2024/"><u>Capturing Life with iPhone’s Dual-Function Capability for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/designing-for-success-how-space-arrangement-boosts-work-performance/"><u>Designing for Success  How Space Arrangement Boosts Work Performance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-free-nintendo-switch-games/"><u>Essential Free Nintendo Switch Games</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-x5-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X5 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-complete-picture-a-close-look-at-the-google-podcasts-app/"><u>In 2024, Complete Picture  A Close Look at the Google Podcasts App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-mirth-makers-top-tips-for-crafting-hilarious-virtual-images/"><u>In 2024, Metaverse Mirth Makers  Top Tips for Crafting Hilarious Virtual Images</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/innovative-education-prime-15-youtube-science-outlets/"><u>Innovative Education  Prime 15 YouTube Science Outlets</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-record-audio-on-windows-10-5-easy-steps-for-2024/"><u>New How to Record Audio on Windows 10 5 Easy Steps for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-step-by-step-to-rotate-videos-using-handbrake/"><u>New Step by Step to Rotate Videos Using Handbrake</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-zte-axon-40-lite-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from ZTE Axon 40 Lite</u></a></li>
+</ul></div>

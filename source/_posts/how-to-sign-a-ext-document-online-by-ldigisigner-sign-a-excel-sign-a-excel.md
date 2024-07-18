@@ -1,7 +1,7 @@
 ---
 title: How to sign a {{ext}} document online
-date: 2024-03-09 16:31:13
-updated: 2024-03-12 12:47:43
+date: 2024-07-17T12:49:00.465Z
+updated: 2024-07-18T12:49:00.465Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to sign a {{ext}} document online
 excerpt: This article describes How to sign a {{ext}} document online
 keywords: .xlsx signature online,best sign .xlsx,excel signature,.xlsx signature software,excel signature tool,.xlsx signature free
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## 1. How to sign a {{ext}} document online
@@ -39,6 +39,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Excel
 
 These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -59,6 +62,9 @@ In just a few seconds your Excel document will be fully available once the uploa
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -71,10 +77,16 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -108,6 +120,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -118,10 +133,16 @@ You can use the standard features of Microsoft Office Excel to digitally sign a 
 
 To implement each of the ways to install a digital signature in Excel, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -130,6 +151,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -161,3 +185,45 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-amplifying-instagram-video-reach-and-traffic/"><u>[New] In 2024, Amplifying Instagram Video Reach & Traffic</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715860306070-new-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>[New] PC Games Memory - Freeze and Capture 6 Ways to Win!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-discover-your-latest-fb-watch-list/"><u>[Updated] Discover Your Latest FB Watch List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-banner-bliss-savor-your-complimentary-set-of-designs/"><u>[Updated] In 2024, Banner Bliss  Savor Your Complimentary Set of Designs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-retrospective-facebook-viewing-techniques-for-laptops-and-phones/"><u>[Updated] In 2024, Retrospective Facebook Viewing Techniques for Laptops and Phones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/frame-perfection-top-10-tools-to-edge-your-instagram-content-for-2024/"><u>Frame Perfection  Top 10 Tools to Edge Your Instagram Content for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-zte-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from ZTE .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-11-pro-max-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 11 Pro Max using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-11-pro-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 11 Pro using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-11-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 11 using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-12-mini-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 12 mini using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-12-pro-max-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 12 Pro Max using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-12-pro-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 12 Pro using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-12-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 12 using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-13-mini-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 13 mini using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-13-pro-max-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 13 Pro Max using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-13-pro-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 13 Pro using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-13-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 13 using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-14-plus-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 14 Plus using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-14-pro-max-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 14 Pro Max using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-14-pro-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 14 Pro using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-14-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 14 using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-15-plus-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 15 Plus using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-15-pro-max-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 15 Pro Max using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-15-pro-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 15 Pro using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-15-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 15 using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-6-plus-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 6 Plus using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-6-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 6 using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-6s-plus-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 6s Plus using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-6s-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 6s using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-tecno-phantom-v-flip-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Tecno Phantom V Flip Phones? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-expert-guide-to-earning-with-youtube/"><u>In 2024, The Expert Guide to Earning with YouTube</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-what-are-the-stages-of-film-production/"><u>In 2024, What Are The Stages Of Film Production</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-picks-for-live-tv-access-and-streaming-for-2024/"><u>Prime Picks for Live TV Access and Streaming for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-picks-fast-and-efficient-youtube-to-mp4-video-converters/"><u>Top Picks Fast and Efficient YouTube to MP4 Video Converters</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-mac-video-editing-software-the-ultimate-guide-for-2024/"><u>Updated Mac Video Editing Software The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-turn-your-text-into-a-podcast-made-possible-for-2024/"><u>Updated Turn Your Text Into a Podcast Made Possible for 2024</u></a></li>
+</ul></div>

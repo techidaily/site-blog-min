@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-05-19T18:32:12.772Z
+date: 2024-07-17T10:12:16.673Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -32,6 +35,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -57,6 +63,9 @@ And without all these drivers, none of your devices will work.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -67,6 +76,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -83,6 +95,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -115,6 +130,18 @@ To automatically update to the correct version of all the drivers that are missi
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -149,3 +176,51 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-10-strategies-for-educators-starting-their-own-youtube-series/"><u>[New] 2024 Approved  10 Strategies for Educators Starting Their Own YouTube Series</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-4-fastest-lenovo-record-methods/"><u>[New] 2024 Approved  The 4 Fastest Lenovo Record Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-10-free-web-conferencing-software-for-online-meeting-for-2024/"><u>[Updated] 10 Free Web Conferencing Software for Online Meeting for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-advanced-strategies-to-transform-your-snaps-into-boomers/"><u>[Updated] Advanced Strategies to Transform Your Snaps Into Boomers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-moments-on-facebook-beyond-the-screen/"><u>[Updated] Capturing Moments on Facebook  Beyond the Screen</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expertly-selected-best-9-video-conference-apps-for-cross-platform-use-for-2024/"><u>[Updated] Expertly Selected Best 9 Video Conference Apps for Cross-Platform Use for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-evolved-look-of-sony-bdp-s6700/"><u>[Updated] In 2024, The Evolved Look of Sony BDP-S6700</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-ultimate-free-guide-to-youtube-ad-videos/"><u>[Updated] In 2024, The Ultimate Free Guide to YouTube Ad Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-instantaneous-sharability-tweeting-videos-on-snapchat-network/"><u>[Updated] Instantaneous Sharability  Tweeting Videos on Snapchat Network</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-minimagic-mugger-assessment-and-opinions-for-2024/"><u>[Updated] Minimagic Mugger Assessment & Opinions for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-pro-tips-for-high-quality-webcam-videos-with-your-mac-for-2024/"><u>[Updated] Pro Tips for High-Quality Webcam Videos with Your Mac for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-voice-over-techniques-that-transform-video-storytelling-for-2024/"><u>[Updated] Voice Over Techniques That Transform Video Storytelling for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/2024-approved-how-to-send-and-add-snapchat-gifs-100-in-easy-way/"><u>2024 Approved How to Send and Add Snapchat GIFs 100 in Easy Way</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713942653575-3-actionable-ways-to-create-countdown-animation-for-videos-for-2024/"><u>3 Actionable Ways to Create Countdown Animation for Videos for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-u23-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on U23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-15-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 15 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-15-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 15 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-15-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 15 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-6-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 6 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-6-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 6 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-6s-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 6s Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-6s-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 6s Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-7-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 7 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-7-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 7 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-8-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 8 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-8-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 8 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-se-2020-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone SE (2020) Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-se-2022-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone SE (2022) Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-addressing-hearing-gaps-in-video-content-sharing/"><u>In 2024, Addressing Hearing Gaps in Video Content Sharing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-discover-the-perfect-twitter-video-size-for-your-content/"><u>New Discover the Perfect Twitter Video Size for Your Content</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-create-intro-video-with-flixpress/"><u>New In 2024, Create Intro Video with Flixpress</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/spatial-realities-compared-the-meta-and-omni-experience/"><u>Spatial Realities Compared  The Meta and Omni Experience</u></a></li>
+</ul></div>

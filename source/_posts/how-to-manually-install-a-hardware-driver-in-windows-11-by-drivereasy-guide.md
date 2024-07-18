@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Hardware Driver in Windows 11
-date: 2024-05-19T18:32:13.612Z
+date: 2024-07-17T10:24:12.473Z
 tags: 
   - driver
   - device driver
@@ -18,6 +18,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)  
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
@@ -25,16 +28,25 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category.
 - **Step4**: Right-click the device whose driver you’d like to update, and select `Update Driver`.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/3.jpg) 
 
 - **Step5**: Select Search automatically for updated driver software.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/4.jpg) 
 
 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -45,6 +57,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -74,6 +89,9 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -112,3 +130,50 @@ To understand why, you first have to understand what drivers actually are…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-temporary-pause-image-save-guide/"><u>[New] Temporary Pause Image Save Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-pathway-to-a-powerful-instagram-influence-for-2024/"><u>[New] The Pathway to a Powerful Instagram Influence for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-race-for-screen-capture-excellence-whos-leading-obs-or-fraps-for-2024/"><u>[Updated] The Race for Screen Capture Excellence  Who's Leading? – OBS or Fraps for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-recognition-error-fix/"><u>GPU Recognition Error Fix</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-note-30-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix Note 30</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-note-30-vip-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix Note 30 VIP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-note-30i-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix Note 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-smart-8-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix Smart 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-zero-5g-2023-turbo-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-itel-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Itel</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-itel-a05s-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Itel A05s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-itel-a70-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Itel A70</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-itel-p40plus-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Itel P40+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-lava-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Lava</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-lava-blaze-2-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Lava Blaze 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-lava-storm-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Lava Storm 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-magic-6-pro-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Magic 6 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-motorola-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Motorola</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-motorola-edge-40-pro-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-motorola-edgeplus-2023-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-motorola-g54-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Motorola G54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-motorola-moto-g-stylus-2023-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-motorola-moto-g04-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Motorola Moto G04</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-motorola-moto-g34-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Motorola Moto G34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-motorola-moto-g84-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Motorola Moto G84 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-motorola-razr-40-ultra-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-narzo-n53-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Narzo N53</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-nokia-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Nokia</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-nokia-105-classic-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Nokia 105 Classic</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-nokia-c210-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Nokia C210</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-nokia-c300-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Nokia C300</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-nokia-g22-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Nokia G22</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-nokia-g42-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Nokia G42 5G</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lens-lineup-leaders-a-comprehensive-1-10-list/"><u>In 2024, Lens Lineup Leaders  A Comprehensive #1-10 List</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-speak-with-synthetic-voices-chromebooks-leading-online-text-to-speech-apps/"><u>In 2024, Speak with Synthetic Voices  Chromebook's Leading Online Text-to-Speech Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-mov-video-combiner-software-top-picks/"><u>New 2024 Approved Free MOV Video Combiner Software Top Picks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-and-free-ios-apps-to-convert-youtube-videos-to-mp3-files/"><u>Quick and Free  IOS Apps to Convert YouTube Videos to MP3 Files</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-photographers-guide-to-digital-cropting/"><u>The Photographer's Guide to Digital Cropting</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-ai-portrait-generator-getting-closer-to-the-artistic-marvels/"><u>Updated AI Portrait Generator Getting Closer to the Artistic Marvels</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oppo-a18-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Oppo A18? Fixed | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/youtube-like-audio-making-via-twitter-for-2024/"><u>YouTube-Like Audio Making via Twitter for 2024</u></a></li>
+</ul></div>

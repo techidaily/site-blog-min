@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11,10
-date: 2024-05-19T18:32:12.912Z
+date: 2024-07-17T10:13:46.144Z
 tags: 
   - driver
   - device driver
@@ -19,6 +19,9 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
@@ -32,6 +35,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -63,6 +69,18 @@ There are two reasons why…
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -77,6 +95,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -90,6 +111,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -122,6 +146,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -151,6 +178,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -195,3 +225,55 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-transferring-facebook-videos-directly-to-whatsapp/"><u>[New] 2024 Approved  Transferring Facebook Videos Directly to WhatsApp</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-gift-guide-all-about-our-50-unique-youtube-ads-for-you/"><u>[New] In 2024, Free Gift Guide  All About Our 50 Unique YouTube Ads for You</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-essential-5-chrome-extensions-seamlessly-access-facebook-videos-for-2024/"><u>[Updated] Essential 5 Chrome Extensions  Seamlessly Access Facebook Videos for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-2023-how-to-share-a-tiktok-video-on-twitter/"><u>[Updated] In 2024, 2023 | How to Share A Tiktok Video on Twitter?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-breakthrough-tactics-for-improved-voice-identity-in-pubg/"><u>[Updated] In 2024, Breakthrough Tactics for Improved Voice Identity in PUBG</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-leading-brands-car-compatible-viewing-devices/"><u>[Updated] In 2024, Leading Brands' Car-Compatible Viewing Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-edit-like-a-pro-top-vertical-video-editing-apps-for-mobile/"><u>2024 Approved Edit Like a Pro Top Vertical Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-motorola-moto-g04-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-t2-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-insights-top-30-hidden-windows-11-tips-uncovered-for-2024/"><u>Exclusive Insights  Top 30 Hidden Windows 11 Tips Uncovered for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/how-to-create-funny-talking-avatars-using-oddcast-text-to-speech-tech/"><u>How to Create Funny Talking Avatars Using Oddcast Text to Speech Tech</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-14-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 14 Pro? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-14-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 14? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-15-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 15 Plus? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-15-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 15 Pro Max? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 15 Pro? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-15-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 15? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-6-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 6 Plus? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-6-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 6? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 6s Plus? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-6s-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 6s? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-7-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 7 Plus? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 7? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-8-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 8 Plus? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 8? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-se-2020-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone SE (2020)? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-se-2022-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone SE (2022)? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-se-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone SE? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-x-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone X? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-xr-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone XR? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-xs-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone XS Max? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-xs-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone XS? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-11r-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from 11R?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-12-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from 12?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-13t-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from 13T Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-a60s-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from A60s?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-a79-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from A79 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Asus ROG Phone 7 Ultimate?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-asus-rog-phone-7-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Asus ROG Phone 7?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-blaze-2-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Blaze 2 5G?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-6s-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone 6s</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/photographic-sparkle-essential-ideas-for-inspired-posts/"><u>Photographic Sparkle  Essential Ideas for Inspired Posts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-social-media-designers-handbook-aspect-ratios-and-beyond-for-2024/"><u>The Social Media Designers Handbook Aspect Ratios and Beyond for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-y27-4g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Y27 4G Phone Pattern Lock</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-ultimate-guide-to-movie-trailer-makers-for-mac-and-windows-users-for-2024/"><u>Updated Ultimate Guide to Movie Trailer Makers for Mac and Windows Users for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/where-can-i-find-dog-sound-effects-in-2024/"><u>Where Can I Find Dog Sound Effects, In 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+</ul></div>

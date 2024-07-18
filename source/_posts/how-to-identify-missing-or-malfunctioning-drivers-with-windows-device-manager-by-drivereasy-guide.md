@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager
-date: 2024-05-19T18:32:12.904Z
+date: 2024-07-17T10:13:38.089Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -50,6 +53,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -73,6 +79,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -82,10 +91,16 @@ To automatically update to the correct version of all the drivers that are missi
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -94,6 +109,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -145,6 +163,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -194,6 +215,9 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -228,3 +252,39 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-newest-features-in-movavi-editor-pro-2024/"><u>[New] Exploring the Newest Features in Movavi Editor Pro 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-honor-x50iplusmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Honor X50i+Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-14-ultra-by-fonelab-android-recover-video/"><u>How to restore wiped videos on 14 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-asus-rog-phone-7-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Asus ROG Phone 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-asus-rog-phone-7-ultimate-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-asus-rog-phone-8-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Asus ROG Phone 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-asus-rog-phone-8-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-camon-20-pro-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Camon 20 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-find-n3-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Find N3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-find-x6-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Find X6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-galaxy-m54-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Galaxy M54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-gionee-f3-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Gionee F3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-google-pixel-7a-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Google Pixel 7a</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-google-pixel-8-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Google Pixel 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-google-pixel-8-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-gt-5-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on GT 5 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-90-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor 90 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-magic-6-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor Magic 6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-magic-v2-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor Magic V2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-magic-vs-2-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor Magic Vs 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-play-7t-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor Play 7T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-x50-gt-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor X50 GT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-x50i-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor X50i</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-eight-outstanding-choices-for-private-video-communication/"><u>In 2024, Eight Outstanding Choices for Private Video Communication</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/insiders-guide-to-pro-windows-10-expertise-for-2024/"><u>Insider's Guide to Pro WINDOWS 10 Expertise for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-2024-approved-ways-you-can-master-to-find-10-best-free-animated-text-generator/"><u>New 2024 Approved Ways You Can Master to Find 10 Best Free Animated Text Generator</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-ultimate-guide-to-choosing-a-windows-movie-editor/"><u>New In 2024, The Ultimate Guide to Choosing a Windows Movie Editor</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-edge-40-neo-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Edge 40 Neo</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-xiaomi-redmi-note-12-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Xiaomi Redmi Note 12 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+</ul></div>

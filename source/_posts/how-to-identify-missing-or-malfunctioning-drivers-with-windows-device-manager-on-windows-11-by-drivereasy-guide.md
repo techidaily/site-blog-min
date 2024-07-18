@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager on Windows 11
-date: 2024-05-19T18:32:12.925Z
+date: 2024-07-17T10:13:58.515Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -35,6 +38,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -89,6 +95,9 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
@@ -97,6 +106,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -114,12 +126,18 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -157,6 +175,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -179,6 +200,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -223,3 +247,78 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2023s-leading-browser-extensions-for-video-streaming-for-2024/"><u>[New] 2023'S Leading Browser Extensions for Video Streaming for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-iphone-7-perfect-methods-for-screen-recording/"><u>[New] 2024 Approved  IPhone 7  Perfect Methods for Screen Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-hero-session-evolution-four-to-five-for-2024/"><u>[New] Hero Session Evolution  Four to Five for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-slow-it-down-techniques-to-improve-your-slow-motion-photography-skills-for-instagram/"><u>[New] In 2024, Slow It Down  Techniques to Improve Your Slow Motion Photography Skills for Instagram</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-multitasking-media-mastery-proficient-use-of-netflixs-pip-functionality-for-2024/"><u>[New] Multitasking Media Mastery  Proficient Use of Netflix’s PIP Functionality for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-winning-strategy-top-9-windows-apps-for-animated-gif-mastery/"><u>[Updated] 2024 Approved  Winning Strategy  Top 9 Windows Apps for Animated GIF Mastery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hasten-to-past-accessing-removed-reddit-threads-swiftly/"><u>[Updated] Hasten to Past  Accessing Removed Reddit Threads Swiftly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-advanced-tips-for-capturing-gaming-moments-in-overwatch/"><u>[Updated] In 2024, Advanced Tips for Capturing Gaming Moments in Overwatch</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-stream-mastery-on-mac-with-these-5-tools-for-2024/"><u>[Updated] Stream Mastery on Mac with These 5 Tools for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-best-practices-for-an-immersive-streaming-experience/"><u>2024 Approved  Best Practices for an Immersive Streaming Experience</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevating-videography-mastery-of-the-green-screen-effect/"><u>2024 Approved  Elevating Videography  Mastery of the Green Screen Effect</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-emancipate-your-engagement-facebook-restored/"><u>2024 Approved  Emancipate Your Engagement  Facebook Restored</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits/"><u>2024 Approved  Photography Tutorial  How to Shoot and Create Impressive HDR Portraits</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-guide-extracting-specific-segments-from-youtube/"><u>2024 Approved  Quick Guide  Extracting Specific Segments From YouTube</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-transformative-discord-journey-with-these-essential-upgrades/"><u>2024 Approved  Transformative Discord Journey with These Essential Upgrades</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-best-cinematic-luts-for-premiere-pro-recommendation/"><u>2024 Approved Best Cinematic LUTs For Premiere Pro Recommendation</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-stepwise-approach-to-add-youtube-videos-into-slate-for-2024/"><u>A Stepwise Approach to Add YouTube Videos Into Slate for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/effortlessly-blur-your-conference-backgrounds-on-teams/"><u>Effortlessly Blur Your Conference Backgrounds on Teams</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-xs-max-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone XS Max Without Passcode Now</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-capture-a-screenshot-or-video-of-whats-showing-on-your-mac-computer/"><u>How to Capture a Screenshot or Video of What's Showing On Your Mac Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-xiaomi-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Xiaomi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-xiaomi-13-ultra-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-xiaomi-14-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Xiaomi 14</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-xiaomi-redmi-12-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-y17s-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Y17s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-zte-axon-40-lite-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-11-proplus-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from 11 Pro+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-12-pro-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from 12 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-13-ultra-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from 13 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-14-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from 14 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-90-gt-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from 90 GT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-a1-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from A1 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-a58-4g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from A58 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-a59-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from A59 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-a79-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from A79 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-ace-2v-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Ace 2V</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-asus-rog-phone-7-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Asus ROG Phone 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-blaze-2-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Blaze 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-c02-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from C02</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-c67-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from C67 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-g54-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from G54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-galaxy-a05-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Galaxy A05</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-galaxy-a05s-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Galaxy A05s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-galaxy-a34-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Galaxy A34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-galaxy-s23-tactical-edition-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-google-pixel-7a-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Google Pixel 7a</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-google-pixel-8-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Google Pixel 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-google-pixel-fold-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Google Pixel Fold</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-70-lite-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor 70 Lite 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-90-gt-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor 90 GT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-90-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor 90 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-magic-vs-2-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor Magic Vs 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-play-40c-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor Play 40C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-play-7t-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor Play 7T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-v-purse-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor V Purse</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-x50-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor X50</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-design-principles-for-eye-catching-yt-previews/"><u>In 2024, Design Principles for Eye-Catching YT Previews</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gentle-fading-audio-paths-in-live/"><u>In 2024, Gentle Fading Audio Paths in Live</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-realme-c33-2023-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Realme C33 2023? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unleashing-potential-a-thorough-look-at-sj-cam-s6/"><u>In 2024, Unleashing Potential  A Thorough Look at SJ-CAM S6</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-perfecting-your-digital-identity-step-by-step-for-the-voxal-voice-changer/"><u>New 2024 Approved Perfecting Your Digital Identity Step-by-Step for the Voxal Voice Changer</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-useful-guide-to-speed-updown-videos-in-camtasia-for-2024/"><u>New Useful Guide to Speed Up/Down Videos in Camtasia for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-essential-guide-to-tracking-igtv-viewership-metrics-for-2024/"><u>The Essential Guide to Tracking IGTV Viewership Metrics for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-funimate-the-ultimate-video-guide-for-2024/"><u>Unveiling Funimate  The Ultimate Video Guide for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-best-10-tools-to-convert-a-gif-into-a-pdf-for-2024/"><u>Updated Best 10 Tools to Convert a GIF Into a PDF for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-essentials-creating-engaging-video-slideshows-from-your-favorite-moments/"><u>Updated Final Cut Pro Essentials Creating Engaging Video Slideshows From Your Favorite Moments</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-discover-the-peak-sound-perfection-recommended-equalizer-settings/"><u>Updated In 2024, Discover the Peak Sound Perfection Recommended Equalizer Settings</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-steady-as-a-rock-how-to-stabilize-your-videos-in-adobe-premiere-pro/"><u>Updated In 2024, Steady as a Rock How to Stabilize Your Videos in Adobe Premiere Pro</u></a></li>
+</ul></div>

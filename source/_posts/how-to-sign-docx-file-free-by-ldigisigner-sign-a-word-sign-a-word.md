@@ -1,7 +1,7 @@
 ---
 title: How to sign .docx file free
-date: 2024-03-10 18:56:16
-updated: 2024-03-12 22:28:24
+date: 2024-07-17T12:51:43.958Z
+updated: 2024-07-18T12:51:43.958Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to sign .docx file free
 excerpt: This article describes How to sign .docx file free
 keywords: .odt file signature best,free sign .txt file,.ott file signature software,best sign .dot file,.dot file signer online,.docm file signature service
-thumbnail: https://www.lifewire.com/thmb/TtsVrd32qSZ-IgZ8x0AB3dHyQVs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-a-song-your-ringtone-on-android-4777573-5d571b57c5a5436e91ebb7fcae1c2b6b.jpg
+thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca322a8100dfaafbd0ac4bcb97.jpg
 ---
 
 ## 1. How to sign .docx file free
@@ -47,10 +47,16 @@ These detailed instructions demonstrate how to sign a Word document online. Our 
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Word document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -63,16 +69,25 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/hover-mouse.png)
 
 Feel free to sign Word document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/draw-e-signature.png)
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -116,6 +131,9 @@ You can use the standard features of Microsoft Office Word to digitally sign a d
 
 To implement each of the ways to install a digital signature in Word, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
@@ -128,12 +146,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -159,3 +183,50 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-feast-frenzy-tiktok-gastronomic-journey/"><u>[New] 2024 Approved  Feast Frenzy  #Tiktok Gastronomic Journey</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-sizzling-social-feast-10-viral-food-trends/"><u>[New] In 2024, The Sizzling Social Feast  10 Viral Food Trends</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-future-of-followers-posting-in-the-wake-of-changes-for-2024/"><u>[New] The Future of Followers  Posting in the Wake of Changes for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-free-video-intro-templates-you-need-to-download/"><u>[Updated] Free Video Intro Templates You Need to Download</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-simplifying-cross-platform-video-sharing-between-twitter-and-snapchat/"><u>[Updated] In 2024, Simplifying Cross-Platform Video Sharing Between Twitter & Snapchat</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-realme-gt-3-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Realme GT 3 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elite-web-based-voice-recorders-the-best-of-2023-for-2024/"><u>Elite Web-Based Voice Recorders - The Best of 2023 for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone XR Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone XS Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-xs-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone XS Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-resolve-format-error-not-a-pdf-or-corrupted-error-of-pdf-file-by-stellar-guide/"><u>How to Resolve Format error not a PDF or corrupted Error of PDF File</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-resolve-format-error-not-a-pdf-or-corrupted-error-of-pdf-file-stellar-by-stellar-guide/"><u>How to Resolve Format error not a PDF or corrupted Error of PDF File | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-11-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 11 (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-11-pro-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 11 Pro (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-11-pro-max-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 11 Pro Max (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-12-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 12 (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-12-mini-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 12 mini (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-12-pro-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 12 Pro (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-12-pro-max-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 12 Pro Max (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-13-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 13 (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-13-mini-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 13 mini (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-13-pro-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 13 Pro (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-13-pro-max-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 13 Pro Max (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-14-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 14 (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-14-plus-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 14 Plus (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-14-pro-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 14 Pro (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-14-pro-max-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 14 Pro Max (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-15-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 15 (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-15-plus-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 15 Plus (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-15-pro-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 15 Pro (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-15-pro-max-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 15 Pro Max (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-6-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 6 (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-6-plus-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 6 Plus (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-6s-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 6s (4 Methods) | Stellar</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-top-free-video-editing-apps/"><u>New Unleash Your Creativity Top Free Video Editing Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/secure-storage-safeguarding-your-mov-videos-in-win-11/"><u>Secure Storage  Safeguarding Your MOV Videos in Win 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/street-smart-showdown-top-hand-to-hand-video-games/"><u>Street Smart Showdown  Top Hand-to-Hand Video Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-nokia-c210-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Nokia C210 Location | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-8-video-editing-apps-for-4k-proxy-video-editing-for-2024/"><u>Updated Top 8 Video Editing Apps for 4K Proxy Video Editing for 2024</u></a></li>
+</ul></div>

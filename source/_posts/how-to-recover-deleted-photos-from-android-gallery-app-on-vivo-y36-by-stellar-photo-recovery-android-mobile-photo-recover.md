@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Vivo Y36
-date: 2024-05-19T18:32:07.578Z
+date: 2024-07-17T08:58:22.539Z
 tags: 
   - recover
 categories: 
@@ -21,6 +21,9 @@ However, we all make mistakes, sometimes in a hurry or unknowingly, which lead t
 
 But no worries. Here you will know how to recover deleted photos from Android Gallery app. This post shares the best 7 ways worth trying to restore deleted photos on Android devices, both with and without software.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/How-to-Recover-Deleted-Photos-from-Android-Gallery-app.webp)
 
 ## Method 1: Recover Android photos from Google Photos
@@ -41,9 +44,15 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -92,6 +101,9 @@ Watch this video for the step-by-step process to recover Gallery pictures from A
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Recover deleted Gallery from Android internal storage
 
 Mostly Android photos are saved in the internal storage of the Android device. You can recover the permanently deleted Android photos with the help of a recovery software. However, make sure your Vivo Y36 device is rooted and has USB debugging enabled.
@@ -114,6 +126,9 @@ The location path of the backup function may differ with Android phones. General
 
 For example,
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/image.webp)
 
 - On Xiaomi Redmi phones: Settings> Additional Settings> Backup & reset
@@ -122,8 +137,14 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Vivo Y36 to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -132,6 +153,9 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
@@ -153,6 +177,9 @@ Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc.,
 2. Always ensure some free space on your Vivo Y36 device. Use any secure Android cleaner like CCleaner utility.
 3. Regularly delete image cache files in Android, if only image thumbnails are visible.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Wrapping up & FAQ
 
 Backup is a huge respite from accidental deletion or sudden loss of your precious photos from Android Gallery. You can always get back your photos from Google Photos, Google Drive, DropBox, or your phone’s Android backup service.
@@ -166,6 +193,9 @@ Download the software’s free trial to assess its performance and preview the d
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
 ### Q. How to retrieve deleted Photos on Android Tablet?
@@ -180,6 +210,9 @@ Yes, you can recover permanently deleted photos from Android with the help of a 
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after factory reset?
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -211,3 +244,43 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-expertly-engineered-font-generators-for-discord-androidios-for-2024/"><u>[Updated] Expertly Engineered Font Generators for Discord (Android/iOS) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-achieving-peak-performance-in-video-submissions-on-youtube/"><u>[Updated] In 2024, Achieving Peak Performance in Video Submissions on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-eye-catching-thumbnails-select-the-best-fonts/"><u>[Updated] In 2024, Eye-Catching Thumbnails  Select the Best Fonts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-tech-brands-in-online-recording-solutions/"><u>[Updated] In 2024, Top Tech Brands in Online Recording Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oneplus-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from OnePlus .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oneplus-11-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from OnePlus 11 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oneplus-nord-3-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from OnePlus Nord 3 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oneplus-open-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from OnePlus Open.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-a1-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo A1 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-a18-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo A18.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-a2-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo A2.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-a38-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo A38.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-a78-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo A78.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-find-n3-flip-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo Find N3 Flip.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-find-x6-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo Find X6.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-find-x7-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo Find X7.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-k11-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo K11 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-reno-10-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo Reno 10 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo Reno 10 Pro 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-reno-11-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo Reno 11 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-reno-11f-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo Reno 11F 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-reno-9a-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo Reno 9A.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-p55-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from P55.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-p55plus-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from P55+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-pixel-fold-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Pixel Fold.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-poco-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Poco .</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-15-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 15 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-12-pro-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone 12 Pro without Security Questions?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/jokes-in-jams-best-funny-video-concepts-under-five-minutes-for-2024/"><u>Jokes in Jams  Best Funny Video Concepts Under Five Minutes for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/meme-magic-sprinkle-hilarity-with-simple-steps-for-2024/"><u>Meme Magic  Sprinkle Hilarity with Simple Steps for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-10-best-youtube-music-rippers-for-android-and-ios/"><u>The 10 Best YouTube Music Rippers for Android and iOS</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/ultimate-guide-on-magic-effects-video-making/"><u>Ultimate Guide on Magic Effects Video Making</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-youtube-thumbnail-essentials-dimensions-design-and-promotion-strategies/"><u>Updated 2024 Approved YouTube Thumbnail Essentials Dimensions, Design, and Promotion Strategies</u></a></li>
+</ul></div>

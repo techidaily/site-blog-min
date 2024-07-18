@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-05-19T18:32:12.937Z
+date: 2024-07-17T10:14:17.636Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -32,6 +35,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -60,6 +66,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -69,6 +78,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
@@ -83,6 +95,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -134,6 +149,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -155,6 +173,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 ## Try Driver Easy for free
@@ -182,3 +203,54 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-optimize-your-channels-an-introduction-to-youtube-statistics/"><u>[New] 2024 Approved  Optimize Your Channels  An Introduction to YouTube Statistics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-clarifying-video-margins-imovie-crop-explanation/"><u>[New] Clarifying Video Margins  IMovie Crop Explanation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlocking-video-treasures-securely-capturing-igtv-videos-on-windows-and-macos/"><u>[Updated] 2024 Approved  Unlocking Video Treasures  Securely Capturing IGTV Videos on Windows & MacOS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-brands-for-budget-friendly-high-definition-projectors/"><u>[Updated] Leading Brands for Budget-Friendly, High-Definition Projectors</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-mass-message-deletion-on-discord-for-2024/"><u>[Updated] Mastering Mass Message Deletion on Discord for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dji-writes-gaming-history-air-versus-spark-in-the-spotlight-for-2024/"><u>DJI’ Writes Gaming History  Air Versus Spark in the Spotlight for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-tecno-spark-20-proplus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Spark 20 Pro+ Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-csv-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .csv by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-csv-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .csv document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-csv-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .csv document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-csv-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .csv files online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-csv-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .csv Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-doc-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .doc file by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-doc-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .doc file document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-doc-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .doc file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-doc-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .doc file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-doc-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .doc file electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-doc-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .doc file free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-wpd-file-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a .wpd file document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-wps-file-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a .wps file document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-wpt-file-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a .wpt file document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xlb-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xlb document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xlb-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xlb file document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xls-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xls document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xls-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xls file document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xlsm-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xlsm document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xlsm-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xlsm file document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xlsx-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign a .xlsx document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xlsx-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xlsx file document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xltm-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xltm document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xltm-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xltm file document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xltx-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xltx document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xltx-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xltx file document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-word-2010-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a Word 2010 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-word-2013-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a Word 2013 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-word-2016-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a Word 2016 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-word-2019-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a Word 2019 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-word-2021-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a Word 2021 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-word-2023-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a Word 2023 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-word-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a Word document online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mobile-visual-enhancement-simplified-lut-correction/"><u>In 2024, Mobile Visual Enhancement  Simplified LUT Correction</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a14-4g-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung Galaxy A14 4G won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-y27-4g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo Y27 4G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719319856563-turbocharge-windows-11-boot-speed-heres-how/"><u>Turbocharge Windows 11 Boot Speed – Here’s How!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-gamesnapper-strategies-for-captures/"><u>Ultimate GameSnapper Strategies for Captures</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-introduction-guide-mastering-wave-editor-tools-and-techniques/"><u>Updated 2024 Approved Introduction Guide Mastering Wave Editor Tools and Techniques</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-the-power-of-final-cut-pro-creating-engaging-video-slideshows/"><u>Updated 2024 Approved Unleash the Power of Final Cut Pro Creating Engaging Video Slideshows</u></a></li>
+</ul></div>

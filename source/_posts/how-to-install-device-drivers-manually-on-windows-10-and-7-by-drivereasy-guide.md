@@ -1,6 +1,6 @@
 ---
 title: How to install device drivers manually on Windows 10 & 7
-date: 2024-05-19T18:32:13.321Z
+date: 2024-07-17T10:19:57.529Z
 tags: 
   - driver
   - device driver
@@ -50,10 +50,16 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -70,6 +76,9 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -83,6 +92,9 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -93,6 +105,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -101,6 +116,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -164,6 +182,18 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -208,3 +238,46 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-content-game-tactics-for-optimal-youtube-featured-channels/"><u>[New] 2024 Approved  Elevate Your Content Game  Tactics for Optimal YouTube Featured Channels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-creating-seamless-zoom-experiences/"><u>[New] Creating Seamless Zoom Experiences</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-flare-up-your-content-top-10-trending-tiktok-filters/"><u>[New] Flare Up Your Content  Top 10 Trending TikTok Filters</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-2023s-social-media-shopping-top-tiktok-and-amazon-picks/"><u>[New] In 2024, 2023’S Social Media Shopping  Top TikTok and Amazon Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-apples-m1-expedition-the-new-era-of-computing/"><u>2024 Approved  Apple's M1 Expedition  The New Era of Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-reno-10-proplus-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo Reno 10 Pro+ 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-reno-11-pro-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Oppo Reno 11 Pro 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-reno-8t-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Oppo Reno 8T 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-reno-8t-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Oppo Reno 8T Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-reno-9a-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Oppo Reno 9A Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-reno-9a-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo Reno 9A Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-p55t-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to P55T Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-pixel-8-pro-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Pixel 8 Pro Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-8t-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Play 8T Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-c51-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Poco C51 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-c65-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Poco C65 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-f5-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Poco F5 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-f5-pro-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Poco F5 Pro 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Poco Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Poco Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-m6-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Poco M6 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-m6-pro-4g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Poco M6 Pro 4G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-m6-pro-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Poco M6 Pro 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-m6-pro-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Poco M6 Pro 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-x5-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Poco X5 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-x6-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Poco X6 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-11-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 11 or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-11-pro-max-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 11 Pro Max or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-11-pro-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 11 Pro or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-12-mini-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 12 mini or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-12-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 12 or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y100a-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y100A phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-asus-rog-phone-8-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Asus ROG Phone 8 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-motorola-moto-g34-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Motorola Moto G34 5G FRP Bypass</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy F04?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-poco-f5-pro-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Poco F5 Pro 5G Lock Screen Password</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-complete-guide-to-generating-profits-vimeo-monetization-mastery/"><u>In 2024, The Complete Guide to Generating Profits  Vimeo Monetization Mastery</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/streamlining-the-process-of-sending-videos-in-discord/"><u>Streamlining the Process of Sending Videos in Discord</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-free-video-editors-for-starters/"><u>The Ultimate List of Free Video Editors for Starters</u></a></li>
+</ul></div>

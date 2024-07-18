@@ -1,6 +1,6 @@
 ---
 title: How to identify missing your drivers with Windows Device Manager on Windows 10
-date: 2024-05-19T18:32:12.981Z
+date: 2024-07-17T10:15:17.893Z
 tags: 
   - driver
   - device driver
@@ -19,6 +19,9 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
@@ -32,6 +35,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -42,6 +48,9 @@ To understand why, you first have to understand what drivers actually are…
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -60,8 +69,23 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -84,6 +108,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 <ins class="adsbygoogle"
@@ -101,3 +128,61 @@ And without all these drivers, none of your devices will work.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-transform-storytelling-crafting-ig-questions-for-impact/"><u>[New] 2024 Approved  Transform Storytelling  Crafting IG Questions for Impact</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-resource-for-mac-users-unlocking-preview-capabilities/"><u>[New] The Ultimate Resource for Mac Users  Unlocking Preview Capabilities</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-reversing-footage-in-a-snap/"><u>[Updated] 2024 Approved  Reversing Footage in a Snap</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-discover-the-leading-free-naming-resources-11-must-have-makers-for-2024/"><u>[Updated] Discover the Leading Free Naming Resources - 11 Must-Have Makers for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-harnessing-tools-for-fb-content-extraction-for-2024/"><u>[Updated] Harnessing Tools for FB Content Extraction for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-most-effective-mac-screen-recording-software-other-than-bandicam/"><u>[Updated] In 2024, Most Effective Mac Screen Recording Software, Other than Bandicam</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-storage-solutions-ps5s-top-10-external-units/"><u>[Updated] In 2024, Storage Solutions  PS5's Top 10 External Units</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-unlocking-the-potential-voice-control-with-siri-on-tiktok/"><u>[Updated] In 2024, Unlocking the Potential  Voice Control with Siri on TikTok</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-unveiling-the-best-tiktok-marketing-techniques-for-2024/"><u>[Updated] Unveiling the Best TikTok Marketing Techniques for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-reno-9a-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Reno 9A to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-poco-c50-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Poco C50 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-poco-c51-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Poco C51 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-poco-c55-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Poco C55 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-poco-c65-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Poco C65 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-poco-f5-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Poco F5 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-poco-f5-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Poco F5 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-poco-m6-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Poco M6 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-poco-m6-pro-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Poco M6 Pro 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-poco-m6-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Poco M6 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-poco-x5-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Poco X5 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-poco-x5-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Poco X5 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-poco-x6-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Poco X6 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-poco-x6-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Poco X6 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-10t-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme 10T 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-11-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme 11 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-11-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme 11 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-11-proplus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme 11 Pro+ to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-11x-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme 11X 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-12-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme 12 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-12-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme 12 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-12-proplus-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme 12 Pro+ 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-12plus-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme 12+ 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-c33-2023-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme C33 2023 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-c51-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme C51 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-c53-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme C53 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-c55-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme C55 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-c67-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme C67 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-c67-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme C67 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-gt-3-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme GT 3 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/6-best-free-daw-software-for-beginners-to-use-for-2024/"><u>6 Best Free DAW Software for Beginners to Use for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/basic-vocal-transformation-techniques-summary-of-features-and-alternative-solutions/"><u>Basic Vocal Transformation Techniques Summary of Features and Alternative Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/decoding-instagrams-verification-system/"><u>Decoding Instagram's Verification System</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-s18e-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-v30t-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme V30T in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-7-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-inside-look-best-practices-for-splitting-audiences-with-fb-live/"><u>In 2024, Inside Look  Best Practices for Splitting Audiences with FB Live</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-streamline-live-4-proven-recording-techniques-for-fb/"><u>In 2024, Streamline Live  4 Proven Recording Techniques for FB</u></a></li>
+<li><a href="https://fox-links.techidaily.com/manufacture-memorable-visuals-on-giphy-for-2024/"><u>Manufacture Memorable Visuals on Giphy for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-most-effective-windows-to-do-apps/"><u>Navigating the Most Effective Windows To-Do Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-key-ingredients-of-a-powerful-podcast-launch-video-for-2024/"><u>The Key Ingredients of a Powerful Podcast Launch Video for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-12-captivating-websites-with-triggered-animate-on-scroll-examples-for-2024/"><u>Updated 12 Captivating Websites with Triggered Animate on Scroll Examples for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-web-based-audio-visualization-tools/"><u>Updated 2024 Approved Top Web-Based Audio Visualization Tools</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-optimal-cost-free-girl-voice-overhaul-web-application/"><u>Updated Optimal Cost-Free Girl Voice Overhaul Web Application</u></a></li>
+</ul></div>

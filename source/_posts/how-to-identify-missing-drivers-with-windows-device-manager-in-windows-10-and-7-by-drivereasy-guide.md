@@ -1,6 +1,6 @@
 ---
 title: How to identify missing drivers with Windows Device Manager in Windows 10 & 7
-date: 2024-05-19T18:32:12.867Z
+date: 2024-07-17T10:12:56.245Z
 tags: 
   - driver
   - device driver
@@ -36,6 +36,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -44,12 +47,18 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -59,10 +68,16 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -95,6 +110,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -163,6 +181,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -191,6 +212,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -229,3 +253,45 @@ There are two reasons why…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-hottest-tiktok-trials-step-up-and-join-in-for-2024/"><u>[New] Hottest TikTok Trials - Step Up and Join In for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-immediate-access-future-legacy-preserving-your-digital-moments-for-2024/"><u>[New] Immediate Access, Future Legacy  Preserving Your Digital Moments for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-top-10-tiktok-viral-videos-on-twitter/"><u>[New] In 2024, Top 10 TikTok Viral Videos on Twitter</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-secure-your-watchlist-free-playlist-extractors-roundup/"><u>[New] Secure Your Watchlist  Free Playlist Extractors Roundup</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-daily-dose-top-15-tiktok-creators/"><u>[Updated] 2024 Approved  Daily Dose  Top 15 TikTok Creators</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-mastering-your-content-on-vimeo-free-plus-or-pro/"><u>[Updated] 2024 Approved  Mastering Your Content on Vimeo  Free, Plus or Pro?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-dissecting-youtubes-user-commentary-for-2024/"><u>[Updated] Dissecting YouTubes' User Commentary for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-editors-dream-machine-top-portable-video-edits-tools/"><u>[Updated] Editor's Dream Machine  Top Portable Video Edits Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-dissecting-instagrams-maximum-video-duration-rule/"><u>[Updated] In 2024, Dissecting Instagram's Maximum Video Duration Rule</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tricks-for-achieving-high-quality-slow-motion-videos-on-android/"><u>2024 Approved  Top Tricks for Achieving High-Quality Slow Motion Videos on Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplify-your-brands-message-top-terminology-secrets/"><u>Amplify Your Brand’s Message  Top Terminology Secrets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/analyzing-best-days-for-highest-audience-retention-for-2024/"><u>Analyzing Best Days for Highest Audience Retention for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-redmi-12-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Redmi 12.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-redmi-a2plus-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Redmi A2+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-reno-11f-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Reno 11F 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-rog-phone-7-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from ROG Phone 7.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-s17e-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from S17e.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-s23plus-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from S23+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Samsung .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-a15-4g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Samsung Galaxy A15 4G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-a15-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Samsung Galaxy A15 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-a34-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Samsung Galaxy A34 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-a54-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Samsung Galaxy A54 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-f14-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Samsung Galaxy F14 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-f15-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Samsung Galaxy F15 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Samsung Galaxy F34 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Samsung Galaxy S21 FE 5G (2023).</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Samsung Galaxy S23 FE.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Samsung Galaxy S23 Tactical Edition.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-s24-ultra-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Samsung Galaxy S24 Ultra.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Samsung Galaxy XCover 7.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-sony-xperia-10-v-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Sony Xperia 10 V.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi Redmi Note 12T Pro Phone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-journey-from-ad-revenue-to-bank-account-balance/"><u>In 2024, The Journey From Ad Revenue to Bank Account Balance</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-ratio-refined-expert-techniques-for-image-sizing-and-scaling/"><u>New In 2024, Ratio Refined Expert Techniques for Image Sizing and Scaling</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-top-ever-ways-make-tiktok-slideshow-solved-for-2024/"><u>New Top Ever Ways Make Tiktok Slideshow Solved for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Where Is the Best Place to Catch Dratini On Apple iPhone 12 mini | Dr.fone</u></a></li>
+</ul></div>

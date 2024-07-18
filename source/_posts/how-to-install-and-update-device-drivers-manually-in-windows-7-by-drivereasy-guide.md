@@ -1,6 +1,6 @@
 ---
 title: How to install and update device drivers manually in Windows 7
-date: 2024-05-19T18:32:13.275Z
+date: 2024-07-17T10:19:14.696Z
 tags: 
   - driver
   - device driver
@@ -18,6 +18,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)  
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
@@ -25,6 +28,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category.
 - **Step4**: Right-click the device whose driver you’d like to update, and select `Update Driver`.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/3.jpg) 
 
 - **Step5**: Select Search automatically for updated driver software.
@@ -53,6 +59,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 
@@ -69,6 +78,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 ## Download Driver Easy FREE
@@ -108,6 +120,18 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -121,6 +145,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -153,6 +180,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -197,3 +227,43 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-guide-to-high-quality-mac-frames-max-156-chars/"><u>[New] 2024 Approved  Ultimate Guide to High-Quality Mac Frames (Max 156 Chars)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-video-setup-made-simple-your-step-by-step-logitech-guide/"><u>[New] 2024 Approved  Video Setup Made Simple  Your Step-by-Step Logitech Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chromebooks-finest-drawing-software-compared/"><u>[Updated] Chromebook's Finest Drawing Software Compared</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-adventure-gear-debate-gopro-hero5-black-and-garmin-virb-2e/"><u>2024 Approved  Adventure Gear Debate  GoPro Hero5 Black & Garmin VIRB (2E)</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-future-scrutiny-alternate-viewpoints/"><u>2024 Approved  Future Scrutiny  Alternate Viewpoints</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spark-ar-visual-upgrades-the-role-of-downloadable-luts-in-development/"><u>2024 Approved  Spark AR Visual Upgrades  The Role of Downloadable LUTs in Development</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-redmi-note-12-proplus-5g-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi Redmi Note 12 Pro+ 5G FRP?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-m6-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from M6 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-magic-5-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Magic 5.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-magic-vs-2-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Magic Vs 2.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-moto-g24-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Moto G24.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-defy-2-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola Defy 2.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-edge-2023-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola Edge 2023.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-edge-40-neo-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola Edge 40 Neo.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-edge-40-pro-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola Edge 40 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-g24-power-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola G24 Power.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola Moto G 5G (2023).</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-moto-g14-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola Moto G14.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-moto-g73-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola Moto G73 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-razr-40-ultra-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola Razr 40 Ultra.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-razr-40-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola Razr 40.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-nokia-105-classic-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Nokia 105 Classic.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-nokia-c110-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Nokia C110.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-nokia-c12-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Nokia C12.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-nokia-c22-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Nokia C22.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-note-30-vip-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Note 30 VIP.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-superior-systems-for-infusing-vocal-elements-into-instagram-tv-content/"><u>In 2024, Superior Systems for Infusing Vocal Elements Into Instagram TV Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unparalleled-online-success-stories-from-youtube/"><u>In 2024, Unparalleled Online Success Stories From YouTube</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-10-top-rated-open-source-video-editors-for-free/"><u>New In 2024, 10 Top-Rated Open-Source Video Editors for Free</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-professional-insights-on-separating-soundtracks-from-visual-media-on-apple-technology/"><u>New Professional Insights on Separating Soundtracks From Visual Media on Apple Technology</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-most-liked-twitter-videos-for-2024/"><u>The Most Liked Twitter Videos for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-soundsmiths-playbook-speeding-up-and-lowering-the-notes-in-adobe-rush/"><u>The Soundsmiths Playbook Speeding Up and Lowering the Notes in Adobe Rush</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-your-gaming-identity-on-riot-platform/"><u>Transforming Your Gaming Identity on Riot Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/xbox-games-on-windows-avoid-common-setup-pitfalls/"><u>Xbox Games on Windows: Avoid Common Setup Pitfalls</u></a></li>
+</ul></div>

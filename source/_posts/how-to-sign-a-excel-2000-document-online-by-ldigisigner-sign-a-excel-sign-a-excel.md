@@ -1,7 +1,7 @@
 ---
 title: How to sign a Excel 2000 document online
-date: 2024-03-11 20:40:55
-updated: 2024-03-12 23:10:43
+date: 2024-07-17T12:48:47.452Z
+updated: 2024-07-18T12:48:47.452Z
 tags: 
   - signer
   - signer online
@@ -12,17 +12,23 @@ categories:
 description: This article describes How to sign a Excel 2000 document online
 excerpt: This article describes How to sign a Excel 2000 document online
 keywords: best sign .xlsx,free sign .xlsx,.xlsx signature online,sign a excel,sign excel online
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## 1. How to sign a Excel 2000 document online
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -39,6 +45,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Excel
 
 These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -49,6 +58,9 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
@@ -71,6 +83,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -85,6 +100,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -130,6 +148,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -151,6 +172,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +185,41 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-obs-audio-fix-strategies-quickly/"><u>[New] In 2024, OBS Audio Fix Strategies Quickly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-how-to-manage-and-disable-recommended-podcast-episodes-in-spotify/"><u>[Updated] In 2024, How to Manage and Disable Recommended Podcast Episodes in Spotify</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-in-game-video-a-detailed-tool-analysis/"><u>[Updated] In 2024, In-Game Video  A Detailed Tool Analysis</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unmatched-hdds-for-enhanced-xbox-experience/"><u>[Updated] In 2024, Unmatched HDDs for Enhanced Xbox Experience</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-whats-encrypted-exploring-the-role-of-facebooks-blue-icon/"><u>[Updated] In 2024, What's Encrypted  Exploring the Role of Facebook's Blue Icon?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-6-software-for-multilingual-video-aids/"><u>2024 Approved  Leading 6 Software for Multilingual Video Aids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-science-of-light-in-hdr-photography/"><u>2024 Approved  The Science of Light in HDR Photography</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-unlocking-youtubes-hidden-view-tracking-method/"><u>2024 Approved  Unlocking YouTube’s Hidden View Tracking Method</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/fantasy-realms-awaits-ultimate-list-of-no-cost-rpgs-for-2024/"><u>Fantasy Realms Awaits  Ultimate List of No-Cost RPGs for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-12plus-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Realme 12+ 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-c33-2023-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Realme C33 2023 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-c51-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Realme C51 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-c53-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Realme C53 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-c53-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Realme C53 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-c55-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Realme C55 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-c67-4g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Realme C67 4G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Realme Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Realme Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-gt-5-240w-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Realme GT 5 (240W) Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-gt-5-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Realme GT 5 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-narzo-60-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Realme Narzo 60 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-narzo-60-pro-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Realme Narzo 60 Pro 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-narzo-60x-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Realme Narzo 60x 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-narzo-60x-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Realme Narzo 60x 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-narzo-n55-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Realme Narzo N55 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-note-50-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Realme Note 50 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-v30t-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Realme V30T Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-11-pro-max-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 11 Pro Max Screen | Stellar</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-video-to-live-photo-conversion-top-rated-apps-and-guides/"><u>In 2024, Video to Live Photo Conversion Top-Rated Apps and Guides</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-detailed-review-of-neros-waveeditor-capabilities/"><u>New 2024 Approved Detailed Review of Neros WaveEditor Capabilities</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-discover-5-trustworthy-websites-offering-humorous-background-sounds-legally-for-2024/"><u>New Discover 5 Trustworthy Websites Offering Humorous Background Sounds Legally for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/no-cost-visual-aids-free-templates-and-slide-show-resources-for-2024/"><u>No-Cost Visual Aids  Free Templates & Slide Show Resources for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-tutorial-guide-how-to-add-music-to-kinemaster/"><u>Updated In 2024, Tutorial Guide How to Add Music to KineMaster</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-music-infused-video-editing-top-picks-for-android-and-iphone/"><u>Updated Music-Infused Video Editing Top Picks for Android and iPhone</u></a></li>
+</ul></div>

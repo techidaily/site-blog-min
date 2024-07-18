@@ -1,6 +1,6 @@
 ---
 title: How to install device drivers manually in Windows 11/10/7
-date: 2024-05-19T18:32:13.318Z
+date: 2024-07-17T10:19:55.043Z
 tags: 
   - driver
   - device driver
@@ -18,6 +18,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)  
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
@@ -29,11 +32,17 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 
 - **Step5**: Select Search automatically for updated driver software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/4.jpg) 
 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -44,10 +53,16 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -71,6 +86,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
@@ -159,6 +177,9 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -184,3 +205,57 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-break-free-from-fee-free-youtube-start-at-500plus-subscriber-level/"><u>[New] 2024 Approved  Break Free From Fee-Free Youtube - Start at 500+ Subscriber Level</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-financial-flourishing-in-youtube-content-markets/"><u>[New] Financial Flourishing in YouTube Content Markets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-evaluating-pixelsnaps-latest-recording-software/"><u>[New] In 2024, Evaluating PixelSnap's Latest Recording Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-youtube-posters-at-zero-price-top-free-downloading-tool/"><u>[New] In 2024, Get YouTube Posters at Zero Price - Top Free Downloading Tool</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-innovative-techniques-to-enhance-your-obs-broadcasts-android/"><u>[New] In 2024, Innovative Techniques to Enhance Your OBS Broadcasts (Android)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-list-of-idevice-screen-recorders/"><u>[Updated] 2024 Approved  Ultimate List of iDevice Screen Recorders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-becoming-a-broadcast-pro-zooming-into-youtube-live-success/"><u>[Updated] Becoming a Broadcast Pro  Zooming Into YouTube Live Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigate-the-world-of-digital-humor-with-our-gif-guide/"><u>[Updated] Navigate the World of Digital Humor with Our GIF Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-tool-for-perfect-openings-anywhere-you-go/"><u>[Updated] Premier Tool for Perfect Openings, Anywhere You Go</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/10-best-voice-recorder-for-pc/"><u>10 Best Voice Recorder for PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-making-your-own-google-cardboard-for-immersive-vr/"><u>2024 Approved  Making Your Own Google Cardboard for Immersive VR</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-how-to-record-share-and-edit-mobile-content/"><u>2024 Approved  Snapchat  How to Record, Share & Edit Mobile Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-stay-snappin-strategies-for-unbroken-streaks/"><u>2024 Approved  Stay Snappin'  Strategies for Unbroken Streaks</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-ghosting-effects-on-your-laptops-screen/"><u>Clear Ghosting Effects on Your Laptop's Screen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nokia-c300-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Nokia C300 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nokia-g310-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Nokia G310 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nokia-g42-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Nokia G42 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nokia-xr21-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Nokia XR21 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nord-ce-3-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Nord CE 3 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-note-30-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Note 30 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-note-30-pro-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Note 30 Pro Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-note-30-vip-racing-edition-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Note 30 VIP Racing Edition Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-note-30-vip-racing-edition-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Note 30 VIP Racing Edition Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-note-30-vip-racing-edition-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Note 30 VIP Racing Edition Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-note-50-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Note 50 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nova-y91-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Nova Y91 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nubia-flip-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Nubia Flip 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nubia-red-magic-8s-pro-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Nubia Red Magic 8S Pro Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nubia-red-magic-8s-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Nubia Red Magic 8S Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nubia-red-magic-9-pro-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Nubia Red Magic 9 Pro Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nubia-red-magic-9-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Nubia Red Magic 9 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nubia-red-magic-9-proplus-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Nubia Red Magic 9 Pro+ Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nubia-z50-ultra-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Nubia Z50 Ultra Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nubia-z50s-pro-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Nubia Z50S Pro Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nubia-z50s-pro-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Nubia Z50S Pro Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oneplus-ace-2-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to OnePlus Ace 2 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oneplus-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to OnePlus Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oneplus-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to OnePlus Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oneplus-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to OnePlus Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oneplus-nord-ce-3-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to OnePlus Nord CE 3 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-a1x-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo A1x 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-12-mini-video-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 12 mini Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-xs-max-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone XS Max Properly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/slick-techniques-for-masking-windows-11-task-view/"><u>Slick Techniques for Masking Windows 11 Task View</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamlined-recording-of-academic-sessions-on-macs-for-2024/"><u>Streamlined Recording of Academic Sessions on Macs for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-moto-g34-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Moto G34 5G.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-viewer-insights-understanding-subscriber-feedback-for-2024/"><u>Unveiling Viewer Insights  Understanding Subscriber Feedback for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-adding-realism-with-motion-blur-a-final-cut-pro-tutorial/"><u>Updated 2024 Approved Adding Realism with Motion Blur A Final Cut Pro Tutorial</u></a></li>
+</ul></div>

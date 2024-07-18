@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10/7
-date: 2024-05-19T18:32:12.865Z
+date: 2024-07-17T10:12:53.717Z
 tags: 
   - driver
   - device driver
@@ -32,6 +32,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -46,6 +49,9 @@ And without all these drivers, none of your devices will work.
 
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -72,6 +78,9 @@ There are two reasons why…
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -95,10 +104,16 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -109,6 +124,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -131,6 +149,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -183,3 +204,59 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-full-screen-glitch-resolved-in-obs/"><u>[New] 2024 Approved  Full-Screen Glitch Resolved in Obs</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-boundless-banter-discovering-the-top-tiktok-zany-games-for-2024/"><u>[New] Boundless Banter  Discovering the Top TikTok Zany Games for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-curb-instagrams-auto-suggest-feature/"><u>[New] Curb Instagram's Auto-Suggest Feature</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-initiating-live-channels-your-comprehensive-guide/"><u>[New] In 2024, Initiating Live Channels  Your Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-lightning-fast-instagram-videos-tips-for-mobile-users/"><u>[New] In 2024, Lightning-Fast Instagram Videos  Tips for Mobile Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-quick-fix-for-downloading-funny-images-on-pc/"><u>[New] Twitter's Quick-Fix for Downloading Funny Images on PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-interactive-learning-landscapes-with-vr/"><u>[Updated] 2024 Approved  Interactive Learning Landscapes with VR</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unadvertised-fullscreen-recordings-limit-10/"><u>[Updated] 2024 Approved  Unadvertised Fullscreen Recordings (Limit 10)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-altering-game-console-tones-ps5ps4-guide/"><u>[Updated] Altering Game Console Tones  PS5/PS4 Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-behind-the-scenes-of-virtual-reality-films/"><u>[Updated] Behind the Scenes of Virtual Reality Films</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-elevating-your-vlog-with-proper-tripod-angles/"><u>[Updated] Elevating Your Vlog with Proper Tripod Angles</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-influencing-the-masses-powerful-tags-for-daily-engagement-for-2024/"><u>[Updated] Influencing the Masses  Powerful Tags for Daily Engagement for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-mastering-color-palettes-applying-theories-effectively-for-2024/"><u>[Updated] Mastering Color Palettes  Applying Theories Effectively for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-unleashing-video-magic-on-tiktok-with-pre-made-designs-for-2024/"><u>[Updated] Unleashing Video Magic on TikTok with Pre-Made Designs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-tech-finding-your-graphics-spec-in-windows-11/"><u>Accelerate Tech: Finding Your Graphics Spec in Windows 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/accelerate-your-footage-time-lapse-video-editing-in-final-cut-pro/"><u>Accelerate Your Footage Time Lapse Video Editing in Final Cut Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/android-deluxe-playtime-top-gb-games-on-your-phone-for-2024/"><u>Android Deluxe Playtime  Top GB Games on Your Phone for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Motorola Moto G 5G (2023).</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Motorola Moto G Stylus (2023).</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Motorola Moto G Stylus 5G (2023).</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-motorola-moto-g04-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Motorola Moto G04.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-motorola-moto-g14-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Motorola Moto G14.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-motorola-moto-g34-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Motorola Moto G34 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-motorola-moto-g84-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Motorola Moto G84 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nokia-105-classic-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nokia 105 Classic.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nokia-150-2023-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nokia 150 (2023).</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nokia-c110-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nokia C110.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nokia-c12-plus-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nokia C12 Plus.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nokia-c12-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nokia C12.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nokia-c210-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nokia C210.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nokia-c300-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nokia C300.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nokia-g310-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nokia G310.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nokia-g42-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nokia G42 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nokia-xr21-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nokia XR21.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-note-30-pro-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Note 30 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nubia-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nubia .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nubia Red Magic 8S Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nubia Red Magic 8S Pro+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nubia-red-magic-9-pro-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nubia Red Magic 9 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nubia-z50-ultra-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nubia Z50 Ultra.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nubia-z50s-pro-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Nubia Z50S Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oneplus-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from OnePlus .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oneplus-11-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from OnePlus 11 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oneplus-nord-3-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from OnePlus Nord 3 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oneplus-open-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from OnePlus Open.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-oppo-a1-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Oppo A1 5G.</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-earnings-engineering-crafting-a-high-yield-strategy-for-your-youtube-channel/"><u>In 2024, Earnings Engineering  Crafting a High Yield Strategy for Your YouTube Channel</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-2024-approved-best-12-video-to-gif-converters-high-quality-to-check-out/"><u>New 2024 Approved Best 12 Video to GIF Converters High Quality to Check Out</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-unleash-the-power-of-video-slow-motion-with-wondershare-filmora-find-out-how-to-create-slow-motion-video-with-the-effective-speed-ramping-feature-on-fil/"><u>New Unleash the Power of Video Slow Motion with Wondershare Filmora. Find Out How to Create Slow Motion Video with the Effective Speed Ramping Feature on Filmora</u></a></li>
+</ul></div>

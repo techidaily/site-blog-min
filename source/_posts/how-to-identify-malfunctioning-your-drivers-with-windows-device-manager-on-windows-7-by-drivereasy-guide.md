@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your drivers with Windows Device Manager on Windows 7
-date: 2024-05-19T18:32:12.847Z
+date: 2024-07-17T10:12:34.400Z
 tags: 
   - driver
   - device driver
@@ -19,6 +19,9 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
@@ -32,6 +35,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -40,6 +46,18 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 
@@ -92,6 +110,9 @@ To automatically update to the correct version of all the drivers that are missi
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -104,8 +125,14 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -148,3 +175,57 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-sweet-scene-capture-masterclass-in-freeze-dried-filmmaking/"><u>[New] In 2024, Sweet Scene Capture  Masterclass in Freeze-Dried Filmmaking</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-engagement-your-essential-list-of-15-opener-templates-for-2024/"><u>[New] Mastering Engagement  Your Essential List of 15 Opener Templates for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-elite-edits-10-superior-alternatives-to-vimeo-cameos/"><u>[Updated] 2024 Approved  Elite Edits  10 Superior Alternatives to Vimeo Cameos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-high-speed-recording-tool-with-guided-soundtracks/"><u>[Updated] 2024 Approved  High-Speed Recording Tool with Guided Soundtracks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-verify-your-youtube-account/"><u>[Updated] 2024 Approved  How to Verify Your YouTube Account?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-amass-1000-visionary-supporters-fast-track-style/"><u>[Updated] Amass 1,000 Visionary Supporters Fast-Track Style</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-best-biz-youtubes-top-10-for-quick-channel-setup/"><u>[Updated] Best Biz YouTubes  Top 10 for Quick Channel Setup</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-beat-the-norm-with-mac-audio-guide/"><u>[Updated] In 2024, Beat the Norm with Mac Audio Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-free-mindfulness-melodies/"><u>2024 Approved  Free Mindfulness Melodies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-innovative-design-crafting-youtubes-efficient-subscribe-page/"><u>2024 Approved  Innovative Design  Crafting YouTube's Efficient Subscribe Page</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-meme-mania-social-medias-most-hilarious-video-threads/"><u>2024 Approved  Meme Mania  Social Media's Most Hilarious Video Threads</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-the-ultimate-free-video-blur-hack-online-solution/"><u>2024 Approved The Ultimate Free Video Blur Hack Online Solution</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/crafting-a-new-digital-persona-comprehensible-steps-for-changing-tiktok-handle/"><u>Crafting a New Digital Persona  Comprehensible Steps for Changing TikTok Handle</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-face-edits-leading-iphone-and-android-apps-for-2024/"><u>Expert Face Edits  Leading iPhone & Android Apps for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fiscal-football-footage-how-to-capture-and-edit-for-dirt-cheap/"><u>Fiscal Football Footage  How To Capture and Edit for Dirt-Cheap</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-sony-xperia-5-v-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Sony Xperia 5 V Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-sony-xperia-5-v-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Sony Xperia 5 V Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-t2x-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted T2x 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-camon-20-pro-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Tecno Camon 20 Pro 5G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Tecno Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-phantom-v-flip-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Tecno Phantom V Flip Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-phantom-v-flip-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Tecno Phantom V Flip Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Tecno Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Tecno Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-pop-8-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Tecno Pop 8 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-pova-5-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Tecno Pova 5 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-pova-5-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Tecno Pova 5 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-pova-5-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Tecno Pova 5 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-spark-10-4g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Tecno Spark 10 4G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-spark-20-proplus-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Tecno Spark 20 Pro+ Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-v27-pro-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted V27 Pro Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-v29-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted V29 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-v30-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted V30 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-v30-lite-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted V30 Lite 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-v30t-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted V30T Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Vivo Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Vivo Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Vivo Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-s17-pro-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Vivo S17 Pro Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-s17e-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Vivo S17e Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-s17t-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Vivo S17t Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-t2-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Vivo T2 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-motorola-g24-power-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Motorola G24 Power ?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-effortless-mac-pics-with-no-cost/"><u>In 2024, Effortless Mac Pics with No Cost</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-xiaomi-redmi-note-12-proplus-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Xiaomi Redmi Note 12 Pro+ 5G Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-vivo-v27-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo V27 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-poco-x5-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Poco X5 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/review-whats-top-10-software-to-make-ai-upscaling-video/"><u>REVIEW Whats Top 10 Software to Make AI Upscaling Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-artists-ascent-a-guide-to-professional-growth-in-graphic-design/"><u>The Artist's Ascent  A Guide to Professional Growth in Graphic Design</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unite-in-style-the-bestdiscords-batch-of-top-10-themes-for-2024/"><u>Unite in Style  The BestDiscord's Batch of Top 10 Themes for 2024</u></a></li>
+</ul></div>

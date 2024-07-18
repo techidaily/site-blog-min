@@ -1,6 +1,6 @@
 ---
 title: How to install and update hardware device drivers manually in Windows 11/10
-date: 2024-05-19T18:32:13.288Z
+date: 2024-07-17T10:19:33.205Z
 tags: 
   - driver
   - device driver
@@ -18,6 +18,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)  
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
@@ -25,6 +28,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category.
 - **Step4**: Right-click the device whose driver you’d like to update, and select `Update Driver`.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/3.jpg) 
 
 - **Step5**: Select Search automatically for updated driver software.
@@ -70,6 +76,9 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -86,6 +95,9 @@ And without all these drivers, none of your devices will work.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -104,6 +116,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -117,6 +132,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -127,6 +145,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -193,3 +214,59 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-breakthrough-techniques-for-streaming-success-obs-studio-android/"><u>[New] 2024 Approved  Breakthrough Techniques for Streaming Success  OBS Studio (Android)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-advanced-techniques-for-capturing-presentations/"><u>[New] In 2024, Advanced Techniques for Capturing Presentations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-resolving-bandwidth-issues-in-high-quality-obs/"><u>[New] Resolving Bandwidth Issues in High Quality OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unlocking-the-secrets-of-zoom-communication-practical-advice-for-successful-meetings-for-2024/"><u>[New] Unlocking the Secrets of Zoom Communication  Practical Advice for Successful Meetings for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-expert-strategies-to-capture-snapchats-on-devices/"><u>[Updated] 2024 Approved  Expert Strategies to Capture Snapchats on Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-12-tycoons-the-ultimate-challenge-for-every-gamer/"><u>[Updated] 2024 Approved  Top 12 Tycoons - The Ultimate Challenge for Every Gamer</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premium-screen-capture-gear-flawless-performance/"><u>[Updated] Premium Screen Capture Gear - Flawless Performance</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-balanced-flights-7-leading-gimbals-reviewed/"><u>2024 Approved  Balanced Flights  7 Leading Gimbals Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-outdated-windows-to-cutting-edge-win11-life/"><u>2024 Approved  From Outdated Windows to Cutting-Edge Win11 Life</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-quickstart-guide-key-elements-of-tiktok-macos/"><u>2024 Approved  Quickstart Guide  Key Elements of TikTok (macOS)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-get-noticed-on-linkedin-the-science-behind-effective-video-aspect-ratios/"><u>2024 Approved Get Noticed on LinkedIn The Science Behind Effective Video Aspect Ratios</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-oppo-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Oppo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager in Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-solve-windows-defender-error-0x80004004-instantly/"><u>How to Solve Windows Defender Error 0X80004004 Instantly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-xcover-7-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy XCover 7 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-14-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 14 Pro Max Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-master-clearer-photos-unveiling-the-top-10-web-edits/"><u>In 2024, Master Clearer Photos  Unveiling the Top 10 Web Edits</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 11 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-unravel-the-creative-potential-of-adobe-after-effects-for-precise-motion-synchronization-learn-how-to-use-track-matte-and-tracking-with-a-simple-alt/"><u>In 2024, Unravel the Creative Potential of Adobe After Effects for Precise Motion Synchronization. Learn How to Use Track Matte and Tracking with a Simple Alternative</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mirthful-stream-retriever-review-for-2024/"><u>Mirthful Stream Retriever Review for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/quick-tips-for-continuous-playback-on-iphone/"><u>Quick Tips for Continuous Playback on iPhone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/twisting-tales-in-photography-the-ultimate-guide-to-angled-spins-on-digital-platforms-for-2024/"><u>Twisting Tales in Photography  The Ultimate Guide to Angled Spins on Digital Platforms for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-infinix-smart-7-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Infinix Smart 7 FRP Bypass</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-unleash-your-creativity-a-guide-to-android-video-editing-apps-for-2024/"><u>Updated Unleash Your Creativity A Guide to Android Video Editing Apps for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/watermark-free-video-editing-software-the-top-14-free-options/"><u>Watermark-Free Video Editing Software The Top 14 Free Options</u></a></li>
+</ul></div>

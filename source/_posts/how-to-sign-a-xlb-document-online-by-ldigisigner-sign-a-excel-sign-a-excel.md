@@ -1,7 +1,7 @@
 ---
 title: How to sign a .xlb document online
-date: 2024-03-09 21:32:53
-updated: 2024-03-12 11:11:34
+date: 2024-07-17T12:50:53.168Z
+updated: 2024-07-18T12:50:53.168Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to sign a .xlb document online
 excerpt: This article describes How to sign a .xlb document online
 keywords: .xlsx signature best,excel signature online,.xlsx signature software,excel signature service
-thumbnail: https://www.lifewire.com/thmb/rmV5FQdusxtcDMfMN-dk_OtLxwI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MorningShow-aed160f9cfd448cc8034b23bb3073314.jpg
+thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4a9660ef6c59333c64bce5cd.jpg
 ---
 
 ## 1. How to sign a .xlb document online
@@ -49,6 +49,9 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
@@ -59,22 +62,43 @@ In just a few seconds your Excel document will be fully available once the uploa
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -95,6 +119,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -136,6 +163,9 @@ You can also use a signature line in Excel to insert a signature with properties
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -151,6 +181,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +194,50 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-tips-for-embedding-time-stamps-in-youtube-clips/"><u>[New] 2024 Approved  Tips for Embedding Time Stamps in YouTube Clips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-aesthetic-ambitions-launching-a-youtube-channel-for-makeup-maven-for-2024/"><u>[New] Aesthetic Ambitions  Launching a YouTube Channel for Makeup Maven for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-auto-play-youtube-keep-it-hidden-stay-connected/"><u>[New] Auto-Play YouTube - Keep It Hidden, Stay Connected</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-videography-the-leading-screen-recorder-apps/"><u>[New] Essential Videography  The Leading Screen Recorder Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-basic-gamers-guide-to-outstanding-video-editing-software/"><u>[Updated] Basic Gamers' Guide to Outstanding Video Editing Software</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-conveying-content-via-discord-optimizing-video-sharing-for-2024/"><u>[Updated] Conveying Content via Discord  Optimizing Video Sharing for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unveiling-the-secrets-to-efficient-recording/"><u>[Updated] In 2024, Unveiling the Secrets to Efficient Recording</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-visual-virtuosos-the-ultimate-resource-for-filters-perfection-for-2024/"><u>[Updated] Visual Virtuosos  The Ultimate Resource for Filters Perfection for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-how-you-interact-with-tech-best-mac-tts-programs-reviewed/"><u>2024 Approved  Revolutionize How You Interact with Tech  Best Mac TTS Programs Reviewed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-realme-c53-is-unlocked-by-drfone-android/"><u>How To Check if Your Realme C53 Is Unlocked</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oneplus-ace-2v-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track OnePlus Ace 2V without App | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-share-with-impact-tiktok-videos-on-twitter/"><u>In 2024, Share with Impact  TikTok Videos on Twitter</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-xs-max-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone XS Max in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-subtitles-from-srt-with-3-steps/"><u>Master Subtitles From SRT with 3 Steps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-best-of-the-best-ogg-converter-features-and-functions-for-2024/"><u>New The Best of the Best OGG Converter Features and Functions for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/perfecting-your-youtube-presence-with-finalcut-pro-proficiency/"><u>Perfecting Your YouTube Presence with FinalCut Pro Proficiency</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/top-10-viral-eats-on-tiktok-for-2024/"><u>Top 10  Viral Eats on TikTok for 2024</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-05-19T18:32:12.850Z
+date: 2024-07-17T10:12:38.099Z
 tags: 
   - driver
   - device driver
@@ -19,6 +19,9 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
@@ -32,6 +35,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -50,6 +56,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -73,6 +82,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -95,6 +107,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -124,6 +139,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -151,6 +169,9 @@ And without all these drivers, none of your devices will work.
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -195,3 +216,44 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-unleashing-your-youtube-potential-a-comprehensively-tailored-upload-process/"><u>[New] Unleashing Your YouTube Potential  A Comprehensively Tailored Upload Process</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-transformational-techniques-bold-borders-on-instagram-photos/"><u>[Updated] 2024 Approved  Transformational Techniques  Bold Borders on Instagram Photos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-amazon-prime-hits-twitters-trendiest-watchers-and-lovers/"><u>[Updated] In 2024, Amazon Prime Hits  Twitter's Trendiest Watchers & Lovers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-understanding-instagrams-video-length-cap-for-2024/"><u>[Updated] Understanding Instagram's Video Length Cap for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-fine-tuning-sound-from-afar-a-comprehensive-guide-to-changing-volume-speed-and-timbre-over-the-web/"><u>2024 Approved Fine-Tuning Sound From Afar A Comprehensive Guide to Changing Volume, Speed & Timbre Over the Web</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/cut-trim-and-edit-the-best-pc-video-software/"><u>Cut, Trim, and Edit The Best PC Video Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-11-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 11 from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-11-pro-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 11 Pro from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-11-pro-max-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 11 Pro Max from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-11-pro-max-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 11 Pro Max without Backup | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-11-pro-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 11 Pro without Backup | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-11-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 11 without Backup | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-12-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 12 from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-12-mini-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 12 mini from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-12-mini-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 12 mini without Backup | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-12-pro-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 12 Pro from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-12-pro-max-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 12 Pro Max from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-12-pro-max-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 12 Pro Max without Backup | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-12-pro-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 12 Pro without Backup | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-12-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 12 without Backup | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-13-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 13 from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-13-mini-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 13 mini from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-13-mini-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 13 mini without Backup | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-13-pro-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 13 Pro from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-13-pro-max-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 13 Pro Max from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-13-pro-max-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 13 Pro Max without Backup | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-13-pro-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 13 Pro without Backup | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-13-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 13 without Backup | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-14-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 14 from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-14-plus-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 14 Plus from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-14-plus-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 14 Plus without Backup | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-14-pro-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 14 Pro from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-eliminate-youtube-shorts-permanent-guide/"><u>In 2024, Eliminate YouTube Shorts  Permanent Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-record-internet-radio-a-simple-guide/"><u>In 2024, How To Record Internet Radio - A Simple Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-bringing-videos-to-life-in-vr-expert-conversion-techniques/"><u>New In 2024, Bringing Videos to Life in VR Expert Conversion Techniques</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/top-10-animated-photo-collage-apps-you-should-know/"><u>Top 10 Animated Photo Collage Apps You Should Know</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/voice-of-the-visionary-beginning-your-journey-in-auditions-fading/"><u>Voice of the Visionary  Beginning Your Journey in Audition’s Fading</u></a></li>
+</ul></div>

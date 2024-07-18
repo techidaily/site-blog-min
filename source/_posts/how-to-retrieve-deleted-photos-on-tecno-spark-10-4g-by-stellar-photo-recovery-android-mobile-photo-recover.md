@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve  deleted photos on Tecno Spark 10 4G
-date: 2024-05-19T18:32:09.889Z
+date: 2024-07-17T09:35:20.407Z
 tags: 
   - recover
 categories: 
@@ -41,9 +41,15 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -53,6 +59,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -92,6 +101,9 @@ Watch this video for the step-by-step process to recover Gallery pictures from A
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Recover deleted Gallery from Android internal storage
 
 Mostly Android photos are saved in the internal storage of the Android device. You can recover the permanently deleted Android photos with the help of a recovery software. However, make sure your Tecno Spark 10 4G device is rooted and has USB debugging enabled.
@@ -100,6 +112,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 
 **Caution**: Rooting makes your Tecno Spark 10 4G phone’s warranty null and void.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover deleted Gallery photos from Android internal storage:
 
 - Download any secure Android recovery software on Windows or Mac computer.
@@ -122,8 +137,14 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Tecno Spark 10 4G to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -132,6 +153,9 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
@@ -168,12 +192,18 @@ Download the software’s free trial to assess its performance and preview the d
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. What to do if I can’t find my Gallery photos in Google Photos and Google Drive?
 
 If the photos are permanently deleted from Google Drive and Google Photos, you may take the help of the [Google Drive support team](https://support.google.com/drive/?hl=en#topic=14940). Another quick solution is to use a photo recovery software to retrieve lost pictures from Android internal storage and SD card by using the steps given in this post.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -190,6 +220,9 @@ You can recover deleted photos from Android Gallery after factory reset using a 
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after software update?
 
 You can recover deleted photos from Android Gallery after software update using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -213,3 +246,53 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-clipcraft-designer/"><u>[New] 2024 Approved  ClipCraft Designer</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-dissecting-the-newest-features-of-facebook-for-2024/"><u>[New] Dissecting the Newest Features of Facebook for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-mastering-youtube-autoplay-on-mobile-devices/"><u>[New] Mastering YouTube Autoplay on Mobile Devices</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-step-by-step-guide-to-crafting-tiktok-videos-for-2024/"><u>[New] Step-by-Step Guide to Crafting TikTok Videos for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-best-7-dslr-cameras-for-vlogging/"><u>[Updated] 2024 Approved  Best 7 DSLR Cameras for Vlogging</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-cultivate-creativity-youtubes-top-inspirational-videos/"><u>[Updated] 2024 Approved  Cultivate Creativity  YouTube's Top Inspirational Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-opening-and-managing-srt-files-seamlessly/"><u>[Updated] In 2024, Opening and Managing SRT Files Seamlessly</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-rethinking-content-strategy-with-instagrams-new-order/"><u>[Updated] Rethinking Content Strategy with Instagram's New Order</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-viewership-archive-youtube-visionaries/"><u>[Updated] Top Viewership Archive  YouTube Visionaries</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unparalleled-quality-discover-the-best-8-streamer-cameras/"><u>[Updated] Unparalleled Quality  Discover the Best 8 Streamer Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-action-an-insight-into-sj-cam-s6/"><u>2024 Approved  Mastering Action  An Insight Into SJ-CAM S6</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-edits-software-roundup-leading-windows-edition/"><u>2024 Approved  Premium Edits Software Roundup  Leading Windows Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-infinix-note-30i-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Infinix Note 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-infinix-smart-7-hd-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-infinix-smart-8-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Infinix Smart 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-infinix-smart-8-hd-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Infinix Smart 8 HD</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-infinix-zero-30-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Infinix Zero 30 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-itel-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Itel</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-itel-a60-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Itel A60</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-itel-a60s-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Itel A60s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-itel-a70-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Itel A70</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-itel-p40-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Itel P40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-itel-p40plus-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Itel P40+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-itel-p55-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Itel P55 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-itel-s23-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Itel S23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-lava-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Lava</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-lava-blaze-2-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Lava Blaze 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-lava-blaze-2-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Lava Blaze 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-lava-blaze-2-pro-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-lava-blaze-pro-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-lava-yuva-2-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Lava Yuva 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-lava-yuva-3-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Lava Yuva 3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-lava-yuva-3-pro-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-motorola-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Motorola</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-motorola-edge-2023-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Motorola Edge 2023</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-upload-and-share-videos-seamlessly-on-instagram-for-2024/"><u>How to Upload and Share Videos Seamlessly on Instagram for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/in-2024-how-to-make-a-photo-collage-using-iphoto/"><u>In 2024, How to Make a Photo Collage Using iPhoto?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-the-ultimate-list-of-video-brightness-editors-online-desktop-and-mobile/"><u>In 2024, The Ultimate List of Video Brightness Editors Online, Desktop, and Mobile</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-v27-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo V27 Phone FRP Lock</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-starting-out-in-audio-visual-filmmaking-on-a-budget/"><u>New 2024 Approved Starting Out in Audio-Visual Filmmaking on a Budget</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-filmmaking-secrets-the-ultimate-guide-to-11-color-edits/"><u>Professional Filmmaking Secrets  The Ultimate Guide to 11 Color Edits</u></a></li>
+<li><a href="https://review-topics.techidaily.com/redmi-note-13-5g-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Redmi Note 13 5G support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-guide-to-youtube-live-streaming/"><u>The Ultimate Guide to YouTube Live Streaming</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eling-post-upload-functionality-in-youtube-videos-for-2024/"><u>Unraveling Post-Upload Functionality in YouTube Videos for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-guiding-principles-of-track-matte-and-tracking-in-adobe-after-effects/"><u>Updated In 2024, Guiding Principles of Track Matte and Tracking in Adobe After Effects</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-premiere-pro-slow-playback-issues-finding-the-best-solutions-for-2024/"><u>Updated Premiere Pro Slow Playback Issues Finding The Best Solutions for 2024</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager on Windows 11 & 10 & 7
-date: 2024-05-19T18:32:12.923Z
+date: 2024-07-17T10:13:55.824Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -46,12 +49,21 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -141,6 +153,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -151,6 +166,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -167,6 +185,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 <ins class="adsbygoogle"
@@ -184,3 +205,63 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-boost-your-insta-reels-with-tiktok-inspired-hits-and-stats-for-2024/"><u>[New] Boost Your Insta Reels with TikTok-Inspired Hits and Stats for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-everyone-should-have-one-video-collage-app-in-android-phone/"><u>[New] Everyone Should Have One Video Collage App in Android Phone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-game-recording-unveiled-for-2024/"><u>[New] In-Game Recording Unveiled for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-unlock-endless-entertainment-with-tiktok-on-your-macbook/"><u>[Updated] 2024 Approved  Unlock Endless Entertainment with TikTok on Your MacBook</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-prime-bot-collective-of-digital-dialogues/"><u>[Updated] In 2024, Prime Bot Collective of Digital Dialogues</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-through-complete-circles-on-screen/"><u>[Updated] Navigating Through Complete Circles on Screen</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-4k-capture-selecting-top-gimbals/"><u>[Updated] Professional 4K Capture  Selecting Top Gimbals</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-stream-mastery-top-rated-tech-and-devices-guide-for-creators/"><u>[Updated] YouTube Stream Mastery  Top-Rated Tech & Devices Guide for Creators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-exploring-the-boundaries-of-true-black-on-asuss-professional-screen/"><u>2024 Approved  Exploring the Boundaries of True Black on ASUS's Professional Screen</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-struggling-with-stuck-tiktoks-common-glitches-and-solutions/"><u>2024 Approved  Struggling with Stuck TikToks  Common Glitches and Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-15-luts-for-enhanced-gopro-footage-quality/"><u>Best 15 LUTs for Enhanced GoPro Footage Quality</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/discovery-unearthing-the-best-videos-from-fbs-sphere/"><u>Discovery   Unearthing the Best Videos From FB's Sphere</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/y-high-stakes-views-yts-1-to-10-rankings/"><u>Hourly High-Stakes Views  YT's #1 to #10 Rankings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-nubia-red-magic-9-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-nubia-z50s-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Nubia Z50S Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-oneplus-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from OnePlus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-oneplus-nord-n30-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-oppo-a1x-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Oppo A1x 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-oppo-a38-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Oppo A38</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-oppo-a58-4g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Oppo A58 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-oppo-find-x6-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Oppo Find X6 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-oppo-k11-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Oppo K11 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-oppo-reno-10-proplus-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-pixel-8-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Pixel 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-poco-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Poco</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-poco-c51-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Poco C51</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-poco-m6-pro-4g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Poco M6 Pro 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-poco-m6-pro-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Poco M6 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-poco-x5-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Poco X5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-razr-40-ultra-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Razr 40 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-realme-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Realme</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-realme-10t-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Realme 10T 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-realme-11-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Realme 11 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-realme-11-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Realme 11 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-realme-11-proplus-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Realme 11 Pro+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-realme-c67-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Realme C67 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-realme-gt-5-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Realme GT 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-realme-gt-5-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Realme GT 5 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-realme-gt-neo-5-se-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-red-magic-9-proplus-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Red Magic 9 Pro+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-s17t-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from S17t</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-samsung-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Samsung</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-samsung-galaxy-a05-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Samsung Galaxy A05</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-samsung-galaxy-a15-4g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-samsung-galaxy-a34-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-samsung-galaxy-f15-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-create-ai-avatar-video-with-template-wondershare-virbo/"><u>In 2024, Create AI Avatar Video with Template | Wondershare Virbo</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-15-plus-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 15 Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-ace-2v-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Ace 2V Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-pixel-performance-from-a-start/"><u>In 2024, Understanding Pixel Performance From a Start</u></a></li>
+</ul></div>

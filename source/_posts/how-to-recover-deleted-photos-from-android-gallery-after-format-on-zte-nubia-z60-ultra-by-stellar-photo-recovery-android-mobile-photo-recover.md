@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on ZTE Nubia Z60 Ultra
-date: 2024-05-19T18:32:07.401Z
+date: 2024-07-17T08:54:57.310Z
 tags: 
   - recover
 categories: 
@@ -53,6 +53,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -77,6 +80,9 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
@@ -92,6 +98,9 @@ Watch this video for the step-by-step process to recover Gallery pictures from A
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Recover deleted Gallery from Android internal storage
 
 Mostly Android photos are saved in the internal storage of the Android device. You can recover the permanently deleted Android photos with the help of a recovery software. However, make sure your ZTE Nubia Z60 Ultra device is rooted and has USB debugging enabled.
@@ -114,6 +123,9 @@ The location path of the backup function may differ with Android phones. General
 
 For example,
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/image.webp)
 
 - On Xiaomi Redmi phones: Settings> Additional Settings> Backup & reset
@@ -122,6 +134,9 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
@@ -132,6 +147,9 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
@@ -147,6 +165,9 @@ The benefit of cloud backup is that you can recover deleted smartphone photos fr
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Tips to Protect Photos from Loss on Android
 
 1. Back up Android photos on cloud.
@@ -168,6 +189,9 @@ Download the software’s free trial to assess its performance and preview the d
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to retrieve deleted Photos on Android Tablet?
 
 You can follow the methods shared in this post to recover photos from Android tablet.
@@ -176,10 +200,16 @@ You can follow the methods shared in this post to recover photos from Android ta
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery without backup?
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after factory reset?
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -188,6 +218,9 @@ You can recover deleted photos from Android Gallery after factory reset using a 
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after software update?
 
 You can recover deleted photos from Android Gallery after software update using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -211,3 +244,44 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-frequency-focus-mac-sound-setup/"><u>[New] 2024 Approved  Frequency Focus  Mac Sound Setup</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-fix-frozen-mobile-youtube-videos-on-multiple-devices/"><u>[Updated] In 2024, Fix Frozen Mobile YouTube Videos on Multiple Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-harness-free-software-to-broadcast-virtual-events/"><u>2024 Approved  Harness Free Software to Broadcast Virtual Events</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-horizon-haven-the-leading-5-cloud-platforms-to-consider/"><u>2024 Approved  Horizon Haven  The Leading 5 Cloud Platforms to Consider</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/critics-choice-best-5-web-recording-applications-for-2024/"><u>Critics' Choice  Best 5 Web Recording Applications for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/discovering-the-hidden-truth-behind-youtubes-viewer-numbers/"><u>Discovering the Hidden Truth Behind YouTube's Viewer Numbers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/explore-eco-films-learn-and-innovate-with-yts-green-screens/"><u>Explore Eco-Films  Learn & Innovate with YT's Green Screens</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-edge-2023-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Edge 2023.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-edge-40-neo-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Edge 40 Neo.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-f5-pro-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from F5 Pro 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-gionee-f3-pro-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Gionee F3 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-google-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Google .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-google-pixel-7a-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Google Pixel 7a.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-google-pixel-8-pro-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Google Pixel 8 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-google-pixel-fold-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Google Pixel Fold.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-gt-5-pro-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from GT 5 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-100-pro-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor 100 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-100-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor 100.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-90-gt-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor 90 GT.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-90-pro-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor 90 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-90-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor 90.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-magic-6-pro-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor Magic 6 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-magic-v2-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor Magic V2.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-magic5-ultimate-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor Magic5 Ultimate.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-play-40c-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor Play 40C.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-play-7t-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor Play 7T.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-play-8t-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor Play 8T.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-v-purse-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor V Purse.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-x50-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor X50.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-x50iplus-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor X50i+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-x7b-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor X7b.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-x9b-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor X9b.</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-enhance-your-film-production-with-these-5-silence-detection-tools/"><u>New 2024 Approved Enhance Your Film Production with These 5 Silence Detection Tools</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-get-started-with-windows-movie-maker-download-and-installation-tutorial/"><u>New Get Started with Windows Movie Maker Download and Installation Tutorial</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-art-of-producing-captivating-facebook-video-content-for-2024/"><u>The Art of Producing Captivating Facebook Video Content for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Realme Narzo N53? | Dr.fone</u></a></li>
+</ul></div>

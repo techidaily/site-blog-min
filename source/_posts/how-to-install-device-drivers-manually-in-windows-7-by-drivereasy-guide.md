@@ -1,6 +1,6 @@
 ---
 title: How to install device drivers manually in Windows 7
-date: 2024-05-19T18:32:13.319Z
+date: 2024-07-17T10:19:56.296Z
 tags: 
   - driver
   - device driver
@@ -46,10 +46,16 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -72,6 +78,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -84,10 +93,16 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -147,6 +162,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -179,6 +197,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -223,3 +244,51 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-vimeo-video-performance/"><u>[New] Enhancing Vimeo Video Performance</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-compile-of-the-most-beautiful-wedding-videos-youtube-and-vimeo-edition/"><u>[New] In 2024, Compile of the Most Beautiful Wedding Videos - Youtube & Vimeo Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-the-full-potential-top-6-music-video-watching-apps-on-android/"><u>[New] Unleash the Full Potential - Top 6 Music Video Watching Apps on Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-finest-affordable-webm-players-on-market/"><u>[New] Unveiling the Finest Affordable WebM Players on Market</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unlocking-the-potential-of-consoles-with-pc-gaming-tech/"><u>[Updated] 2024 Approved  Unlocking the Potential of Consoles with PC Gaming Tech</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beats-and-bits-the-art-of-adding-soundtracks-in-windows-11-media/"><u>[Updated] Beats & Bits  The Art of Adding Soundtracks in Windows 11 Media</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-create-hit-facebook-song-vids-10-edition/"><u>[Updated] How to Create Hit Facebook Song Vids - #10 Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-zoom-essentials-for-webinar-novices-an-introductory-walkthrough-for-2024/"><u>[Updated] Zoom Essentials for Webinar Novices  An Introductory Walkthrough for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-counteract-bot-visitors-for-real-audience-growth/"><u>2024 Approved  Counteract Bot Visitors for Real Audience Growth</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-loilo-game-recorder-complete-review/"><u>2024 Approved  The LoiLo Game Recorder [Complete Review]</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-understanding-why-youre-not-seen/"><u>2024 Approved  Understanding Why You're Not Seen</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-unlocking-full-potential-with-obs-and-skype-collaboration-tools/"><u>2024 Approved  Unlocking Full Potential with OBS and Skype Collaboration Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oneplus-nord-n30-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to OnePlus Nord N30 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oneplus-open-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to OnePlus Open Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-open-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Open Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-a1-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Oppo A1 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-a18-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Oppo A18 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-a18-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo A18 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-a1x-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Oppo A1x 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-a1x-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Oppo A1x 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-a58-4g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Oppo A58 4G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-a59-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Oppo A59 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-a59-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo A59 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-a78-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo A78 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-a79-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo A79 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-f23-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Oppo F23 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-find-n3-flip-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Oppo Find N3 Flip Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-find-n3-flip-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo Find N3 Flip Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-find-n3-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Oppo Find N3 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-find-n3-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Oppo Find N3 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-find-x6-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo Find X6 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-find-x7-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo Find X7 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-find-x7-ultra-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo Find X7 Ultra Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Oppo Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Oppo Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-k11x-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Oppo K11x Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-reno-10-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Oppo Reno 10 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-calculating-image-proportions-aspect-ratio-resolution-and-more/"><u>In 2024, Calculating Image Proportions Aspect Ratio, Resolution, and More</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-10-coolest-plugins-for-final-cut-pro-x/"><u>New Top 10 Coolest Plugins for Final Cut Pro X</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unite-screen-horizons-evenly/"><u>Unite Screen Horizons Evenly</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-green-screen-magic-the-best-free-mobile-apps-for-android-and-ios/"><u>Updated 2024 Approved Green Screen Magic The Best Free Mobile Apps for Android and iOS</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-best-of-the-rest-10-adobe-premiere-elements-alternatives-for-video-production/"><u>Updated The Best of the Rest 10 Adobe Premiere Elements Alternatives for Video Production</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-c51-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco C51 | Dr.fone</u></a></li>
+</ul></div>

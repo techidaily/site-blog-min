@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated hardware drivers with Windows Device Manager on Windows 7
-date: 2024-05-19T18:32:13.076Z
+date: 2024-07-17T10:16:32.318Z
 tags: 
   - driver
   - device driver
@@ -22,6 +22,9 @@ Identifying outdated drivers with Device Manager is a very tedious process. You 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -32,6 +35,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -67,6 +73,9 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -76,6 +85,9 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -111,10 +123,16 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -139,3 +157,43 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-brand-differentiation-with-powerful-youtube-names/"><u>[Updated] 2024 Approved  Brand Differentiation with Powerful YouTube Names</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-cyberlink-vs-alternatives-the-ultimate-recording-showdown/"><u>[Updated] 2024 Approved  Cyberlink Vs. Alternatives  The Ultimate Recording Showdown</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-easing-into-public-speaking-10-common-video-blogger-fears-for-2024/"><u>[Updated] Easing Into Public Speaking  10 Common Video Blogger Fears for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ifunny-meme-journey-downloading-made-easy/"><u>[Updated] In 2024, The iFunny Meme Journey  Downloading Made Easy</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-sizing-up-how-to-make-videos-work-in-instagram-bests/"><u>[Updated] Sizing Up  How to Make Videos Work in Instagram Bests</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-13-ultra-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on 13 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-14-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on 14?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-samsung-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-samsung-galaxy-a15-4g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy A15 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-samsung-galaxy-a24-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy A24?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-samsung-galaxy-a54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy A54 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-samsung-galaxy-f34-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy F34 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-samsung-galaxy-m34-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy M34 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-samsung-galaxy-s23-ultra-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy S23 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-samsung-galaxy-s23-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy S23?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-sony-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Sony ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-sony-xperia-1-v-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Sony Xperia 1 V?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-sony-xperia-5-v-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Sony Xperia 5 V?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-13-ultra-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi 13 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-13t-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi 13T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-redmi-12-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi Redmi 12 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi Redmi 12?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-redmi-13c-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi Redmi 13C?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi Redmi K70?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-redmi-note-12-pro-4g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi Redmi Note 12 Pro 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-redmi-note-12r-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi Redmi Note 12R?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-redmi-note-12t-pro-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi Redmi Note 12T Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi Redmi Note 13 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xperia-5-v-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xperia 5 V?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/iphones-secrets-for-stunning-time-lapse-videos/"><u>IPhone's Secrets for Stunning Time-Lapse Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/journey-to-joyful-snaps-animated-faces-on-mobile-for-2024/"><u>Journey to Joyful Snaps  Animated Faces on Mobile for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mac-ready-detailed-screenflow-review-with-v4/"><u>Mac Ready  Detailed ScreenFlow Review with V4</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-screen-proportions-made-easy-calculating-pixel-ratio/"><u>Updated In 2024, Screen Proportions Made Easy Calculating Pixel Ratio</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-tips-and-tricks-to-perfectly-use-the-audio-mixer-in-filmora/"><u>Updated Tips & Tricks To Perfectly Use the Audio Mixer in Filmora</u></a></li>
+</ul></div>

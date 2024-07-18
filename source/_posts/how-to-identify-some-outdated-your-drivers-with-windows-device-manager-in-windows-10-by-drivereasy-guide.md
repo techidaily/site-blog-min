@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated your drivers with Windows Device Manager in Windows 10
-date: 2024-05-19T18:32:13.078Z
+date: 2024-07-17T10:16:35.005Z
 tags: 
   - driver
   - device driver
@@ -80,6 +80,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -109,10 +112,16 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -121,12 +130,18 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -150,6 +165,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -172,6 +190,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -216,3 +237,64 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-manycam-review-is-there-a-better-alternative/"><u>[New] 2024 Approved  ManyCam Review  Is There A Better Alternative?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-breaking-the-cycle-of-zero-video-views-on-youtube/"><u>[New] Breaking the Cycle of Zero Video Views on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gif-design-essentials-top-9-tools-to-elevate-your-creativity/"><u>[New] GIF Design Essentials  Top 9 Tools to Elevate Your Creativity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cerebral-channels-top-educational-yt-networks/"><u>[Updated] 2024 Approved  Cerebral Channels  Top Educational YT Networks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-art-of-designing-smaller-images-thumbnails-explained/"><u>[Updated] 2024 Approved  The Art of Designing Smaller Images  Thumbnails Explained</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-direct-performance-views-on-younow-for-2024/"><u>[Updated] Direct Performance Views on YouNow for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonic-start-spots-music-gold-for-podcast-kicks/"><u>[Updated] Harmonic Start Spots  Music Gold for Podcast Kicks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-deep-with-these-immersive-vr-clips/"><u>[Updated] In 2024, Explore Deep with These Immersive VR Clips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mac-webcam-mastery-quality-in-simplicity-for-2024/"><u>[Updated] Mac Webcam Mastery  Quality in Simplicity for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-best-video-player-apps-for-iphone-and-ipad/"><u>10 Best Video Player Apps for iPhone and iPad</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-perk-dji-miniair-2-owners-get-20-free-luts/"><u>2024 Approved  Exclusive Perk  DJI Mini/Air 2 Owners Get 20 Free LUTS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-navigating-facebooks-terms-of-service-for-media-sharing/"><u>2024 Approved  Navigating Facebook's Terms of Service for Media Sharing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-zte-nubia-flip-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass ZTE Nubia Flip 5G FRP</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/comprehensively-reviewing-youtubes-restrictions-vs-cc-flexibility-for-2024/"><u>Comprehensively Reviewing YouTube's Restrictions Vs. CC Flexibility for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/how-to-add-custom-youtube-shorts-thumbnails-with-ease-for-2024/"><u>How to Add Custom YouTube Shorts Thumbnails with Ease for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Motorola  ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-motorola-edge-40-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Motorola Edge 40 Pro ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-motorola-moto-g24-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Motorola Moto G24 ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-redmi-a2-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Redmi A2 ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-redmi-a2plus-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Redmi A2+ ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Redmi Note 13 Pro+ 5G ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Samsung ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-samsung-galaxy-s23-tactical-edition-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Samsung Galaxy S23 Tactical Edition ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-samsung-galaxy-s23-ultra-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Samsung Galaxy S23 Ultra ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-samsung-galaxy-s24-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Samsung Galaxy S24 ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-u23-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on U23 Pro ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-xiaomi-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Xiaomi ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-xiaomi-13t-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Xiaomi 13T Pro ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-xiaomi-civi-3-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Xiaomi Civi 3 ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-xiaomi-redmi-13c-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Xiaomi Redmi 13C 5G ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-xiaomi-redmi-a2plus-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Xiaomi Redmi A2+ ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-xiaomi-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Xiaomi Redmi Note 13 Pro+ 5G ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-xperia-1-v-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Xperia 1 V ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-edge-40-neo-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Edge 40 Neo?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-galaxy-a05s-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Galaxy A05s?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-galaxy-a14-4g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Galaxy A14 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-galaxy-a34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Galaxy A34 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-galaxy-a54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Galaxy A54 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-galaxy-m14-4g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Galaxy M14 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-galaxy-m34-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Galaxy M34?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-galaxy-s23plus-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Galaxy S23+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-galaxy-s24plus-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Galaxy S24+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-galaxy-xcover-7-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Galaxy XCover 7?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-htc-u23-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on HTC U23 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-huawei-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Huawei ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-huawei-nova-y91-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Huawei Nova Y91?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-moto-g-5g-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Moto G 5G (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-moto-g04-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Moto G04?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-apple-iphone-7-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on Apple iPhone 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Civi 3 Disney 100th Anniversary Edition to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-m1-pro-vs-m1-max-delving-into-the-details-of-apples-latest-cpus/"><u>In 2024, M1 Pro Vs. M1 Max  Delving Into the Details of Apple's Latest CPUs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-selecting-optimal-gopro-protection-top-10-selections/"><u>In 2024, Selecting Optimal GoPro Protection - Top 10 Selections</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-steady-smartphone-snapshots-best-tripods-guide/"><u>In 2024, Steady Smartphone Snapshots  Best Tripods Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/master-emoji-artistry-with-these-tools-on-discord/"><u>Master Emoji Artistry with These Tools on Discord</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/public-perceptions-unveiling-vllo-realities/"><u>Public Perceptions  Unveiling VLLO Realities</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-ultimate-web-based-mp3-modifier-app/"><u>Updated In 2024, Ultimate Web-Based MP3 Modifier App</u></a></li>
+</ul></div>

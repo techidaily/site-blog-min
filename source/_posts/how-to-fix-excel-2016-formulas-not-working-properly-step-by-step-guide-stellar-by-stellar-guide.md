@@ -1,7 +1,7 @@
 ---
 title: How to Fix Excel 2016 Formulas Not Working Properly | Step-by-Step Guide | Stellar
-date: 2024-05-19T18:32:11.543Z
-updated: 2024-05-20T18:32:11.543Z
+date: 2024-07-17T09:56:20.248Z
+updated: 2024-07-18T09:56:20.248Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to Fix Excel 2016 Formulas Not Working Properly | Step-by-Step Guide
 excerpt: This article describes How to Fix Excel 2016 Formulas Not Working Properly | Step-by-Step Guide
 keywords: repair .xlb files,repair damaged .xlsx files,repair corrupt .csv,repair excel 2010,repair corrupt .csv files,repair excel 2013,repair damaged excel file,repair damaged .xltx
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## How to Fix Excel Formulas Not Working Properly | Step-by-Step Guide
@@ -35,6 +35,9 @@ By default, Excel is set to automatic calculation mode. Everything is recalculat
 
 Excel will not calculate automatically when set to manual calculation mode. And this may make you think that the Excel formula is not working properly.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Change Calculation Mode from Manual to Automatic
 
 To do so, perform these steps:
@@ -52,6 +55,9 @@ It’s easy to miss or incorrectly place parentheses or include extra parenthese
 
 Clicking ‘Yes’ might help fix the issue. But Excel might not fix the parentheses properly, as it tends to add the missing parentheses at the end of a formula which won’t always be the case.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Check for Visual Cues When Typing or Editing a Formula with Parentheses
 
 When typing a formula or editing one, Excel provides visual cues to determine if there’s an issue with the parentheses inserted in a formula. Checking for these visual cues can help you fix missing/mismatched parentheses.
@@ -60,6 +66,9 @@ When typing a formula or editing one, Excel provides visual cues to determine if
 - Excel does not make the opening parentheses bold. So, if you’ve inserted the last closing parentheses in a formula, you can determine if your parentheses are mismatched.
 - Excel helps identify parentheses pairs by highlighting and formatting them with the same color once you cross over them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Problem 3 – Formatting Cells in an Excel Formula
 
 When adding a number in an Excel formula, don’t add any decimal separator or special characters like $ or €. You may use a comma to separate a function’s argument in an Excel formula or use a currency sign like $ or € as part of cell references. Formatting the numbers may prevent the formula from functioning correctly.
@@ -70,6 +79,9 @@ Use Format Cells instead of using a comma or currency signs for formatting a num
 
 ![Format Cells Option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/format-cells-3-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Problem 4 – Formatting Numbers as Text
 
 Numbers are displayed as left-aligned in a sheet in a worksheet, and text formatted numbers are right-aligned in cells. Excel considers numbers formatted as text to be text strings. Thus, it leaves those numbers out of calculations. As a result, a formula won’t work as intended. For example, in the following screenshot, you can see that the SUM formula works correctly for normal numbers. But, when the SUM formula is applied to numbers formatted as text, the formula doesn’t return the correct value.
@@ -93,14 +105,23 @@ Avoid enclosing numbers in a formula in double-quotes, as the numbers are interp
 
 Meaning if you enter a formula like =IF(A1>B1, “1”), Excel will consider the output one as a string and not a number. So, you won’t be able to use 1’s in calculations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution – Don’t Enclose Numbers in Double Quotes
 
 Remove any double quotes around a number in your formula unless you want that number to be treated as text. For example, you can write the formula mentioned above as “1” =IF(A1>B1, 1).
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Problem 6 – Extra Space at Beginning of the Formula
 
 When entering a formula, you may end up adding an extra space before the equal (=) sign. You may also add an apostrophe (‘) in the formula at times. As a result, the calculation won’t be performed and may return an error. This usually happens when you use a formula copied from the web.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Remove Extra Space from the Formula
 
 The fix to this issue is pretty simple. You need to look for extra space before the equal sign and remove it. Also, ensure there is an additional apostrophe added in the formula.
@@ -131,6 +152,9 @@ You may need to access your data from another location. That’s when a USB flas
 
 This blog will provide insights into what are the reasons for the corruption of a USB and how the users can repair Excel on flash drive that has been corrupted.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Reasons for USB inaccessibility**
 
 Sometimes flash drives or USBs can become unresponsive due to numerous reasons. There are two types of corruption – logical and physical. Physical corruptions occur due to broken stems and connectors, broken circuits, NAND gate, not recognised, RAW, need to format, not accessible, and dead drives (no power supply).
@@ -139,6 +163,9 @@ One of the main reasons behind such an error could be that the USB drive has bee
 
 There can be various other reasons that may make your USB corrupt or unresponsive. But there are very slim chances that you will be able to recover a flash drive that has physical damage. However, you can try to run the check disk on the USB drive to fix the drive. We will be discussing this as you read on.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Recovery Methods for Corrupted Flash Drives**
 
 There are 3 tried and tested recovery methods. Try them and see which one works out for you.
@@ -165,6 +192,9 @@ In case you are looking to repair Excel on flash drive, you can also resolve it 
 - Connect your USB Flash drive
 - Open “Run” (press Windows+R) and then open “cmd”
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows+R cmd](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/12/cmd.jpg)
 
 - Type “attrib -h -r -s /s /d (USB Drive Letter):\\\*.\*” where the (USB Drive Letter) is the drive letter you can find using “My Computer”
@@ -178,10 +208,16 @@ Follow the below steps while the USB flash drive has been plugged into your comp
 - Open “Run” and then open “cmd”
 - Type in “chkdsk /X /f (USB Drive Letter)” where the “(USB Drive Letter)” is the letter of the corrupted USB Drive. You can get this letter easily from the “My Computer”.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chkdsk  command prompt](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/12/check-disk.jpg)
 
 It will now check your disk to and correct any corrupted records.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **What if none of these methods works?**
 
 In case none of the above methods works to repair Excel document on a flash drive, then you would need a professional Excel repair software such as **[Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/?utm_source=Site_Blog&utm_medium=Site_Blog&utm_campaign=Site_Blog_Excel_Flash_Drive)** to restore your files. Such software not only help repair corrupted Excel files on flash drives but also help in recovering the data stored within them in their original format.
@@ -190,8 +226,14 @@ In case none of the above methods works to repair Excel document on a flash driv
 
 **Stellar Repair for Excel** resolves corruption problems in Excel files and recovers all formulas, charts, cell formatting, and more from them. It can repair multiple Excel files in one go. Equipped with a fully interactive GUI, working with this product is extremely easy.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/03/free-download-windows-2.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **To sum it up**
 
 Although flash drives are quite popularly used, they are not the most reliable of storage devices. These drives can fail anytime without warning. Thus, always back up your data on other more robust devices instead of flash drives. We hope that with the above tried and tested methods you will easily be able to repair Excel document on flash drive if need be. For any queries that you have, feel free to leave a comment below!
@@ -233,7 +275,10 @@ The formula will work as expected.
 
 Users often experience the #Value! error, when using the basic subtraction formula in Excel.
 
-![Image of #Value! error in Excel in Subtraction Formula ](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/subtraction-formula-error-window.png)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Image of #Value! error in Excel in Subtraction Formula](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/subtraction-formula-error-window.png)
 
 **Solution**
 
@@ -244,6 +289,18 @@ Check the formula and the type of values in the cell. If these are correct and t
 - Go to the **Start** button on Windows, type **Control Panel**, and double-click on it.
 - Click **Clock and Region > Region.**
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image of Clock And Region Window in Control Panel to #Value! error in Excel](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/clock-and-region-window.png)
 
 - On the **Format** tab, click **Additional Settings.**
@@ -252,15 +309,24 @@ Check the formula and the type of values in the cell. If these are correct and t
 
 - In the **Customized Format** window, search for **List Separator.**
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Image of Customize Format Window](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/customize-format-window.png)
 
 - Check if the **List Separator** is set to **minus (-)**. Change it to **comma (,)**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image of Apply List Seperator In Customize Format Window](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/apply-list-separator-in-customize-format-window.png)
 
 - Click **OK.**
 - Now, open the Excel file and again try to use the formula.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Case 3: Wrong Text Value
 
 The #Value! error can also occur due to the formula’s wrong value.
@@ -273,12 +339,18 @@ For example: If you are using the formula to add values in cells and Excel recog
 
 To fix the issue, you can correct the value or use the SUM function. It is recommended to use functions instead of operations to reduce the errors. In Excel, the formulas with math operators may not able to calculate the text in the cells. The SUM function automatically ignores the text value(er), calculates everything as numbers, and displays the result without the #Value! error.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image of Highlighting Arguments Of-Sumfunction to fix #Value! error in Excel](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/highlighting-arguments-of-sumfunction.png)
 
 ## Case 4: Blank Space in Cells
 
 You may get the #Value! error if your formula refers to other cells with space or hidden space. Sometimes, spaces that make a cell display blank but actually they are not blank.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image of #Value! error in Excel because of Blank Space](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/errormessage-with-blank-space.png)
 
 **Solution**
@@ -311,12 +383,21 @@ You can also use the “Find and Select” option to replace the blank space in 
 
 - In the **Find what** field, type a single space and delete everything in the “Replace with” field.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image of Find And Replace Window](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/find-and-replace-window.png)
 
 - Click **Replace All > OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Image of Result After Replacement With Find-And Select Window](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/result-after-replacement-with-find-and-select-window.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Case 4: Problem with Network Connection
 
 Many users have reported experiencing errors when using Excel online due to problems with the network connection.
@@ -325,6 +406,9 @@ Many users have reported experiencing errors when using Excel online due to prob
 
 Check your Internet connection and see if it is working properly.  
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Case 5: Wrong Formula Format
 
 If you enter the wrong formula with a missing parenthesis or comma, then Excel can throw the #Value! error. The error can also occur if the application finds a special character within a cell.
@@ -341,11 +425,17 @@ If none of the above works, then it indicates the Excel file is corrupt. The for
 
 You can [use the Open and Repair utility](https://support.microsoft.com/en-us/office/repair-a-corrupted-workbook-153a45f4-6cab-44b1-93ca-801ddcd4ea53) in Excel if you are getting the error due to corruption in Excel file. In case the [utility fails](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) or the Excel file is severely corrupt, you can use a third-party Excel repair software, such as Stellar Repair for Excel. It is a powerful tool to repair corrupted or damaged Excel files and recover all its data, with 100% integrity. The tool supports Excel 2019, 2016, and older versions.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Closure
 
 There are several reasons that can trigger Excel to throw the #Value! error. It can occur if there is an incorrect argument data type in formulas or blank space, text, or special characters within a cell. This blog discussed the possible scenarios when this error occurs. You can apply the solutions mentioned above to fix the error. If the #Value! error occurs due to corruption in the Excel file, then you can use [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). It is a reliable tool that helps in fixing corruption-related errors in Excel.
 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Excel AutoRecover not working, what is next?
 
 ## Consider a Scenario
@@ -359,6 +449,9 @@ The 'AutoRecover' feature might not work in any of these cases:
 
 Before discussing solutions to resolve the ‘Excel AutoRecover not working’ issue, let's have an overview of the 'AutoRecover' and 'AutoSave' features.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Brief Overview of Excel AutoRecover and AutoSave Feature
 
 AutoRecover is an inbuilt feature in MS Excel 2019, 2016, 2013, 2010, 2003, and 2007 that allows saving all of the ‘open Excel files’ at a fixed-interval in a user-specified location or AutoRecover file location. Besides, AutoSave is an add-in that exists in Excel 2002 and earlier versions to save all open Excel files in case of a crash, power outage, or accidental closure of Excel files without saving. Users can recover these files if Excel closes suddenly, for instance, at the time of power outage or failure. The auto-recovered Excel files are saved at a default location.
@@ -367,6 +460,9 @@ AutoRecover is an inbuilt feature in MS Excel 2019, 2016, 2013, 2010, 2003, and 
 
 ### Manual Methods
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1 - Enable the 'AutoRecover' Feature if Disabled
 
 Make sure that you have the ‘AutoRecover' feature enabled in your Excel application. If not, follow these steps to enable it:
@@ -380,6 +476,9 @@ Make sure that you have the ‘AutoRecover' feature enabled in your Excel applic
 
 Note: With this method, it is not possible to recover data from the current Excel file. From next time onwards, the AutoRecover feature starts working following which Excel shall start auto-saving Excel files as per the time set in ‘Save AutoRecover information every \* minute’.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2 - Repair Corrupt Excel File
 
 If corruption in Excel XLSX file has resulted in ‘Excel AutoRecover not working’ issue, you will need to [repair Excel file](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). Use **‘Open and Repair’** inbuilt utility to fix and repair the damaged (corrupt) Excel file and extract its data. To use the inbuilt utility, execute the following steps:
@@ -413,6 +512,9 @@ Here are a few other reasons why you should choose Stellar Repair for Excel soft
 To help resolve the problem of ‘AutoRecover not working’, different methods have been discussed, depending on the cause of the problem. These solutions can be implemented to check the possibility of getting back maximum data added in last saved version of the Excel file. However, to fix corruption in the excel file, using a specialized tool such as Stellar Repair for Excel software recommended by MS Excel Experts and MVPs can help. The software can repair severely damaged Excel file easily and efficiently.
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix Cannot Paste the Data Error in Microsoft Excel
 
 When copying and pasting the cell contents or attributes from one workbook to another, you can encounter the "Cannot paste the data" error. The error indicates that the values you are trying to paste do not match the cell format (Currency, Date, Text, etc.) used in the column. The error can occur if you are attempting to paste information into a merged cell. You can also get this error if the data you are trying to paste contains more columns than the destination worksheet can accept or if the copy area and paste area aren't the same size.
@@ -443,10 +545,16 @@ You can get the Excel cannot paste the data error if the cells you are trying to
 
 - Go to the **Home** tab in your Excel file and click **Format Cell Font** popup launcher.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Clicking Cell Font In Home](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/cannotpastedata/click-format-cell-font-on-home-tab.jpg)
 
 - In the **Format Cells** dialog box, click **Protection**.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Selecting Protection from Font family with formatting](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/cannotpastedata/click-protection-in-format-cells.jpg)
 
 - Under the **Protection** option, unselect the locked field and then click **OK**.
@@ -464,6 +572,9 @@ Sometimes, you can get the "Cannot paste the data" error in Excel if there is an
 
 - Click on the desired cell format that matches the values you are trying to paste into the column.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 3: Check Copy and Paste Area Size**
 
 The "data cannot be pasted" issue can also occur if Excel detects the copy area of the range of cells is not of the same size and shape as that of the paste area. So, make sure the size of the range of cells for the paste area is same as the copied area. To ensure this, you can try the following:
@@ -489,6 +600,9 @@ The merged cells in the workbook can create discrepancies when copying and pasti
 - Open the Excel file (in which you are copying data) and go to the Home tab.
 - Click Merge & Center > Unmerge Cells.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Under Excel Navigate to Home and click on Merge and Center](https://www.stellarinfo.com/public/image/catalog/article/Repair-Office-Documents/cannotpastedata/go-to-home-click-on-merge-and-center.jpg)
 
 ### **Method 5: Unselect the Excel DDE (Dynamic Data Exchange) Option**
@@ -500,8 +614,14 @@ Sometimes, you can get the Excel cannot paste the data error while copying and p
 
 In **Excel Options**, click **Advanced** and unselect **"Ignore other applications that use Dynamic Data Exchange (DDE)**. Click **OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **![Under Excel Navigate to Home and click on Merge and Center](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/cannotpastedata/click-ignoring-dynamic-data-exchange-option.jpg)**
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here are some additional solutions you can try to fix the "Cannot paste the data" error in Excel
 
 ### **Check the Excel File Format**
@@ -512,18 +632,39 @@ Sometimes, the copy and paste error can occur if you try to move data from an ol
 
 Too many items on the clipboard can prevent you from copying and pasting the data. You can [empty your clipboard](https://support.microsoft.com/en-au/office/clear-the-clipboard-7afbf55f-d7d5-4096-87a0-eb17f821d321) by deleting all clips. To do this, go to **Home** and click the **Clipboard** option.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Change the Column's Cell Format**
 
 You can get the "Cannot paste the data" error when the information you need to paste does not match the cell format in the column. In such a case, you can change the column's cell format. To do this, navigate to the **Home** option and then click on the **General menu** arrow. Then, change the cell format suitable to the type of information you are trying to paste in that column.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Add Columns**
 
 The copy-and-paste error in Excel can also occur if there are not enough columns to accept the data that you are trying to paste. You can insert more columns and then try copying and pasting data. To insert additional columns, click on the column heading, click **Home**, and then select **Insert.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### **Remove Incompatible Add-ins**
 
 Sometimes, incompatible or faulty add-ins can also create conflicts with Excel's clipboard operations, leading to the error. To check if add-ins are causing the issue, open the Excel file in safe mode. In safe mode, if you are able to paste the data, then check and uninstall the incompatible Excel Add-ins.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **What to do if Nothing Works?**
 
 If the above methods do not work, then corruption in the Excel file could be the cause of the "Cannot paste the data" error. In such a case, you can use Excel's built-in Open and Repair utility to repair the corrupted file. Here's how to use this utility to repair the Excel file:
@@ -541,11 +682,17 @@ If the above methods do not work, then corruption in the Excel file could be the
 
  The [Open and Repair utility may not be able to repair your Excel file](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) if it is severely corrupted. In such a situation, the best possible way out is to use a professional Excel repair software to repair the file. You can try Stellar Repair for Excel. It can repair highly damaged or corrupted Excel (.xls, .xlsx, .xltm, .xltx, or .xlsm) file and recover all the objects from the file by maintaining the original formatting. The tool supports 2007 and higher editions of MS Excel. You can download the demo version of the software to preview the repaired objects and verify its functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 The "Excel cannot paste the data" error in Excel can occur due to different factors. You can check and clear the clipboard, unmerge the cells, unlock the cells, and use various other methods mentioned above to troubleshoot the error. If you fail to copy and paste the data due to file corruption, then opt for an advanced Excel repair software, like [Stellar Repair for Excel.](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) It is a reliable tool that can help you repair highly damaged/corrupted Excel files. It enables you to recover all the objects from the corrupted Excel file, with complete integrity.
 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix the Too many different cell formats Error in Excel?
 
 Excel has set a limit on the number of unique cell formats within a workbook. Excel 2003 allows up to 4000 different cell format combinations, whereas Excel 2007 and later versions allow a maximum of 64000 combinations. When this limit exceeds, you may encounter errors, such as “Too many different cell formats”. It can prevent you from inserting or modifying workbook rows or columns. Sometimes, it prevents you to copy and paste the content within the same or different workbooks.  This error may also occur due to various other reasons.
@@ -560,6 +707,9 @@ You can encounter the “Too many different cell formats” error due to the bel
 - The unused styles are unexpectedly copied to new workbooks (when moving or copying a worksheet from one to another).
 - Workbooks contain multiple worksheets with different cell formatting.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## **Methods to Fix the “Too many different cell formats” Error in Excel**
 
 First, check that your Excel application is up-to-date. It helps in preventing duplicate styles in workbooks. If the error persists, then follow the below methods:
@@ -595,6 +745,18 @@ Conditional formatting is also one of the reasons behind the “Too many differe
 
 - The **Conditional Formatting Rules Manager** wizard is displayed. You can check the formatting rules and delete the unnecessary rule by clicking on the **Delete Rule** option.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![View the Conditional Formatting Rules Manager displaying formatting rules; remove unnecessary rule using Delete Rule option](https://www.stellarinfo.com/blog/wp-content/uploads/2023/08/click-delete-rule-option.jpg)
 
 ### **Method 3: Repair your Excel Workbook**
@@ -621,6 +783,9 @@ You can also get the “excel too many cell formats” error if the size of the 
 - In Excel, navigate to **File > Save As**.
 - Select **Excel Binary Workbook (\*.xlsb)** in the **Save as type** dialog box.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Choose 'Excel Binary Workbook (*.xlsb)' in the Save as Type dialog box for file format selection.](https://www.stellarinfo.com/blog/wp-content/uploads/2023/08/select-desired-format-and-then-click-save.jpg)
 
 - Click **Save**.
@@ -633,10 +798,16 @@ Here are some additional methods you can try to fix the issue:
 
 Many users have reported encountering the “Too many different cell formats” error when moving or copying the content of a workbook from one Excel to another and the unused styles being copied from one workbook to another. Microsoft has released a hotfix package which contains a fix for this issue. You can install this hotfix package [(2598143](https://support.microsoft.com/en-us/topic/description-of-the-excel-2010-hotfix-package-excel-x-none-msp-graph-x-none-msp-april-24-2012-26f7b94f-09b1-8a0e-4ab8-e286859174ed)) to resolve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **2\. Use Clean Excel Cell Formatting Option**
 
 You can check and enable the Excel cell formatting option to fix the “Too many cell formats” issue. This option will help you [remove the excess formatting](https://support.microsoft.com/en-us/office/clean-excess-cell-formatting-on-a-worksheet-e744c248-6925-4e77-9d49-4874f7474738) in your workbook. To locate this option, click on the Inquiabove steps willre tab. If you fail to see the Inquire tab, then check if the Inquire option is enabled in the Excel Com Add-ins settings.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **3\. Clean up Workbooks using Third-Party Tools**
 
 The “Too many different cell formats” issue can occur if your workbook contains a large number of unnecessary styles, as mentioned above. You can use third-party tools, such as [XLStyles Tool](https://sergeig888.wordpress.com/2011/03/21/net4-0-version-of-the-xlstylestool-is-now-available/)  or Remove Styles Add-in  to clean up workbooks recommended in Microsoft Guide. However, Microsoft takes no guarantee of these tools.
@@ -650,6 +821,9 @@ If you’re getting the “Too many different cell formats" error in Excel, try 
 
 **Summary:** You may encounter the “Unable to record macro” error in MS Excel when using Personal Macro Workbooks. In this post, we’ll discuss the possible causes behind this error and the ways to fix it. We’ll also mention a professional Excel repair tool that can help fix the error if it occurs due to corrupted workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 A personal macro workbook (Personal.xlsb file) is a hidden workbook in Excel that stores all macros in a single workbook. This allows you to automate processes while working in Excel. Sometimes, when recording macro codes in the personal macro workbook, you may get the message “**Personal Macro Workbook in a startup folder must stay open for recording**”. When you click on the **OK** button, it will show the “unable to record” error. This prevents you from recording the macros. Below, we’ll see the causes behind this error and discuss how to resolve this error.
@@ -702,6 +876,9 @@ If there are any items in add-ins that are disabled, they may prevent Excel from
 
 - Click **File > Options.**
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Go To Options](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/02/go-to-options-1.png)
 
 - In **Excel Options**, click on the **Add-ins** option.
@@ -726,12 +903,18 @@ You may fail to record macros if there is corruption in the workbook. In such a 
 
 - From the **Open** dropdown list, click **Open and Repair**.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open And Repair Window](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/02/open-and-repair-window.png)
 
 Excel will prompt you to repair the file or extract data from it. Click **Repair** to retrieve maximum data. If the Repair option fails, then click on the Extract Data option to recover the data without formulas and values.
 
 If the Microsoft utility “Open and Repair” fails to repair the corrupted Excel workbook, then try a professional Excel repair tool such as Stellar Repair for Excel. It is an advanced tool that can easily repair severely corrupted Excel (XLSX and XLS) files. It can recover all the file items, including chart sheets, cell comments, tables, macros, formulas, etc. without impacting the properties and cell format of the Excel file.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Closure**
 
 You may receive the “unable to record” error in Excel while creating or storing macros in Personal Macro Workbooks. There are several reasons that can lead to this error. You can try the methods covered in this post to resolve the error. If the error appears due to corruption in workbook, then try to repair it using the Open and Repair utility. Alternatively, you can use [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) – a professional tool that can help you repair an Excel file with problematic macros. Also, it allows recovery of all the file components with complete integrity. The tool is compatible with Excel 2021, 2019, 2016, and older versions.
@@ -752,3 +935,68 @@ You may receive the “unable to record” error in Excel while creating or stor
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-fixes-for-iphoneandroidchrome-why-are-facebook-videos-blurry-in-2024/"><u>[New] Fixes for iPhone/Android/Chrome | Why Are Facebook Videos Blurry, In 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-how-to-do-voiceover-on-powerpoint/"><u>[New] In 2024, How to Do Voiceover on PowerPoint</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tips-for-sharing-twitter-videos-via-instagram/"><u>[New] In 2024, Tips for Sharing Twitter Videos via Instagram</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-10-free-apps-for-crafting-youtube-channel-graphics/"><u>[New] Top 10 Free Apps for Crafting YouTube Channel Graphics</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-blueprint-for-becoming-a-trending-force-on-facebook/"><u>[Updated] 2024 Approved  The Blueprint for Becoming a Trending Force on Facebook</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-capture-your-best-side-tips-for-effective-talking-head-shots/"><u>[Updated] Capture Your Best Side  Tips for Effective Talking-Head Shots</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-what-is-screenplay-for-2024/"><u>[Updated] What Is Screenplay for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mi-drone-reviewed-capturing-landscapes-in-full-resolution/"><u>2024 Approved  MI Drone Reviewed  Capturing Landscapes in Full Resolution</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-recovering-youtube-gems-2-easy-watch-methods-revealed/"><u>2024 Approved  Recovering Youtube Gems  2 Easy Watch Methods Revealed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-7-budget-pc-screenshot-and-recording-apps/"><u>2024 Approved  Top 7 Budget PC Screenshot & Recording Apps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/adjusting-computer-screen-edge-balance/"><u>Adjusting Computer Screen Edge Balance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-cloud-lockers-on-android-2024-edition/"><u>Cutting-Edge Cloud Lockers on Android, 2024 Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-lava-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Lava ’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-12-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oppo-reno-10-5g-lock-screen-password-by-drfone-android/"><u>How To Change Oppo Reno 10 5G Lock Screen Password?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-narzo-60-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme Narzo 60 5G on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-narzo-60-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme Narzo 60 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-narzo-n55-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme Narzo N55 on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-note-50-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme Note 50 on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-red-magic-9-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Red Magic 9 Pro on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-redmi-13c-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Redmi 13C?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-redmi-a2plus-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Redmi A2+ on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-redmi-note-13-proplus-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Redmi Note 13 Pro+ 5G on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-reno-8t-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Reno 8T on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-s17-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of S17 on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-a05-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy A05 on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-a15-4g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy A15 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-a24-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy A24 on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-m14-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy M14 5G on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-s21-fe-5g-2023-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-s24-ultra-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy S24 Ultra on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-s24plus-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy S24+ on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-s24plus-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy S24+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-xcover-7-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy XCover 7 on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-z-flip-5-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy Z Flip 5 on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-z-fold-5-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy Z Fold 5 on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-smart-8-hd-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Smart 8 HD?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-sony-xperia-1-v-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Sony Xperia 1 V on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-spark-10-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Spark 10 Pro on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-tecno-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Tecno ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-tecno-camon-20-premier-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Tecno Camon 20 Premier 5G on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-tecno-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Tecno on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-tecno-pop-8-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Tecno Pop 8 on Windows??</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-s23-fe-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy S23 FE? Try These Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gigglegridsguild-funnyframefactory/"><u>In 2024, GiggleGridsGuild  FunnyFrameFactory</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-10-most-talented-music-video-directors-you-need-to-know/"><u>New 2024 Approved The 10 Most Talented Music Video Directors You Need to Know</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/smart-choices-top-10-video-editing-software-for-youtubers/"><u>Smart Choices  Top 10 Video Editing Software for YouTubers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/take-your-videos-to-the-next-level-free-slow-motion-editing-with-filmora-for-2024/"><u>Take Your Videos to the Next Level Free Slow Motion Editing with Filmora for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-15-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/troubleshoot-and-mend-your-instagram-video-issues/"><u>Troubleshoot & Mend Your Instagram Video Issues</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-exploring-the-top-10-windows-speech-to-text-technology-choices/"><u>Updated In 2024, Exploring the Top 10 Windows Speech to Text Technology Choices</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-ultimate-guide-to-reaper-functionality-analysis-and-teaching-resources/"><u>Updated In 2024, The Ultimate Guide to REAPER Functionality, Analysis, and Teaching Resources</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-instagram-to-mp3-a-comprehensive-download-guide-for-2024/"><u>Updated Instagram to MP3 A Comprehensive Download Guide for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-pro-quality-video-on-a-budget-free-stabilization-software/"><u>Updated Pro-Quality Video on a Budget Free Stabilization Software</u></a></li>
+</ul></div>

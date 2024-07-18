@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated hardware drivers with Windows Device Manager in Windows 11
-date: 2024-05-19T18:32:13.064Z
+date: 2024-07-17T10:16:17.685Z
 tags: 
   - driver
   - device driver
@@ -37,8 +37,14 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -51,12 +57,18 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -80,6 +92,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -144,6 +159,9 @@ There are two reasons why…
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -173,3 +191,75 @@ And without all these drivers, none of your devices will work.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-audio-silencing-for-clearer-videographies-freepremium-for-2024/"><u>[New] Audio Silencing for Clearer Videographies (Free/Premium) for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-whats-outside-of-tiktok-a-curated-list-of-popular-channels/"><u>[New] In 2024, What's Outside of TikTok? A Curated List of Popular Channels</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-enhanced-media-experience-top-8-free-players-for-windows-pcos-x/"><u>[Updated] 2024 Approved  Enhanced Media Experience  Top 8 Free Players for Windows PC/OS X</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-expert-tips-securing-seamless-video-sharing-via-discord-channels-for-2024/"><u>[Updated] Expert Tips  Securing Seamless Video Sharing via Discord Channels for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-growth-hacking-for-youtube-stars-maximizing-fans/"><u>[Updated] In 2024, Growth Hacking for YouTube Stars  Maximizing Fans</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-prime-captures-of-apples-hd-video-screenshots-under-156-chars/"><u>[Updated] In 2024, Prime Captures of Apple's HD Video Screenshots (Under 156 Chars)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-suggestions-best-iphone-audio-innovators/"><u>[Updated] Leading Suggestions  Best iPhone Audio Innovators</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-new-youtube-earning-rules-unveiled/"><u>[Updated] New YouTube Earning Rules Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-gopro-4k-cinematography-through-editing/"><u>[Updated] Perfect GoPro 4K Cinematography Through Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rotate-iphone-pics-sideways-and-upside-down-made-easy/"><u>[Updated] Rotate iPhone Pics  Sideways & Upside Down Made Easy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-value-panoramic-recording-equipment-for-savvy-shoppers/"><u>[Updated] Top Value Panoramic Recording Equipment for Savvy Shoppers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-your-pathway-to-becoming-a-pro-at-discord-for-2024/"><u>[Updated] Your Pathway to Becoming a Pro at Discord for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtubes-copyright-landscape-decoded-a-complete-analysis/"><u>[Updated] YouTube's Copyright Landscape Decoded  A Complete Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/13-enhanced-functions-for-windows-11-in-the-newest-update/"><u>13 Enhanced Functions for Windows 11 in the Newest Update</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-your-tiktok-bio-how-to-add-an-effective-link/"><u>2024 Approved  Perfect Your TikTok Bio  How to Add an Effective Link</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ultimate-list-of-accurate-3ds-pc-simulations/"><u>2024 Approved  Ultimate List of Accurate 3Ds PC Simulations</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/5-best-cellphone-tunes-of-the-year/"><u>5 Best Cellphone Tunes of the Year</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-practical-guide-to-applying-creative-commons-rights/"><u>A Practical Guide To Applying Creative Commons Rights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-samsung-galaxy-a05-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Samsung Galaxy A05 Face Lock?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/game-recording-pros-and-cons-obs-and-shadowplay/"><u>Game Recording Pros & Cons  OBS and ShadowPlay</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-infinix-hot-40i-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Infinix Hot 40i 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-huawei-nova-11-ultra-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Huawei Nova 11 Ultra using Video Repair Utility?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-huawei-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Huawei using Video Repair Utility?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-infinix-hot-40-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Infinix Hot 40 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-infinix-smart-8-hd-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Infinix Smart 8 HD using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-infinix-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Infinix using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-infinix-zero-5g-2023-turbo-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Infinix Zero 5G 2023 Turbo using Video Repair Utility?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-iphone-15-pro-max-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of iPhone 15 Pro Max using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-itel-s23-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Itel S23 using Video Repair Utility?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-lava-agni-2-5g-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Lava Agni 2 5G using Video Repair Utility?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-m6-pro-4g-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of M6 Pro 4G using Video Repair Utility?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-motorola-edgeplus-2023-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Motorola Edge+ (2023) using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-motorola-moto-g24-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Motorola Moto G24 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-motorola-moto-g34-5g-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Motorola Moto G34 5G using Video Repair Utility?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-nokia-c110-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Nokia C110 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-nokia-c110-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Nokia C110 using Video Repair Utility?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-nokia-g310-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Nokia G310 using Video Repair Utility?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-nokia-g42-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Nokia G42 5G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-nokia-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Nokia using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-note-30-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Note 30 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oneplus-12r-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of OnePlus 12R using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oneplus-ace-2-pro-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of OnePlus Ace 2 Pro using Video Repair Utility?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oneplus-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of OnePlus using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oppo-a78-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Oppo A78 using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oppo-a79-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Oppo A79 5G using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oppo-find-n3-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Oppo Find N3 using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oppo-find-x7-ultra-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Oppo Find X7 Ultra using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oppo-reno-10-pro-5g-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Oppo Reno 10 Pro 5G using Video Repair Utility?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oppo-reno-11-pro-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Oppo Reno 11 Pro 5G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oppo-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Oppo using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-p55-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of P55 5G using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-pixel-8-pro-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Pixel 8 Pro using Video Repair Utility?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-play-8t-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Play 8T using Video Repair Utility?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-poco-c51-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Poco C51 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-realme-10t-5g-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Realme 10T 5G using Video Repair Utility?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-realme-c51-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Realme C51 using Video Repair Utility?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-realme-gt-5-pro-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Realme GT 5 Pro using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-realme-gt-5-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Realme GT 5 using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c51-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme C51 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-boost-engagement-and-traffic-with-these-top-video-marketing-moves/"><u>In 2024, Boost Engagement and Traffic with These Top Video Marketing Moves</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-gt-neo-5-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme GT Neo 5 online without jailbreak</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/jocular-images-for-apple-devices/"><u>Jocular Images for Apple Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/reviving-rarities-your-guide-to-scanning-and-storing-age-old-photos/"><u>Reviving Rarities  Your Guide to Scanning and Storing Age-Old Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revolutionizing-videography-with-the-impressive-nikon-j5/"><u>Revolutionizing Videography with the Impressive Nikon J5</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-v30-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlock-mastery-the-beginners-guide-to-editing-excellence-for-2024/"><u>Unlock Mastery  The Beginner's Guide to Editing Excellence for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-in-2024-the-best-20-motion-graphics-companies-and-studios/"><u>Updated In 2024, The Best 20 Motion Graphics Companies & Studios</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-instant-image-resize-online-aspect-ratio-converters-for-2024/"><u>Updated Instant Image Resize Online Aspect Ratio Converters for 2024</u></a></li>
+</ul></div>

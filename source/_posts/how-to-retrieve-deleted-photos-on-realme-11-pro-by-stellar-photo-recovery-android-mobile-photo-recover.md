@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on Realme 11 Pro
-date: 2024-05-19T18:32:09.853Z
-updated: 2024-05-20T18:32:09.854Z
+date: 2024-07-17T09:34:45.419Z
+updated: 2024-07-18T09:34:45.419Z
 tags: 
   - recover
 categories: 
@@ -24,6 +24,9 @@ However, we all make mistakes, sometimes in a hurry or unknowingly, which lead t
 
 But no worries. Here you will know how to recover deleted photos from Android Gallery app. This post shares the best 7 ways worth trying to restore deleted photos on Android devices, both with and without software.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/How-to-Recover-Deleted-Photos-from-Android-Gallery-app.webp)
 
 ## Method 1: Recover Android photos from Google Photos
@@ -40,10 +43,25 @@ How to recover deleted photos from Android Gallery free using Google Photos:
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Realme 11 Pro model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 2: Recover Gallery photos from Google Drive
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
@@ -56,6 +74,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -75,6 +96,9 @@ The software works on damaged, corrupt, formatted, inaccessible mobile SD cards 
 
 In addition, you can also restore your Gallery videos and audio files with the help of Stellar Photo Recovery. It is available for both Windows and Mac computers.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover Gallery photos with Stellar Photo Recovery:
 
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
@@ -82,6 +106,9 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Select your SD card from the location window. Click **Scan**.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
 
 Watch this video for the step-by-step process to recover Gallery pictures from Android SD card with the help of Stellar Photo Recovery : 
@@ -117,6 +144,9 @@ The location path of the backup function may differ with Android phones. General
 
 For example,
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/image.webp)
 
 - On Xiaomi Redmi phones: Settings> Additional Settings> Backup & reset
@@ -125,6 +155,9 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
@@ -171,6 +204,9 @@ Download the software’s free trial to assess its performance and preview the d
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery of Samsung phone?
 
 You can recover Gallery pictures from Google Photos, Google Drive or Samsung Cloud. Also try to recover missing photos with the help of ES File Explorer on Samsung smartphone.
@@ -185,10 +221,25 @@ Yes, you can recover permanently deleted photos from Android with the help of a 
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after factory reset?
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after format?
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -216,3 +267,53 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-2023s-ultimate-toolwiz-photo-suite-analysis/"><u>[New] 2023'S Ultimate Toolwiz Photo Suite Analysis</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-directly-syncing-your-tiktok-videos-with-facebook/"><u>[New] 2024 Approved  Directly Syncing Your TikTok Videos with Facebook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-dominate-igtv-with-follower-growth-essential-techniques-reviewed/"><u>[New] 2024 Approved  Dominate IGTV With Follower Growth  Essential Techniques Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-animated-artistry-on-instagram-caption-creativity/"><u>[Updated] Animated Artistry on Instagram  Caption Creativity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-shorts-revenue-sharing-explained-how-much-will-i-make/"><u>[Updated] YouTube Shorts Revenue Sharing Explained  How Much Will I Make?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-guide-to-find-youtube-templates-vids/"><u>2024 Approved  Ultimate Guide to Find Youtube Templates Vids</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-ditch-gopro-studio-discover-the-best-video-editing-tools-for-your-action-cam/"><u>2024 Approved Ditch GoPro Studio Discover the Best Video Editing Tools for Your Action Cam</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elite-editing-selection-quality-software-for-youtubers/"><u>Elite Editing Selection  Quality Software for YouTubers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/female-voice-enhancement-web-service-top-pick-for-2024/"><u>Female Voice Enhancement Web Service – Top Pick for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-xperia-5-v-by-fonelab-android-recover-music/"><u>How to recover old music from your Xperia 5 V</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-y100-5g-by-fonelab-android-recover-music/"><u>How to recover old music from your Y100 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-y36-by-fonelab-android-recover-music/"><u>How to recover old music from your Y36</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-12plus-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of 12+ 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-13t-pro-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of 13T Pro using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-14-ultra-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of 14 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-21-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of 21 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-a78-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of A78 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-a79-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of A79 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-ace-2-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Ace 2 using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-apple-iphone-15-plus-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Apple iPhone 15 Plus using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-apple-iphone-15-pro-max-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Apple iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-apple-iphone-15-pro-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Apple iPhone 15 Pro using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-asus-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Asus using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-blaze-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Blaze Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-c33-2023-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of C33 2023 using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-c55-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of C55 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-find-x7-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Find X7 using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-galaxy-a14-4g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Galaxy A14 4G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-galaxy-f14-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Galaxy F14 5G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-galaxy-f34-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Galaxy F34 5G using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-galaxy-s23-fe-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Galaxy S23 FE?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-galaxy-z-fold-5-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Galaxy Z Fold 5 using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-14-plus-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 14 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-larger-youtube-media/"><u>In 2024, Mastering the Art of Larger YouTube Media</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-windows-snapshot-mastery-3-easy-approaches/"><u>In 2024, Windows Snapshot Mastery (3 Easy Approaches)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/kinemasters-comprehensive-insight-into-green-screen-technology-mastery-for-2024/"><u>Kinemaster's Comprehensive Insight Into Green Screen Technology Mastery for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-achieving-pristine-audio-quality-tips-to-eradicate-distorted-sounds-in-visual-media/"><u>New 2024 Approved Achieving Pristine Audio Quality Tips to Eradicate Distorted Sounds in Visual Media</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-concatenate-videos-using-ffmpeg/"><u>New How to Concatenate Videos Using FFmpeg</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-text-to-audio-converters-of-all-times/"><u>New In 2024, Best Text-to-Audio Converters of All Times</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-windows-10-video-editors-the-best-free-and-paid-imovie-alternatives/"><u>New In 2024, Windows 10 Video Editors The Best Free and Paid iMovie Alternatives</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ncome-impact-of-sharing-on-youtube-shorts-for-2024/"><u>The Income Impact of Sharing on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unleash-creative-potential-on-tiktok-perfecting-sound-and-visual-sync-for-2024/"><u>Unleash Creative Potential on TikTok  Perfecting Sound and Visual Sync for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-on-the-go-editing-the-top-10-mobile-video-editors-for-iphone-and-android-devices/"><u>Updated 2024 Approved On-the-Go Editing The Top 10 Mobile Video Editors for iPhone and Android Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-samsung-ubd-k8500-analysis-for-2024/"><u>Updated Samsung UBD-K8500 Analysis for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-90-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor 90? Here is How | Dr.fone</u></a></li>
+</ul></div>

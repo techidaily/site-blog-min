@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 10
-date: 2024-05-19T18:32:12.929Z
+date: 2024-07-17T10:14:04.893Z
 tags: 
   - driver
   - device driver
@@ -19,6 +19,9 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
@@ -43,6 +46,18 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -106,6 +121,18 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -135,6 +162,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -170,6 +200,9 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
@@ -178,11 +211,17 @@ To automatically update to the correct version of all the drivers that are missi
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -193,6 +232,9 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -227,3 +269,41 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-a-time-capsule-transformation-step-by-step-guide-to-digitalize-old-printed-photographs/"><u>[New] A Time-Capsule Transformation  Step-By-Step Guide to Digitalize Old Printed Photographs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-youtube-beauty-influencers-10-creators-to-watch/"><u>[New] In 2024, Essential YouTube Beauty Influencers  10 Creators to Watch</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-beginners-handbook-to-igtv-mastery/"><u>[Updated] 2024 Approved  The Beginner's Handbook to IGTV Mastery</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-7-faqs-about-youtube-shorts-thumbnail-not-showing-problem/"><u>[Updated] 7 FAQs About YouTube Shorts Thumbnail Not Showing Problem</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-concealed-commentary-on-online-media/"><u>[Updated] Navigating the Concealed Commentary on Online Media</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-12-exceptional-game-starting-tutorials-from-youtube-pros-freepremium/"><u>2024 Approved  12 Exceptional Game-Starting Tutorials From YouTube Pros (Free/Premium)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audio-selection-tips-for-impactful-unboxing-clips/"><u>2024 Approved  Audio Selection Tips for Impactful Unboxing Clips</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/essential-insights-into-using-discord/"><u>Essential Insights Into Using Discord</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-xperia-10-v-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Xperia 10 V</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-y100-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Y100 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-y17s-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Y17s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-y200-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Y200</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-y28-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Y28 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-zte-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from ZTE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-zte-nubia-z60-ultra-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-100-by-fonelab-android-recover-data/"><u>How to retrieve lost files from 100?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-12plus-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from 12+ 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-a2-by-fonelab-android-recover-data/"><u>How to retrieve lost files from A2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-a38-by-fonelab-android-recover-data/"><u>How to retrieve lost files from A38?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-ace-2v-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Ace 2V?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Asus ROG Phone 7 Ultimate?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-f23-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from F23 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-find-n3-flip-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Find N3 Flip?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-g2-by-fonelab-android-recover-data/"><u>How to retrieve lost files from G2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-google-pixel-7a-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Google Pixel 7a?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-google-pixel-8-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Google Pixel 8?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-premier-selection-of-windows-11s-high-quality-capture-software/"><u>In 2024, Premier Selection of Windows 11'S High-Quality Capture Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-want-to-turn-a-photo-into-a-cartoon-but-dont-know-how-here-are-some-of-the-best-online-websites-which-allow-you-to-turn-pictures-into-cartoons-without-d/"><u>New Want to Turn a Photo Into a Cartoon but Dont Know How? Here Are some of the Best Online Websites Which Allow You to Turn Pictures Into Cartoons without Downloading Any Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlined-aesthetics-incorporating-visual-effects-in-videos-pcmobile/"><u>Streamlined Aesthetics  Incorporating Visual Effects in Videos (PC/Mobile)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uncovering-the-currency-behind-product-discussions/"><u>Uncovering the Currency Behind Product Discussions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-free-video-repeater-tools/"><u>Updated In 2024, Top Free Video Repeater Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-methods-to-manipulate-amplitude-in-mp3-wav-and-mpeg-files/"><u>Updated Methods to Manipulate Amplitude in MP3, WAV, and MPEG Files</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 10
-date: 2024-05-19T18:32:12.859Z
+date: 2024-07-17T10:12:47.130Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -42,8 +45,14 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -52,6 +61,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -70,6 +82,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -83,6 +98,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -115,6 +133,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -174,6 +195,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -201,6 +225,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -221,3 +248,44 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-realme-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Realme</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-realme-11-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Realme 11 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-realme-c55-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Realme C55</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-realme-gt-5-pro-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Realme GT 5 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-realme-narzo-60-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Realme Narzo 60 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-realme-narzo-60-pro-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-realme-narzo-60x-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-realme-note-50-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Realme Note 50</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-realme-v30t-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Realme V30T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-redmi-note-12-pro-4g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-reno-10-proplus-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-reno-11-pro-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Reno 11 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-reno-11f-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Reno 11F 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-reno-8t-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Reno 8T 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-s17-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from S17</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-s17-pro-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from S17 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-a15-4g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-a15-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-a24-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy A24</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-f14-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-s23plus-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy S23+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-s24plus-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy S24+</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/ignore-whatsapps-privacy-changes-account-functionality-unaffected/"><u>Ignore WhatsApp’s Privacy Changes: Account Functionality Unaffected</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-cartoon-video-creation-made-easy-top-10-online-and-pc-tools-for-2024/"><u>New Cartoon Video Creation Made Easy Top 10 Online and PC Tools for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-trace-the-audible-outcome-of-digestive-efforts-for-2024/"><u>New Trace the Audible Outcome of Digestive Efforts for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-m34-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy M34 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/profit-from-reddit-easy-style-top-13-beginner-strategies-for-2024/"><u>Profit From Reddit Easy Style  Top 13 Beginner Strategies for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/revolutionize-your-social-network-creating-captivating-facebook-slides-for-2024/"><u>Revolutionize Your Social Network  Creating Captivating Facebook Slides for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/securing-premium-image-on-zoom-via-strategic-filters/"><u>Securing Premium Image on Zoom via Strategic Filters</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-s17t-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo S17t FRP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-the-secrets-to-intense-hdr-portraits-for-2024/"><u>Unlock the Secrets to Intense HDR Portraits for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/who-are-tiktoks-most-influential-gaming-bloggers/"><u>Who Are TikTok’s Most Influential Gaming Bloggers?</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11/10
-date: 2024-05-19T18:32:12.939Z
+date: 2024-07-17T10:14:20.083Z
 tags: 
   - driver
   - device driver
@@ -43,6 +43,9 @@ To understand why, you first have to understand what drivers actually are…
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -61,6 +64,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -70,10 +76,16 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -84,6 +96,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -106,6 +121,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -174,6 +192,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -194,6 +215,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -217,3 +241,40 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-claim-cost-free-visuals-from-highest-rated-4-youtube-sources-for-2024/"><u>[New] Claim Cost-Free Visuals From Highest-Rated 4 YouTube Sources for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-panoramic-photography-at-its-finest-top-11-camera-picks/"><u>2024 Approved  Panoramic Photography at Its Finest  Top 11 Camera Picks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-11-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme 11 Pro Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/exclusive-moba-selection-for-android-gamers/"><u>Exclusive MOBA Selection for Android Gamers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-motorola-defy-2-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Motorola Defy 2 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotm-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .dotm file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotm-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .dotm file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotm-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dotm file electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotm-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dotm file free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotm-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .dotm file Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotx-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dotx file by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotx-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dotx file document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotx-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .dotx file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotx-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .dotx file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotx-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dotx file electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotx-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dotx file free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotx-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .dotx file Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2000-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2000 by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2000-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2000 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2000-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2000 document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2000-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2000 document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2000-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2000 files online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2000-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2000 Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2003-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2003 by digital signature</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-smooth-shifts-audio-transition-wisdom-from-sonar-by-platinum/"><u>In 2024, Smooth Shifts  Audio Transition Wisdom From Sonar by Platinum</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-top-7-best-voice-changers-online-for-free/"><u>In 2024, Top 7 Best Voice Changers Online for FREE</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-unveiling-the-visionaries-behind-disruptive-chat-symbols/"><u>In 2024, Unveiling the Visionaries Behind Disruptive Chat Symbols</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/mastering-snapchat-photo-edits-a-step-by-step-guide/"><u>Mastering Snapchat Photo Edits  A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-xiaomi-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Xiaomi</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Galaxy S21 FE 5G (2023) ?</u></a></li>
+</ul></div>

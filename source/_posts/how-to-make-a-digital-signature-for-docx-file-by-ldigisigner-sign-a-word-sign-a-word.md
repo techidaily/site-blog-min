@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .docx file
-date: 2024-05-19T18:32:13.505Z
-updated: 2024-05-20T18:32:13.505Z
+date: 2024-07-17T10:22:46.631Z
+updated: 2024-07-18T10:22:46.631Z
 tags: 
   - signer
   - signer online
@@ -12,13 +12,16 @@ categories:
 description: This article describes How to make a digital signature for .docx file
 excerpt: This article describes How to make a digital signature for .docx file
 keywords: sign .dotx file online,.dot file signature online,sign .uot file
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## 1. How to make a digital signature for .docx file
 
 Electronic Signature in Word is a simple and secure way to sign documents online. It's a legally binding way to sign Word documents, and it's easy to use. You can sign Word documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Word documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
@@ -57,6 +60,9 @@ In just a few seconds your Word document will be fully available once the upload
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -73,10 +79,16 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -120,6 +132,9 @@ To implement each of the ways to install a digital signature in Word, you need t
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Word on Windows.
@@ -128,12 +143,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -149,6 +170,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-word-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +185,56 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-fly-higher-10-must-have-uav-extras-revealed/"><u>[New] Fly Higher  10 Must-Have UAV Extras Revealed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-blocking-unwanted-youtube-channels-pc-and-mobile-edition/"><u>[Updated] 2024 Approved  Blocking Unwanted Youtube Channels  PC & Mobile Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-elevate-your-edits-a-selection-of-top-9-free-software-choices/"><u>[Updated] 2024 Approved  Elevate Your Edits  A Selection of Top 9 Free Software Choices</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-earn-on-tiktok-explore-8-effective-money-making-techniques-for-2024/"><u>[Updated] Earn on TikTok  Explore 8 Effective Money-Making Techniques for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-guide-to-crafting-iphone-image-art/"><u>[Updated] Step-by-Step Guide to Crafting iPhone Image Art</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-eliminate-cacophony-perfecting-sound-quality-for-youtube/"><u>2024 Approved  Eliminate Cacophony  Perfecting Sound Quality for YouTube</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-pro-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 14 Pro Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 14 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-pro-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 14 Pro without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 14 to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 14 Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 14 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 14 without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-plus-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 15 Plus to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-plus-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 15 Plus Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 15 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-plus-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 15 Plus without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-pro-max-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 15 Pro Max to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-pro-max-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 15 Pro Max Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 15 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-pro-max-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 15 Pro Max without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-pro-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 15 Pro to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-pro-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 15 Pro Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 15 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-pro-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 15 Pro without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 15 to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 15 Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 15 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 15 without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-6-plus-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 6 Plus to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-6-plus-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 6 Plus Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-6-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 6 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-6-plus-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 6 Plus without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-6-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 6 to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-6-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 6 Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tutorial-on-utilizing-googles-automatic-speech-transcription/"><u>In 2024, Expert Tutorial on Utilizing Google's Automatic Speech Transcription</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-the-ultimate-strategy-for-role-assignment-on-discord/"><u>In 2024, The Ultimate Strategy for Role Assignment on Discord</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-facebooks-copyright-enforcement-on-live-feeds-for-2024/"><u>Navigating Facebook's Copyright Enforcement on Live Feeds for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-no-cost-video-watermarking-solutions-expert-recommendations-for-2024/"><u>New No-Cost Video Watermarking Solutions Expert Recommendations for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-usb-serial-signaling-glitches/"><u>Rectify USB-Serial Signaling Glitches</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-samsung-galaxy-a54-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Samsung Galaxy A54 5G on Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-rated-economical-timer-services/"><u>Top-Rated Economical Timer Services</u></a></li>
+</ul></div>

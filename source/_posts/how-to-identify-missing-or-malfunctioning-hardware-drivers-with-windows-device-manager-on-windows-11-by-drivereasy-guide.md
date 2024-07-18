@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11
-date: 2024-05-19T18:32:12.938Z
+date: 2024-07-17T10:14:18.934Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -32,6 +35,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -51,6 +57,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -59,6 +68,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -94,6 +106,9 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
@@ -107,6 +122,9 @@ To automatically update to the correct version of all the drivers that are missi
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -144,3 +162,52 @@ There are two reasons why…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-curated-cinematic-journeys-the-best-yt-film-selections/"><u>[New] 2024 Approved  Curated Cinematic Journeys  The Best YT Film Selections</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-step-by-step-uploading-to-instagrams-feed/"><u>[New] 2024 Approved  Step-By-Step  Uploading to Instagram's Feed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-craft-impressive-clips-with-these-intros/"><u>[New] Craft Impressive Clips With These Intros</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-taking-down-the-veil-youtubes-most-elusive-videos/"><u>[New] Taking Down the Veil  YouTube's Most Elusive Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-promotional-planning-perfection/"><u>[Updated] 2024 Approved  Promotional Planning Perfection</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-endless-viewing-loop-your-iphone-videos-today-for-2024/"><u>[Updated] Endless Viewing  Loop Your iPhone Videos Today for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-zero-to-hero-with-photoshop-basics-in-snapseed/"><u>2024 Approved  From Zero to Hero with Photoshop Basics in Snapseed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-memelores-premier-10-templates/"><u>2024 Approved  Memelore's Premier 10 Templates</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-doc-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .doc file Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docm-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .docm file by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docm-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .docm file document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docm-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docm file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docm-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docm file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docm-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .docm file electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docm-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .docm file free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docm-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docm file Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .docx by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docx document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docx document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .docx file by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .docx file document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docx file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docx file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .docx file electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .docx file free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docx file Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .docx Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dot-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dot file by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dot-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dot file document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dot-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .dot file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dot-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .dot file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dot-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dot file electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dot-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dot file free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dot-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .dot file Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotm-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dotm file by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotm-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dotm file document electronically</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-samsung-galaxy-a54-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Samsung Galaxy A54 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-get-free-youtube-music-anytime-with-these-high-performing-splitters/"><u>In 2024, Get Free YouTube Music Anytime With These High-Performing Splitters</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y56-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo Y56 5G</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-novices-guide-to-animated-videos-with-wmm/"><u>In 2024, Novice's Guide to Animated Videos with WMM</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pro-tips-for-utilizing-green-screen-effects-professionally/"><u>In 2024, Pro Tips for Utilizing Green Screen Effects Professionally</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-thriving-in-digital-realms-the-power-of-well-planned-backlinks/"><u>In 2024, Thriving in Digital Realms  The Power of Well-Planned Backlinks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/instant-video-visionary-for-2024/"><u>Instant Video Visionary for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo S17 Pro | Dr.fone</u></a></li>
+</ul></div>

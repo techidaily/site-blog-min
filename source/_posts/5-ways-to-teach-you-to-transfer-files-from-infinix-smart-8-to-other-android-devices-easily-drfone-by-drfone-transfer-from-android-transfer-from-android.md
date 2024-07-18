@@ -1,7 +1,7 @@
 ---
 title: 5 Ways To Teach You To Transfer Files from Infinix Smart 8 to Other Android Devices Easily | Dr.fone
-date: 2024-05-19T18:33:35.314Z
-updated: 2024-05-20T18:33:35.314Z
+date: 2024-07-17T13:40:46.697Z
+updated: 2024-07-18T13:40:46.697Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways To Teach You To Transfer Files from Infinix Smart 8 to Other Android Devices Easily
 excerpt: This article describes 5 Ways To Teach You To Transfer Files from Infinix Smart 8 to Other Android Devices Easily
 keywords: transfer from android to iphone,transfer from android to android,transfer from Infinix Smart 8 to pc,transfer from Infinix Smart 8 to ipad,transfer from Infinix Smart 8 to android,transfer from Infinix Smart 8 to iphone,transfer from android to mac,transfer from Infinix Smart 8 to mac,transfer from android to pc
-thumbnail: https://www.lifewire.com/thmb/XTn22vUEhR1g5hO3UkHHYfR8z14=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-bot-f6353f76ae214924916445da1da620ca.png
+thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea776763c2dea469f5e646eb4f7.png
 ---
 
 ## 5 Ways To Teach You To Transfer Files from Infinix Smart 8 to Other Android Devices Easily
@@ -30,6 +30,9 @@ When trying to ****transfer files between Android phones****, Bluetooth is avail
 
 ****Step 2:**** Now, press the “Share” icon and select “Bluetooth.” Choose your new Android device from the available devices on the next screen.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the bluetooth option](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-2.jpg)
 
 ****Step 3:**** Move to your new Android phone and hit “Accept” to start the transfer process. The transfer time will be depended on the size of the files.
@@ -44,6 +47,9 @@ When trying to ****transfer files between Android phones****, Bluetooth is avail
 | · You don't need internet, cable, or Wi-Fi to send files via Bluetooth. | · If you send large files using this method, the process frequently fails, which can corrupt the files. |
 | · Using Bluetooth doesn’t require any special knowledge or skills |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Best For
 
 Using Bluetooth is best for transferring small to medium, size files. It is also convenient when you can’t access the internet.
@@ -52,14 +58,32 @@ Using Bluetooth is best for transferring small to medium, size files. It is also
 
 Nearby Share is a method developed by Google to ****share files between Android phones****. It can be considered Google’s answer to Apple’s AirDrop, though, unlike AirDrop, it doesn’t require Wi-Fi. This method is available for all Android devices though you should use the latest Android OS for smoother working. Moreover, Bluetooth needs to be enabled to use this method.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step-by-Step Guide To Transfer Files via Nearby Share
 
 ****Step 1:**** You will need to activate “Nearby Share” on both devices first. To do that, go to the phone’s “Settings” and access the “Google” settings. Here, tap “Devices and Sharing,” and from the next appearing screen, choose “Nearby Share.”
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![choose the nearby share option](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-4.jpg)
 
 ****Step 2:**** In the “Nearby Share” screen, toggle it on and set device visibility to “Everyone.” Once you activate it on both Android devices, find and select the files you want to transfer on the old Android phone.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable the nearby share option](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-5.jpg)
 
 ****Step 3:**** After selecting the required files, press the “Share” button and select “Nearby Share” from the options. It will detect nearby devices and select your new Android device once it appears. A prompt will appear on both phones with a matching PIN. Accept the files on the new phone to start the transfer process.
@@ -78,6 +102,9 @@ Nearby Share is a method developed by Google to ****share files between Android 
 
 Using Nearby Share is recommended when you don't have access to a computer or the internet, and you need to share large files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Transfer Files Between Android by USB Cable
 
 If you have access to a computer, you can use it to ****transfer files from Infinix Smart 8 to Other Android Devices****. All you need is a USB cable, and you are set. In this method, you will first copy data from the old phone to the computer and then copy it to the new phone from the computer. It works by default on Windows, but for Mac, you need Android File Transfer.
@@ -86,6 +113,9 @@ If you have access to a computer, you can use it to ****transfer files from Infi
 
 ****Step 1:**** First, connect your old Android phone to your computer using a USB cable. A prompt will appear on your asking for the USB purpose. Here, select “File Transfer/Android Auto.” It will give your computer access to the phone data.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose file transfer android auto option](https://images.wondershare.com/drfone/article/2023/03/transfer-files-from-android-to-android-7.jpg)
 
 ****Step 2:**** Now copy all the data you want to transfer to your computer and disconnect the old device. Afterward, connect the new Android device to the computer, give access permission, and copy the data you took from the old phone to the new phone.
@@ -100,10 +130,16 @@ If you have access to a computer, you can use it to ****transfer files from Infi
 | · It is a reliable and secure method. | · It only works well on Windows; on Mac, it becomes a hassle. |
 | · Only a USB cable is needed to transfer the data. |
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best For
 
 Using a USB cable is best for transferring data when you have large files and don’t have any better options.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Sync Files from Infinix Smart 8 to Other Android Devices With Google Account
 
 Google Account is another great way for ****Android-to-Android file transfer**** if you haven’t set up the new phone yet. It allows you to back up all your data on the old device and restore it to the new Android device. With this method, you can transfer most of the data from the old phone, including settings, contacts, notes, etc.
@@ -126,6 +162,9 @@ Google Account is another great way for ****Android-to-Android file transfer***
 | · Using Google Account is also secure, as your backup is encrypted. | · It requires you to use the same Google Account on both devices. |
 | · The devices don’t need to be near each other. |
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best For
 
 Using Google Account to transfer files from Infinix Smart 8 to Other Android Devices is best when you still haven’t set up the new Android device.
@@ -134,6 +173,9 @@ Using Google Account to transfer files from Infinix Smart 8 to Other Android Dev
 
 Want to find the best and ****fast way to transfer files from Infinix Smart 8 to Other Android Devices****? If you don’t want to go through any time-consuming or complex transfer process, we recommend you use [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It is a complete toolbox for smartphones and includes all the necessary solutions. Regarding Android data transfer, it can quickly transfer data between 8000+ Android devices, including the latest ones.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Features of Dr.Fone
 
 - Using the Dr.Fone app, you can transfer data to Android devices with the latest Android 13 OS.
@@ -155,6 +197,9 @@ Use USB cables to connect both Android devices to the computer and launch Dr.Fon
 
 For transferring data from the old Android device to the new one, the old device should be at the “Source” position and the new device at the “Destination” position. If the positions assigned by the program are incorrect, use the “Flip” button to correct them.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the data to transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 ****Step 3: Select the Desired Data and Complete the Transfer Process****
@@ -191,6 +236,9 @@ However, can you save all the data? Let’s find out.
 
 ## Can You Save Your Data After Switching From Infinix Smart 8 to Samsung S23?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![samsung galaxy s23 on a table](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-2.jpg)
 
 You can save all data after switching from Infinix Smart 8 to Samsung S23. It doesn’t matter which Android phone you’ve used before buying the latest Samsung model because you have many data transfer options.
@@ -199,6 +247,9 @@ Samsung Smart Switch may have features exclusive to Galaxy devices (among other 
 
 The following methods will help you move data from Infinix Smart 8 to Samsung S23 within minutes. Each is straightforward, so your choice will depend on your preferences. Let’s dive in.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Transfer Data Using Wondershare Dr.Fone Phone Transfer
 
 Wondershare Dr.Fone is an all-in-one phone manager offering multiple tools. Besides moving data between phones, it lets you repair your Android system, recover files and passwords, remove lock screens, and erase data. You can even transfer WhatsApp, Viber, WeChat, and LINE chats and files.
@@ -219,6 +270,9 @@ Here’s how to move data from Infinix Smart 8 to Samsung S23 with Wondershare D
 
 5. Select the categories to copy to Samsung S23 and click **Start Transfer**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![data transfer with wondershare dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-android-2.png)
 
 Wondershare Dr.Fone Phone Transfer lets you move apps, contacts, photos, videos, music, ringtones, text messages, voice memos, call logs, bookmarks, and calendar data between Android devices.
@@ -238,6 +292,9 @@ Here’s how to move data from Infinix Smart 8 to Samsung S23 with Smart Switch:
 
 3. On your Samsung S23, tap **Receive data**and choose **Galaxy/Android** as the source.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![android to samsung data transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-4.jpg)
 
 4. Tap **Send data**on your old phone and select **Wireless** (it’s faster than a cable connection). Tap **Allow** to enable data access.
@@ -258,12 +315,18 @@ Here’s how to transfer data to Samsung Galaxy S23 using Google Account synchro
 
 1. Go to **Settings > Google > Backup > Google Account data**on your old Android phone and toggle on the desired switches for synchronization.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![transferring google account data](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-7.jpg)
 
 2. On your Samsung S23, go to **Settings > Google**and log into your backed-up Google Account.
 
 Everything you’ve previously backed up will automatically sync once you log into your Google Account.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Share Data via Bluetooth
 
 Bluetooth may be slower than most data-sharing methods, but its reliability is why we never have to imagine life without it. It may not support transferring settings or downloaded apps, but it’s excellent for moving all your photos, videos, music, and other files.
@@ -272,11 +335,17 @@ Here’s how to share data between Android and Samsung S23 via Bluetooth:
 
 1. Go to **Settings > Connections**and toggle on the **Bluetooth** switch on both phones. Alternatively, use a shortcut in the **Notification panel**.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![turning on bluetooth](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-8.jpg)
 
 2. Pair the phones and select folders or files you wish to transfer to your Samsung Galaxy S23.
 3. Tap **Share > Bluetooth**and choose your new phone.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transferring data via bluetooth](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-9.jpg)
 
 Sharing data via Bluetooth may take a while, but this valuable feature will bring everything you need to your new smartphone.
@@ -295,6 +364,9 @@ Transferring data from Infinix Smart 8 to Samsung S23 is seamless with Google Dr
 3. Open Google Drive on your Samsung S23 and sign into the correct account.
 4. Select the uploaded data, tap the **kebab menu**(the three vertical dots in the top right corner), and hit **Download**.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![downloading data from google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-11.jpg)
 
 Google Drive may limit you to 15 GB of free storage, but it’s among the best Google apps for sharing files across devices. You may already use its desktop version to collaborate on docs and spreadsheets, so why not leverage its handy mobile app?
@@ -313,14 +385,23 @@ It’s almost like Samsung’s Smart Switch, except you don’t need to download
 
 2. Tap **Connected to Android**on your Galaxy S23 phone and select **MTP Host** (Media Transfer Protocol).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![establishing a usb connection](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-13.jpg)
 
 3. Tap **Allow**on your old Android to enable data access.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![allowing data access](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-14.jpg)
 
 4. Choose the desired file manager on your new phone and browse your old Android’s internal storage.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![accessing android data](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-15.jpg)
 
 5. Choose folders or files to transfer, tap the **kebab menu**for more options, and select **Copy to**.
@@ -333,6 +414,9 @@ It’s almost like Samsung’s Smart Switch, except you don’t need to download
 
 Moving data between phones using a USB cable is faster than Bluetooth but offers the same functionality. However, charge your devices beforehand because the data transfer may take a while (if you have many sizable files).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. Use an SD Card
 
 We can almost see you fumbling with your Samsung S23, looking for an SD or microSD card slot. Newsflash: there isn’t one. Like its predecessors, S21 and S22, the Galaxy S23 series doesn’t support expandable storage.
@@ -353,6 +437,9 @@ It may not be as straightforward as the methods above, but it’s ideal for keep
 4. Go to **This PC**in **File Explorer** and open your phone under **Devices and drives**.
 5. Right-click the folders or files you wish to move, select **Copy**, and paste them to any location on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transferring files to a pc](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-20.jpg)
 
 6. Once you move the data, safely disconnect your old Android and connect your Samsung S23 to the PC.
@@ -368,6 +455,9 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Transfer Contacts from Infinix Smart 8 to Outlook
 
 _I would like to export/edit my contacts that are on My Infinix Smart 8 and get them onto my computer for a back, to edit them, to input/import them into Outlook. Can this be done and how? Is there something I can download or a backup assistant?_
@@ -378,7 +468,10 @@ To sync Android to Outlook, I highly recommend an Android manager: [Dr.Fone - Ph
 
 
 
-### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Dr.Fone - Phone Manager (Android)
 
 One Stop Solution to Transfer Contacts from Infinix Smart 8 to Outlook
 
@@ -398,8 +491,14 @@ Now, I’d like to introduce you how to transfer Android contacts to Outlook. Do
 
 To start with, connect your Infinix Smart 8 with a computer either via a USB cable. Run Dr.Fone on your computer and choose Transfer fron the main window Then, your Infinix Smart 8 will be detected instantly. After that, the primary window will appears like the screenshot shows below.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android to outlook](https://images.wondershare.com/drfone/guide/transfer-files-quickly-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Android to Outlook sync
 
 Then, click "Contacts" under "Information" panel on the top. In the contact management window, choose the contacts that you want to export. Click "Export" button. When the drop-down menu pops up, you can either click "Export selected contacts to computer" or "Export all contacts to computer". After that, click "to Outlook Express" or "to Outlook 2003/2007/2010/2013". Then, the contract transferring begins. Be sure your Infinix Smart 8 is connected all the time.
@@ -428,3 +527,51 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-pathway-to-perfection-a-pro-guide-to-instagram-photos/"><u>[New] 2024 Approved  The Pathway to Perfection  A Pro Guide to Instagram Photos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-7-best-nft-generators-to-turn-your-artwork-into-nfts/"><u>[New] 7 Best NFT Generators to Turn Your Artwork Into NFTs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/armth-amidst-cold-selecting-perfect-winter-backdrops/"><u>[New] Warmth Amidst Cold  Selecting Perfect Winter Backdrops</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchat-savvy-mastering-screen-recordings-on-your-phone/"><u>[Updated] 2024 Approved  Snapchat Savvy  Mastering Screen Recordings on Your Phone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-technical-treasure-trove-mastering-the-art-of-capturing-roblox-adventures-on-apple-devices-for-2024/"><u>[Updated] Technical Treasure Trove  Mastering the Art of Capturing Roblox Adventures on Apple Devices for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-through-troubled-waters-instagram-videos-guide/"><u>2024 Approved  Navigating Through Troubled Waters  Instagram Videos Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discover-7-premier-android-apps-to-banish-ads-for-2024/"><u>Discover 7 Premier Android Apps to Banish Ads for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/ditch-adobe-premiere-rush-top-4-video-editing-software-alternatives/"><u>Ditch Adobe Premiere Rush Top 4 Video Editing Software Alternatives</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-wpd-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .wpd file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-wps-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .wps file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-wpt-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .wpt file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xlb-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xlb Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xls-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xls Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xlsm-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xlsm Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xlsx-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xlsx Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xltm-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xltm Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xltx-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xltx Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-11-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 11 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-11-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 11 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-11-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 11 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-mini-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 mini Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-13-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 13 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-13-mini-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 13 mini Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-13-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 13 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-13-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 13 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-14-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 14 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-14-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 14 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-14-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 14 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-14-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 14 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-15-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 15 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-15-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 15 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-15-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 15 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-15-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 15 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-6-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 6 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-6-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 6 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-6s-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 6s Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-6s-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 6s Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-xiaomi-redmi-k70e-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Xiaomi Redmi K70E Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-nord-n30-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus Nord N30 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-motorola-edge-2023-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Motorola Edge 2023 Screen | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+</ul></div>

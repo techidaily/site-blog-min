@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve deleted photos on ZTE
-date: 2024-05-19T18:32:09.930Z
-updated: 2024-05-20T18:32:09.930Z
+date: 2024-07-17T09:36:19.449Z
+updated: 2024-07-18T09:36:19.449Z
 tags: 
   - recover
 categories: 
@@ -37,6 +37,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your ZTE Nubia Z60 Ultra model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
@@ -56,6 +59,18 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -82,6 +97,9 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Select your SD card from the location window. Click **Scan**.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
 
 Watch this video for the step-by-step process to recover Gallery pictures from Android SD card with the help of Stellar Photo Recovery : 
@@ -95,6 +113,9 @@ Watch this video for the step-by-step process to recover Gallery pictures from A
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Recover deleted Gallery from Android internal storage
 
 Mostly Android photos are saved in the internal storage of the Android device. You can recover the permanently deleted Android photos with the help of a recovery software. However, make sure your ZTE Nubia Z60 Ultra device is rooted and has USB debugging enabled.
@@ -127,6 +148,9 @@ If you had turned on the device backup service, restore the deleted Gallery pict
 
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your ZTE Nubia Z60 Ultra to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -140,22 +164,34 @@ Your photos will be visible again in the Gallery app.
 - In ES File Explorer Menu go to **Settings> Display** Settings.
 - Enable **Show Hidden Files**. All the .nomedia files will be visible in the phone’s folders. You can delete them now.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 7: Recover Gallery photos from Android cloud backup
 
 Apart from built-in Google cloud backup apps, you might be using other cloud storage such as DropBox or OneDrive etc. If you have enabled Android Gallery backup in any such cloud backup, restore the deleted Gallery photos from there.
 
 The benefit of cloud backup is that you can recover deleted smartphone photos from any device simply by login into the account.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Cloud-backup-in-Android-Xiaomi-768x469.webp)
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Tips to Protect Photos from Loss on Android
 
 1. Back up Android photos on cloud.
 2. Always ensure some free space on your ZTE Nubia Z60 Ultra device. Use any secure Android cleaner like CCleaner utility.
 3. Regularly delete image cache files in Android, if only image thumbnails are visible.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Wrapping up & FAQ
 
 Backup is a huge respite from accidental deletion or sudden loss of your precious photos from Android Gallery. You can always get back your photos from Google Photos, Google Drive, DropBox, or your phone’s Android backup service.
@@ -177,6 +213,18 @@ You can recover Gallery pictures from Google Photos, Google Drive or Samsung Clo
 
 You can follow the methods shared in this post to recover photos from Android phone.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -193,6 +241,9 @@ You can recover deleted photos from Android Gallery after factory reset using a 
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after software update?
 
 You can recover deleted photos from Android Gallery after software update using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -216,3 +267,43 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-elevate-your-snap-game-15-must-try-tactics/"><u>[New] 2024 Approved  Elevate Your Snap Game  15 Must-Try Tactics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-concoct-clever-caricatures/"><u>[New] Concoct Clever Caricatures</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-audio-artistry-in-a-download-top-7-vocal-transformation-apps-reviewed-for-2024/"><u>[Updated] Audio Artistry in a Download  Top 7 Vocal Transformation Apps Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-beats-and-briefs-music-incorporation-guide-on-fb-stories/"><u>2024 Approved  Beats and Briefs  Music Incorporation Guide on FB Stories</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-nikon-d500-revolutionizing-4k-dslr-photography/"><u>2024 Approved  Nikon D500  Revolutionizing 4K DSLR Photography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-drone-graphics-first-20-free-luts-on-dji-drones/"><u>Cutting Edge Drone Graphics  First 20 Free LUTS on DJI Drones</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-6-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 6 | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-6s-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 6s | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 6s Plus | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 7 | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-7-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 7 Plus | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 8 | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-8-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 8 Plus | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-se-2020-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone SE (2020) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-se-2022-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone SE (2022) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-se-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone SE | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-x-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone X | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-xr-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone XR | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-xs-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone XS | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-xs-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone XS Max | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-errors-were-detected-while-saving-excel-by-stellar-guide/"><u>How to Fix Errors were detected while saving Excel?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-errors-were-detected-while-saving-excel-stellar-by-stellar-guide/"><u>How to Fix Errors were detected while saving Excel? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-errors-were-detected-while-saving-pdf-by-stellar-guide/"><u>How to Fix Errors were detected while saving PDF?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-errors-were-detected-while-saving-pdf-stellar-by-stellar-guide/"><u>How to Fix Errors were detected while saving PDF? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2000-formulas-not-working-properly-step-by-step-guide-by-stellar-guide/"><u>How to Fix Excel 2000 Formulas Not Working Properly | Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2000-formulas-not-working-properly-step-by-step-guide-stellar-by-stellar-guide/"><u>How to Fix Excel 2000 Formulas Not Working Properly | Step-by-Step Guide | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2000-has-encountered-a-problem-by-stellar-guide/"><u>How to Fix Excel 2000 has Encountered a Problem</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2000-has-encountered-a-problem-stellar-by-stellar-guide/"><u>How to Fix Excel 2000 has Encountered a Problem | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/infusing-auditory-experience-in-visual-storytelling/"><u>Infusing Auditory Experience in Visual Storytelling</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximize-monetization-the-step-by-step-for-youtube-profiles-for-2024/"><u>Maximize Monetization  The Step-by-Step for YouTube Profiles for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-conversion-mastery-tips-and-tricks-from-the-best-ogg-tools/"><u>New 2024 Approved Conversion Mastery Tips and Tricks From the Best OGG Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-optimize-your-linkedin-videos-the-best-aspect-ratios-for-maximum-engagement/"><u>New 2024 Approved Optimize Your LinkedIn Videos The Best Aspect Ratios for Maximum Engagement</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/0-youtube-cameras-from-novices-to-experts/"><u>Top 10 YouTube Cameras, From Novices to Experts</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-aspect-ratio-conversion-in-final-cut-pro-a-quick-and-simple-process-for-2024/"><u>Updated Aspect Ratio Conversion in Final Cut Pro A Quick and Simple Process for 2024</u></a></li>
+</ul></div>

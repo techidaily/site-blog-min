@@ -1,7 +1,7 @@
 ---
 title: How to Sign a Word 2013 document online
-date: 2024-03-11 19:33:46
-updated: 2024-03-12 16:34:59
+date: 2024-07-17T12:50:40.944Z
+updated: 2024-07-18T12:50:40.944Z
 tags: 
   - signer
   - signer online
@@ -12,17 +12,23 @@ categories:
 description: This article describes How to Sign a Word 2013 document online
 excerpt: This article describes How to Sign a Word 2013 document online
 keywords: .txt file signer online,.wbk file signature online,sign .uot file
-thumbnail: https://www.lifewire.com/thmb/upymkFD17829BoXqvYndmLQPGU4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safari-photo--canon-and-nikon-digital-cameras-and-lenses--masai-mara-game-reserve--kenya--769713645-5bde071546e0fb0026a2c012.jpg
+thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac2a8c7cff5efd5d21044d91c.jpg
 ---
 
 ## 1. How to Sign a Word 2013 document online
 
 Electronic Signature in Word is a simple and secure way to sign documents online. It's a legally binding way to sign Word documents, and it's easy to use. You can sign Word documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Word documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -57,12 +63,18 @@ In just a few seconds your Word document will be fully available once the upload
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/hover-mouse.png)
 
 Feel free to sign Word document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -73,10 +85,16 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -128,12 +146,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -159,3 +183,57 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-expert-advice-on-embedding-vimeo-content-in-ms-powerpoint/"><u>[New] Expert Advice on Embedding Vimeo Content in MS PowerPoint</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unveiling-new-perspectives-streaming-aerial-content-on-facebook/"><u>[New] In 2024, Unveiling New Perspectives  Streaming Aerial Content on Facebook</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-ultimate-reference-for-all-discord-users-for-2024/"><u>[New] The Ultimate Reference for All Discord Users for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-a-step-by-step-guide-to-tiktok-marketing-mastery-strategies-and-outstanding-adverts/"><u>[Updated] In 2024, A Step-by-Step Guide to TikTok Marketing Mastery  Strategies and Outstanding Adverts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-double-delight-endless-looping-of-youtube-videos-for-tvs/"><u>[Updated] In 2024, Double Delight  Endless Looping of YouTube Videos for TVs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-video-platform-economics-a-tale-of-two-titles-income-potentials/"><u>[Updated] In 2024, Video Platform Economics  A Tale of Two Titles' Income Potentials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-black-illusion-vs-silver-miracle/"><u>[Updated] The Black Illusion Vs Silver Miracle</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-10-highly-trusted-free-video-communication-tools-with-security-features/"><u>2024 Approved  10 Highly-Trusted Free Video Communication Tools with Security Features</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-action-to-archive-screencast-review-essentials/"><u>2024 Approved  Action to Archive  Screencast Review Essentials</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-liberating-video-files-free-mp4-and-hd-from-facebook-posts/"><u>2024 Approved  Liberating Video Files  Free MP4 & HD From Facebook Posts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/a-comprehensive-guide-to-mac-audio-recording-with-audacity-for-2024/"><u>A Comprehensive Guide to Mac Audio Recording with Audacity for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/break-down-barriers-streaming-google-meet-on-youtube-stepwise-for-2024/"><u>Break Down Barriers  Streaming Google Meet on YouTube, Stepwise for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-driver-checks-in-windows-no-signatures-any-installation/"><u>Circumventing Driver Checks in Windows: No Signatures, Any Installation</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-oppo-f23-5g-by-drfone-android/"><u>Full Guide to Unlock Your Oppo F23 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-se-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone SE Without a Passcode</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-best-10-anime-websites-to-watch-dubbed-anime-free/"><u>In 2024, Best 10 Anime Websites to Watch Dubbed Anime Free</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-total-spend-on-a-single-youtubers-ads/"><u>In 2024, Total Spend on a Single Youtuber's Ads</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/learn-to-use-emoji-and-stylings-in-discord-threads/"><u>Learn To Use Emoji & Stylings in Discord Threads</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a59-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A59 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-free-top-10-green-screen-apps-for-androidios-for-2024/"><u>Updated FREE Top 10 Green Screen APPs for Android/iOS for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-free-gif-loop-makers/"><u>Updated In 2024, Best Free GIF Loop Makers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Nokia G22? | Dr.fone</u></a></li>
+</ul></div>

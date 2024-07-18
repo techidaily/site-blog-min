@@ -1,6 +1,6 @@
 ---
 title: How to identify missing hardware drivers with Windows Device Manager on Windows 11
-date: 2024-05-19T18:32:12.900Z
+date: 2024-07-17T10:13:32.907Z
 tags: 
   - driver
   - device driver
@@ -48,6 +48,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -67,6 +70,9 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
@@ -80,6 +86,9 @@ To automatically update to the correct version of all the drivers that are missi
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -107,6 +116,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -139,6 +151,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -148,10 +163,16 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -162,6 +183,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -230,3 +254,44 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-8-mistakes-people-should-avoid-as-a-new-youtuber/"><u>[New] 8 Mistakes People Should Avoid as a New YouTuber</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-amplify-your-videos-reach-perfect-title-description-and-tags/"><u>[New] In 2024, Amplify Your Video's Reach  Perfect Title, Description & Tags</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transformative-tutorials-into-thriving-treasuries/"><u>[New] Transformative Tutorials Into Thriving Treasuries</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-ultimate-list-of-popular-booktok-picks-for-your-reading-spree/"><u>[Updated] In 2024, The Ultimate List of Popular BookTok Picks for Your Reading Spree</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-techniques-for-superior-fullscreen-presentation-in-premiere/"><u>2024 Approved  Pioneering Techniques for Superior Fullscreen Presentation in Premiere</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-the-musicians-manual-to-individualizing-sound-files/"><u>2024 Approved The Musicians Manual to Individualizing Sound Files</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-google-pixel-fold-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Google Pixel Fold</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-90-gt-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor 90 GT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-magic-6-lite-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor Magic 6 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-magic-6-pro-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor Magic 6 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-magic-v2-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor Magic V2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-magic-vs-2-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor Magic Vs 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-play-40c-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor Play 40C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-play-7t-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor Play 7T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-play-8t-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor Play 8T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-v-purse-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor V Purse</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-x50iplus-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor X50i+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-x7b-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor X7b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-htc-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on HTC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-htc-u23-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on HTC U23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-huawei-nova-y91-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Huawei Nova Y91</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-huawei-p60-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Huawei P60</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-gt-10-pro-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix GT 10 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-hot-40-pro-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-hot-40i-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix Hot 40i</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-reno-11-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-insiders-look-at-the-most-effective-instagram-tags-for-growth/"><u>In 2024, The Insider's Look at the Most Effective Instagram Tags for Growth</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-behind-the-scenes-the-essential-roles-of-film-production-team-members/"><u>New 2024 Approved Behind the Scenes The Essential Roles of Film Production Team Members</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/next-gen-realities-navigating-vrs-future-trajectory-for-2024/"><u>Next-Gen Realities  Navigating VR's Future Trajectory for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-uncomplicated-guide-to-shooting-breatomed-time-lapses-with-gopro-hero5-black-for-2024/"><u>The Uncomplicated Guide to Shooting Breatomed Time-Lapses with GoPro Hero5 Black for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-realme-c67-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Realme C67 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-honor-magic-v2-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Honor Magic V2</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-bring-your-vision-to-life-best-animation-software-for-mac-and-pc-professionals-for-2024/"><u>Updated Bring Your Vision to Life Best Animation Software for Mac and PC Professionals for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-shortcut-changing-video-ratio-with-ease/"><u>Updated The Ultimate Shortcut Changing Video Ratio with Ease</u></a></li>
+</ul></div>

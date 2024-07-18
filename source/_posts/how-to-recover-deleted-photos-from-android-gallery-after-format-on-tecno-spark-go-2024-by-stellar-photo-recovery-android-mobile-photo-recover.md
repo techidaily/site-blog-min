@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Tecno Spark Go (2024)
-date: 2024-05-19T18:32:07.341Z
-updated: 2024-05-20T18:32:07.341Z
+date: 2024-07-17T08:54:03.758Z
+updated: 2024-07-18T08:54:03.758Z
 tags: 
   - recover
 categories: 
@@ -37,6 +37,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Tecno Spark Go (2024) model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
@@ -44,9 +47,15 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -56,6 +65,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -117,6 +129,9 @@ The location path of the backup function may differ with Android phones. General
 
 For example,
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/image.webp)
 
 - On Xiaomi Redmi phones: Settings> Additional Settings> Backup & reset
@@ -125,6 +140,9 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
@@ -140,6 +158,9 @@ Your photos will be visible again in the Gallery app.
 - In ES File Explorer Menu go to **Settings> Display** Settings.
 - Enable **Show Hidden Files**. All the .nomedia files will be visible in the phone’s folders. You can delete them now.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 7: Recover Gallery photos from Android cloud backup
 
 Apart from built-in Google cloud backup apps, you might be using other cloud storage such as DropBox or OneDrive etc. If you have enabled Android Gallery backup in any such cloud backup, restore the deleted Gallery photos from there.
@@ -150,12 +171,18 @@ The benefit of cloud backup is that you can recover deleted smartphone photos fr
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Tips to Protect Photos from Loss on Android
 
 1. Back up Android photos on cloud.
 2. Always ensure some free space on your Tecno Spark Go (2024) device. Use any secure Android cleaner like CCleaner utility.
 3. Regularly delete image cache files in Android, if only image thumbnails are visible.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Wrapping up & FAQ
 
 Backup is a huge respite from accidental deletion or sudden loss of your precious photos from Android Gallery. You can always get back your photos from Google Photos, Google Drive, DropBox, or your phone’s Android backup service.
@@ -179,6 +206,9 @@ You can recover deleted Gallery pictures from the Google Photos app’s Trash or
 - Click Trash or Bin.
 - Touch and hold the photo you want to restore and tap Restore.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -191,6 +221,18 @@ You can recover deleted photos from Android Gallery without backup using a photo
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after format?
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -218,3 +260,65 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-az-capture-extraordinaire-thorough-app-reviews/"><u>[New] 2024 Approved  AZ Capture Extraordinaire  Thorough App Reviews</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-direct-compare-obs-and-twitch-studio-benefits/"><u>[New] 2024 Approved  Direct Compare  OBS and Twitch Studio Benefits</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-discovering-the-secret-to-instagram-voice-change/"><u>[New] Discovering the Secret to Instagram Voice Change</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimal-aspect-ratios-for-video-content-creation/"><u>[New] Optimal Aspect Ratios for Video Content Creation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-designing-impactful-social-media-fb-ads/"><u>[Updated] 2024 Approved  Designing Impactful Social Media FB Ads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-explore-the-best-free-image-layers-and-enhancers-on-iosandroid/"><u>[Updated] 2024 Approved  Explore the Best, FREE Image Layers & Enhancers on iOS/Android</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-professional-approaches-for-logging-youtube-streams/"><u>[Updated] 2024 Approved  Professional Approaches for Logging YouTube Streams</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-skyrocketing-subscribers-5-proven-strategies-for-igtv-success/"><u>[Updated] 2024 Approved  Skyrocketing Subscribers  5 Proven Strategies for IGTV Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-aspect-ratios-unveiled-a-complete-youtube-manual/"><u>[Updated] In 2024, Aspect Ratios Unveiled  A Complete YOUTUBE Manual</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-transforming-insta-video-to-mp3-audio/"><u>[Updated] In 2024, Transforming Insta Video to Mp3 Audio</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-optimal-video-formats-to-skyrocket-your-youtube-popularity-for-2024/"><u>[Updated] Optimal Video Formats to Skyrocket Your YouTube Popularity for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capture-breathtaking-scenes-on-iphone-with-ease/"><u>2024 Approved  Capture Breathtaking Scenes on iPhone with Ease</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-quick-setup-downloading-and-configuring-vrecord/"><u>2024 Approved  Quick Setup  Downloading & Configuring VRecord</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-the-impact-of-macos-11-big-sur-on-users/"><u>2024 Approved  Understanding the Impact of macOS 11 Big Sur on Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-audio-techniques-in-audacity-for-professionals/"><u>Expert Audio Techniques in Audacity for Professionals</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-6s-pluswindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone 6s Plus/Windows/Mac</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-asus-rog-phone-8-pro-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Asus ROG Phone 8 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-asus-rog-phone-8-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Asus ROG Phone 8.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-galaxy-z-flip-5-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Galaxy Z Flip 5.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-google-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Google .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-google-pixel-7a-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Google Pixel 7a.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-gt-10-pro-by-fonelab-android-recover-photos/"><u>How to get back lost photos from GT 10 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-100-pro-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor 100 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-100-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor 100.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-magic-6-lite-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor Magic 6 Lite.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-magic-6-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor Magic 6.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-magic-v2-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor Magic V2.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-magic-vs-2-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor Magic Vs 2.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-magic5-ultimate-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor Magic5 Ultimate.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-play-7t-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor Play 7T.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-play-8t-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor Play 8T.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-x50-gt-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor X50 GT.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-x50-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor X50.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-x7b-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor X7b.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-honor-x8b-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Honor X8b.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-htc-u23-by-fonelab-android-recover-photos/"><u>How to get back lost photos from HTC U23.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-huawei-nova-y91-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Huawei Nova Y91.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-infinix-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Infinix .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-infinix-hot-30i-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Infinix Hot 30i.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-infinix-hot-40-pro-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Infinix Hot 40 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-infinix-hot-40i-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Infinix Hot 40i.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-infinix-note-30-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Infinix Note 30 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-infinix-zero-30-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Infinix Zero 30 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-itel-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Itel .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-itel-a60-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Itel A60.</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-11-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 11 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-game-recording-mastery-utilizing-gameye-and-more/"><u>In 2024, Game Recording Mastery  Utilizing GamEye and More</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-gamegazers-graphic-guide/"><u>In 2024, GameGazer's Graphic Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-moto-g24-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola Moto G24 Devices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-gt-neo-5-se-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme GT Neo 5 SE Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-top-discord-recording-apps-for-mobile-and-desktop/"><u>In 2024, Top Discord Recording Apps for Mobile & Desktop</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-achieve-filmic-quality-a-guide-to-cinematic-editing-in-fcpx-for-2024/"><u>New Achieve Filmic Quality A Guide to Cinematic Editing in FCPX for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/photoslideshow-pro-on-insta/"><u>PhotoSlideshow Pro on Insta</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/revisionfx-reelsmart-motion-blur-plugin-for-premiere-pro-for-2024/"><u>ReVisionFX ReelSmart Motion Blur Plugin For Premiere Pro for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/social-sensation-best-insta-stories-effects/"><u>Social Sensation  Best Insta Stories Effects</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-how-to-animate-adobe-animate-tutorial-for-all/"><u>Updated 2024 Approved How to Animate - Adobe Animate Tutorial for All</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-resonant-harmony-a-comprehensive-list-of-voice-enhancing-apps-for-all-audiences-and-budgets/"><u>Updated 2024 Approved Resonant Harmony A Comprehensive List of Voice-Enhancing Apps for All Audiences and Budgets</u></a></li>
+</ul></div>

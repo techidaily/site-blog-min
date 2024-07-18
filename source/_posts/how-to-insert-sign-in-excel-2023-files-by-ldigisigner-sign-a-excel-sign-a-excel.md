@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in Excel 2023 files
-date: 2024-05-19T18:32:13.160Z
-updated: 2024-05-20T18:32:13.160Z
+date: 2024-07-17T10:18:12.355Z
+updated: 2024-07-18T10:18:12.355Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to insert sign in Excel 2023 files
 excerpt: This article describes How to insert sign in Excel 2023 files
 keywords: best sign .xlsx,.xlsx signature tool,excel signature online
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## 1. How to insert sign in Excel 2023 files
@@ -49,10 +49,16 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -75,6 +81,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -85,6 +94,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -95,6 +107,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -108,6 +123,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -118,6 +136,9 @@ You can use the standard features of Microsoft Office Excel to digitally sign a 
 
 To implement each of the ways to install a digital signature in Excel, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
@@ -136,6 +157,9 @@ You can also use a signature line in Excel to insert a signature with properties
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -163,3 +187,46 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-capturing-the-best-visuals-in-vlogs-for-2024/"><u>[Updated] Capturing the Best Visuals in Vlogs for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-ultimate-screenshot-and-record-solutions-for-discord/"><u>[Updated] In 2024, Ultimate Screenshot & Record Solutions for Discord</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-global-sensations-surpassing-100-million-views-on-youtube-the-yearly-countdown/"><u>2024 Approved  Global Sensations  Surpassing 100 Million Views on YouTube (The Yearly Countdown)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-how-to-restore-windows-photo-viewer-in-windows-11-2-methods/"><u>2024 Approved  How to Restore Windows Photo Viewer in Windows 11 (2 Methods)</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-y56-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y56 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-t2-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-v27e-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Vivo V27e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-y02t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Vivo Y02T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-y100-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Vivo Y100 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-y100a-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Vivo Y100A</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-y100i-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Vivo Y100i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-y17s-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Vivo Y17s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-y78plus-t1-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-y78t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Vivo Y78t</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-xiaomi-civi-3-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Xiaomi Civi 3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-xiaomi-redmi-a2plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-xiaomi-redmi-k70-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-xiaomi-redmi-note-12-pro-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-xiaomi-redmi-note-12t-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-x100-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Vivo X100 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-y200-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Vivo Y200</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-y27s-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Vivo Y27s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-y36-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Vivo Y36</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-x100-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on X100</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-x8b-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on X8b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-xiaomi-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Xiaomi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-xiaomi-14-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Xiaomi 14</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-xiaomi-redmi-13c-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-xiaomi-redmi-a2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Xiaomi Redmi A2</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-five-mac-friendly-strategies-for-documenting-minecraft-games/"><u>In 2024, Five Mac-Friendly Strategies for Documenting Minecraft Games</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-14-pro-max-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 14 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-virtual-space-essential-guidelines-9-must-know/"><u>Mastering Virtual Space  Essential Guidelines (9 Must Know)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-elevate-your-brand-10-best-intro-builder-websites/"><u>New 2024 Approved Elevate Your Brand 10 Best Intro Builder Websites</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mastering-text-to-speech-proven-strategies-for-mp3-conversion-for-2024/"><u>New Mastering Text-to-Speech Proven Strategies for MP3 Conversion for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/proven-steps-to-conquer-hdr-images-in-ps-for-2024/"><u>Proven Steps to Conquer HDR Images in PS for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-and-powerful-driver-refresh-transform-your-windows-pcs-graphics/"><u>Quick & Powerful Driver Refresh: Transform Your Windows PC's Graphics</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-uncover-the-hidden-gems-best-free-speech-recognition-software-for-mac/"><u>Updated 2024 Approved Uncover the Hidden Gems Best Free Speech Recognition Software for Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-infinix-smart-7-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Infinix Smart 7 Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a .xls Using DigiSigner
-date: 2024-07-03T17:27:01.870Z
-updated: 2024-07-04T17:27:01.870Z
+date: 2024-07-17T09:48:48.157Z
+updated: 2024-07-18T09:48:48.157Z
 tags: 
   - signer
   - signer online
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
@@ -53,12 +56,18 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -75,10 +84,16 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -95,6 +110,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -130,12 +148,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -163,3 +187,58 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-characters-that-captivate-key-growth-strategies/"><u>[New] 2024 Approved  Characters That Captivate  Key Growth Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-content-strategy-mastery-selecting-top-rank-trackers-uncovered/"><u>[New] 2024 Approved  Content Strategy Mastery - Selecting Top Rank Trackers Uncovered</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-deciphering-the-differences-between-youtubes-and-dailymentions/"><u>[New] 2024 Approved  Deciphering the Differences Between YouTubes & DailyMentions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-seizing-video-popularity-key-seo-tools-revealed/"><u>[New] 2024 Approved  Seizing Video Popularity – Key SEO Tools Revealed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-enrich-image-narratives-how-to-employ-titles-and-captions-on-videos-via-windows-for-2024/"><u>[New] Enrich Image Narratives  How to Employ Titles and Captions on Videos via Windows for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-revamp-your-instagram-showcase-with-top-10-insights/"><u>[Updated] 2024 Approved  Revamp Your Instagram Showcase with Top 10 Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-a-complete-list-of-creative-and-catchy-youtube-channel-titles-for-modern-blogging-maximum-length-156-characters-for-2024/"><u>[Updated] A Complete List of Creative and Catchy YouTube Channel Titles for Modern Blogging (Maximum Length  156 Characters) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-to-timestamps-in-video-sharing/"><u>[Updated] A Step-by-Step Guide to Timestamps in Video Sharing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-compendium-of-video-camera-classifications/"><u>[Updated] Compendium of Video Camera Classifications</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-effortless-production-of-fb-ad-videos-with-complimentary-kit-for-2024/"><u>[Updated] Effortless Production of FB Ad Videos with Complimentary Kit for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-evasive-action-to-escape-the-shadowban-snare/"><u>[Updated] Evasive Action to Escape the Shadowban Snare</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-best-livestream-capturing-solutions-for-content-makers/"><u>[Updated] In 2024, Best Livestream Capturing Solutions for Content Makers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-inalterable-action-plan-to-expunge-youtube-shorts/"><u>2024 Approved  Inalterable Action Plan to Expunge YouTube Shorts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-peering-into-pixels-with-polaroids-camplus-action-device/"><u>2024 Approved  Peering Into Pixels with Polaroid's Cam+ Action Device</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevating-your-instagram-presence-with-watermarks/"><u>Elevating Your Instagram Presence with Watermarks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-captivate-audiences-with-ppt-on-mobilelaptop-in-gmeet/"><u>How to Captivate Audiences with PPT on Mobile/Laptop in GMeet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-15-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 15 Pro Max? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 15 Pro? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-15-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 15? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-6-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 6 Plus? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-6-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 6? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 6s Plus? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-6s-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 6s? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-7-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 7 Plus? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 7? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-8-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 8 Plus? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 8? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-se-2020-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone SE (2020)? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-se-2022-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone SE (2022)? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-se-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone SE? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-x-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone X? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-xr-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone XR? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-xs-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone XS Max? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-xs-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone XS? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-11-pro-max-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 11 Pro Max Without Backup? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-11-pro-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 11 Pro Without Backup? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-11-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 11 Without Backup? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-12-mini-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 12 mini Without Backup? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-12-pro-max-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 12 Pro Max Without Backup? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-12-pro-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 12 Pro Without Backup? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-12-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 12 Without Backup? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-13-mini-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 13 mini Without Backup? | Stellar</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 13</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-gaming-intro-creator-tools-top-picks-for-pc-and-mac-users/"><u>New In 2024, Gaming Intro Creator Tools Top Picks for PC and Mac Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-infinix-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Infinix has been deleted.</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-eliminate-filmora-watermark-free-and-paid-methods/"><u>Updated In 2024, Eliminate Filmora Watermark Free and Paid Methods</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/urdu-for-beginners-core-vocabulary-selection/"><u>Urdu for Beginners: Core Vocabulary Selection</u></a></li>
+</ul></div>

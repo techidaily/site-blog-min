@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 10 & 7
-date: 2024-05-19T18:32:12.934Z
+date: 2024-07-17T10:14:13.873Z
 tags: 
   - driver
   - device driver
@@ -19,6 +19,9 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
@@ -32,6 +35,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -78,8 +84,14 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -92,6 +104,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -107,6 +122,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
@@ -143,6 +161,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -187,3 +208,74 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-viral-videos-creating-engaging-memes-for-fbinsta/"><u>[New] 2024 Approved  Mastering Viral Videos  Creating Engaging Memes for FB/Insta</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-footage-top-10-action-cams-with-stabilization/"><u>[New] Best Footage  Top 10 Action Cams With Stabilization</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-making-every-sound-count-mac-audio-mastery-in-audacity/"><u>[New] In 2024, Making Every Sound Count  Mac Audio Mastery in Audacity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-exposing-sham-numbers-the-danger-of-fabricated-youtube-views/"><u>[Updated] 2024 Approved  Exposing Sham Numbers  The Danger of Fabricated YouTube Views</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-practices-integrating-timers-into-live-streaming-software/"><u>[Updated] Best Practices  Integrating Timers Into Live Streaming Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-sightsphere-scrutiny-summary/"><u>[Updated] SightSphere Scrutiny Summary</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-streamline-your-online-presence-using-wirecast-and-facebook-live-for-2024/"><u>[Updated] Streamline Your Online Presence Using Wirecast and Facebook Live for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-cinematic-capture-a-device-friendly-movie-guidebook/"><u>2024 Approved  Cinematic Capture  A Device-Friendly Movie Guidebook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-rundown-how-google-podcast-works/"><u>2024 Approved  Complete Rundown  How Google Podcast Works</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-openscreens-the-unchained-gamers-screen-record/"><u>2024 Approved  OpenScreens  The Unchained Gamer's Screen Record</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-make-an-impact-on-linkedin-choosing-the-right-video-aspect-ratio/"><u>2024 Approved Make an Impact on LinkedIn Choosing the Right Video Aspect Ratio</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-a24-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy A24</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/analyzing-instagram-de-followings-for-2024/"><u>Analyzing Instagram De-Followings for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/discovering-linuxs-top-screenshots-tools/"><u>Discovering Linux's Top Screenshots Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/from-rookie-to-pro-unveiling-the-secrets-of-ginger-isle-for-2024/"><u>From Rookie to Pro  Unveiling the Secrets of Ginger Isle for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-fodt-file-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a .fodt file document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-jpeg-document-online-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to sign a .jpeg document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-odt-file-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a .odt file document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-ott-file-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a .ott file document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-file-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a .pdf file document with digital signature app</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-file-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a .pdf file document with digital signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-file-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a .pdf file document with digital signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-file-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a .pdf file document with electronic signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-file-document-with-electronic-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a .pdf file document with electronic signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-file-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a .pdf file document with electronic signature tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-ext-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a {{ext}} document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-ext-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a {{ext}} file document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-2007-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a Excel 2007 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-2010-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a Excel 2010 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-2013-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a Excel 2013 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-2016-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a Excel 2016 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-2019-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a Excel 2019 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-2021-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a Excel 2021 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-2023-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a Excel 2023 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign a Excel document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-jpg-document-online-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to Sign a JPG document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-document-online-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to Sign a PDF document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with digital signature app</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with digital signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with digital signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with electronic signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-electronic-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with electronic signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with electronic signature tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with digital signature app</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with digital signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with digital signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with electronic signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-electronic-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with electronic signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with electronic signature tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with digital signature app</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-software-for-photo-to-video-conversion-for-2024/"><u>Ideal Software for Photo-to-Video Conversion for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-xiaomi-14-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Xiaomi 14 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-creative-control-in-fcpx-freeze-frames-slow-motion-and-speed-ramping/"><u>In 2024, Creative Control in FCPX Freeze Frames, Slow Motion, and Speed Ramping</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-zte-nubia-flip-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from ZTE Nubia Flip 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-journey-to-visual-vigor-a-beginners-guidebook/"><u>In 2024, Journey to Visual Vigor  A Beginner's Guidebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-virtual-lecture-title-craftsman/"><u>In 2024, Prime Virtual Lecture Title Craftsman</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-screen-commanders-clash/"><u>In 2024, Screen Commanders Clash</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-depth-samsung-picture-editor-features-and-proscons/"><u>In-Depth Samsung Picture Editor  Features and Pros/Cons</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-guide-to-mute-audio-in-mp4-files-without-distorting-video-quality/"><u>New In 2024, Guide to Mute Audio in MP4 Files Without Distorting Video Quality</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-mobile-vhs-playback-the-ultimate-guide-to-top-apps/"><u>New In 2024, Mobile VHS Playback The Ultimate Guide to Top Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-rapid-video-trimming-on-mac-updated-2023/"><u>The Ultimate Guide to Rapid Video Trimming on Mac (Updated 2023)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-5-free-wmv-video-merging-solutions/"><u>Top 5 Free WMV Video Merging Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-a05s-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy A05s Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unveiling-the-quintessential-five-strategic-moves-for-youtube-marketing-success/"><u>Unveiling the Quintessential Five Strategic Moves for YouTube Marketing Success</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>Updated 2024 Approved Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-innovative-sound-transformation-software-best-male-to-female-effectors-on-win-and-mac-devices-for-2024/"><u>Updated Innovative Sound Transformation Software Best Male-to-Female Effectors on Win & Mac Devices for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-new-best-free-game-video-editing-software-for-2024/"><u>Updated NEW Best Free Game Video Editing Software for 2024</u></a></li>
+</ul></div>

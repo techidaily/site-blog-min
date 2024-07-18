@@ -1,7 +1,7 @@
 ---
 title: How to sign .doc file by digital signature
-date: 2024-03-11 18:26:59
-updated: 2024-03-12 10:25:55
+date: 2024-07-17T12:51:14.789Z
+updated: 2024-07-18T12:51:14.789Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to sign .doc file by digital signature
 excerpt: This article describes How to sign .doc file by digital signature
 keywords: .svd file signer online,.docm file signer online,word signature,.dotx file signature software
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## 1. How to sign .doc file by digital signature
@@ -47,10 +47,16 @@ These detailed instructions demonstrate how to sign a Word document online. Our 
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Word document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -63,16 +69,25 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/hover-mouse.png)
 
 Feel free to sign Word document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/draw-e-signature.png)
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -83,6 +98,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -106,6 +124,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Word on Windows
 
 You can use the standard features of Microsoft Office Word to digitally sign a document. There are several options:
@@ -134,6 +155,9 @@ You can also use a signature line in Word to insert a signature with properties.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -159,3 +183,46 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-exploring-ancient-facebook-tales-your-pcmobile-checklist/"><u>[New] Exploring Ancient Facebook Tales  Your PC/Mobile Checklist</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-streamline-your-steam-playback-for-flawless-replays/"><u>[New] In 2024, Streamline Your Steam Playback for Flawless Replays</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unending-shutdown-method-how-to-kill-off-youtube-shorts/"><u>[New] Unending Shutdown Method  How to Kill Off Youtube Shorts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-saving-instagrams-trending-videos/"><u>[Updated] 2024 Approved  The Ultimate Guide to Saving Instagram's Trending Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamline-your-listening-exclusive-access-to-this-curated-list-of-24-free-rippers/"><u>[Updated] Streamline Your Listening  Exclusive Access to This Curated List of 24 Free Rippers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-foundational-approach-to-gradual-volume-adjustment/"><u>2024 Approved  Foundational Approach to Gradual Volume Adjustment</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-remove-filmora-watermark-withwithout-paying-for-2024/"><u>How to Remove Filmora Watermark With/Without Paying for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-honor-magic-vs-2-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Honor Magic Vs 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-honor-play-40c-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Honor Play 40C?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-honor-play-7t-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Honor Play 7T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-honor-x50i-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Honor X50i?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-honor-x8b-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Honor X8b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-htc-u23-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from HTC U23?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-huawei-nova-y71-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Huawei Nova Y71?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-huawei-nova-y91-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Huawei Nova Y91?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-huawei-p60-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Huawei P60?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-infinix-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Infinix ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-infinix-gt-10-pro-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Infinix GT 10 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-infinix-hot-30-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Infinix Hot 30 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-infinix-hot-40-pro-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Infinix Hot 40 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-infinix-note-30-vip-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Infinix Note 30 VIP?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-infinix-smart-7-hd-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Infinix Smart 7 HD?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-infinix-smart-8-hd-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Infinix Smart 8 HD?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-infinix-smart-8-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Infinix Smart 8?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-itel-a05s-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Itel A05s?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-itel-a70-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Itel A70?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-itel-p55-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Itel P55?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-lava-blaze-2-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Lava Blaze 2 5G?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-14-plus-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 14 Plus with/without SIM Card</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-10plus-top-unlimited-fcpx-slideshow-templates/"><u>In 2024, 10+ Top Unlimited FCPX Slideshow Templates</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-premium-mac-sound-slicer-2024-edition-enhancements/"><u>New Premium Mac Sound Slicer 2024 Edition Enhancements</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-best-free-video-editing-solutions-for-gamers-for-2024/"><u>New The Best Free Video Editing Solutions for Gamers for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-best-stop-motion-software-for-mac-and-pc-for-2024/"><u>New Unleash Your Creativity Best Stop Motion Software for Mac and PC for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pioneers-in-virtual-marvel-storytelling-for-2024/"><u>Pioneers in Virtual Marvel Storytelling for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionizing-video-quality-with-nikon-j5/"><u>Revolutionizing Video Quality with Nikon J5</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-should-i-apply-pitch-correction-to-elevate-speech-sounds/"><u>Updated Should I Apply Pitch Correction to Elevate Speech Sounds?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-windows-video-editing-the-top-6-tools-you-need/"><u>Updated Windows Video Editing The Top 6 Tools You Need</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme GT 3 | Dr.fone</u></a></li>
+</ul></div>

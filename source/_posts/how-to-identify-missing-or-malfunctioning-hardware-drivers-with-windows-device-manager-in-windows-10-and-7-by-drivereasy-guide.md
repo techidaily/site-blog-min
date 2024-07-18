@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 10 & 7
-date: 2024-05-19T18:32:12.928Z
+date: 2024-07-17T10:14:03.727Z
 tags: 
   - driver
   - device driver
@@ -67,6 +67,9 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
@@ -75,11 +78,17 @@ To automatically update to the correct version of all the drivers that are missi
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -88,6 +97,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -107,6 +119,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -123,6 +138,9 @@ And without all these drivers, none of your devices will work.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -141,6 +159,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -164,6 +185,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -230,3 +254,52 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-kinemasters-secrets-to-transition-excellence/"><u>[Updated] 2024 Approved  Kinemaster's Secrets to Transition Excellence</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-catchy-choreo-tiktoks-favored-dance-hits/"><u>[Updated] Catchy Choreo  TikTok's Favored Dance Hits</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-the-art-of-mass-message-removal-on-discord-servers-for-2024/"><u>[Updated] Mastering the Art of Mass Message Removal on Discord Servers for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decoding-the-art-of-engaging-in-youtube-short-forms/"><u>Decoding the Art of Engaging in YouTube Short Forms</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-6s-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 6s in the Best Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-sony-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Sony</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-sony-xperia-10-v-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Sony Xperia 10 V</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-spark-10c-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Spark 10C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-spark-20-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Spark 20</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-spark-20c-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Spark 20C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-spark-go-2023-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Spark Go (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-storm-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Storm 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-tecno-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Tecno</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-tecno-camon-20-pro-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-tecno-pop-8-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Tecno Pop 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-tecno-pova-5-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-tecno-spark-go-2024-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-v-purse-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from V Purse</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-v29-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from V29 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-v29e-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from V29e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-v29e-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo V29e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-v30-lite-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-x100-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo X100</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-x90s-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo X90S</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-y100-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo Y100 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-y17s-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo Y17s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-y78-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo Y78 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-vivo-y78plus-t1-edition-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-x8b-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from X8b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-xiaomi-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Xiaomi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-xiaomi-14-ultra-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-xiaomi-redmi-12-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Xiaomi Redmi 12</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-xiaomi-redmi-12-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-xiaomi-redmi-k70-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Xiaomi Redmi K70</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-3-creative-strategies-for-enhanced-heads-on-tiktok-videos/"><u>In 2024, 3 Creative Strategies for Enhanced Heads on TikTok Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-nokia-g42-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Nokia G42 5G without backup.</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in .ott file
-date: 2024-05-19T18:32:13.166Z
-updated: 2024-05-20T18:32:13.166Z
+date: 2024-07-17T10:18:19.798Z
+updated: 2024-07-18T10:18:19.798Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to insert sign in .ott file
 excerpt: This article describes How to insert sign in .ott file
 keywords: best sign .wps file,.dotx file signature app,.wbk file signature online
-thumbnail: https://www.lifewire.com/thmb/5TQ2qNutxP1-2d0Nqc32lnx5qyc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-16-best-shows-to-watch-on-discovery-plus-right-now-5116795-b17411d87cfd4bd690fda5be50ea188c.jpg
+thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4f9c2a1611133710cbbaabe1.jpg
 ---
 
 ## 1. How to insert sign in .ott file
@@ -23,6 +23,9 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -37,6 +40,18 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
   > Save your changes by clicking on DONE, then select DOWNLOAD DOCUMENT to securely download it via protected SSL connection.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Word
 
 These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -47,6 +62,9 @@ These detailed instructions demonstrate how to sign a Word document online. Our 
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Word document will be fully available once the upload is completed.
@@ -57,6 +75,9 @@ In just a few seconds your Word document will be fully available once the upload
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -69,6 +90,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -83,6 +107,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -120,6 +147,9 @@ To implement each of the ways to install a digital signature in Word, you need t
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Word on Windows.
@@ -134,6 +164,9 @@ You can also use a signature line in Word to insert a signature with properties.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -161,3 +194,40 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-streamline-your-content-posting-twitter-videos-on-snapchat-for-2024/"><u>[New] Streamline Your Content  Posting Twitter Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-and-tricks-for-clearing-cluttered-backdrops-in-figma/"><u>[New] Tips and Tricks for Clearing Cluttered Backdrops in Figma</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-exploring-drones-vast-airtime-capabilities-top-10/"><u>[Updated] Exploring Drones' Vast Airtime Capabilities (Top 10)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-6-types-of-videos-that-will-hook-your-viewers/"><u>[Updated] In 2024, 6 Types of Videos That Will Hook Your Viewers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-adsense-a-step-by-step-approach-for-youtubers/"><u>2024 Approved  Navigating AdSense  A Step-by-Step Approach for YouTubers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-television-transformation-via-social-media-platforms-like-fb-live/"><u>2024 Approved  Television Transformation via Social Media Platforms Like FB Live</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-chart-ppt-to-video-tools-for-2024/"><u>Best Chart PPT to Video Tools for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-zte-by-fonelab-android-recover-music/"><u>How to retrieve erased music from ZTE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-zte-axon-40-lite-by-fonelab-android-recover-music/"><u>How to retrieve erased music from ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-zte-nubia-z60-ultra-by-fonelab-android-recover-music/"><u>How to retrieve erased music from ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-civi-3-disney-100th-anniversary-edition-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Civi 3 Disney 100th Anniversary Edition?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-civi-3-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Civi 3?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-edge-40-neo-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Edge 40 Neo?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-edge-40-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Edge 40 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-galaxy-a14-4g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Galaxy A14 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-galaxy-a15-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Galaxy A15 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-galaxy-a54-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Galaxy A54 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-galaxy-s23plus-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Galaxy S23+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Galaxy Z Flip 5?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-htc-u23-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in HTC U23 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-huawei-nova-y71-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Huawei Nova Y71?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-huawei-nova-y91-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Huawei Nova Y91?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-moto-g-stylus-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Moto G Stylus (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-moto-g-stylus-5g-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Moto G Stylus 5G (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-moto-g73-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Moto G73 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-motorola-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Motorola ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-motorola-defy-2-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Motorola Defy 2?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-breakthrough-tools-for-high-quality-audiovisual-content-production/"><u>New Breakthrough Tools for High-Quality Audiovisual Content Production</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-itel-p55-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Itel P55 5G FRP Bypass</u></a></li>
+</ul></div>

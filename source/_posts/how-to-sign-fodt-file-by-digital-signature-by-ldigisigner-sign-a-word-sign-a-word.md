@@ -1,7 +1,7 @@
 ---
 title: How to sign .fodt file by digital signature
-date: 2024-03-11 15:31:41
-updated: 2024-03-12 17:48:44
+date: 2024-07-17T12:53:36.888Z
+updated: 2024-07-18T12:53:36.888Z
 tags: 
   - signer
   - signer online
@@ -12,13 +12,16 @@ categories:
 description: This article describes How to sign .fodt file by digital signature
 excerpt: This article describes How to sign .fodt file by digital signature
 keywords: sign .dotx file,.dot file signature software,.rtf file signature free
-thumbnail: https://www.lifewire.com/thmb/iwoCmi7AdF2SQEdJBdU3jN_mTWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-136612668-5c640cc5c9e77c00010a4ff4.jpg
+thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550e51d2b3c30dcfc01a7a61b2.jpg
 ---
 
 ## 1. How to sign .fodt file by digital signature
 
 Electronic Signature in Word is a simple and secure way to sign documents online. It's a legally binding way to sign Word documents, and it's easy to use. You can sign Word documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Word documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
@@ -51,12 +54,18 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Word document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -69,10 +78,16 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/draw-e-signature.png)
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -83,6 +98,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -120,6 +138,9 @@ To implement each of the ways to install a digital signature in Word, you need t
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Word on Windows.
@@ -134,6 +155,9 @@ You can also use a signature line in Word to insert a signature with properties.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -159,3 +183,61 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-boosting-channels-growth-strategies-for-effective-trailers/"><u>[New] 2024 Approved  Boosting Channels' Growth  Strategies for Effective Trailers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-viral-success-the-most-loved-ae-themes-for-social-media/"><u>[New] 2024 Approved  Viral Success  The Most Loved AE Themes for Social Media</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-guide-to-samsung-photography-suite-2023/"><u>[New] Comprehensive Guide to Samsung Photography Suite, 2023</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-auditory-storytelling-at-a-high-level/"><u>[New] In 2024, Auditory Storytelling at a High Level</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-streaming-tools-duel-go-with-obs-or-shadowplay/"><u>[New] Streaming Tools Duel  Go with OBS or ShadowPlay?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-curating-soundscapes-a-detailed-look-at-youtube-playlists/"><u>[Updated] 2024 Approved  Curating Soundscapes  A Detailed Look at YouTube Playlists</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-free-to-fiscal-determining-view-counts-for-youtube-earnings-for-2024/"><u>[Updated] From Free to Fiscal  Determining View Counts for YouTube Earnings for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-download-instagram-highlights-in-2-ways-for-2024/"><u>[Updated] How to Download Instagram Highlights in 2 Ways for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-complete-guide-to-crafting-perfect-instagram-stories/"><u>[Updated] The Complete Guide to Crafting Perfect Instagram Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-highlighted-best-free-efficient-3d-videos-player-software/"><u>2024 Approved  Highlighted  Best Free, Efficient 3D Videos Player Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-windows-8-tools-for-flawless-display-captures/"><u>2024 Approved  Top Windows 8 Tools for Flawless Display Captures</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-watermark-free-tiktok-get-content-directly/"><u>2024 Approved  Watermark-Free TikTok  Get Content Directly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-14-plus-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 14 Plus Lock Screen</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/how-to-animate-picture-online-without-learning-from-scratch/"><u>How to Animate Picture Online Without Learning From Scratch</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-samsung-galaxy-f54-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy F54 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-narzo-n53-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Narzo N53?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-150-2023-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia 150 (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-c02-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia C02?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-c12-pro-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia C12 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-c12-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia C12?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-c300-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia C300?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-note-30-pro-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Note 30 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nubia-flip-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nubia Flip 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nubia Red Magic 8S Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nubia Red Magic 8S Pro+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oneplus-by-fonelab-android-recover-data/"><u>How to retrieve lost files from OnePlus ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oneplus-nord-3-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from OnePlus Nord 3 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from OnePlus Nord CE 3 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oneplus-open-by-fonelab-android-recover-data/"><u>How to retrieve lost files from OnePlus Open?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oppo-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Oppo ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oppo-a58-4g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Oppo A58 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oppo-a78-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Oppo A78?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oppo-find-n3-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Oppo Find N3?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Oppo Reno 11 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-phantom-v-flip-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Phantom V Flip?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-pixel-8-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Pixel 8?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-play-8t-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Play 8T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-poco-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Poco ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-poco-c51-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Poco C51?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-poco-f5-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Poco F5 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-poco-f5-pro-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Poco F5 Pro 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-13t-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi 13T Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-y100a-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Y100A Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-boosting-your-brand-on-instagram-proven-5-techniques-and-success-stories/"><u>In 2024, Boosting Your Brand on Instagram  Proven 5 Techniques & Success Stories</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-crafting-the-best-tunes-on-discord-with-advanced-audiophile-bots/"><u>In 2024, Crafting the Best Tunes on Discord With Advanced Audiophile Bots</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-directory-for-vr-display-venues/"><u>In 2024, Ultimate Directory for VR Display Venues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/minitool-movie-maker-an-honest-review-step-by-step-guide-and-top-alternatives-for-2024/"><u>Minitool Movie Maker An Honest Review, Step-by-Step Guide, and Top Alternatives for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pivotal-elements-of-crafting-persuasive-customer-success-stories/"><u>Pivotal Elements of Crafting Persuasive Customer Success Stories</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/tiktok-and-triller-showdown-similarities-and-differences-explored-max-156-chars-for-2024/"><u>TikTok and Triller Showdown  Similarities & Differences Explored (Max 156 Chars) for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-no-crack-no-problem-free-filmora-alternatives-you-can-trust/"><u>Updated 2024 Approved No Crack, No Problem Free Filmora Alternatives You Can Trust</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-editors-toolkit-enhancing-audio-effectiveness-through-keyframe-manipulation-in-final-cut-pro-x/"><u>Updated In 2024, The Editors Toolkit Enhancing Audio Effectiveness Through Keyframe Manipulation in Final Cut Pro X</u></a></li>
+</ul></div>

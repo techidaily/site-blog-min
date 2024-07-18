@@ -1,6 +1,6 @@
 ---
 title: How to install and update hardware device drivers manually in Windows 11
-date: 2024-05-19T18:32:13.287Z
+date: 2024-07-17T10:19:31.946Z
 tags: 
   - driver
   - device driver
@@ -47,6 +47,9 @@ There are two reasons why…
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -59,8 +62,14 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -88,10 +97,16 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -106,6 +121,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -129,6 +147,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -195,3 +216,54 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-enhance-your-photography-journey-mastering-the-art-of-snap-editing/"><u>[New] 2024 Approved  Enhance Your Photography Journey  Mastering the Art of Snap Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-top-5-weightless-action-recording-units/"><u>[New] Prime Top 5 Weightless Action Recording Units</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-content-selecting-top-thumbnail-fonts/"><u>[Updated] 2024 Approved  Elevate Your Content  Selecting Top Thumbnail Fonts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-8-best-instagram-scheduler-for-android-and-iphone/"><u>[Updated] 8 Best Instagram Scheduler for Android and iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-picture-to-paragraph-text-on-windows-and-mac-photos/"><u>[Updated] From Picture to Paragraph  Text on Windows & Mac Photos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-video-to-mp3-converting-hacks/"><u>[Updated] Instagram Video-to-MP3 Converting Hacks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-optimal-solution-review-prime-action-recorder/"><u>[Updated] Optimal Solution Review  Prime Action Recorder</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-practices-for-reading-youtube-comments/"><u>2024 Approved  Best Practices for Reading YouTube Comments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-m54-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy M54 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-note-50-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme Note 50 online without jailbreak</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-master-your-live-video-setting-up-dslr-on-laptop-or-desktop/"><u>In 2024, Master Your Live Video  Setting Up DSLR on Laptop or Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/install-windows-11-on-mac-with-parallels-step-by-step/"><u>Install Windows 11 on Mac with Parallels Step-by-Step</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-m34-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy M34 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-2024-approved-10-cartoon-canvas-painting-ideas-for-total-beginners/"><u>New 2024 Approved 10 Cartoon Canvas Painting Ideas for Total Beginners</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-get-pro-level-results-top-10-free-green-screen-video-editing-apps-for-mobile/"><u>New Get Pro-Level Results Top 10 Free Green Screen Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-create-engaging-audio-waveform-videos-with-these-web-apps/"><u>New In 2024, Create Engaging Audio Waveform Videos with These Web Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-mac-equivalent-of-windows-movie-maker-top-5-options-reviewed/"><u>New In 2024, Mac Equivalent of Windows Movie Maker Top 5 Options Reviewed</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-ultimate-vimeo-visual-guide-an-in-depth-look-at-aspect-ratio-details/"><u>New The Ultimate Vimeo Visual Guide An In-Depth Look at Aspect Ratio Details</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fixes-for-a-smooth-apex-play/"><u>Quick Fixes for a Smooth Apex Play</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-craft-unique-invites-with-these-top-video-maker-apps-for-2024/"><u>Updated Craft Unique Invites with These Top Video Maker Apps for 2024</u></a></li>
+</ul></div>

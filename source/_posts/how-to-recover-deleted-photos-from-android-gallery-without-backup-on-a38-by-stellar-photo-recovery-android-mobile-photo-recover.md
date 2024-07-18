@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on A38
-date: 2024-05-19T18:32:07.605Z
+date: 2024-07-17T08:58:53.056Z
 tags: 
   - recover
 categories: 
@@ -34,6 +34,18 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Oppo A38 model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
@@ -44,6 +56,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -53,6 +68,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -92,6 +110,9 @@ Watch this video for the step-by-step process to recover Gallery pictures from A
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Recover deleted Gallery from Android internal storage
 
 Mostly Android photos are saved in the internal storage of the Android device. You can recover the permanently deleted Android photos with the help of a recovery software. However, make sure your Oppo A38 device is rooted and has USB debugging enabled.
@@ -100,12 +121,18 @@ You can root the Android phone with the help of a rooting software. However, roo
 
 **Caution**: Rooting makes your Oppo A38 phone’s warranty null and void.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Steps to recover deleted Gallery photos from Android internal storage:
 
 - Download any secure Android recovery software on Windows or Mac computer.
 - Connect the rooted Android phone with your PC or Mac.
 - Launch the software, select the Android device to scan and follow the prompts in the software.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 5: Restore photos with inbuilt Android backup services
 
 These days, Android phone manufacturers provide their own inbuilt backup functions in the devices. You can back up your Oppo A38 phone’s app data to the phone’s cloud backup, local backup, Google backup, or external storage. The options vary with the mobile phone brands. Some mobile phones like Huawei even have a builtin backup app.
@@ -114,6 +141,9 @@ The location path of the backup function may differ with Android phones. General
 
 For example,
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/image.webp)
 
 - On Xiaomi Redmi phones: Settings> Additional Settings> Backup & reset
@@ -122,8 +152,14 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Oppo A38 to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -166,6 +202,9 @@ Download the software’s free trial to assess its performance and preview the d
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
 ### Q. How to retrieve deleted Photos on Android Tablet?
@@ -176,6 +215,9 @@ You can follow the methods shared in this post to recover photos from Android ta
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery without backup?
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -211,3 +253,40 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unlock-camera-live-screen-capture-analysis-and-top-replacements/"><u>[New] 2024 Approved  Unlock Camera Live Screen Capture  Analysis & Top Replacements</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-clearing-up-youtube-watchlater-stored-list-for-2024/"><u>[Updated] Guide  Clearing Up YouTube Watchlater Stored List for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-pinnacle-5-iphone-apps-for-auditory-escapades/"><u>[Updated] In 2024, Pinnacle 5 iPhone Apps for Auditory Escapades</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-hackers-handbook-advanced-win11-tactics/"><u>[Updated] The Hacker's Handbook  Advanced Win11 Tactics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-trailblaze-the-gaming-frontier-samsung-edition/"><u>[Updated] Trailblaze the Gaming Frontier  Samsung Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-behind-the-screen-scouting-the-hunt-for-pristine-paidless-tiktok-bgs/"><u>2024 Approved  Behind-the-Screen Scouting  The Hunt for Pristine, Paidless TikTok BGs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-resolve-non-playing-facebook-video-issues-androidios/"><u>2024 Approved  Resolve Non-Playing Facebook Video Issues (Android/iOS)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-crafting-soundscapes-for-film-and-video-fusion/"><u>2024 Approved Crafting Soundscapes for Film and Video Fusion</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-high-cpu-usage-by-wmi-service/"><u>Addressing High Cpu Usage by WMI Service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y78-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y78 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y78t-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y78t.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-13-ultra-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi 13 Ultra.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-13t-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi 13T.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-14-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi 14.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-12-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi 12 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-13c-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi 13C 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi K70 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-k70e-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi K70E.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-note-12-proplus-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi Note 12 Pro+ 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-note-12r-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi Note 12R.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi Note 13 Pro 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi Note 13 Pro+ 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xperia-1-v-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xperia 1 V.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-y100-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Y100 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-y17s-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Y17s.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-yuva-2-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Yuva 2.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-z50s-pro-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Z50S Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-zte-axon-40-lite-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from ZTE Axon 40 Lite.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-previous-version-of-excel-2000-file-by-stellar-guide/"><u>How to Restore Previous Version of Excel 2000 File?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-previous-version-of-excel-2000-file-stellar-by-stellar-guide/"><u>How to Restore Previous Version of Excel 2000 File? | Stellar</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streaming-made-simple-free-downloader-to-mp3s-now/"><u>In 2024, Streaming Made Simple  Free Downloader to MP3s Now</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-mp3-cutter-download-for-computer-and-mobile/"><u>Updated MP3 Cutter Download for Computer and Mobile</u></a></li>
+</ul></div>

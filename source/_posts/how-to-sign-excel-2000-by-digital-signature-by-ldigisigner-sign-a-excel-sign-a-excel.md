@@ -1,7 +1,7 @@
 ---
 title: How to sign Excel 2000 by digital signature
-date: 2024-03-11 21:25:55
-updated: 2024-03-12 10:41:17
+date: 2024-07-17T12:52:15.338Z
+updated: 2024-07-18T12:52:15.338Z
 tags: 
   - signer
   - signer online
@@ -12,13 +12,16 @@ categories:
 description: This article describes How to sign Excel 2000 by digital signature
 excerpt: This article describes How to sign Excel 2000 by digital signature
 keywords: best sign excel,free sign excel,.xlsx signature online,excel signature service,excel signature online
-thumbnail: https://www.lifewire.com/thmb/Xyb0vuGu9TpKbUdQlZdFVVUv0Bc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HotelTransylvaniaTransformania-71f0792728254936864ad509c847c73c.jpg
+thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4aedd9106177497020dbae72.jpg
 ---
 
 ## 1. How to sign Excel 2000 by digital signature
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
@@ -53,6 +56,9 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -71,10 +77,16 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -95,6 +107,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -118,10 +133,16 @@ You can use the standard features of Microsoft Office Excel to digitally sign a 
 
 To implement each of the ways to install a digital signature in Excel, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -136,6 +157,9 @@ You can also use a signature line in Excel to insert a signature with properties
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -161,3 +185,40 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-change-screenshot-saving-location-on-mac/"><u>[New] In 2024, Change Screenshot Saving Location on Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snappy-success-techniques-for-making-memorable-marketing-images-for-2024/"><u>[New] Snappy Success  Techniques for Making Memorable Marketing Images for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-seamless-video-broadcasting-via-microsoft-stream/"><u>[Updated] 2024 Approved  Seamless Video Broadcasting via Microsoft Stream</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-masterful-motorsports-discover-the-5-leading-racers-simulators/"><u>[Updated] In 2024, Masterful Motorsports  Discover the 5 Leading Racers Simulators</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-craft-crisp-composites-online-with-top-frameer-tools/"><u>2024 Approved  Craft Crisp Composites Online with Top Frameer Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-redmi-k70e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi Redmi K70E Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/become-a-reel-pro-in-30-days-or-less/"><u>Become a Reel Pro in 30 Days or Less</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-s17-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from S17</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-s17-pro-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from S17 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-a15-4g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-a15-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-a24-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy A24</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-f14-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-s23plus-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy S23+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-s24plus-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy S24+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-smart-8-pro-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Smart 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-sony-xperia-1-v-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Sony Xperia 1 V</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-spark-10-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Spark 10 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-spark-20-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Spark 20</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-poco-x5-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Poco X5 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-innovations-in-capturing-high-quality-facetime-calls/"><u>In 2024, Innovations in Capturing High-Quality FaceTime Calls</u></a></li>
+<li><a href="https://extra-support.techidaily.com/podcasting-prowess-crafting-a-trendsetting-showcase-for-2024/"><u>Podcasting Prowess  Crafting a Trendsetting Showcase for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-video-editing-on-android-here-are-the-top-10-imovie-alternatives/"><u>Updated In 2024, Video Editing on Android? Here Are the Top 10 iMovie Alternatives</u></a></li>
+</ul></div>

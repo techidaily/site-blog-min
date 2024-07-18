@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-05-19T18:32:12.734Z
+date: 2024-07-17T10:11:47.276Z
 tags: 
   - driver
   - device driver
@@ -40,6 +40,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -55,6 +58,9 @@ To understand why, you first have to understand what drivers actually are…
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -63,6 +69,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -78,10 +87,16 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -114,6 +129,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -186,12 +204,18 @@ To automatically update to the correct version of all the drivers that are missi
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -217,3 +241,50 @@ There are two reasons why…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-tips-for-switch-gaming-recordings/"><u>[New] In 2024, Essential Tips for Switch Gaming Recordings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-complete-guide-to-generating-profits-vimeo-monetization-mastery-for-2024/"><u>[New] The Complete Guide to Generating Profits  Vimeo Monetization Mastery for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-a-guide-to-tailoring-your-hashtag-strategy-for-maximum-engagement-and-conversion-rates-on-facebook/"><u>[Updated] 2024 Approved  A Guide to Tailoring Your Hashtag Strategy for Maximum Engagement and Conversion Rates on Facebook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-command-and-conquer-the-pinnacle-of-strategic-sagas-in-7-total-war-games-for-2024/"><u>[Updated] Command & Conquer  The Pinnacle of Strategic Sagas in 7 Total War Games for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-evaluating-the-financial-giants-mr-beast/"><u>2024 Approved  Evaluating the Financial Giants  Mr. Beast</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-hold-your-audiences-gaze-essential-6-video-formats/"><u>2024 Approved  Hold Your Audience's Gaze  Essential 6 Video Formats</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-fps-range-in-leisurely-cinematic-scenes/"><u>2024 Approved  Prime FPS Range in Leisurely Cinematic Scenes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-quick-fixes-enhancing-your-snaps-with-snapchat-edits/"><u>2024 Approved  Quick Fixes  Enhancing Your Snaps with Snapchat Edits</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harmony-and-law-instagrams-music-codex/"><u>Harmony & Law  Instagram's Music Codex</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-poco-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Poco</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-poco-c65-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Poco C65</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-realme-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Realme</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-realme-c53-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Realme C53</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-realme-gt-5-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Realme GT 5 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-realme-gt-neo-5-se-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-realme-narzo-60-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Realme Narzo 60 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-realme-narzo-60-pro-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-realme-narzo-n55-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Realme Narzo N55</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-redmi-note-13-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Redmi Note 13 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-s17-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from S17</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-s17t-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from S17t</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-s23plus-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from S23+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-samsung-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Samsung</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-samsung-galaxy-a05s-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Samsung Galaxy A05s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-samsung-galaxy-a15-4g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-samsung-galaxy-a15-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-samsung-galaxy-a24-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Samsung Galaxy A24</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-samsung-galaxy-f54-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-samsung-galaxy-m34-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Samsung Galaxy M34</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-sony-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Sony</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-tecno-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Tecno</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-tecno-spark-20-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Tecno Spark 20</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-tecno-spark-20-proplus-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-u23-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from U23 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-mastering-voice-effects-explore-free-flexible-audio-transformations/"><u>In 2024, Mastering Voice Effects  Explore Free, Flexible Audio Transformations</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-12-mini-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 12 mini Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-nokia-g42-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nokia G42 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-6-masterpieces-designing-mc-village-homes-for-2024/"><u>Top 6 Masterpieces  Designing MC Village Homes for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to sign .fodt file free
-date: 2024-03-11 20:52:15
-updated: 2024-03-12 21:42:31
+date: 2024-07-17T12:53:43.942Z
+updated: 2024-07-18T12:53:43.942Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to sign .fodt file free
 excerpt: This article describes How to sign .fodt file free
 keywords: sign .svd file online,best sign .wpt file,.doc file signer online,.doc file signature service,sign .uot file
-thumbnail: https://www.lifewire.com/thmb/CUKW3XFY7liGlZzhBQy-nvEFMFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/frenchopen-4d320297828b413f84f9940d5bd258f9.jpg
+thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e6c7211350802c91feadcdaf.jpg
 ---
 
 ## 1. How to sign .fodt file free
@@ -37,6 +37,9 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
   > Save your changes by clicking on DONE, then select DOWNLOAD DOCUMENT to securely download it via protected SSL connection.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Word
 
 These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -47,16 +50,25 @@ These detailed instructions demonstrate how to sign a Word document online. Our 
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Word document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -69,6 +81,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -77,6 +92,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -128,12 +146,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -159,3 +183,42 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-step-by-step-guide-for-erasing-image-backdrops-with-photopea/"><u>[New] A Step-by-Step Guide for Erasing Image Backdrops with Photopea</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-amplify-and-transform-changing-your-audible-image-on-ig/"><u>[Updated] 2024 Approved  Amplify and Transform  Changing Your Audible Image on IG</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-become-an-instagram-content-wizard-with-smart-cropping-practices/"><u>[Updated] Become an Instagram Content Wizard with Smart Cropping Practices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-gratuitous-pure-capture-of-your-display/"><u>[Updated] In 2024, Gratuitous Pure Capture of Your Display</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-gopro-quik-for-pc-a-review-and-comparison-of-alternative-options/"><u>2024 Approved GoPro Quik for PC A Review and Comparison of Alternative Options</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/german-expressions-unveiled-a-curated-list-of-the-top-25/"><u>German Expressions Unveiled: A Curated List of the Top 25</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a14-4g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A14 4G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with digital signature app</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with digital signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with digital signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with electronic signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-electronic-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with electronic signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with electronic signature tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with digital signature app</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with digital signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with digital signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with electronic signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-electronic-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with electronic signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with electronic signature tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with digital signature app</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with digital signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with digital signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with electronic signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-electronic-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with electronic signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with electronic signature tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v13-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.3 document with digital signature app</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v13-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.3 document with digital signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v13-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.3 document with digital signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v13-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.3 document with electronic signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v13-document-with-electronic-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.3 document with electronic signature software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-jumpstart-your-channel-with-these-top-10-video-editing-tips/"><u>In 2024, Jumpstart Your Channel with These Top 10 Video Editing Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oppo-f23-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Oppo F23 5G Phones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pioneering-sci-fi-escapades-10-movies-into-uncharted-realms/"><u>Pioneering Sci-Fi Escapades  10 Movies Into Uncharted Realms</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-fusion-of-forms-innovative-methods-for-merging-video-with-sound-for-2024/"><u>Updated Fusion of Forms Innovative Methods for Merging Video with Sound () for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Honor Magic 5 | Dr.fone</u></a></li>
+</ul></div>

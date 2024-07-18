@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Driver on Windows 11
-date: 2024-05-19T18:32:13.602Z
+date: 2024-07-17T10:24:01.770Z
 tags: 
   - driver
   - device driver
@@ -27,6 +27,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -54,6 +57,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -85,6 +91,9 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -112,6 +121,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -122,6 +134,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -174,6 +189,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -184,6 +202,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -218,3 +239,47 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-essentials-of-crafting-crystal-clear-vhs-graphics-online/"><u>[New] In 2024, The Essentials of Crafting Crystal-Clear VHS Graphics Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ights-camera-action-youtubes-17-essentials-for-2024/"><u>[New] Lights, Camera, Action! - YouTube's #17 Essentials for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-manycam-recorder-review/"><u>[New] ManyCam Recorder Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-rapid-rendering-of-epic-battle-royale-tiles/"><u>[New] Rapid Rendering of Epic Battle Royale Tiles</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-bypass-tradition-innovative-techniques-to-boost-your-tiktok-photos/"><u>[Updated] 2024 Approved  Bypass Tradition  Innovative Techniques to Boost Your TikTok Photos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-beyond-mainstream-a-list-of-6-exclusive-icon-and-logo-providers/"><u>[Updated] Beyond Mainstream  A List of 6 Exclusive Icon & Logo Providers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-boosting-video-conference-quality-a-guide-to-using-zoom-and-skype/"><u>[Updated] Boosting Video Conference Quality  A Guide to Using ZOOM & SKYPE</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-top-auditory-aids-the-ultimate-list-of-premium-discord-music-bots-to-try/"><u>[Updated] In 2024, Top Auditory Aids  The Ultimate List of Premium Discord Music Bots to Try</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-laughlineup-app-become-a-master-at-memes/"><u>[Updated] LaughLineup App - Become a Master at Memes</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2-methods-to-crop-a-video-using-after-effects-for-2024/"><u>2 Methods to Crop a Video Using After Effects for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-apoyo-affordable-lightroom-counterparts-reviewed/"><u>2024 Approved  Apoyo  Affordable Lightroom Counterparts Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/blending-beats-fusion-studios-guide-to-cohesive-sound/"><u>Blending Beats  Fusion Studio's Guide to Cohesive Sound</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/customize-your-video-to-pique-instagram-interest/"><u>Customize Your Video to Pique Instagram Interest</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-v29-pro-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo V29 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-v29-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo V29.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-v29e-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo V29e.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-v30-lite-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo V30 Lite 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-x100-pro-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo X100 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-x90s-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo X90S.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y02t-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y02T.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y100i-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y100i.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y200-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y200.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y27s-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y27s.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y36i-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y36i.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y78-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y78 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y78t-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y78t.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-13-ultra-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi 13 Ultra.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-13t-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi 13T.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-14-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi 14.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-12-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi 12 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-13c-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi 13C 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi K70 Pro.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-xr-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone XR Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-t2-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo T2 Pro 5G?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-share-screen-on-skype-when-working-from-home/"><u>In 2024, How to Share Screen on Skype When Working From Home</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-immersive-animal-life-on-android-ultimate-list/"><u>In 2024, Immersive Animal Life on Android  Ultimate List</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-smarter-gameplay-strategic-memory-allocation-to-minecraft/"><u>In 2024, Smarter Gameplay  Strategic Memory Allocation to Minecraft</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-soundcloud-to-mp3-conversion-made-easy-top-tips/"><u>New Soundcloud to MP3 Conversion Made Easy Top Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-procedure-for-gpu-detection-in-windows-11/"><u>Speedy Procedure for GPU Detection in Windows 11</u></a></li>
+</ul></div>

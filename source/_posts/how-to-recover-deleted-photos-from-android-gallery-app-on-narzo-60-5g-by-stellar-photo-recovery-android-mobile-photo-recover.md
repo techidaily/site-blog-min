@@ -1,7 +1,7 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Narzo 60 5G
-date: 2024-05-19T18:32:07.473Z
-updated: 2024-05-20T18:32:07.473Z
+date: 2024-07-17T08:56:20.341Z
+updated: 2024-07-18T08:56:20.341Z
 tags: 
   - recover
 categories: 
@@ -24,6 +24,9 @@ However, we all make mistakes, sometimes in a hurry or unknowingly, which lead t
 
 But no worries. Here you will know how to recover deleted photos from Android Gallery app. This post shares the best 7 ways worth trying to restore deleted photos on Android devices, both with and without software.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/How-to-Recover-Deleted-Photos-from-Android-Gallery-app.webp)
 
 ## Method 1: Recover Android photos from Google Photos
@@ -37,9 +40,15 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Realme Narzo 60 5G model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Recover Gallery photos from Google Drive
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
@@ -75,13 +84,22 @@ The software works on damaged, corrupt, formatted, inaccessible mobile SD cards 
 
 In addition, you can also restore your Gallery videos and audio files with the help of Stellar Photo Recovery. It is available for both Windows and Mac computers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover Gallery photos with Stellar Photo Recovery:
 
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
 
 Watch this video for the step-by-step process to recover Gallery pictures from Android SD card with the help of Stellar Photo Recovery : 
@@ -109,6 +127,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 - Connect the rooted Android phone with your PC or Mac.
 - Launch the software, select the Android device to scan and follow the prompts in the software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5: Restore photos with inbuilt Android backup services
 
 These days, Android phone manufacturers provide their own inbuilt backup functions in the devices. You can back up your Realme Narzo 60 5G phone’s app data to the phone’s cloud backup, local backup, Google backup, or external storage. The options vary with the mobile phone brands. Some mobile phones like Huawei even have a builtin backup app.
@@ -125,8 +146,14 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Realme Narzo 60 5G to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -140,6 +167,9 @@ Your photos will be visible again in the Gallery app.
 - In ES File Explorer Menu go to **Settings> Display** Settings.
 - Enable **Show Hidden Files**. All the .nomedia files will be visible in the phone’s folders. You can delete them now.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 7: Recover Gallery photos from Android cloud backup
 
 Apart from built-in Google cloud backup apps, you might be using other cloud storage such as DropBox or OneDrive etc. If you have enabled Android Gallery backup in any such cloud backup, restore the deleted Gallery photos from there.
@@ -179,6 +209,9 @@ You can follow the methods shared in this post to recover photos from Android ta
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery without backup?
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -214,3 +247,56 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-essential-guide-to-social-media-video-ratios-on-facebook/"><u>[New] Essential Guide to Social Media Video Ratios on Facebook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-harness-the-power-of-mp4-converting-youtube-shorts/"><u>[New] Harness the Power of Mp4  Converting YouTube Shorts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-vlc-player-from-live-viewing-to-recording/"><u>[New] In 2024, VLC Player  From Live Viewing to Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtubes-opposite-order-rearranging-videos-in-reverse-flow/"><u>[New] Youtube's Opposite Order  Rearranging Videos in Reverse Flow</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hideous-heroes-black-vs-gleaming-guardians-silver/"><u>[Updated] Hideous Heroes (Black) VS Gleaming Guardians (Silver)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/10-innovative-ideas-to-shield-your-webcam-for-2024/"><u>10 Innovative Ideas to Shield Your Webcam for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-elevating-your-instagram-highlights-with-exquisite-photography/"><u>2024 Approved  Elevating Your Instagram Highlights with Exquisite Photography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-headsets-unveiled-top-8-for-virtual-quests/"><u>2024 Approved  Innovative Headsets Unveiled  Top 8 for Virtual Quests</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-must-see-top-5-youtube-link-share-extensions/"><u>2024 Approved  Must-See Top 5 YouTube Link Share Extensions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-overcoming-obscured-visual-space-on-youtube/"><u>2024 Approved  Overcoming Obscured Visual Space on YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/cting-youtube-copyright-vs-creative-commons-ethos-for-2024/"><u>Dissecting YouTube Copyright Vs. Creative Commons Ethos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-phantom-v-fold-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Phantom V Fold</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-pixel-8-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Pixel 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-poco-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Poco</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-poco-c65-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Poco C65</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-poco-f5-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Poco F5 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-poco-m6-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Poco M6 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-poco-x5-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Poco X5 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-poco-x6-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Poco X6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-10t-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme 10T 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-11-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme 11 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-11-proplus-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme 11 Pro+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-11x-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme 11X 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-c51-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme C51</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-c67-4g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme C67 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-gt-5-240w-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme GT 5 (240W)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-gt-neo-5-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme GT Neo 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-narzo-60-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme Narzo 60 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-narzo-60-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-narzo-60x-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-narzo-n53-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme Narzo N53</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-red-magic-8s-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Red Magic 8S Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-redmi-note-12t-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Redmi Note 12T Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-reno-10-proplus-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-reno-9a-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Reno 9A</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-s17-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on S17 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-s17e-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on S17e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-s17t-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on S17t</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-s18-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on S18 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-s23-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on S23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-s23plus-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on S23+</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-honor-magic5-ultimatemirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Honor Magic5 UltimateMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974137317-install-latest-intel-hd-graphics-3000-on-windows-10-swiftly/"><u>Install Latest Intel HD Graphics 3000 on Windows 10 Swiftly</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-navigating-virtual-connections-safety-essentials-for-online-meetups/"><u>New Navigating Virtual Connections Safety Essentials for Online Meetups</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-guide-to-seamless-snapchat-lens-creation/"><u>The Ultimate Guide to Seamless Snapchat Lens Creation</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-ultimate-list-of-mobile-audio-augmentation-tools-iosandroid-2023-edition-for-2024/"><u>The Ultimate List of Mobile Audio Augmentation Tools (iOS/Android, 2023 Edition) for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-the-speakers-digest-top-text-to-speech-sites-for-enhanced-digital-interaction/"><u>Updated In 2024, The Speakers Digest - Top Text-to-Speech Sites for Enhanced Digital Interaction</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>What is the best Pokemon for pokemon pvp ranking On Apple iPhone 6s? | Dr.fone</u></a></li>
+</ul></div>

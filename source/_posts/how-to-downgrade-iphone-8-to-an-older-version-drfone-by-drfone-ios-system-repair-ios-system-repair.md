@@ -1,7 +1,7 @@
 ---
 title: How to Downgrade iPhone 8 to an Older Version? | Dr.fone
-date: 2024-05-19T18:32:10.740Z
-updated: 2024-05-20T18:32:10.740Z
+date: 2024-07-17T09:45:52.420Z
+updated: 2024-07-18T09:45:52.420Z
 tags: 
   - ios system repair
   - iphone repair
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Downgrade iPhone 8 to an Older Version?
 excerpt: This article describes How to Downgrade iPhone 8 to an Older Version?
 keywords: upgrade or downgrade iPhone 8 without iTunes,repair iPhone 8 system issues,DFU mode on iPhone 8,reset iPhone 8,repair iPhone system issues,recovery mode on iPhone 8,DFU mode on iPhone,upgrade or downgrade iPhone without iTunes,recovery mode on iPhone,reset iPhone
-thumbnail: https://www.lifewire.com/thmb/nkL-0VwZC4rZHc_IxhqFzu82L6A=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps6-concept-trailer-64aac5b7323041ad93d7535eccf7df40.png
+thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2edc67c914e7a3a40f4a1feb7f.png
 ---
 
 ## How To Repair iPhone 8 iOS System Issues?
@@ -31,6 +31,9 @@ The first method involves a standard repair against a problematic iDevice. If yo
 
 Launch [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/ios-system-repair/) after successfully downloading the tool on your computer. Continue to the **Toolbox** section from the top-left section of the screen. Select **System Repair** from the list of options appearing on the home screen.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open drfone toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 _Dr.Fone Mac version still has the old interface, but it does not affect the use of Dr.Fone function, we will update it as soon as possible._
@@ -57,6 +60,9 @@ The next window demands you select the repair mode for your iOS device. Select *
 
 For the next step, you are advised to put your iOS device into Recovery Mode. By following the on-screen instructions, you can easily put your iDevice into Recovery Mode. Once done, tap **Enter Recovery Mode** to lead next. If not, click the **Guide** button to follow the instructions to put an unresponsive or abnormal device into Recovery Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![put iphone in recovery mode standard](https://images.wondershare.com/drfone/guide/ios-system-repair-3.png)
 
 - **Step 6**: Download the Appropriate iOS Firmware
@@ -87,6 +93,9 @@ The progress bar on the next screen shows the completion of the process. Wait un
 
 The following screen shows the completion of the process. Choose the **Done** option to conclude the entire repair process and use your iOS device easily.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![successful ios repair standard](https://images.wondershare.com/drfone/guide/ios-system-repair-8.png)
 
 ### Part 2: iOS Advanced Repair
@@ -109,18 +118,27 @@ On the next screen, you will find a guide explaining how to put your iOS device 
 
 Once done, you will be prompted to another screen where you have to select the respective iOS firmware you want to download on your iDevice. Select **Download** adjacent to the respective iOS firmware to initiate the process.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select ios firmware for advanced repair](https://images.wondershare.com/drfone/guide/ios-system-repair-4.png)
 
 - **Step 4**: Start Downloading the Selected iOS Firmware
 
 The iOS firmware starts downloading on the platform, which will be verified before installation on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![download ios firmware for advanced repair](https://images.wondershare.com/drfone/guide/ios-system-repair-5.png)
 
 - **Step 5**: Proceed to Install iOS Firmware on Device
 
 As the firmware is ready for installation, click **Repair Now** to execute the process.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![perform advanced ios repair](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
 - **Step 6**: View the Installation Progress of the Firmware
@@ -145,6 +163,9 @@ Have you been working with Wondershare [Dr.Fone - System Repair (iOS)](https://t
 
 [Upgrade to the Newest Dr.Fone Manage Your Phone Wherever You Go](https://secure.2checkout.com/order/checkout.php?PRODS=4719746&QTY=1&AFFILIATE=108875&CART=1)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Part 1: How To Exit Recovery Mode (Free Service)
 
 While working for a specific operation, you might have put your iOS device in Recovery Mode. If so, taking it out of the Recovery Mode seems an impossible task. In such a condition, you can consider using the free service of Wondershare Dr.Fone. While no data of the iPhone 8 device is at risk, follow the procedure described below to **exit Recovery Mode iPhone:**
@@ -167,28 +188,43 @@ On the window that opens up, select **iOS** to define the nature of the iPhone 8
 
 Continue to select **Toolbox Repair** from the options on the next screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![access toolbox repair](https://images.wondershare.com/drfone/guide/toolbox-repair-1.png)
 
 - **Step 4**: Verify Device Condition and Select Option
 
 Verify if the screen of your iOS device is showing the respective visuals. If so, your iOS device is in Recovery Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![check device status](https://images.wondershare.com/drfone/guide/exit-recovery-mode-1.png)
 
 After verifying the situation of your iOS device, continue to select the **Exit Recovery Mode** option on the window that opens.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![proceed to exit recovery mode](https://images.wondershare.com/drfone/guide/exit-recovery-mode-2.png)
 
 - **Step 5**: Exit Recovery Mode
 
 The Exit Recovery Mode process is a one-click process that will execute the complete task. Click **Exit Recovery Mode** on the bottom of the screen to carry out the process.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![perform one click function](https://images.wondershare.com/drfone/guide/exit-recovery-mode-3.png)
 
 - **Step 6**: Execute the Process Successfully
 
 The next window will display the completion of the process. Check if your iOS device is operational or not. If the device does not start, you can tap on the **Standard Mode** option below to fix the problematic device.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![exit recovery mode successfully](https://images.wondershare.com/drfone/guide/exit-recovery-mode-4.png)
 
 ### Part 2: How To Exit DFU Mode (Free Service)
@@ -199,6 +235,18 @@ The next window will display the completion of the process. Check if your iOS de
 
 As you navigate into the **Toolbox Repair** function provided by System Repair (iOS), proceed to the next screen to select the option of **Exit DFU Mode.**
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![proceed to exit dfu mode](https://images.wondershare.com/drfone/guide/exit-dfu-mode-1.png)
 
 - **Step 2**: Follow On-Screen Instructions to Exit
@@ -227,6 +275,9 @@ _Dr.Fone Mac version still has the old interface, but it does not affect the use
 
 You are advised to select **iOS** from the next screen as you will be installing the public beta on an iDevice.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![select ios to proceed](https://images.wondershare.com/drfone/guide/system-repair-2.png)
 
 - **Step 3**: Continue For Installing iOS Beta Version
@@ -243,12 +294,18 @@ Following this, you will have to connect your iDevice, which is to be upgraded w
 
 As the connection is established, the platform detects the device on the computer automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![successfully connected with usb](https://images.wondershare.com/drfone/guide/ios-upgrade-downgrade-3.png)
 
 - **Step 5**: Download the Required iOS Beta Firmware
 
 The next screen displays the beta versions installed on the iPhone 8. Click **Download** adjacent to a particular version and continue.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![select ios beta firmware](https://images.wondershare.com/drfone/guide/install-ios-beta-2.png)
 
 - **Step 6**: Continue to Download the iOS Beta On Platform
@@ -261,6 +318,9 @@ The following screen shows the initiation of downloading the iOS beta version on
 
 As the iOS firmware installs successfully, it is verified by the platform and made available for installation on the device. Continue to click **Repair Now** to redirect toward the installation of the firmware.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![install ios beta firmware on iPhone 8](https://images.wondershare.com/drfone/guide/install-ios-beta-4.png)
 
 - **Step 8**: Conclude Installation of iOS Public Beta
@@ -288,3 +348,44 @@ Once it is concluded, a prompt message appears on the window. You are advised to
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-addressing-android-and-ios-issues-with-fb-messages-video-transmission/"><u>[New] 2024 Approved  Addressing Android & iOS Issues with FB Messages Video Transmission</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illuminate-canon-cameras-combining-freebies-and-paid-lut-sets/"><u>[New] Illuminate Canon Cameras  Combining Freebies and Paid LUT Sets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-overwatch-gameplay-recording-made-easy/"><u>[New] In 2024, Overwatch Gameplay Recording Made Easy</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unlocking-youtubes-potential-the-25-step-guide/"><u>[New] In 2024, Unlocking YouTube's Potential  The 25-Step Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-complete-manual-for-expert-use-of-screen-recorder-by-zd-soft/"><u>[Updated] Complete Manual for Expert Use of Screen Recorder by ZD Soft</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-cutting-edge-8-content-creators-skyrocketing-growth-for-2024/"><u>[Updated] Cutting-Edge 8 Content Creators Skyrocketing Growth for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-noshadowedit-advanced-background-shadow-elimination/"><u>[Updated] NoShadowEdit  Advanced Background Shadow Elimination</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-instagram-blueprint-crafting-content-for-a-thousand-strong-audience/"><u>[Updated] The Instagram Blueprint  Crafting Content for a Thousand-Strong Audience</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-tips-for-clearer-audio-removing-audacitys-background-noise-for-2024/"><u>[Updated] Tips for Clearer Audio  Removing Audacity's Background Noise for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-file-extraction-from-youtube-browser-os-and-terminal-methods/"><u>2024 Approved  Navigating File Extraction From Youtube  Browser, OS and Terminal Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-smooth-sailing-in-filming-top-phones-offering-premium-image-stabilization/"><u>2024 Approved  Smooth Sailing in Filming  Top Phones Offering Premium Image Stabilization</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-symphony-storage-download-and-critique-melodies/"><u>2024 Approved  Symphony Storage  Download & Critique Melodies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-k11-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo K11 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-asus-rog-phone-8-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Asus ROG Phone 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-asus-rog-phone-8-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-g42-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from G42 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-galaxy-a15-4g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Galaxy A15 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-gionee-f3-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Gionee F3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-google-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Google</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-google-pixel-7a-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Google Pixel 7a</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-google-pixel-8-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Google Pixel 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-google-pixel-fold-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Google Pixel Fold</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-gt-neo-5-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from GT Neo 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-honor-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Honor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-honor-100-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Honor 100</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-honor-70-lite-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Honor 70 Lite 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-honor-90-gt-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Honor 90 GT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-honor-90-lite-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Honor 90 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-honor-magic-6-lite-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Honor Magic 6 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-honor-magic-6-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Honor Magic 6 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-honor-magic-v2-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Honor Magic V2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-honor-magic-vs-2-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Honor Magic Vs 2</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-narzo-60x-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme Narzo 60x 5G FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oneplus-nord-n30-5g-by-drfone-android/"><u>Three Ways to Sim Unlock OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-best-gopro-video-editing-software-beyond-gopro-studio/"><u>Updated Unleash Your Creativity Best GoPro Video Editing Software Beyond GoPro Studio</u></a></li>
+</ul></div>

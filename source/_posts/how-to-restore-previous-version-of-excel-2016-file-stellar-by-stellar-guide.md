@@ -1,7 +1,7 @@
 ---
 title: How to Restore Previous Version of Excel 2016 File? | Stellar
-date: 2024-03-13 23:50:47
-updated: 2024-03-14 15:30:54
+date: 2024-07-17T12:25:48.578Z
+updated: 2024-07-18T12:25:48.578Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to Restore Previous Version of Excel 2016 File?
 excerpt: This article describes How to Restore Previous Version of Excel 2016 File?
 keywords: repair .xls,repair excel 2000,repair excel,repair damaged .xls,repair corrupt .xls files,repair .xlsx,repair corrupt .csv files
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## How to Repair Multiple Excel Files by Using Stellar
@@ -26,11 +26,17 @@ With Stellar Repair for Excel, it is quite easy and simple to repair multiple MS
 
 - Click **Browse** and select corrupt Excel files. Select the checkbox to repair multiple files.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Search file](https://www.stellarinfo.com/blog/wp-content/uploads/2019/08/22-search-file.png)
 
 - Click Repair
 - The software provides the preview facility. You can check the it on left pane.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Preview of file](https://www.stellarinfo.com/blog/wp-content/uploads/2019/08/4-preview.png)
 
 - Save the repired filr ether **Default location** or **Select New Folder** radio button.
@@ -39,6 +45,9 @@ With Stellar Repair for Excel, it is quite easy and simple to repair multiple MS
 
 Stellar Repair for Excel Stellar Repair for Excel is the best choice for repairing corrupt or damaged Excel (.XLS/.XLSX) files. This Excel recovery software restores everything from corrupt file to a new blank Excel file.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 [Learn More ![red arrow](https://www.stellarinfo.com/image/catalog/blacktheme/data-recovery-standard/red-arrow.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 
@@ -46,10 +55,16 @@ Stellar Repair for Excel Stellar Repair for Excel is the best choice for repairi
 
 **Summary:** You may encounter the “Unable to record macro” error in MS Excel when using Personal Macro Workbooks. In this post, we’ll discuss the possible causes behind this error and the ways to fix it. We’ll also mention a professional Excel repair tool that can help fix the error if it occurs due to corrupted workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 A personal macro workbook (Personal.xlsb file) is a hidden workbook in Excel that stores all macros in a single workbook. This allows you to automate processes while working in Excel. Sometimes, when recording macro codes in the personal macro workbook, you may get the message “**Personal Macro Workbook in a startup folder must stay open for recording**”. When you click on the **OK** button, it will show the “unable to record” error. This prevents you from recording the macros. Below, we’ll see the causes behind this error and discuss how to resolve this error.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Causes of Unable to Record Macro Error**
 
 You may be unable to record macros in Excel due to several reasons. Let’s take a look at the possible causes that can lead to this issue.
@@ -62,6 +77,9 @@ You may be unable to record macros in Excel due to several reasons. Let’s take
 
 Here are some possible solutions that can help you resolve the unable to record macro error in Excel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Check the Path of XLStart Folder
 
 You may be unable to record macros if the path of XLStart folder is incorrect. It is a folder where the Personal.xlsb file is stored by default. Follow these steps to find out the path of this folder:
@@ -73,6 +91,9 @@ You may be unable to record macros if the path of XLStart folder is incorrect. I
 
 - In the **Trust Center Settings** window, click on **Trusted Locations**.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Path Of XLStart Folder In Trust Center](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/02/path-of-xlstart-folder-in-trust-center.png)
 
 - Verify the path of the **XLSTART** folder and modify it if there is an issue.
@@ -88,6 +109,9 @@ The “Unable to record macro” error can occur if macros are disabled in the M
 
 - Under **Trust Center,** click on **Trust Center Settings**.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Change Macro Settings In Trust Center](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/02/change-macro-settings-in-trust-center.png)
 
 - Select **“Enable all macros”** and then click **OK.**
@@ -118,10 +142,16 @@ You may fail to record macros if there is corruption in the workbook. In such a 
 - Browse to the location where the corrupted file is stored.
 - In the **Open** dialog box, choose the corrupted workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open Dialog Box](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/02/open-dialog-box.png)
 
 - From the **Open** dropdown list, click **Open and Repair**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open And Repair Window](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/02/open-and-repair-window.png)
 
 Excel will prompt you to repair the file or extract data from it. Click **Repair** to retrieve maximum data. If the Repair option fails, then click on the Extract Data option to recover the data without formulas and values.
@@ -133,6 +163,9 @@ If the Microsoft utility “Open and Repair” fails to repair the corrupted Exc
 You may receive the “unable to record” error in Excel while creating or storing macros in Personal Macro Workbooks. There are several reasons that can lead to this error. You can try the methods covered in this post to resolve the error. If the error appears due to corruption in workbook, then try to repair it using the Open and Repair utility. Alternatively, you can use [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) – a professional tool that can help you repair an Excel file with problematic macros. Also, it allows recovery of all the file components with complete integrity. The tool is compatible with Excel 2021, 2019, 2016, and older versions.
 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Recover Excel Files from Virus-Infected Pen Drives for Free
 
 **Summary:** Imagine you lost your important Excel file on which you had been working since the morning and in the next moment you realized that the file was not saved and you just lost hours of work. Wondering how to deal with this situation? Read this blog to know how Stellar free data recovery software can help you.
@@ -156,6 +189,9 @@ Using **Stellar Windows Data Recovery – Free Edition**, you can recover your f
 - From the website, [**download**](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) Stellar Windows Data Recovery – Free Edition. Connect your pen drive to your system and launch the software
 - On ‘**Select What to Recover**’ screen, select file types from the given option that you wish to recover. For instance, if you want to recover photos, then under **Multimedia Files**, select ‘**Photos**’ and click on ‘**Next**’
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Stellar](https://www.stellarinfo.com/blog/wp-content/uploads/2021/02/FDR1-2-1024x721.png)
 
 - From ‘**Select Location**’ screen, select the connected pen drive and click ‘**Scan**’
@@ -164,6 +200,9 @@ Using **Stellar Windows Data Recovery – Free Edition**, you can recover your f
 
 - The scanning process starts and once the process is complete, software lists all the recoverable files
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Stellar](https://www.stellarinfo.com/blog/wp-content/uploads/2021/02/FDR3-2-1024x714.png)
 
 - Select the files from the list and click on ‘**Recover**’ to save the files
@@ -185,6 +224,9 @@ The Command prompt should be your first choice to recover excel files from the v
 - Connect your virus-infected pen drive to your system and then in the search box type ‘CMD’ and hit ‘Enter’
 - In the command window, type in attrib –h-r-s /s/ drive letter:\\\*.\*”, for example, “attrib -h -r -s /s /d G:\\\*.\*” and hit ‘Enter’
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![attrib command](https://www.stellarinfo.com/blog/wp-content/uploads/2017/10/attrib-command.png)
 
 - Windows starts repairing the virus-infected pen drive and once the process is complete, you can access your pen drive and recover excel files.
@@ -215,6 +257,9 @@ You may encounter the Compile error in hidden module due to one of the following
 
 Excel can throw the compile error while compiling the code that exists in the protected module. So, first check the error and identify the hidden module that is creating the issue. You can unprotect the module. Also, ensure that you have permission to access the VBA code in the module. If the error still exists, follow the below troubleshooting methods.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Re-register ActiveX Control Files or mscomctl.ocx Files
 
 You can get the compile error in the Excel file, containing the VBA code related to ActiveX controls or OCX files. The ActiveX control files and OCX files (mscomctl.ocx files) are the components of Microsoft’s standard controls library. The compile error in the hidden module can occur if these files are missing. In this case, you can use the Regsvr32 tool to re-register the OCX files. The [Regsvr32](https://support.microsoft.com/en-au/topic/how-to-use-the-regsvr32-tool-and-troubleshoot-regsvr32-error-messages-a98d960a-7392-e6fe-d90a-3f4e0cb543e5) is a command-line utility to register and unregister OLE controls in the Windows registry.
@@ -233,6 +278,9 @@ You can get the compile error in the Excel file, containing the VBA code related
 
 - In the **Roaming** window, click on the **Microsoft** option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Click On Microsoft Option Under Roaming](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/click-on-microsoft-option-under-roaming.jpg)
 
 - Under **Microsoft**, you will see a list of folders. Search and click on **Forms.**
@@ -254,6 +302,9 @@ The compile error in hidden module determine path in Excel can also occur if you
 
 - Go to the **Tools** option and then click **References**.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Click On References Under Tools Option](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/click-on-references-under-tools-option.jpg)
 
 - In the **References-VBAProject** window, under **Available References**, search and unselect the references starting as “Missing”.
@@ -275,11 +326,17 @@ In Excel, the compile error in macro-enabled files can also occur due to incompa
 - Navigate to the **File** option and then select **Options**.
 - In the **Excel Options** window, click **Add-ins**.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Click Addins Select Latest Addins](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/click-add-ins-select-latest-add-ins.jpg)
 
 - Under **Add-ins**, search and select the latest add-ins, and then click on **Go**.
 - In the **Add-ins** window, uncheck the add-ins and then click **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Select  Analysis Toolpak](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/select-analysis-toolpak.jpg)
 
 - Restart Excel and then check if the error is fixed or not.
@@ -300,6 +357,9 @@ Corruption in the Excel file can affect the macros in the hidden module, which m
 - Click on the Repair button to recover as much of the data as possible.
 - After repair, a message is displayed. Click **Close**.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Message Appear After Repair](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/message-appear-after-repair.jpg)
 
 ## **What if None of the Above Solutions Works?**
@@ -330,6 +390,9 @@ There could be several reasons that may cause the error. Some of them are as fol
 - Protected Excel workbook
 - Damaged or missing MS Office (MS Excel) program files
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solutions to Open and Edit Read-Only Excel Documents
 
 Below are a few solutions that can help you fix the 'Excel cannot access 'xxx.xls.' The Document may be read-only or encrypted' error and allow you to open and edit Excel documents.
@@ -357,6 +420,9 @@ To safeguard the system, MS Excel opens such files in **Protected View**. It may
 
 However, you can click **File > Info** and then click '**Edit Anyway**' to access and edit file content. You may also disable the **Protected View** setting via **_File > Options > Trust Center > Trust Center Settings…> Protected View._** However, we do not recommend this.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Protected View](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/Protected-view-3.png)
 
 - **Renew/Activate Microsoft Office**
@@ -387,6 +453,18 @@ The error 'Excel cannot open read-only documents' may appear due to a problem wi
 - Open Control Panel and click **Uninstall a Program** link under **Programs.**
 - Choose Microsoft Office from the list and click the **Change** button.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Change button](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/repair-ms-office-4.png)
 
 - Select Quick Repair and then click Repair to fix problems with MS Office and MS Excel. It will also restore any missing or damaged program files.
@@ -431,6 +509,9 @@ Click on the desired tab to repair that file format.
 
 **_Note:_** _Click Find file(s) to search for the Word file, if the location is not known._
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Select word file](https://stellarinfo.com/support/kb/images/Select-word-file.jpg)
 
                                      _<small>Figure 2 - Illustrates Selection of single doc/.docx file or multiple files</small>_
@@ -456,6 +537,9 @@ Click on the desired tab to repair that file format.
 - Save the file in any of these formats: 'Full Document', 'Filtered Text' or 'Raw Text'.
 - Click **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![saving word document](https://stellarinfo.com/support/kb/images/word-document-saving-option.png)
 
                                                         _<small>Figure 5 - Word Document Saving Options</small>_
@@ -503,6 +587,18 @@ The repaired file gets saved at the preferred location.
 - Click **Save** on **Home** menu to save the repaired PPT file.
 - From the **Save File** dialog box, click **Default location** or **Other location** under **Save As** for saving the file.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Save ppt](https://stellarinfo.com/support/kb/images/Select-location-to-save-ppt.png)
 
                                                     _<small>Figure 10 - Select Location to Save PPT File</small>_
@@ -513,6 +609,14 @@ The repaired file gets saved at the preferred location.
 
 - From the Stellar Repair for PDF main interface window, click **Add File** to select a single or multiple PDF files you want to repair.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adding corrupt pdf files](https://www.stellarinfo.com/screenshots/pdf-repair/1-Stellar-Phoenix-Repair-for-PDF-main-screen.jpg)
 
                                             _<small>Figure 11 - Illustrates adding of corrupt PDF Files</small>_
@@ -528,6 +632,9 @@ The repaired file gets saved at the preferred location.
 - Preview the repaired PDF file.
 - Click the **Save Repaired Files** button to save the repaired file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![save repaired file](https://www.stellarinfo.com/screenshots/pdf-repair/5-Stellar-Phoenix-Repair-for-PDF-preview.jpg)
 
                                                   _<small>Figure 13 - Save Repaired File</small>_
@@ -535,6 +642,9 @@ The repaired file gets saved at the preferred location.
 - In **Browse for Folder** dialog box, select a folder for saving the file.
 - From the **Saving Complete** dialog box, click the hyperlink to the folder containing the repaired PDF file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![saving complete Window](https://www.stellarinfo.com/screenshots/pdf-repair/7-Stellar-Phoenix-Repair-for-PDF-saved.jpg)
 
                                                       _<small>Figure 14 - Saving Complete Window</small>_
@@ -544,15 +654,21 @@ The repaired file gets saved at the preferred location.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Repair Corrupted or Damaged Excel File with Ease?
 
 **Summary:** The Excel file is prone to corruption. Users can face several issues related to corruption. So here in this infographic, I am discussing a professional tool,- Stellar Repair for Excel, to easily repair corrupted Excel files.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 Stellar Repair for Excel is among the top choices for repairing corrupt or damaged Excel (.XLS/.XLSX) files. This [Excel recovery software](https://www.stellarinfo.com//blog/top-10-best-excel-recovery-software/) restores everything from the corrupt file to a new blank Excel file. Incoming, the information graphics complete overview of the repair process is explained in step-by-step methodology. Explore and reap the benefits of recovering corrupt or damaged Excel files.
 
-[![Repair Corrupt Excel Files Infographic ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2024/02/Repair-Corrupt-Excel-Files-Infographic-2-scaled.jpg)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
+[![Repair Corrupt Excel Files Infographic](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2024/02/Repair-Corrupt-Excel-Files-Infographic-2-scaled.jpg)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 Very much sure about the result of using the excel file recovery tool, share your experience with us.
 
@@ -571,3 +687,42 @@ Very much sure about the result of using the excel file recovery tool, share you
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-10-tricks-for-turning-youtube-watchlists-around/"><u>[Updated] 2024 Approved  10 Tricks for Turning YouTube Watchlists Around</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-unmissable-fun-top-10-must-do-tiktoks/"><u>[Updated] 2024 Approved  Unmissable Fun  Top 10 Must-Do TikToks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-waterless-screen-recording-top-12-tools/"><u>[Updated] 2024 Approved  Waterless Screen Recording  Top 12 Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-crafting-captivating-edu-videos-essential-techniques-and-tips-for-youtube-success/"><u>[Updated] Crafting Captivating Edu-Videos  Essential Techniques and Tips for YouTube Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-step-by-step-instructions-producing-alluring-video-thumbnails-on-youtube/"><u>[Updated] Step-by-Step Instructions  Producing Alluring Video Thumbnails on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-small-spaces-big-flavor-6-miniature-east-asian-houses/"><u>2024 Approved  Small Spaces, Big Flavor  6 Miniature East Asian Houses</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/driving-traffic-tactics-for-top-ranked-fb-pages/"><u>Driving Traffic  Tactics for Top-Ranked FB Pages</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/easily-combine-photos-and-videos-best-online-collage-generators/"><u>Easily Combine Photos and Videos Best Online Collage Generators</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-itel-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Itel</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-itel-a60-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Itel A60</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-itel-p40plus-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Itel P40+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-itel-p55-5g-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Itel P55 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-itel-p55t-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Itel P55T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-lava-blaze-2-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Lava Blaze 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-meizu-21-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Meizu 21</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-edge-40-neo-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-edge-40-pro-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-edgeplus-2023-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-moto-g14-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola Moto G14</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-moto-g34-5g-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola Moto G34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-moto-g84-5g-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola Moto G84 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-narzo-60x-5g-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Narzo 60x 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-narzo-n55-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Narzo N55</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-nokia-130-music-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Nokia 130 Music</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-nokia-150-2023-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Nokia 150 (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-nokia-c12-plus-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Nokia C12 Plus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-nokia-g42-5g-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Nokia G42 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-nokia-xr21-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Nokia XR21</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 13 mini</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/trimming-tactics-for-time-strapped-youtubers/"><u>Trimming Tactics for Time-Strapped YouTubers</u></a></li>
+</ul></div>

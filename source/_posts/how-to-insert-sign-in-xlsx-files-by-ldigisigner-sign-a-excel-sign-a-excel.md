@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in .xlsx files
-date: 2024-05-19T18:32:13.234Z
-updated: 2024-05-20T18:32:13.234Z
+date: 2024-07-17T10:18:39.657Z
+updated: 2024-07-18T10:18:39.657Z
 tags: 
   - signer
   - signer online
@@ -12,13 +12,16 @@ categories:
 description: Free .xlsx signature service to sign .xlsx online. Add signature to .xlsx documents with our .xlsx signer. No registration or installation required | DigiSigner
 excerpt: Free .xlsx signature service to sign .xlsx online. Add signature to .xlsx documents with our .xlsx signer. No registration or installation required | DigiSigner
 keywords: excel signature app,.xlsx signature tool,.xlsx signature best,excel signature online,.xlsx signature free
-thumbnail: https://www.lifewire.com/thmb/xq071plgy_1otjoV-WHCm4Y1Nhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-6783e356feb74fb7a09b84953620c5ed.jpg
+thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d7c87ab230819ca4dc98d6d3.jpg
 ---
 
 ## 1. How to insert sign in .xlsx files
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
@@ -39,6 +42,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Excel
 
 These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -53,6 +59,9 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -65,6 +74,9 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -79,6 +91,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -108,6 +123,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -118,6 +136,9 @@ You can use the standard features of Microsoft Office Excel to digitally sign a 
 
 To implement each of the ways to install a digital signature in Excel, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
@@ -151,6 +172,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -163,3 +187,42 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mute-instagrams-personalized-posts/"><u>[New] 2024 Approved  Mute Instagram's Personalized Posts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-audience-engagement-meets-technology-four-recording-ways-on-facebook/"><u>[New] In 2024, Audience Engagement Meets Technology  Four Recording Ways on Facebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unlock-podcast-prominence-with-advanced-seo-techniques/"><u>[New] In 2024, Unlock Podcast Prominence with Advanced SEO Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-insights-identifying-your-posts-audience/"><u>[New] Instagram Insights  Identifying Your Post's Audience</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/charting-the-upward-momentum-top-8-skyrocketing-youtube-sites-for-2024/"><u>Charting the Upward Momentum  Top 8 Skyrocketing YouTube Sites for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-the-ultimate-display-selection-boost-your-xbox-experience/"><u>Discover the Ultimate Display Selection  Boost Your Xbox Experience</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/distinguishing-yourself-with-ingenious-tiktok-profile-ideas/"><u>Distinguishing Yourself with Ingenious TikTok Profile Ideas</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/evaluating-macs-leading-snipping-tools-compilation/"><u>Evaluating Mac's Leading Snipping Tools Compilation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-v30-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo V30</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-wbk-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .wbk file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-wpd-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .wpd file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-wps-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .wps file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-wpt-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .wpt file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xlb-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xlb Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xls-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xls Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xlsm-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xlsm Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xlsx-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xlsx Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xltm-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xltm Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xltx-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xltx Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-word-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a Word Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-11-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 11 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-11-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 11 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-11-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 11 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-mini-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 mini Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-13-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 13 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-13-mini-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 13 mini Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-bridge-gaps-in-generations-of-viewers-6-interactive-tests-to-find-your-youtube-match/"><u>In 2024, Bridge Gaps in Generations of Viewers  6 Interactive Tests to Find Your YouTube Match</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-maximize-your-google-meet-experience-with-effective-use-of-digital-boards-on-any-os/"><u>In 2024, Maximize Your Google Meet Experience with Effective Use of Digital Boards on Any OS</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>new 2024 Approved Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unleashing-creativity-a-guide-to-music-infused-videos-for-tiktok/"><u>Unleashing Creativity  A Guide to Music-Infused Videos for TikTok</u></a></li>
+</ul></div>

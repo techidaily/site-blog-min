@@ -1,6 +1,6 @@
 ---
 title: How to identify missing your drivers with Windows Device Manager on Windows 10 & 7
-date: 2024-05-19T18:32:12.980Z
+date: 2024-07-17T10:15:16.597Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -47,6 +50,9 @@ And without all these drivers, none of your devices will work.
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -57,6 +63,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -87,6 +96,9 @@ To understand why, you first have to understand what drivers actually are…
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -99,6 +111,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -114,6 +129,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
@@ -128,6 +146,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -194,3 +215,60 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-constructing-a-dynamic-tiktok-end-slide/"><u>[New] 2024 Approved  Constructing a Dynamic TikTok End Slide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-fine-tuning-frames-a-comprehensible-approach-to-iphone-editing/"><u>[New] 2024 Approved  Fine-Tuning Frames  A Comprehensible Approach to iPhone Editing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-maximizing-video-impact-on-tiktok-using-computertablet/"><u>[New] 2024 Approved  Maximizing Video Impact on TikTok Using Computer/Tablet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-8-best-video-call-app-for-android-more-than-4-participants/"><u>[New] 8 Best Video Call App for Android (More than 4 Participants)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-igtv-mastery-best-video-editors-for-social-media/"><u>[New] IGTV Mastery  Best Video Editors for Social Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-narratives-vr-storytelling-breakthroughs/"><u>[New] Immersive Narratives  VR Storytelling Breakthroughs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-audio-for-digital-unboxing-scenes/"><u>[New] Mastering Audio for Digital Unboxing Scenes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-picture-pieces-proposals-radiate-positivity-and-creativity/"><u>[New] Picture Pieces Proposals  Radiate Positivity and Creativity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-podcasts-vs-youtube-making-an-informed-media-decision/"><u>[New] Podcasts Vs. YouTube  Making an Informed Media Decision</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-speakers-guide-to-captivating-visual-storytelling/"><u>[New] The Speaker's Guide to Captivating Visual Storytelling</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-professionals-insights-into-ios-recording/"><u>[Updated] 2024 Approved  Professionals' Insights Into iOS Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-augmented-realms-cinemas-evolution/"><u>2024 Approved  Augmented Realms  Cinema's Evolution</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-up-to-youtube-live-with-minimal-subscriber-threshold-reached/"><u>2024 Approved  Step Up to YouTube Live with Minimal Subscriber Threshold Reached</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-pros-playlist-shuffle-manual/"><u>2024 Approved  The Pro's Playlist Shuffle Manual</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-a1x-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo A1x 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-a2-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo A2 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-a38-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo A38 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-a56s-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo A56s 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-a58-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo A58 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-a59-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo A59 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-a78-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo A78 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-a78-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo A78 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-a79-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo A79 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-f23-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo F23 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-f25-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo F25 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-find-n3-flip-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Find N3 Flip to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-find-n3-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Find N3 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-find-x6-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Find X6 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-find-x6-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Find X6 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-find-x7-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Find X7 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-find-x7-ultra-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Find X7 Ultra to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-k11-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo K11 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-k11x-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo K11x to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-reno-10-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Reno 10 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-reno-10-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Reno 10 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-reno-10-proplus-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Reno 10 Pro+ 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-reno-11-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Reno 11 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-reno-11-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Reno 11 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-reno-11f-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Reno 11F 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-reno-8t-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Reno 8T 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-reno-8t-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Reno 8T to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/airborne-broadcasting-how-to-stream-with-dji-drones/"><u>Airborne Broadcasting  How to Stream with DJI Drones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/choosing-the-ultimate-action-cam-does-black-gopro-outshine-x1000v/"><u>Choosing the Ultimate Action Cam  Does Black GoPro Outshine X1000V?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/download-and-relive-a-compreran-review-of-top-youtube-playlist-extractors-for-2024/"><u>Download and Relive  A Compreran Review of Top YouTube Playlist Extractors for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-s17e-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo S17e Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nubia-red-magic-9-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nubia Red Magic 9 Pro Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from Apple iPhone XR</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-shopping-spree-simplified-the-compreenas-guide-to-creating-and-crafting-haul-vids/"><u>In 2024, Shopping Spree Simplified  The Compreenas Guide to Creating & Crafting Haul Vids</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secure-value-discovering-the-top-7-artwork-to-nft-services/"><u>Secure Value  Discovering the Top 7 Artwork-to-NFT Services</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-u23-pro-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from U23 Pro</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-importance-of-proper-youtube-thumbnail-size-for-successful-engagement/"><u>The Importance of Proper YouTube Thumbnail Size for Successful Engagement</u></a></li>
+</ul></div>

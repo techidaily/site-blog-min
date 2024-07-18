@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on X90S
-date: 2024-05-19T18:32:07.380Z
+date: 2024-07-17T08:54:33.819Z
 tags: 
   - recover
 categories: 
@@ -44,6 +44,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -53,6 +56,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -79,6 +85,9 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Select your SD card from the location window. Click **Scan**.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
 
 Watch this video for the step-by-step process to recover Gallery pictures from Android SD card with the help of Stellar Photo Recovery : 
@@ -106,6 +115,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 - Connect the rooted Android phone with your PC or Mac.
 - Launch the software, select the Android device to scan and follow the prompts in the software.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5: Restore photos with inbuilt Android backup services
 
 These days, Android phone manufacturers provide their own inbuilt backup functions in the devices. You can back up your Vivo X90S phone’s app data to the phone’s cloud backup, local backup, Google backup, or external storage. The options vary with the mobile phone brands. Some mobile phones like Huawei even have a builtin backup app.
@@ -132,6 +144,9 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
@@ -153,6 +168,9 @@ Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc.,
 2. Always ensure some free space on your Vivo X90S device. Use any secure Android cleaner like CCleaner utility.
 3. Regularly delete image cache files in Android, if only image thumbnails are visible.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Wrapping up & FAQ
 
 Backup is a huge respite from accidental deletion or sudden loss of your precious photos from Android Gallery. You can always get back your photos from Google Photos, Google Drive, DropBox, or your phone’s Android backup service.
@@ -166,8 +184,14 @@ Download the software’s free trial to assess its performance and preview the d
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery of Samsung phone?
 
 You can recover Gallery pictures from Google Photos, Google Drive or Samsung Cloud. Also try to recover missing photos with the help of ES File Explorer on Samsung smartphone.
@@ -178,10 +202,21 @@ You can follow the methods shared in this post to recover photos from Android ph
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery without backup?
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after factory reset?
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -190,6 +225,18 @@ You can recover deleted photos from Android Gallery after factory reset using a 
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after software update?
 
 You can recover deleted photos from Android Gallery after software update using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -213,3 +260,56 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-troubleshooting-a-non-functional-obs-capture-device-for-2024/"><u>[New] Troubleshooting a Non-Functional OBS Capture Device for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-azure-speech-recognition-efficiently/"><u>[Updated] Navigating Azure Speech Recognition Efficiently</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pocket-sized-mac-viewer-absolutely-free/"><u>[Updated] Pocket-Sized Mac Viewer - Absolutely Free</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionize-visual-narratives-using-prime-text-extensions/"><u>[Updated] Revolutionize Visual Narratives Using Prime Text Extensions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-creativity-in-photography-no-cost-some-pay-luts/"><u>[Updated] Unleash Creativity in Photography  No Cost, Some Pay LUTs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/enhance-your-videos-with-dynamic-camera-movements-camtasa-guide-for-2024/"><u>Enhance Your Videos with Dynamic Camera Movements - Camtasa Guide for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-in-windows-11-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-in-windows-11-and-10-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually in Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-in-windows-1110-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually in Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-in-windows-11107-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually in Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-in-windows-7-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually in Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-10-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-10-and-7-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-11-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-11-and-10-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-1110-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-11107-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-7-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-10-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-10-and-7-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-11-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-11-and-10-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-1110-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-11107-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-7-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-10-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-10-and-7-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-11-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-11-and-10-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-1110-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-11107-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-7-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-forex-trade-copier-software-on-metatrader-4-and-metatrader-5-by-mt4copier-guide/"><u>How to Install Forex Trade Copier Software on MetaTrader 4 and MetaTrader 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-forex-trade-copier-software-on-mt4-and-mt5-by-mt4copier-guide/"><u>How to Install Forex Trade Copier Software on MT4 and MT5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-in-windows-10-by-drivereasy-guide/"><u>How to install hardware device drivers manually in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-in-windows-10-and-7-by-drivereasy-guide/"><u>How to install hardware device drivers manually in Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-in-windows-11-and-10-by-drivereasy-guide/"><u>How to install hardware device drivers manually in Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to install hardware device drivers manually in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-film-set-harmony-exploring-every-members-critical-function-in-movie-making/"><u>In 2024, Film Set Harmony Exploring Every Members Critical Function in Movie-Making</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-instant-viral-potential-learn-kinemaster-memes/"><u>In 2024, Instant Viral Potential  Learn KineMaster Memes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-savvy-instagram-usage-how-to-retrieve-free-filters-via-search/"><u>In 2024, Savvy Instagram Usage  How to Retrieve Free Filters via Search</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-whiteboard-animation-made-easy-top-5-hand-drawn-video-creators/"><u>New Whiteboard Animation Made Easy Top 5 Hand-Drawn Video Creators</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-realme-11-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Realme 11 Pro.</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-slow-motion-magic-unlocking-the-power-of-windows-live-movie-maker/"><u>Updated Slow Motion Magic Unlocking the Power of Windows Live Movie Maker</u></a></li>
+</ul></div>

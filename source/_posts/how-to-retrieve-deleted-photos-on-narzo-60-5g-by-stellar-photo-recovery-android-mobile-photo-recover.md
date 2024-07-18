@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve deleted photos on Narzo 60 5G
-date: 2024-05-19T18:32:09.810Z
+date: 2024-07-17T09:33:55.681Z
 tags: 
   - recover
 categories: 
@@ -53,6 +53,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -77,6 +80,9 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
@@ -100,12 +106,18 @@ You can root the Android phone with the help of a rooting software. However, roo
 
 **Caution**: Rooting makes your Realme Narzo 60 5G phone’s warranty null and void.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover deleted Gallery photos from Android internal storage:
 
 - Download any secure Android recovery software on Windows or Mac computer.
 - Connect the rooted Android phone with your PC or Mac.
 - Launch the software, select the Android device to scan and follow the prompts in the software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5: Restore photos with inbuilt Android backup services
 
 These days, Android phone manufacturers provide their own inbuilt backup functions in the devices. You can back up your Realme Narzo 60 5G phone’s app data to the phone’s cloud backup, local backup, Google backup, or external storage. The options vary with the mobile phone brands. Some mobile phones like Huawei even have a builtin backup app.
@@ -122,8 +134,14 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Realme Narzo 60 5G to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -137,6 +155,9 @@ Your photos will be visible again in the Gallery app.
 - In ES File Explorer Menu go to **Settings> Display** Settings.
 - Enable **Show Hidden Files**. All the .nomedia files will be visible in the phone’s folders. You can delete them now.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 7: Recover Gallery photos from Android cloud backup
 
 Apart from built-in Google cloud backup apps, you might be using other cloud storage such as DropBox or OneDrive etc. If you have enabled Android Gallery backup in any such cloud backup, restore the deleted Gallery photos from there.
@@ -153,6 +174,9 @@ Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc.,
 2. Always ensure some free space on your Realme Narzo 60 5G device. Use any secure Android cleaner like CCleaner utility.
 3. Regularly delete image cache files in Android, if only image thumbnails are visible.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Wrapping up & FAQ
 
 Backup is a huge respite from accidental deletion or sudden loss of your precious photos from Android Gallery. You can always get back your photos from Google Photos, Google Drive, DropBox, or your phone’s Android backup service.
@@ -174,10 +198,16 @@ You can recover Gallery pictures from Google Photos, Google Drive or Samsung Clo
 
 You can follow the methods shared in this post to recover photos from Android phone.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery without backup?
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -186,6 +216,9 @@ You can recover deleted photos from Android Gallery without backup using a photo
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after format?
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -213,3 +246,58 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-conquering-video-design-challenges-with-filmora-tips/"><u>[New] Conquering Video Design Challenges with Filmora Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ree-mp3s-galore-10-no-cost-online-tools/"><u>[New] Free Mp3s Galore  10 No-Cost Online Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-accelerating-videos-in-tiktok-quick-tips/"><u>[New] In 2024, Accelerating Videos in TikTok  Quick Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-increasing-clarity-and-detail-in-team-meets/"><u>[New] Increasing Clarity and Detail in Team Meets</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-navigating-steam-with-your-switch-pro-device-for-2024/"><u>[New] Navigating Steam with Your Switch Pro Device for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-stabilizing-your-display-on-windows-11/"><u>[SOLVED]: Stabilizing Your Display on Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-a-compreran-index-of-premium-3ds-pc-emulation-tools/"><u>[Updated] 2024 Approved  A Compreran Index of Premium 3DS PC Emulation Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-google-trends-for-video-concept-generation-for-2024/"><u>[Updated] Harnessing Google Trends for Video Concept Generation for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-augmenting-aerial-mastery-10-essential-drone-accessories/"><u>2024 Approved  Augmenting Aerial Mastery  10 Essential Drone Accessories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sound-syncing-simplified-for-inshot-edits/"><u>2024 Approved  Sound Syncing Simplified for InShot Edits</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-essential-new-features-in-facebooks-repertoire/"><u>2024 Approved  The Essential New Features in Facebook's Repertoire</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-x100-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo X100 Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/direct-solutions-for-non-dispoured-gpus/"><u>Direct Solutions for Non-Dispoured GPUs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/easy-tweaks-changing-fishy-vocal-patterns-on-windows/"><u>Easy Tweaks  Changing Fishy Vocal Patterns on Windows</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/find-your-perfect-match-top-8-mirrorless-cameras-for-live-streams-for-2024/"><u>Find Your Perfect Match  Top 8 Mirrorless Cameras For Live Streams for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-edge-40-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Edge 40 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-edgeplus-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Edge+ (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-g54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on G54 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-a05-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Galaxy A05?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-a15-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Galaxy A15 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-a34-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Galaxy A34 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-a54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Galaxy A54 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-f34-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Galaxy F34 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-m34-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Galaxy M34?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-s23-fe-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Galaxy S23 FE?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-s24-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Galaxy S24?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-htc-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on HTC ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-htc-u23-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on HTC U23?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-huawei-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Huawei ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-mix-fold-3-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Mix Fold 3?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-moto-g14-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Moto G14?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-motorola-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Motorola ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-motorola-g54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Motorola G54 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-motorola-moto-g-5g-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Motorola Moto G 5G (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-motorola-moto-g-stylus-5g-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Motorola Moto G Stylus 5G (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-motorola-moto-g34-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Motorola Moto G34 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-motorola-moto-g84-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-razr-40-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Razr 40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-redmi-13c-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Redmi 13C 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-redmi-k70e-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Redmi K70E?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-redmi-note-12-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Redmi Note 12 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-redmi-note-12r-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Redmi Note 12R?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-galaxy-a14-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung Galaxy A14 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-galaxy-a15-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung Galaxy A15 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-galaxy-a24-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung Galaxy A24?</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-uue-adobe-lightroom-color-grading/"><u>New 2024 Approved How to Uue Adobe Lightroom Color Grading</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-top-10-windows-and-macos-compatible-daws-the-ultimate-selection/"><u>New In 2024, Top 10 Windows & macOS Compatible DAWs The Ultimate Selection</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-time-lapse-potential-on-samsung-screens/"><u>Unlocking Time-Lapse Potential on Samsung Screens</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-all-you-need-to-know-about-imovie-audio-editing/"><u>Updated 2024 Approved All You Need to Know About iMovie Audio Editing</u></a></li>
+</ul></div>

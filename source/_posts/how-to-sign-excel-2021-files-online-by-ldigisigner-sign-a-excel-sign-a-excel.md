@@ -1,7 +1,7 @@
 ---
 title: How to sign Excel 2021 files online
-date: 2024-03-09 23:36:16
-updated: 2024-03-12 17:43:32
+date: 2024-07-17T12:53:14.954Z
+updated: 2024-07-18T12:53:14.954Z
 tags: 
   - signer
   - signer online
@@ -12,17 +12,23 @@ categories:
 description: This article describes How to sign Excel 2021 files online
 excerpt: This article describes How to sign Excel 2021 files online
 keywords: .xlsx signature best,excel signature online,free sign excel
-thumbnail: https://www.lifewire.com/thmb/uayRyPYo9UvTUkcunakDixhwqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Robothandholdinganapple-fbe6ff482ed641e188dd6650b9ac132e.jpg
+thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e1719fd0426ca459ec8dc06e9a5.jpg
 ---
 
 ## 1. How to sign Excel 2021 files online
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -49,6 +55,9 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
@@ -75,6 +84,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -85,6 +97,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -118,10 +133,16 @@ You can use the standard features of Microsoft Office Excel to digitally sign a 
 
 To implement each of the ways to install a digital signature in Excel, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -130,6 +151,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -161,3 +185,49 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-creating-classical-cinematography-a-modern-tutorial/"><u>[New] Creating Classical Cinematography  A Modern Tutorial</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-elite-8-streaming-software-selections/"><u>[New] In 2024, Elite 8 Streaming Software Selections</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pushing-perception-analyzing-the-dreamcolors-z32x-4k/"><u>[New] Pushing Perception  Analyzing the DreamColor's Z32X 4K</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-find-muted-conversations-on-snapchat/"><u>[Updated] How to Find Muted Conversations on Snapchat</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-xcover-7-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/expertly-assembled-windows-edition-tools-guide-for-2024/"><u>Expertly Assembled Windows Edition Tools Guide for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-13-mini-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 13 mini iCloud Bypass</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-magic-6-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Magic 6 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-magic-v2-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Magic V2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-magic-vs-2-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Magic Vs 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-magic5-ultimate-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Magic5 Ultimate?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-play-8t-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Play 8T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-v-purse-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor V Purse?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-x8b-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor X8b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-htc-u23-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from HTC U23 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-htc-u23-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from HTC U23?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-huawei-nova-y71-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Huawei Nova Y71?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-huawei-nova-y91-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Huawei Nova Y91?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-gt-10-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix GT 10 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-hot-30-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Hot 30 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-note-30-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Note 30 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-note-30-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Note 30 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Note 30 VIP Racing Edition?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-note-30-vip-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Note 30 VIP?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-note-30i-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Note 30i?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-smart-7-hd-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Smart 7 HD?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-zero-30-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Zero 30 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-itel-a05s-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Itel A05s?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-itel-a70-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Itel A70?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-itel-p40plus-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Itel P40+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-k11-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from K11 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-lava-blaze-2-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Lava Blaze 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-lava-blaze-pro-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Lava Blaze Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-lava-storm-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Lava Storm 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-m6-pro-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from M6 Pro 5G?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-1020-win-driver-corrections-complete/"><u>HP 1020 Win Driver Corrections Complete</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-15-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 15 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-soundscape-storytelling-at-its-best/"><u>In 2024, Soundscape Storytelling at Its Best</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-best-zero-cost-4k-video-editing-tools-for-beginners-for-2024/"><u>New Best Zero-Cost 4K Video Editing Tools for Beginners for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/t-strategies-for-beauty-streams-for-2024/"><u>Profit Strategies for Beauty Streams for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-tecno-pop-8-by-fonelab-android-recover-music/"><u>The way to get back lost music from Tecno Pop 8</u></a></li>
+</ul></div>

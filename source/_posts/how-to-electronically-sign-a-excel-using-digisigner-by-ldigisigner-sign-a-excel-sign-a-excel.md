@@ -1,7 +1,7 @@
 ---
 title: How to Electronically Sign a Excel Using DigiSigner
-date: 2024-05-19T18:32:10.899Z
-updated: 2024-05-20T18:32:10.899Z
+date: 2024-07-17T09:48:23.521Z
+updated: 2024-07-18T09:48:23.521Z
 tags: 
   - signer
   - signer online
@@ -12,13 +12,16 @@ categories:
 description: Free Excel signature service to sign Excel online. Add signature to Excel documents with our Excel signer. No registration or installation required | DigiSigner
 excerpt: Free Excel signature service to sign Excel online. Add signature to Excel documents with our Excel signer. No registration or installation required | DigiSigner
 keywords: excel signer online,excel signature,free sign excel,.xlsx signature app,excel signature online
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## 1. How to Electronically Sign a Excel Using DigiSigner
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
@@ -49,6 +52,9 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
@@ -75,6 +81,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -85,6 +94,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -108,6 +120,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -122,6 +137,9 @@ To implement each of the ways to install a digital signature in Excel, you need 
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -130,12 +148,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -163,3 +187,39 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-surfing-over-the-invisible-barrier-on-tiktok/"><u>[New] 2024 Approved  Surfing Over The Invisible Barrier on TikTok</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-stream-your-webcam-in-real-time-using-vlc-software/"><u>[New] Stream Your Webcam in Real Time Using VLC Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-perfectly-merged-clips-the-power-of-blending-modes/"><u>[Updated] 2024 Approved  Perfectly Merged Clips  The Power of Blending Modes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweet-tales-the-story-behind-the-viral-videos-for-2024/"><u>[Updated] Tweet Tales  The Story Behind the Viral Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pros-of-selecting-best-vtuber-sound-alteration-apps/"><u>2024 Approved  Pros of Selecting Best Vtuber Sound Alteration Apps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-realme-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Realme .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-realme-11-proplus-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Realme 11 Pro+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-realme-11x-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Realme 11X 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-realme-c55-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Realme C55.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-realme-gt-5-240w-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Realme GT 5 (240W).</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-realme-gt-neo-5-se-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Realme GT Neo 5 SE.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-red-magic-9-pro-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Red Magic 9 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-redmi-note-12-proplus-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Redmi Note 12 Pro+ 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-reno-9a-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Reno 9A.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-s23plus-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from S23+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-samsung-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Samsung .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-samsung-galaxy-a15-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Samsung Galaxy A15 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-samsung-galaxy-f14-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Samsung Galaxy F14 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Samsung Galaxy F34 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Samsung Galaxy M34 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Samsung Galaxy Z Flip 5.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-smart-7-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Smart 7.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-smart-8-hd-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Smart 8 HD.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-sony-xperia-5-v-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Sony Xperia 5 V.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-spark-20-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Spark 20.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-tecno-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Tecno .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-tecno-camon-20-pro-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Tecno Camon 20 Pro 5G.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-xcover-7-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy XCover 7? Try These Fixes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oneplus-open-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best OnePlus Open Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-elevate-your-footage-transform-ordinary-videos-into-extraordinary/"><u>New In 2024, Elevate Your Footage Transform Ordinary Videos Into Extraordinary</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-cutting-edge-audio-equipment-to-enhance-virtual-broadcasts/"><u>Updated Cutting-Edge Audio Equipment to Enhance Virtual Broadcasts</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-refine-auditory-perception-through-targeted-frequency-attenuation/"><u>Updated In 2024, Refine Auditory Perception Through Targeted Frequency Attenuation</u></a></li>
+</ul></div>

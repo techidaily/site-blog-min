@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Asus
-date: 2024-05-19T18:32:07.856Z
+date: 2024-07-17T09:03:09.535Z
 tags: 
   - recover
 categories: 
@@ -34,6 +34,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Asus ROG Phone 8 model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
@@ -44,6 +47,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -77,6 +83,9 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
@@ -92,6 +101,9 @@ Watch this video for the step-by-step process to recover Gallery pictures from A
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Recover deleted Gallery from Android internal storage
 
 Mostly Android photos are saved in the internal storage of the Android device. You can recover the permanently deleted Android photos with the help of a recovery software. However, make sure your Asus ROG Phone 8 device is rooted and has USB debugging enabled.
@@ -106,6 +118,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 - Connect the rooted Android phone with your PC or Mac.
 - Launch the software, select the Android device to scan and follow the prompts in the software.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5: Restore photos with inbuilt Android backup services
 
 These days, Android phone manufacturers provide their own inbuilt backup functions in the devices. You can back up your Asus ROG Phone 8 phone’s app data to the phone’s cloud backup, local backup, Google backup, or external storage. The options vary with the mobile phone brands. Some mobile phones like Huawei even have a builtin backup app.
@@ -124,6 +139,9 @@ If you had turned on the device backup service, restore the deleted Gallery pict
 
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Asus ROG Phone 8 to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -132,6 +150,9 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
@@ -166,20 +187,32 @@ Download the software’s free trial to assess its performance and preview the d
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
 ### Q. How to retrieve deleted Photos on Android Tablet?
 
 You can follow the methods shared in this post to recover photos from Android tablet.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery without backup?
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after factory reset?
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -211,3 +244,54 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-boost-image-size-retain-resolution/"><u>[New] Boost Image Size, Retain Resolution</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-streaming-showdown-obs-vs-twitch-studio/"><u>[New] In 2024, Streaming Showdown  OBS vs Twitch Studio</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-quick-fix-for-quirky-content-mastering-meme-creation-at-9gag/"><u>[Updated] A Quick Fix for Quirky Content  Mastering Meme Creation at 9GAG</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-behind-the-scenes-of-effective-instagram-caption-use/"><u>[Updated] Behind the Scenes of Effective Instagram Caption Use</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-routines-for-screen-recording-in-gaming-for-2024/"><u>[Updated] Easy Routines for Screen Recording in Gaming for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlocking-the-power-of-instagrams-visual-storytelling-covers-edition/"><u>[Updated] In 2024, Unlocking the Power of Instagram's Visual Storytelling  Covers Edition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-a-step-by-step-approach-to-incorporating-luts-in-obs-studio-projects/"><u>2024 Approved  A Step-by-Step Approach to Incorporating LUTs in OBS Studio Projects</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-guide-to-longer-instagram-videos/"><u>2024 Approved  The Ultimate Guide to Longer Instagram Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oneplus-nord-3-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to OnePlus Nord 3 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-rotation-software-for-windows-mac-and-mobile-devices/"><u>Best Free Video Rotation Software for Windows, Mac, and Mobile Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-12-mini-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 12 mini Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-x50iplus-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of X50i+ using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-x8b-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of X8b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-xiaomi-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Xiaomi ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-xiaomi-13t-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Xiaomi 13T Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-xiaomi-redmi-12-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Xiaomi Redmi 12 5G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-xiaomi-redmi-k70e-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Xiaomi Redmi K70E using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-xiaomi-redmi-note-12r-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Xiaomi Redmi Note 12R using Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-xiaomi-redmi-note-13-pro-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Xiaomi Redmi Note 13 Pro 5G using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-xiaomi-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Xiaomi using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-xiaomi-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Xiaomi using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-xperia-1-v-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Xperia 1 V?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-y200-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Y200 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-y200e-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Y200e 5G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-yuva-3-pro-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Yuva 3 Pro using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-zte-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of ZTE using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-14-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from 14 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-90-lite-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from 90 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-a05s-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from A05s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-agni-2-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Agni 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-asus-rog-phone-7-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Asus ROG Phone 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-asus-rog-phone-8-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Asus ROG Phone 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-asus-rog-phone-8-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-g42-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from G42 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-galaxy-a15-4g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Galaxy A15 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-gionee-f3-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Gionee F3 Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-14-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 14</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone XR</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-multimedia-posts-multiphotograph-and-video-uploads-on-instagram/"><u>Mastering Multimedia Posts  Multiphotograph & Video Uploads on Instagram</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-in-2024-how-to-create-benime-whiteboard-animation-on-android/"><u>New In 2024, How to Create Benime Whiteboard Animation on Android</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-jump-cutting-like-a-pro-in-fcpx-expert-techniques-revealed/"><u>New In 2024, Jump Cutting Like a Pro in FCPX Expert Techniques Revealed</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-mastering-mobile-audio-recordings-the-10-leading-iphone-apps-for-2024/"><u>New Mastering Mobile Audio Recordings The 10 Leading iPhone Apps for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713942962457-new-whatre-the-best-alternatives-to-pexels/"><u>New Whatre the Best Alternatives to Pexels?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/utilize-snapchats-star-trail-effectively-for-2024/"><u>Utilize Snapchat's Star Trail Effectively for 2024</u></a></li>
+</ul></div>

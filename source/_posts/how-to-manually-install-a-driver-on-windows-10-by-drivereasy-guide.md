@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Driver on Windows 10
-date: 2024-05-19T18:32:13.598Z
+date: 2024-07-17T10:23:57.986Z
 tags: 
   - driver
   - device driver
@@ -27,6 +27,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -46,10 +49,16 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -72,6 +81,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -99,8 +111,23 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -140,3 +167,55 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unmatched-quality-digital-camera-recorders/"><u>[New] In 2024, Unmatched Quality Digital Camera Recorders</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastering-snap-camera-in-ms-teams-for-2024/"><u>[New] Mastering Snap Camera in MS Teams for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-schedule-meetings-on-zoom/"><u>[Updated] 2024 Approved  How to Schedule Meetings on Zoom?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-seamless-integration-mac-recording-techniques-for-snapchat/"><u>2024 Approved  Seamless Integration  Mac Recording Techniques for Snapchat</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-zoom-and-google-meet-visual-clarity-your-step-by-step-guide-to-cleaner-participation/"><u>2024 Approved  Zoom & Google Meet Visual Clarity  Your Step-by-Step Guide to Cleaner Participation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-final-cut-pro-hacks-create-a-vintage-vhs-look/"><u>2024 Approved Final Cut Pro Hacks Create a Vintage VHS Look</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-rotate-your-avi-videos-for-free-top-16-software-and-apps/"><u>2024 Approved Rotate Your AVI Videos for Free Top 16 Software and Apps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/an-ultimate-guide-to-flexclip-online-trimmer/"><u>An Ultimate Guide to Flexclip Online Trimmer</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/best-top-free-video-editing-tools-for-gamers/"><u>Best Top Free Video Editing Tools for Gamers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-poco-f5-pro-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Poco F5 Pro 5G Fingerprint Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-security-sync-windows-11-remotely-easily/"><u>Bypassing Security, Sync Windows 11 Remotely Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-motorola-moto-g34-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Motorola Moto G34 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-motorola-moto-g73-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Motorola Moto G73 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-motorola-razr-40-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Motorola Razr 40.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-105-classic-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nokia 105 Classic.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-130-music-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nokia 130 Music.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-150-2023-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nokia 150 (2023).</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-c02-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nokia C02.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-c110-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nokia C110.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-c12-plus-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nokia C12 Plus.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-c210-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nokia C210.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-c300-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nokia C300.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-c32-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nokia C32.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-g42-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nokia G42 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-xr21-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nokia XR21.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nord-ce-3-lite-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nord CE 3 Lite 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nubia Red Magic 8S Pro+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nubia Red Magic 9 Pro+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oneplus-12-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from OnePlus 12.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oneplus-ace-2v-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from OnePlus Ace 2V.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oneplus-nord-3-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from OnePlus Nord 3 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oppo-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Oppo .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oppo-a1-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Oppo A1 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oppo-a18-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Oppo A18.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oppo-a1x-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Oppo A1x 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oppo-a2-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Oppo A2.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oppo-a38-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Oppo A38.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oppo-a59-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Oppo A59 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oppo-f23-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Oppo F23 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oppo-find-n3-flip-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Oppo Find N3 Flip.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oppo-find-x6-pro-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Oppo Find X6 Pro.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-apex-gaming-graphics-4k-edition-guide/"><u>In 2024, Apex Gaming Graphics  4K Edition Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-6s-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 6s Plus i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/learn-to-edit-videos-professionally-using-inshot-for-2024/"><u>Learn to Edit Videos Professionally Using Inshot for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nfographic-spectacle-of-youtubes-2017-data-for-2024/"><u>The Infographic Spectacle of YouTube's 2017 Data for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-evaluation-report-on-sound-forges-audio-editing-tools-for-2024/"><u>Updated Evaluation Report on Sound Forges Audio Editing Tools for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-subtitle-edit-mac-alternative-find-your-new-go-to-subtitle-editor/"><u>Updated In 2024, Subtitle Edit Mac Alternative Find Your New Go-To Subtitle Editor</u></a></li>
+</ul></div>

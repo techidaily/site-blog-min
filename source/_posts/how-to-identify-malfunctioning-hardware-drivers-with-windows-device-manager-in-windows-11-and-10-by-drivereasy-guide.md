@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-05-19T18:32:12.744Z
+date: 2024-07-17T10:11:57.496Z
 tags: 
   - driver
   - device driver
@@ -19,6 +19,9 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
@@ -51,6 +54,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 
@@ -67,6 +73,9 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -90,10 +99,16 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -104,6 +119,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -155,6 +173,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -189,3 +210,64 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-creative-starter-kit-no-cost-ae-visual-aids/"><u>[New] 2024 Approved  Creative Starter Kit  No-Cost AE Visual Aids</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-echocam-grabber-for-video-calls/"><u>[New] 2024 Approved  EchoCam Grabber for Video Calls</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-discord-spoilers-guide-essential-info-at-a-glance/"><u>[New] Discord Spoilers Guide  Essential Info at a Glance</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-exploring-entertainment-youtubes-integration-with-fb/"><u>[New] Exploring Entertainment  YouTube's Integration with FB</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-guide-to-the-best-free-video-conferencing-software-for-corporate-and-educational-sectors/"><u>[New] Guide to the Best Free Video Conferencing Software for Corporate and Educational Sectors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-obs-utilization-comprehensive-gameplay-recording/"><u>[New] OBS Utilization  Comprehensive Gameplay Recording</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-pair-of-5k-monitors-ranked-1-8/"><u>[New] Perfect Pair of 5K Monitors, Ranked #1-8</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-future-of-makeup-predicted-titans-on-youtube/"><u>[New] The Future of Makeup  Predicted Titans on YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-from-noob-to-pro-making-the-list-of-popular-fb-songs-and-videos/"><u>[Updated] 2024 Approved  From Noob to Pro  Making the List of Popular FB Songs and Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-slow-it-down-high-quality-moments-in-instagram-reels/"><u>[Updated] 2024 Approved  Slow It Down  High-Quality Moments in Instagram Reels</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-videorecording-mastery-with-screencapture-x/"><u>[Updated] 2024 Approved  VideoRecording Mastery with ScreenCapture X</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guide-eradicating-pending-videos-on-your-youtube-queue/"><u>[Updated] In 2024, Guide  Eradicating Pending Videos on Your YouTube Queue</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-budget-friendly-obs-configuration-guide/"><u>2024 Approved  Budget-Friendly OBS Configuration Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-peaceful-playtimes-best-idle-gaming-choices/"><u>2024 Approved  Peaceful Playtimes  Best Idle Gaming Choices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-shorter-optimizing-youtube-videos-for-less-time/"><u>2024 Approved  Streamline Shorter  Optimizing YouTube Videos for Less Time</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-split-screen-video-makers-the-ultimate-guide-for-ios-and-android-users/"><u>2024 Approved Split Screen Video Makers The Ultimate Guide for iOS and Android Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/27-french-sayings-and-idioms-to-make-your-french-sound-authentic/"><u>27 French Sayings And Idioms To Make Your French Sound Authentic</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-nokia-c02-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Nokia C02 Pattern Lock Screen</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-new-gtx-1650-windows-drivers/"><u>Get the New GTX 1650 Windows Drivers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-poco-x5-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-motorola-edge-40-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Motorola Edge 40 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-motorola-edgeplus-2023-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Motorola Edge+ (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-motorola-g54-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Motorola G54 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Motorola Moto G 5G (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Motorola Moto G Stylus 5G (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-motorola-moto-g14-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Motorola Moto G14?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-motorola-moto-g24-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Motorola Moto G24?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-motorola-razr-40-ultra-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Motorola Razr 40 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-nokia-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Nokia ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-nokia-130-music-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Nokia 130 Music?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-nokia-c12-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Nokia C12 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-nokia-c12-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Nokia C12?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-nokia-c300-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Nokia C300?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-nokia-g310-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Nokia G310?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-nubia-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Nubia ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Nubia Red Magic 8S Pro+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Nubia Red Magic 9 Pro+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-oneplus-nord-ce-3-lite-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from OnePlus Nord CE 3 Lite 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-oneplus-open-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from OnePlus Open?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-oppo-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Oppo ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-oppo-a59-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Oppo A59 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-oppo-a78-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Oppo A78?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-oppo-find-n3-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Oppo Find N3?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-oppo-find-x7-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Oppo Find X7?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-oppo-k11x-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Oppo K11x?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-oppo-reno-10-proplus-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Oppo Reno 10 Pro+ 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Oppo Reno 11 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-pixel-8-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Pixel 8 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-pixel-8-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Pixel 8?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-pova-5-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Pova 5 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-blade-a73-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Blade A73 5G</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-compatibility-issues-in-freesync-sync/"><u>Solving Compatibility Issues in FreeSync Sync</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-get-started-with-vn-video-editor-on-mac-or-find-alternative-solutions/"><u>Updated In 2024, Get Started with VN Video Editor on Mac or Find Alternative Solutions</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-whats-rigging-animation-for-2024/"><u>Updated Whats Rigging Animation for 2024</u></a></li>
+</ul></div>

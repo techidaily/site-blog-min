@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your drivers with Windows Device Manager in Windows 10 & 7
-date: 2024-05-19T18:32:12.770Z
+date: 2024-07-17T10:12:14.263Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -32,6 +35,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -78,10 +84,16 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -92,6 +104,9 @@ To automatically update to the correct version of all the drivers that are missi
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -121,6 +136,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -133,6 +151,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -148,6 +169,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
@@ -228,3 +252,52 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-innovating-visual-storytelling-utilizing-dslr-for-facebook-live-through-personal-devices/"><u>[New] 2024 Approved  Innovating Visual Storytelling  Utilizing DSLR for Facebook LIVE Through Personal Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gimbal-mastery-seamless-camera-handling-and-tracking/"><u>[New] Gimbal Mastery  Seamless Camera Handling & Tracking</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-capitalize-on-your-youtube-shorts-for-cash-flow/"><u>[New] How to Capitalize on Your YouTube Shorts for Cash Flow</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-uncovering-forgotten-facebook-episodes-cross-device-instructions/"><u>[New] In 2024, Uncovering Forgotten Facebook Episodes  Cross-Device Instructions</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-top-rated-tiktok-marker-erasers-on-mobile-devices-for-2024/"><u>[New] Top-Rated TikTok Marker Erasers on Mobile Devices for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-no-marking-tiktok-mp4-downloader-for-high-quality-clips/"><u>[Updated] 2024 Approved  No Marking TikTok MP4 Downloader for High-Quality Clips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-assemble-and-build-your-own-google-vr-viewing-device-for-2024/"><u>[Updated] Assemble and Build Your Own Google VR Viewing Device for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-expert-advice-for-android-and-iphone-users-to-save-tiktok-for-2024/"><u>[Updated] Expert Advice for Android & iPhone Users to Save TikTok for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-through-video-post-errors-on-iphoneandroid-fb-chat-platform/"><u>[Updated] Navigating Through Video Post Errors on iPhone/Android FB Chat Platform</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-perfect-gopro-videos/"><u>[Updated] Step-by-Step Guide to Perfect GoPro Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-photo-vid-mosaic-designer-slideshows-for-sierra/"><u>2024 Approved  Photo-Vid Mosaic  Designer Slideshows for Sierra</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dissecting-the-emerging-trends-in-facebook-short-videos-for-2024/"><u>Dissecting the Emerging Trends in Facebook Short Videos for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/easy-video-flipping-tips-and-tricks-for-a-pro-look-for-2024/"><u>Easy Video Flipping Tips and Tricks for a Pro-Look for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-motorola-moto-g84-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Motorola Moto G84 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-x-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone X Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-x-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone X without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xr-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone XR to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xr-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone XR Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone XR Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xr-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone XR without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xs-max-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone XS Max to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xs-max-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone XS Max Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone XS Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xs-max-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone XS Max without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xs-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone XS to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xs-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone XS Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xs-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone XS Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xs-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone XS without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 11 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-11-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 11 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-11-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 11 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-windows-10-webcam-recording-made-easy-top-10-software/"><u>In 2024, Windows 10 Webcam Recording Made Easy Top 10 Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/make-your-own-cartoons-top-rated-mobile-apps-for-2024/"><u>Make Your Own Cartoons Top-Rated Mobile Apps for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-talkative-youtube-threads-for-2024/"><u>Track Talkative YouTube Threads for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-web-exploration-with-microsofts-split-screen-functionality-for-2024/"><u>Transform Your Web Exploration with Microsoft's Split Screen Functionality for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-create-stunning-videos-online-with-ease-wevideo/"><u>Updated In 2024, Create Stunning Videos Online with Ease - WeVideo</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-time-saving-tips-how-to-speed-up-video-playback-in-quicktime-player/"><u>Updated In 2024, Time-Saving Tips How to Speed Up Video Playback in QuickTime Player</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-most-efficient-video-editing-tools-for-your-computer-for-2024/"><u>Updated The Most Efficient Video Editing Tools for Your Computer for 2024</u></a></li>
+</ul></div>

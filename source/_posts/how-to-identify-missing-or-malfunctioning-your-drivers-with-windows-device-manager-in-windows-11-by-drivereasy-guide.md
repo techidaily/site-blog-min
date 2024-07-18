@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11
-date: 2024-05-19T18:32:12.945Z
+date: 2024-07-17T10:14:29.766Z
 tags: 
   - driver
   - device driver
@@ -19,6 +19,9 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
@@ -67,6 +70,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -94,6 +100,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -113,10 +122,16 @@ And without all these drivers, none of your devices will work.
 
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -131,6 +146,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -144,6 +162,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -154,6 +175,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -230,3 +254,73 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-elite-ipad-speech-recording-tools-3/"><u>[New] 2024 Approved  Elite iPad Speech Recording Tools #3</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-individual-to-institutional-growth-in-youtube-space/"><u>[New] 2024 Approved  From Individual to Institutional Growth in YouTube Space</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-streamlined-techniques-for-rapid-mac-screen-recording/"><u>[New] 2024 Approved  Streamlined Techniques for Rapid Mac Screen Recording</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-creative-commons-soothing-scenes-for-2024/"><u>[New] Creative Commons Soothing Scenes for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-add-subtitles-to-vimeo-videos-for-2024/"><u>[New] How to Add Subtitles to Vimeo Videos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-exploring-preeminent-webinar-tools/"><u>[New] In 2024, Exploring Preeminent Webinar Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-camera-roll-to-youtube-posting-short-clips-seamlessly/"><u>[New] In 2024, From Camera Roll to YouTube  Posting Short Clips Seamlessly</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-surge-in-followers-swift-tiktok-growth-tricks-unveiled/"><u>[New] In 2024, Surge in Followers  Swift TikTok Growth Tricks Unveiled</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nitiate-ideate-implement-step-by-step-guide-to-building-a-youtube-channel-for-2024/"><u>[New] Initiate, Ideate, Implement  Step-by-Step Guide to Building a YouTube Channel for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-fundamentals-of-archiving-webcam-conversations/"><u>[Updated] 2024 Approved  Fundamentals of Archiving Webcam Conversations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-best-secret-voice-recorder-apps-for-android-and-ios/"><u>[Updated] In 2024, Best Secret Voice Recorder Apps For Android and iOS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-streamlining-media-transfer-twitter-content-on-snapchat/"><u>[Updated] In 2024, Streamlining Media Transfer  Twitter Content on Snapchat</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-top-inspirational-movies-for-personal-power-boosts/"><u>10 Top Inspirational Movies for Personal Power Boosts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-cropping-in-the-digital-age/"><u>2024 Approved  Mastering the Art of Cropping in the Digital Age</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-optimal-choices-advanced-mac-video-grabbing-tools/"><u>2024 Approved  Optimal Choices  Advanced Mac Video Grabbing Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-platform-pick-go-live-with-obs-or-twitch-studio/"><u>2024 Approved  Platform Pick  Go Live with OBS or Twitch Studio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-stepwise-approach-to-adding-video-tracks-to-your-youtube-playlists/"><u>2024 Approved  Stepwise Approach to Adding Video Tracks to Your YouTube Playlists</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquer-stuttering-challenges-enhancing-warhammer-40k-experience/"><u>Conquer Stuttering Challenges: Enhancing Warhammer 40K Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-infinix-smart-8-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Infinix Smart 8? Try These Fixes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-kinetic-assessment-2023-for-2024/"><u>Full Kinetic Assessment 2023 for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/guide-to-equipment-selection-for-youtube-creators/"><u>Guide to Equipment Selection for YouTube Creators</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlsx-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlsx document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlsx-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlsx document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlsx-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xlsx files online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlsx-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlsx Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xltm-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xltm by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xltm-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xltm document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xltm-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xltm document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xltm-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xltm files online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xltm-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xltm Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xltx-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xltx by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xltx-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xltx document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xltx-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xltx document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xltx-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xltx files online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xltx-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xltx Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sony-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Sony Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sony-xperia-10-v-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Sony Xperia 10 V Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sony-xperia-5-v-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Sony Xperia 5 V Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-spark-10-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Spark 10 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-spark-20-proplus-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Spark 20 Pro+ Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-tecno-camon-20-premier-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Tecno Camon 20 Premier 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-tecno-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Tecno Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-tecno-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Tecno Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-tecno-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Tecno Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-tecno-phantom-v-fold-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Tecno Phantom V Fold Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-tecno-pop-8-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Tecno Pop 8 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-tecno-pova-5-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Tecno Pova 5 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-tecno-spark-20-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Tecno Spark 20 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-tecno-spark-20-proplus-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Tecno Spark 20 Pro+ Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-tecno-spark-20c-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Tecno Spark 20C Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-max-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro Max To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-max-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro Max To Android? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-max-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro Max To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro Max To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro Max To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-realme-12plus-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Realme 12+ 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-8-plus-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone 8 Plus iCloud Activation Lock</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-download-vimeo-video-to-mp4/"><u>In 2024, How To Download Vimeo Video to MP4</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/next-gen-audio-data-organizer-the-ultimate-tagging-app-for-windows-and-mac-users/"><u>Next-Gen Audio Data Organizer The Ultimate Tagging App for Windows & Mac Users,</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-optimization-making-lasting-impacts/"><u>Outro Optimization  Making Lasting Impacts</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-8-different-ways-to-restart-your-windows-computer/"><u>The 8 Different Ways to Restart Your Windows Computer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-online-aspect-ratio-calculators/"><u>Top-Rated Online Aspect Ratio Calculators</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-race-realism-5-favorites/"><u>Ultimate Race Realism  5 Favorites</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlocking-potential-snapchat-insights-for-companies-for-2024/"><u>Unlocking Potential  Snapchat Insights for Companies for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unveiling-audible-tweets-within-social-media-videos-for-2024/"><u>Unveiling Audible Tweets Within Social Media Videos for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-recorder-tips-effective-screen-and-camera-capturing-techniques/"><u>Vimeo Recorder Tips  Effective Screen & Camera Capturing Techniques</u></a></li>
+</ul></div>

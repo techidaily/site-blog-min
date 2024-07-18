@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Xiaomi 13T
-date: 2024-05-19T18:32:07.381Z
+date: 2024-07-17T08:54:34.990Z
 tags: 
   - recover
 categories: 
@@ -34,6 +34,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Xiaomi 13T model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
@@ -53,6 +56,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -72,6 +78,9 @@ The software works on damaged, corrupt, formatted, inaccessible mobile SD cards 
 
 In addition, you can also restore your Gallery videos and audio files with the help of Stellar Photo Recovery. It is available for both Windows and Mac computers.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover Gallery photos with Stellar Photo Recovery:
 
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
@@ -79,6 +88,9 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Select your SD card from the location window. Click **Scan**.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
 
 Watch this video for the step-by-step process to recover Gallery pictures from Android SD card with the help of Stellar Photo Recovery : 
@@ -100,12 +112,27 @@ You can root the Android phone with the help of a rooting software. However, roo
 
 **Caution**: Rooting makes your Xiaomi 13T phone’s warranty null and void.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover deleted Gallery photos from Android internal storage:
 
 - Download any secure Android recovery software on Windows or Mac computer.
 - Connect the rooted Android phone with your PC or Mac.
 - Launch the software, select the Android device to scan and follow the prompts in the software.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5: Restore photos with inbuilt Android backup services
 
 These days, Android phone manufacturers provide their own inbuilt backup functions in the devices. You can back up your Xiaomi 13T phone’s app data to the phone’s cloud backup, local backup, Google backup, or external storage. The options vary with the mobile phone brands. Some mobile phones like Huawei even have a builtin backup app.
@@ -124,6 +151,9 @@ If you had turned on the device backup service, restore the deleted Gallery pict
 
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Xiaomi 13T to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -132,6 +162,9 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
@@ -147,6 +180,9 @@ The benefit of cloud backup is that you can recover deleted smartphone photos fr
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Tips to Protect Photos from Loss on Android
 
 1. Back up Android photos on cloud.
@@ -168,6 +204,9 @@ Download the software’s free trial to assess its performance and preview the d
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery of Samsung phone?
 
 You can recover Gallery pictures from Google Photos, Google Drive or Samsung Cloud. Also try to recover missing photos with the help of ES File Explorer on Samsung smartphone.
@@ -186,6 +225,9 @@ You can recover deleted photos from Android Gallery without backup using a photo
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after format?
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -213,3 +255,49 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-soundscapes-for-success-the-art-of-music-on-tiktok/"><u>[Updated] 2024 Approved  Soundscapes for Success  The Art of Music on TikTok</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-complete-guide-mastering-final-cut-pro/"><u>[Updated] Complete Guide  Mastering Final Cut Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-expertly-navigate-the-cloud-of-content-with-best-screen-recording-tools-for-2024/"><u>[Updated] Expertly Navigate the Cloud of Content with Best Screen Recording Tools for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-bring-your-favorite-tunes-to-the-social-network-iphoneandroid/"><u>[Updated] In 2024, Bring Your Favorite Tunes to the Social Network (iPhone/Android)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-youtube-content-with-free-music-sources/"><u>[Updated] In 2024, Enhancing YouTube Content with Free Music Sources</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-spice-up-your-instagram-feed-incorporate-video-loops/"><u>[Updated] In 2024, Spice Up Your Instagram Feed  Incorporate Video Loops</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-immediate-view-of-windows-pics/"><u>2024 Approved  Immediate View of Windows Pics</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-where-can-i-find-clapping-sound-effect/"><u>2024 Approved Where Can I Find Clapping Sound Effect?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-deep-dive-into-digital-platform-wealth-dailymotion-and-youtube-comparison/"><u>A Deep-Dive Into Digital Platform Wealth  Dailymotion & YouTube Comparison</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-in-windows-11-by-drivereasy-guide/"><u>How to install hardware device drivers manually in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-in-windows-1110-by-drivereasy-guide/"><u>How to install hardware device drivers manually in Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-in-windows-11107-by-drivereasy-guide/"><u>How to install hardware device drivers manually in Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-in-windows-7-by-drivereasy-guide/"><u>How to install hardware device drivers manually in Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-on-windows-10-by-drivereasy-guide/"><u>How to install hardware device drivers manually on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-on-windows-10-and-7-by-drivereasy-guide/"><u>How to install hardware device drivers manually on Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-on-windows-11-by-drivereasy-guide/"><u>How to install hardware device drivers manually on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-on-windows-11-and-10-by-drivereasy-guide/"><u>How to install hardware device drivers manually on Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to install hardware device drivers manually on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-on-windows-1110-by-drivereasy-guide/"><u>How to install hardware device drivers manually on Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-on-windows-11107-by-drivereasy-guide/"><u>How to install hardware device drivers manually on Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-on-windows-7-by-drivereasy-guide/"><u>How to install hardware device drivers manually on Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-remove-apple-iphone-11-pro-max-sim-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 11 Pro Max SIM Lock?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-science-of-scaling-characters-in-digital-creativity/"><u>In 2024, The Science of Scaling Characters in Digital Creativity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/jest-engineer-online/"><u>Jest Engineer Online</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-best-9-amv-makers-for-computer-for-2024/"><u>New Best 9 Amv Makers for Computer for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-from-script-to-screen-8-essential-mac-movie-creator-tools/"><u>New In 2024, From Script to Screen 8 Essential Mac Movie Creator Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secrets-to-amassing-affordable-artistic-elements-for-2024/"><u>Secrets to Amassing Affordable Artistic Elements for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smooth-transitions-in-photography-mastering-face-focused-motion-blur-in-picsart-for-2024/"><u>Smooth Transitions in Photography  Mastering Face-Focused Motion Blur in Picsart for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/1714952557780-updated-in-2024-top-10-audio-normalizers-for-windows-dont-miss-it/"><u>Updated In 2024, Top 10 Audio Normalizers for Windows. Dont Miss It</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-gionee-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Gionee Device</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Restore Previous Version of Excel 2023 File? | Stellar
-date: 2024-03-11 13:17:32
-updated: 2024-03-14 22:49:43
+date: 2024-07-17T12:25:56.384Z
+updated: 2024-07-18T12:25:56.384Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to Restore Previous Version of Excel 2023 File?
 excerpt: This article describes How to Restore Previous Version of Excel 2023 File?
 keywords: repair .xltx,repair .xlb files,repair corrupt .xlsx,repair damaged .xls files,repair corrupt .csv files,repair corrupt .xlb,repair .csv,repair damaged .xlb files,repair .xlsx files
-thumbnail: https://www.lifewire.com/thmb/ebrh4pryk1RCkUBx_N34Im614oA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-14050070541-0fc96b82fdc54287bf3bbce3ba323342.jpg
+thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef3415c454c76fbd282fafbfc.jpg
 ---
 
 ## How to Repair Multiple Excel Files by Using Stellar
@@ -26,11 +26,17 @@ With Stellar Repair for Excel, it is quite easy and simple to repair multiple MS
 
 - Click **Browse** and select corrupt Excel files. Select the checkbox to repair multiple files.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Search file](https://www.stellarinfo.com/blog/wp-content/uploads/2019/08/22-search-file.png)
 
 - Click Repair
 - The software provides the preview facility. You can check the it on left pane.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Preview of file](https://www.stellarinfo.com/blog/wp-content/uploads/2019/08/4-preview.png)
 
 - Save the repired filr ether **Default location** or **Select New Folder** radio button.
@@ -42,6 +48,9 @@ Stellar Repair for Excel Stellar Repair for Excel is the best choice for repairi
 [Learn More ![red arrow](https://www.stellarinfo.com/image/catalog/blacktheme/data-recovery-standard/red-arrow.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix Cannot Paste the Data Error in Microsoft Excel
 
 When copying and pasting the cell contents or attributes from one workbook to another, you can encounter the "Cannot paste the data" error. The error indicates that the values you are trying to paste do not match the cell format (Currency, Date, Text, etc.) used in the column. The error can occur if you are attempting to paste information into a merged cell. You can also get this error if the data you are trying to paste contains more columns than the destination worksheet can accept or if the copy area and paste area aren't the same size.
@@ -62,10 +71,16 @@ You can experience the "Excel cannot paste the data" error due to one of the fol
 - Compatibility issues
 - While pasting the merged cells
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Methods to Fix MS Excel Cannot Paste the Data Error**
 
 The "Microsoft Excel cannot paste the data" error usually appears when copying and pasting data within the spreadsheet. It primarily affects the copy-and-paste feature within the Excel file. However, the impact of this error may vary with the data you are working with. When this error occurs, first try restarting the Excel application. Ensure that you've saved all your important data before restarting the application to prevent data loss. If, after performing this basic step, you still face the issue, then try the following troubleshooting methods.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 1: Check and Unlock Cells in Excel**
 
 You can get the Excel cannot paste the data error if the cells you are trying to paste in the Excel file are locked. You can check and unlock the specific cells in the Excel file using the below steps:
@@ -80,6 +95,9 @@ You can get the Excel cannot paste the data error if the cells you are trying to
 
 - Under the **Protection** option, unselect the locked field and then click **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Click on Locked Cell under Protection Tab](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/cannotpastedata/select-locked-under-protection.jpg)
 
 ### **Method 2: Check and Fix the Cell Format**
@@ -93,6 +111,9 @@ Sometimes, you can get the "Cannot paste the data" error in Excel if there is an
 
 - Click on the desired cell format that matches the values you are trying to paste into the column.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 3: Check Copy and Paste Area Size**
 
 The "data cannot be pasted" issue can also occur if Excel detects the copy area of the range of cells is not of the same size and shape as that of the paste area. So, make sure the size of the range of cells for the paste area is same as the copied area. To ensure this, you can try the following:
@@ -105,6 +126,9 @@ The "data cannot be pasted" issue can also occur if Excel detects the copy area 
 
 - You can use the **Paste Special** option to paste the data. To use this option, go to **Home > Paste Special**.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Navigate to Home And click on Paste Special in Excel](https://www.stellarinfo.com/public/image/catalog/article/Repair-Office-Documents/cannotpastedata/go-to-home-and-then-click-paste-special.png)
 
 - You can choose from the different options, such as paste all, formulas, operations, Transpose, skip blanks, etc. to take control over how the data is pasted.
@@ -133,6 +157,9 @@ In **Excel Options**, click **Advanced** and unselect **"Ignore other applicatio
 
 ## Here are some additional solutions you can try to fix the "Cannot paste the data" error in Excel
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Check the Excel File Format**
 
 Sometimes, the copy and paste error can occur if you try to move data from an older version of Excel file (XLS) into a newer version file (XLSX) or vice versa. You can try to change or convert the file format to resolve the issue.
@@ -149,6 +176,9 @@ You can get the "Cannot paste the data" error when the information you need to p
 
 The copy-and-paste error in Excel can also occur if there are not enough columns to accept the data that you are trying to paste. You can insert more columns and then try copying and pasting data. To insert additional columns, click on the column heading, click **Home**, and then select **Insert.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Remove Incompatible Add-ins**
 
 Sometimes, incompatible or faulty add-ins can also create conflicts with Excel's clipboard operations, leading to the error. To check if add-ins are causing the issue, open the Excel file in safe mode. In safe mode, if you are able to paste the data, then check and uninstall the incompatible Excel Add-ins.
@@ -176,6 +206,9 @@ The "Excel cannot paste the data" error in Excel can occur due to different fact
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixed "Cannot Insert Object" Error in Excel | Step-by-Step Guide
 
 **Summary:** The error “cannot insert object” in MS Excel can prevent you from modifying objects in the worksheet. This blog will discuss the primary reasons behind this error and the possible solutions to fix it. You will also learn about a professional Excel repair software that can help fix the error if it has occurred due to corruption in Excel file.
@@ -196,12 +229,18 @@ Many users have reported encountering the “cannot insert object” error while
 - Incompatible or faulty Add-ins.
 - Issue with Security Settings.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Methods to Fix the “Cannot Insert Object” Error in Excel**
 
 You may encounter the “Cannot insert object” error when trying to add an element stored on a network. It can occur due to issues with the file link, such as incorrect file location. In such a case, you can check the link by selecting the **link to file** option from the **Insert** tab.
 
 Sometimes, the error can occur if the file in which you are trying to insert the object is locked and password-protected. In this case, you can [unprotect the Excel file](https://support.microsoft.com/en-au/office/protect-a-worksheet-3179efdb-1285-4d49-a9c3-f4ca36276de6). If the issue still persists, then you can follow the below methods.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Check and Change Restricted Security Settings
 
 Excel provides security settings to protect your workbook. Sometimes, these settings can prevent inserting objects in the file. You can change the security settings to allow Excel to insert objects. To do so, follow these steps:
@@ -210,11 +249,17 @@ Excel provides security settings to protect your workbook. Sometimes, these sett
 - Locate the **File** and then click **Options**.
 - In **Excel Options**, click **Trust Center**.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Trust Center In Excel Options](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/07/trust-center-in-excel-options.jpg)
 
 - Click **Trust Center Settings**.
 - In the **Trust Center Settings** window, select **Protected View** from the left pane.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Click Protected View In Trust Center](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/07/click-protected-view-in-trust-center.jpg)
 
 - Under **Protected View**, unselect the below three options:
@@ -222,6 +267,9 @@ Excel provides security settings to protect your workbook. Sometimes, these sett
 - Enable Protected View for files located in potentially unsafe locations.
 - Enable Protected View for Outlook attachments.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Select All Options Under Protected View](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/07/select-all-options-under-protected-view.jpg)
 
 - Click **OK**.
@@ -243,6 +291,9 @@ You can also encounter the “Cannot insert object” error in Excel after insta
 - Follow the uninstallation steps on the screen.
 - Once the process is complete, restart the system.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 3: Check Memory Usage**
 
 The “Cannot insert object” issue can also occur if your system is low on memory. You can check and close unnecessary processes and applications running in the background to free up memory. To do so, follow these steps:
@@ -252,10 +303,16 @@ The “Cannot insert object” issue can also occur if your system is low on mem
 - Right-click on the process and then select **End Task**.
 - Restart Excel to see if the issue is fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 4: Check Excel File Size**
 
 If your Excel file size exceeds the prescribed limit, it can also lead to the “Cannot insert Excel object” error. So, check the Excel file size. You can reduce the file size by removing unnecessary objects, such as formulas or images.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 5: Check and Change Excel ActiveX Settings**
 
 You can get the “Excel cannot insert object” error if your Excel file contains macros, controls, and other interactive buttons. It usually occurs if the ActiveX Controls option is disabled. You can check and change the ActiveX Settings to fix the issue. Here are the steps:
@@ -266,11 +323,17 @@ You can get the “Excel cannot insert object” error if your Excel file contai
 - In the **Trust Center Settings**, click **ActiveX Settings**.
 - Under ActiveX Settings, make sure the “Enable all controls without restrictions and without prompting” option is selected.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select enable all controls without restrictions under activexsettings](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/11/select-enable-all-controls-without-restrictions-under-activexsettings.png)
 
 - If the option is not selected, then select it and click **OK**.
 - Restart the Excel and check if the error is fixed or not.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 6: Repair the Excel Workbook**
 
 The “Cannot insert object” error can occur if the object you are trying to insert is corrupted or the file in which you are inserting the object is damaged. If the issue has occurred due to a corrupted Excel file, then you can repair the file using the Open and Repair utility in MS Excel. To use this Microsoft-inbuilt utility, follow these steps:
@@ -291,6 +354,9 @@ The “Cannot insert object” error can occur if the object you are trying to i
 
 If the [Open and Repair utility fails](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to fix the issue, then try a professional Excel Repair software, like Stellar Repair for Excel. It is designed to repair severely corrupted Excel files. It can restore all the Excel file objects, such as tables, charts, formulas, etc. It helps fix all types of corruption related errors. The software is compatible with all versions of Excel.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Conclusion**
 
 You might encounter the “Cannot insert object” error when embedding or inserting objects in Excel. In this post, we have discussed the possible solutions to fix this error. We have also mentioned an [Excel repair software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) that can help to easily repair the corrupted Excel file and recover all the data. You can download the Stellar Repair for Excel’s free demo version to preview the recoverable objects of the corrupted Excel file.
@@ -373,6 +439,9 @@ The error 'Excel cannot open read-only documents' may appear due to a problem wi
 - Open Control Panel and click **Uninstall a Program** link under **Programs.**
 - Choose Microsoft Office from the list and click the **Change** button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Change button](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/repair-ms-office-4.png)
 
 - Select Quick Repair and then click Repair to fix problems with MS Office and MS Excel. It will also restore any missing or damaged program files.
@@ -398,6 +467,9 @@ Sometimes, the 'Excel cannot open read-only documents' error can be resolved by 
 
 **Summary:** The blog describes simple ways to open corrupt Excel file without any backup. It explains some manual workarounds that you can try to open the file. Also, it mentions about an Excel file repair tool that can quickly fix the corrupt file and recover data from it.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 Do you have an Excel file that does not open because of corruption issue? And every time you try to open it, an error message ‘the file is corrupt and cannot be opened’ pops-up?
@@ -447,6 +519,9 @@ Some Excel users have reported that turning off the ‘protected view’ feature
 
 **Step 2:** In the **Excel Options** window, select **Trust Center**, and then click **Trust Center Settings**.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![In the Trust Center tab, click on Trust Center Settings...](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/05/Excel-trust-center-settings.png)
 
 Excel Trust Center Settings
@@ -473,6 +548,9 @@ Figure 5 – Excel Options
 
 **Step 3:** In the **Excel Options** dialog box, click **Save**, and then copy the ‘AutoRecover file location’.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Copy the 'AutoRecover file location' for configuration or backup purposes.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/05/Autorecover-excel-file.png)
 
 Excel Options Window
@@ -488,6 +566,9 @@ _**TIP:** Use Excel’s AutoBackup feature to reduce chances of data loss, by s
 
 If the above manual methods fail, repair the **corrupt Excel file** by using a third-party software, such as Stellar Repair for Excel**.** The software helps repair Excel (XLS and XLSX) files easily and effectively.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Free-download-for-windows-1.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 **Read this: [How to repair corrupt Excel file using Stellar Repair for Excel?](https://www.stellarinfo.com/support/kb/index.php/article/repair-corrupt-excel-file)**
@@ -502,6 +583,9 @@ Some key features of Excel Repair software are as follows:
 - Recovers all data components from the corrupt files and saves them in a new blank Excel file.
 - Compatible with Excel 2019, 2016, 2013, 2010, 2007, and lower versions.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 You can try the workarounds discussed in the blog to open a corrupt Excel file without a backup. Disabling the protected view feature can help you open the file. If the issue persists then try repairing the corrupted Excel file using the Open and Repair utility. Although, it may not be able to fix a severely corrupted workbook. In such a case you can use [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). It is an advanced tool that can help you repair a corrupted Excel file with 100% integrity.
@@ -513,6 +597,9 @@ You can try the workarounds discussed in the blog to open a corrupt Excel file w
 
 **Summary:** The error ‘Excel found a problem with one or more formula references in this worksheet’ may appear while saving the Excel workbook. It occurs when Excel found a problem with the formula used in the sheet. However, it may also occur when the Excel workbook gets damaged or corrupt. In this guide, we’ve explained the reasons that may lead to this Excel error and methods to resolve the error, by using various Excel options and a third-party Excel file repair software.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 If you are experiencing the ‘Excel found a problem with one or more formula references in this worksheet’ error message in the Excel workbook, it indicates that the [Excel file is corrupt](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) or partially damaged. However, it may also occur due to incorrect reference to a wrong cell or object linking, which is not working. The complete error message says,
@@ -532,6 +619,9 @@ A few reasons that may lead to such error are as follows,
 - Empty or no values in named or range cells
 - Multiple Excel files (not common)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Methods to Resolve ‘Excel Found a Problem with One or More Formula References in this Worksheet’ Error
 
 Following are a few methods that you can follow to [fix Excel file](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) that can’t be saved due to problems with one or more formula references in the worksheet.
@@ -544,6 +634,9 @@ To run Error Checking in the Excel sheet, follow these steps,
 
 - Go to Formulas and click on the ‘Error Checking’ button
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Error Checking](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/11/MS-Excel-error-checking-1024x431.png)
 
 - This runs a scan on the sheet and displays the issues, if any. If no issue is found, it displays the following message,
@@ -560,6 +653,9 @@ This will help you find the faulty sheet from the workbook that you can review. 
 
 In case the error is not fixed, you can back up the faulty sheet content and remove it from the workbook to save the Excel file.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Check Links
 
 When the Excel file contains external links with errors, MS Excel may display such error messages. To check and confirm if external links are causing the error, follow these steps,
@@ -585,6 +681,9 @@ To check Pivot Tables, follow these steps,
 
 - Check if any of the formula used is problematic. Sometimes small typo, such as misplaced comma, can lead to such problems in Excel. Thus, check each formula thoroughly and correct the formulas wherever needed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 6: Use Excel Repair Software
 
 When none of the methods resolve the error, then you can rely on advanced [Excel repair software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/), such as Stellar Repair for Excel. It’s a powerful tool that is recommended by several MVPs and IT administrators for resolving common Excel errors, such as ‘Excel found a problem with one or more formula references in this worksheet.’
@@ -593,6 +692,9 @@ When none of the methods resolve the error, then you can rely on advanced [Excel
 
 It repairs corrupt or damaged Excel (.xls/.xlsx) files, recovers Pivot tables, charts, etc., and save them in a new Excel worksheet. It helps Excel users, facing formula reference error, restore their Excel file without any risk of data loss, while preserving the sheet properties and formatting with 100% precision.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Although the error ‘Excel found a problem with one or more formula references in this worksheet’ can be resolved by using various options in MS Excel, it may lead to a partial loss of information. Thus, you must perform these operations after taking a backup of the Excel worksheet. Also, if the MS Excel options fail to resolve the problem, you can use an Excel file repair software, such as Stellar Repair for Excel. The software helps fix Excel file corruption and restores the information and data from corrupt or damaged Excel files (.xls/.xlsx) to a new worksheet.
@@ -611,11 +713,17 @@ With Stellar Repair for Excel, it is quite easy and simple to repair multiple MS
 
 - Click **Browse** and select corrupt Excel files. Select the checkbox to repair multiple files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Search file](https://www.stellarinfo.com/blog/wp-content/uploads/2019/08/22-search-file.png)
 
 - Click Repair
 - The software provides the preview facility. You can check the it on left pane.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Preview of file](https://www.stellarinfo.com/blog/wp-content/uploads/2019/08/4-preview.png)
 
 - Save the repired filr ether **Default location** or **Select New Folder** radio button.
@@ -624,6 +732,9 @@ With Stellar Repair for Excel, it is quite easy and simple to repair multiple MS
 
 Stellar Repair for Excel Stellar Repair for Excel is the best choice for repairing corrupt or damaged Excel (.XLS/.XLSX) files. This Excel recovery software restores everything from corrupt file to a new blank Excel file.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Learn More ![red arrow](https://www.stellarinfo.com/image/catalog/blacktheme/data-recovery-standard/red-arrow.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 
@@ -640,3 +751,50 @@ Stellar Repair for Excel Stellar Repair for Excel is the best choice for repairi
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/he-unseen-aspect-of-youtube-live-imagery-for-2024/"><u>[New] The Unseen Aspect of YouTube Live Imagery for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-tips-and-tricks-recording-conversations-on-whatsapp-for-2024/"><u>[New] Tips and Tricks  Recording Conversations on WhatsApp for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-the-9gag-meme-landscape-a-beginners-guide-for-2024/"><u>[Updated] Navigating the 9GAG Meme Landscape  A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-entry-editor-for-seamless-edits-across-all-platforms/"><u>[Updated] Top Entry Editor for Seamless Edits Across All Platforms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-understanding-instagrams-reels-vs-stories-format/"><u>2024 Approved  Understanding Instagram’s Reels vs Stories Format</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 Pro without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-mini-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 mini to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-mini-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 mini to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-mini-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 mini to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-mini-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 mini to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-mini-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 mini to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-mini-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 mini without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-max-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro Max to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-max-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro Max to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-max-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro Max to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-max-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro Max to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-max-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro Max to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-max-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro Max to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-max-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro Max without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro Max without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-13-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-14-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 14 Without Apple ID Password?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-the-world-of-online-streaming-wirecast-and-facebook/"><u>Navigating the World of Online Streaming  Wirecast & Facebook</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-5-best-online-video-trailer-makers/"><u>New 2024 Approved 5 Best Online Video Trailer Makers</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-buzz-factor-creating-catch-all-content-for-facebook-for-2024/"><u>The Buzz Factor  Creating Catch-All Content for Facebook for 2024</u></a></li>
+</ul></div>

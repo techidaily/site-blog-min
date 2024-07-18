@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in Excel 2000 files
-date: 2024-05-19T18:32:13.151Z
-updated: 2024-05-20T18:32:13.151Z
+date: 2024-07-17T10:18:02.052Z
+updated: 2024-07-18T10:18:02.052Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to insert sign in Excel 2000 files
 excerpt: This article describes How to insert sign in Excel 2000 files
 keywords: .xlsx signature free,free sign .xlsx,.xlsx signature app
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## 1. How to insert sign in Excel 2000 files
@@ -23,6 +23,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -49,16 +52,25 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -71,14 +83,23 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -108,6 +129,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -163,3 +187,53 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-insights-into-top-10-no-cost-open-source-video-communication-tools/"><u>[New] 2024 Approved  Essential Insights Into Top 10 No-Cost, Open Source Video Communication Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-effortless-spotify-to-youtube-playlist-conversion-5-must-have-apps-for-2024/"><u>[New] Effortless Spotify-to-YouTube Playlist Conversion  5 Must-Have Apps for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-elite-enumerations-best-online-spots-to-download-snapalert-music-for-2024/"><u>[New] Elite Enumerations  Best Online Spots to Download SnapAlert Music for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-amplify-views-effortlessly-discovering-the-best-20-youtube-techniques/"><u>[New] In 2024, Amplify Views Effortlessly  Discovering the Best 20 YouTube Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lapscape-dreaming-choosing-the-best-websites-for-aesthetic-backgrounds/"><u>[Updated] Lapscape Dreaming  Choosing the Best Websites for Aesthetic Backgrounds</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-playback-operation-for-srt-across-operating-systems/"><u>[Updated] Playback Operation for SRT Across Operating Systems</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tailored-techniques-for-removing-youtube-ads-in-various-browsers/"><u>2024 Approved  Tailored Techniques for Removing YouTube Ads in Various Browsers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-the-impact-of-youtubes-creative-commons-on-videos/"><u>2024 Approved  Understanding the Impact of YouTube's Creative Commons on Videos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-vivo-y56-5g-frp-bypass-by-drfone-android/"><u>About Vivo Y56 5G FRP Bypass</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/from-raw-audio-to-remarkable-voices-installing-and-mastering-autotune-on-audacity-for-2024/"><u>From Raw Audio to Remarkable Voices Installing and Mastering Autotune on Audacity for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-huawei-nova-y71-by-drfone-android/"><u>Full Guide to Unlock Your Huawei Nova Y71</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-tecno-camon-30-pro-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Tecno Camon 30 Pro 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-note-30i-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Note 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-smart-8-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Smart 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-zero-30-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Zero 30 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-itel-a70-by-fonelab-android-recover-music/"><u>How to restore wiped music on Itel A70</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-itel-p40plus-by-fonelab-android-recover-music/"><u>How to restore wiped music on Itel P40+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-itel-p55-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Itel P55 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-lava-by-fonelab-android-recover-music/"><u>How to restore wiped music on Lava</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-lava-agni-2-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Lava Agni 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-lava-blaze-pro-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-lava-yuva-2-by-fonelab-android-recover-music/"><u>How to restore wiped music on Lava Yuva 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-magic-6-by-fonelab-android-recover-music/"><u>How to restore wiped music on Magic 6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-magic5-ultimate-by-fonelab-android-recover-music/"><u>How to restore wiped music on Magic5 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-meizu-21-by-fonelab-android-recover-music/"><u>How to restore wiped music on Meizu 21</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-edge-40-neo-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-edge-40-pro-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-edgeplus-2023-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-g24-power-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola G24 Power</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-moto-g-5g-2023-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-moto-g-stylus-2023-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-moto-g34-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Moto G34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-moto-g73-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Moto G73 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-razr-40-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Razr 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-nokia-by-fonelab-android-recover-music/"><u>How to restore wiped music on Nokia</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-nokia-130-music-by-fonelab-android-recover-music/"><u>How to restore wiped music on Nokia 130 Music</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-nokia-c110-by-fonelab-android-recover-music/"><u>How to restore wiped music on Nokia C110</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-nokia-g22-by-fonelab-android-recover-music/"><u>How to restore wiped music on Nokia G22</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-nova-y71-by-fonelab-android-recover-music/"><u>How to restore wiped music on Nova Y71</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-nubia-red-magic-8s-pro-by-fonelab-android-recover-music/"><u>How to restore wiped music on Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-advanced-methods-for-archiving-your-roblox-quests-on-mac/"><u>In 2024, Advanced Methods for Archiving Your Roblox Quests on Mac</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oneplus-nord-n30-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass OnePlus Nord N30 5G FRP</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-scoring-big-on-youtube-how-much-do-ad-revenues-add-up/"><u>In 2024, Scoring Big on YouTube  How Much Do Ad Revenues Add Up?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-6-free-daw-software-for-beginners-to-use/"><u>New 2024 Approved 6 Free DAW Software for Beginners to Use</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-complete-youtube-editors-toolkit-for-post-publish-adjustments/"><u>The Complete YouTube Editor's Toolkit for Post-Publish Adjustments</u></a></li>
+</ul></div>

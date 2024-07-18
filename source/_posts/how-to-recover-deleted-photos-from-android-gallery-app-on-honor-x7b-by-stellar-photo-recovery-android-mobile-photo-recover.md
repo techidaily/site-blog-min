@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Honor X7b
-date: 2024-05-19T18:32:07.440Z
+date: 2024-07-17T08:55:42.403Z
 tags: 
   - recover
 categories: 
@@ -21,6 +21,9 @@ However, we all make mistakes, sometimes in a hurry or unknowingly, which lead t
 
 But no worries. Here you will know how to recover deleted photos from Android Gallery app. This post shares the best 7 ways worth trying to restore deleted photos on Android devices, both with and without software.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/How-to-Recover-Deleted-Photos-from-Android-Gallery-app.webp)
 
 ## Method 1: Recover Android photos from Google Photos
@@ -37,13 +40,22 @@ How to recover deleted photos from Android Gallery free using Google Photos:
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Honor X7b model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Recover Gallery photos from Google Drive
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -53,6 +65,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -100,12 +115,18 @@ You can root the Android phone with the help of a rooting software. However, roo
 
 **Caution**: Rooting makes your Honor X7b phone’s warranty null and void.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover deleted Gallery photos from Android internal storage:
 
 - Download any secure Android recovery software on Windows or Mac computer.
 - Connect the rooted Android phone with your PC or Mac.
 - Launch the software, select the Android device to scan and follow the prompts in the software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 5: Restore photos with inbuilt Android backup services
 
 These days, Android phone manufacturers provide their own inbuilt backup functions in the devices. You can back up your Honor X7b phone’s app data to the phone’s cloud backup, local backup, Google backup, or external storage. The options vary with the mobile phone brands. Some mobile phones like Huawei even have a builtin backup app.
@@ -124,6 +145,9 @@ If you had turned on the device backup service, restore the deleted Gallery pict
 
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Honor X7b to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -132,6 +156,9 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
@@ -143,6 +170,9 @@ Apart from built-in Google cloud backup apps, you might be using other cloud sto
 
 The benefit of cloud backup is that you can recover deleted smartphone photos from any device simply by login into the account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Cloud-backup-in-Android-Xiaomi-768x469.webp)
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
@@ -166,6 +196,9 @@ Download the software’s free trial to assess its performance and preview the d
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
 ### Q. How to recover photos when my Android SD card asks to format before I can open it?
@@ -219,3 +252,52 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-funny-flicks-compilation-of-chuckle-inducing-short-youtube-videos/"><u>[New] In 2024, Funny Flicks  Compilation of Chuckle-Inducing Short YouTube Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-digital-dynamo-recording-on-a-mac-for-2024/"><u>[Updated] Digital Dynamo  Recording on a Mac for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-does-a-vtubing-career-start-and-prospective-path/"><u>[Updated] In 2024, How Does a Vtubing Career Start & Prospective Path?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-instagram-music-copyright-rules/"><u>[Updated] Instagram Music Copyright Rules</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-jumpstart-earnings-a-novice-written-guide/"><u>[Updated] Jumpstart Earnings  A Novice’ Written Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-precision-meets-creativity-top-accessories-for-yi-4k/"><u>[Updated] Precision Meets Creativity  Top Accessories for YI 4K</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-visibility-with-customized-channel-names-for-2024/"><u>Boost Visibility with Customized Channel Names for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/boosting-your-discord-experience-with-key-plugins/"><u>Boosting Your Discord Experience with Key Plugins</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-magic-6-lite-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor Magic 6 Lite?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-magic-6-pro-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor Magic 6 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-play-40c-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor Play 40C?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-play-7t-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor Play 7T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-play-8t-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor Play 8T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-v-purse-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor V Purse?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-x50iplus-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor X50i+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-x7b-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor X7b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-x8b-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor X8b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-x9b-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor X9b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-htc-u23-pro-by-fonelab-android-recover-data/"><u>How to recover lost data from HTC U23 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-huawei-nova-y71-by-fonelab-android-recover-data/"><u>How to recover lost data from Huawei Nova Y71?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-huawei-nova-y91-by-fonelab-android-recover-data/"><u>How to recover lost data from Huawei Nova Y91?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-huawei-p60-by-fonelab-android-recover-data/"><u>How to recover lost data from Huawei P60?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-gt-10-pro-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix GT 10 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-hot-30i-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix Hot 30i?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-hot-40-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix Hot 40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-note-30-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix Note 30 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-note-30-pro-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix Note 30 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-note-30i-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix Note 30i?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-smart-7-hd-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix Smart 7 HD?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-smart-8-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix Smart 8?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-zero-30-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix Zero 30 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-11-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 11 After iOS Update? | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-14-using-macos-finder-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 14 using macOS finder</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Itel A70 Phone with Broken Screen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-13-pro-max-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 13 Pro Max online without SIM Card?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-iphone-se-2022-how-to-unlock-a-disabled-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, Disabled iPhone SE (2022) How to Unlock a Disabled iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-apple-iphone-xs-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on Apple iPhone XS online without jailbreak</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-simple-ways-to-record-and-save-your-macos-screen/"><u>In 2024, Simple Ways to Record and Save Your macOS Screen</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/incorporate-melodies-into-gif-file-on-pc/"><u>Incorporate Melodies Into GIF File on PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-k70-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-art-of-soundless-storytelling-removing-audio-from-videos-with-imovie/"><u>The Art of Soundless Storytelling Removing Audio From Videos with iMovie</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-list-of-8-mobile-audio-workstations-for-enhanced-producing-for-2024/"><u>The Ultimate List of 8 Mobile Audio Workstations for Enhanced Producing for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-exploring-the-best-dawn-and-rise-of-browser-based-daws-top-10-selection-for-2024/"><u>Updated Exploring the Best Dawn and Rise of Browser-Based DAWs Top 10 Selection for 2024</u></a></li>
+</ul></div>

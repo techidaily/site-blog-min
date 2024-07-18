@@ -1,7 +1,7 @@
 ---
 title: How to sign a .xltx document online
-date: 2024-03-11 20:35:18
-updated: 2024-03-12 21:44:29
+date: 2024-07-17T12:51:06.096Z
+updated: 2024-07-18T12:51:06.096Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to sign a .xltx document online
 excerpt: This article describes How to sign a .xltx document online
 keywords: .xlsx signature app,.xlsx signer online,excel signature online,.xlsx signature online,sign .xlsx online
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## 1. How to sign a .xltx document online
@@ -39,6 +39,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Excel
 
 These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -49,6 +52,9 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
@@ -59,6 +65,9 @@ In just a few seconds your Excel document will be fully available once the uploa
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -95,6 +104,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -108,6 +120,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -122,6 +137,9 @@ To implement each of the ways to install a digital signature in Excel, you need 
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -136,6 +154,9 @@ You can also use a signature line in Excel to insert a signature with properties
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -151,6 +172,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +185,54 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-becoming-an-expert-at-scheduling-virtual-team-sessions-google/"><u>[New] 2024 Approved  Becoming an Expert at Scheduling Virtual Team Sessions (Google)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-tips-for-digitizing-internet-radio-programming/"><u>[New] Essential Tips for Digitizing Internet Radio Programming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cutting-edge-tools-free-youtube-intro-creators/"><u>[New] In 2024, Cutting-Edge Tools  Free YouTube Intro Creators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-from-chords-to-clicks-mastering-music-on-ig/"><u>[Updated] 2024 Approved  From Chords to Clicks  Mastering Music on IG</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-10-finest-fee-free-lut-options-reviewed-and-accessible-here/"><u>[Updated] In 2024, 10 Finest, Fee-Free LUT Options Reviewed & Accessible Here</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-steps-for-iphone-7-screen-capture/"><u>[Updated] In 2024, Essential Steps for iPhone 7 Screen Capture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-vector-graphics-our-top-10-pics-stores/"><u>[Updated] Mastering Vector Graphics  Our Top 10 Pics Stores</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-the-ideal-12-vlogging-cameras-with-seamless-screen-control/"><u>2024 Approved  Unveiling the Ideal 12 Vlogging Cameras with Seamless Screen Control</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-lava-blaze-2-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Lava Blaze 2 5G</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/edit-video-metadata-like-a-pro-top-8-mac-software-for-2024/"><u>Edit Video Metadata Like a Pro Top 8 Mac Software for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-videographer-to-income-generator-on-youtube-for-2024/"><u>From Videographer to Income Generator on YouTube for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-tecno-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Tecno ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Tecno Camon 20 Premier 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-tecno-phantom-v-flip-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Tecno Phantom V Flip?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-tecno-pop-8-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Tecno Pop 8?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-tecno-pova-5-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Tecno Pova 5?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-tecno-spark-10-4g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Tecno Spark 10 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-tecno-spark-10-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Tecno Spark 10 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-tecno-spark-10c-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Tecno Spark 10C?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-t2-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo T2 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-t2-pro-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo T2 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-v29-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo V29?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-v29e-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo V29e?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-v30-lite-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo V30 Lite 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y02t-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y02T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y28-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y28 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y36-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y36?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y56-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y56 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y77t-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y77t?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y78t-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y78t?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-x6-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from X6?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-xiaomi-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Xiaomi ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-xiaomi-13-ultra-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Xiaomi 13 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-xiaomi-mix-fold-3-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Xiaomi Mix Fold 3?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Xiaomi Redmi K70 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Xiaomi Redmi Note 13 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-xperia-1-v-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Xperia 1 V?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-yuva-2-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Yuva 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-zte-axon-40-lite-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from ZTE Axon 40 Lite?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-zte-blade-a73-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from ZTE Blade A73 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-zte-nubia-z60-ultra-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from ZTE Nubia Z60 Ultra?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-set-up-a-canon-printer-a-visual-walkthrough/"><u>How to Set Up a Canon Printer: A Visual Walkthrough</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-k11x-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo K11x Phone? Unlock It Now</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-top-apps-to-convert-videos-to-live-photos-on-iphone/"><u>In 2024, Top Apps to Convert Videos to Live Photos on iPhone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/naming-success-strategies-for-engaging-titles/"><u>Naming Success  Strategies for Engaging Titles</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-ultimate-guide-to-charming-and-unique-ringtones/"><u>New In 2024, The Ultimate Guide to Charming and Unique Ringtones</u></a></li>
+</ul></div>

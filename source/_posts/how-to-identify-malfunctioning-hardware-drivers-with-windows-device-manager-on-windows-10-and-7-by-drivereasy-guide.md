@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning hardware drivers with Windows Device Manager on Windows 10 & 7
-date: 2024-05-19T18:32:12.750Z
+date: 2024-07-17T10:12:03.827Z
 tags: 
   - driver
   - device driver
@@ -32,6 +32,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -45,6 +48,9 @@ To understand why, you first have to understand what drivers actually are…
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -72,6 +78,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -104,6 +113,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -144,6 +156,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -179,10 +194,16 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -194,6 +215,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -217,3 +241,56 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-polish-your-tiktok-edits-advanced-strategies-for-success/"><u>[New] How to Polish Your TikTok Edits  Advanced Strategies for Success</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-ios-and-desktop-leaders-in-effortless-video-to-file-conversion/"><u>[New] IOS and Desktop Leaders in Effortless Video to File Conversion</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unlocking-creativity-with-tiktok-symbol-mastery/"><u>[New] Unlocking Creativity with TikTok Symbol Mastery</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-discord-live-stream-recording-guide/"><u>[Updated] Discord Live Stream Recording Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-securely-archive-calls-on-facebook-messenger/"><u>[Updated] How to Securely Archive Calls on Facebook Messenger</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-syncing-social-media-post-videos-on-twitter-and-tumblr/"><u>[Updated] In 2024, Syncing Social Media  Post Videos on Twitter and Tumblr</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-uncover-the-best-practices-for-high-quality-android-recordings/"><u>2024 Approved  Uncover the Best Practices for High-Quality Android Recordings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-f15-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-correction-processes-for-faulty-win11-registry-data/"><u>Guiding Through Correction Processes for Faulty Win11 Registry Data</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-infinix-note-30-vip-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Infinix Note 30 VIP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-infinix-note-30i-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Infinix Note 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-infinix-smart-7-hd-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-infinix-smart-8-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Infinix Smart 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-infinix-smart-8-hd-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Infinix Smart 8 HD</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-itel-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Itel</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-itel-a05s-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Itel A05s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-itel-a70-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Itel A70</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-itel-p40plus-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Itel P40+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-itel-s23-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Itel S23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-lava-blaze-2-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-lava-storm-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Lava Storm 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-lava-yuva-2-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Lava Yuva 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-lava-yuva-3-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-magic-5-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Magic 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-edge-40-neo-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-edgeplus-2023-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-g54-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola G54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-moto-g04-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola Moto G04</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-moto-g24-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola Moto G24</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-moto-g34-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola Moto G34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-razr-40-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola Razr 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-razr-40-ultra-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-narzo-n53-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Narzo N53</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nokia-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nokia</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nokia-105-classic-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nokia 105 Classic</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nokia-150-2023-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nokia 150 (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nokia-c110-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nokia C110</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nokia-c12-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nokia C12</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nokia-c210-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nokia C210</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nokia-c300-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nokia C300</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nokia-g310-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nokia G310</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nokia-xr21-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nokia XR21</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-note-30-vip-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Note 30 VIP</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-artisanal-analysis-unveiling-video-value-versus-vendors/"><u>In 2024, The Artisanal Analysis  Unveiling Video Value Versus Vendors</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963701106-new-if-you-want-to-know-how-to-live-stream-pre-recorded-video-you-are-in-the-right-place-we-will-give-you-a-complete-guide-on-8-ways-you-can-live-stream-pre/"><u>New If You Want to Know How to Live Stream Pre-Recorded Video, You Are in the Right Place. We Will Give You a Complete Guide on 8 Ways You Can Live Stream Pre-Recorded Videos Successfully for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-setting-up-audacity-on-ubuntu-linux-a-2023-comprehensive-instruction-manual-for-audio-enthusiasts/"><u>Updated In 2024, Setting Up Audacity on Ubuntu Linux A 2023 Comprehensive Instruction Manual for Audio Enthusiasts</u></a></li>
+</ul></div>

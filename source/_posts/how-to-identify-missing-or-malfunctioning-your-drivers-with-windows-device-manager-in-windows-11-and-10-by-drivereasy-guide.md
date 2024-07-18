@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-05-19T18:32:12.944Z
+date: 2024-07-17T10:14:28.400Z
 tags: 
   - driver
   - device driver
@@ -19,12 +19,23 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -73,6 +84,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -82,6 +96,9 @@ To automatically update to the correct version of all the drivers that are missi
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -111,9 +128,15 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -139,3 +162,63 @@ There are two reasons why…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-playwriting-workshop/"><u>[New] Ultimate Playwriting Workshop</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-exquisite-expression-saver-perfecting-the-art-of-twitter-animations-for-2024/"><u>[Updated] Exquisite Expression Saver - Perfecting the Art of Twitter Animations for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-nextgen-fidelity-upgrade-your-viewing-experience/"><u>[Updated] NextGen Fidelity  Upgrade Your Viewing Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-basics-your-guide-to-av1-encoding/"><u>2024 Approved  Grasping Basics  Your Guide to AV1 Encoding</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-leading-vr-game-experts-you-cant-miss/"><u>2024 Approved  Leading VR Game Experts You Can't Miss</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/boost-your-graphics-game-on-windows-with-new-nvidia-drivers/"><u>Boost Your Graphics Game on Windows with New NVIDIA Drivers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/convert-facebook-videos-to-mp3-top-online-converters/"><u>Convert Facebook Videos to MP3 Top Online Converters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/cut-down-on-hassle-with-easy-ipad-recording-methods-for-2024/"><u>Cut Down On Hassle With Easy iPad Recording Methods for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/guide-to-visualizing-sound-integrating-audio-waves-and-enhancing-them-with-motion-effects-in-adobe-premiere-pro/"><u>Guide to Visualizing Sound Integrating Audio Waves and Enhancing Them with Motion Effects in Adobe Premiere Pro</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpd file by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpd file document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wpd file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wpd file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpd file electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpd file free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wpd file Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wps-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wps file by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wps-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wps file document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wps-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wps file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wps-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wps file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wps-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wps file electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wps-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wps file free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wps-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wps file Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpt file by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpt file document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wpt file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wpt file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpt file electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpt file free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wpt file Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlb-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xlb by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlb-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlb document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlb-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlb document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlb-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xlb files online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlb-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlb Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xls-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xls by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xls-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xls document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xls-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xls document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xls-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xls files online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xls-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xls Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlsm-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xlsm by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlsm-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlsm document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlsm-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlsm document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlsm-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xlsm files online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlsm-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlsm Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-xlsx-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xlsx by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign Word Online with DigiSigner</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-audience-management-strategies-for-periscope/"><u>In 2024, Audience Management  Strategies for Periscope</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-vivo-y56-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo Y56 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-perfect-fit-how-to-adjust-amazon-prime-video-aspect-ratio-for-your-tv/"><u>New 2024 Approved The Perfect Fit How to Adjust Amazon Prime Video Aspect Ratio for Your TV</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-xiaomi-redmi-note-13-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Xiaomi Redmi Note 13 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-platform-prowess-twitch-vs-youtube-comparison-for-2024/"><u>The Platform Prowess  Twitch vs YouTube Comparison for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-perfectly-use-canva-color-match-in-2024/"><u>Updated How to Perfectly Use Canva Color Match, In 2024</u></a></li>
+</ul></div>

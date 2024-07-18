@@ -1,6 +1,6 @@
 ---
 title: How to identify missing drivers with Windows Device Manager in Windows 7
-date: 2024-05-19T18:32:12.875Z
+date: 2024-07-17T10:13:05.770Z
 tags: 
   - driver
   - device driver
@@ -19,12 +19,18 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -50,6 +56,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -63,6 +72,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -95,6 +107,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -135,6 +150,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -170,6 +188,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 
@@ -189,3 +210,65 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dynamic-discussions-for-regular-streaming/"><u>[New] 2024 Approved  Dynamic Discussions for Regular Streaming</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-charting-the-future-the-next-gen-youtube-festivals-for-2024/"><u>[New] Charting the Future  The Next Gen Youtube Festivals for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-next-viral-platform-showdown-can-likes-beat-tiktoks-frenzy-for-2024/"><u>[New] The Next Viral Platform Showdown  Can Likes Beat TikTok's Frenzy for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-game-based-youtube-earning-guide/"><u>[Updated] 2024 Approved  Game-Based YouTube Earning Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-six-easy-steps-to-acquire-fb-links-for-free/"><u>[Updated] 2024 Approved  Six Easy Steps to Acquire FB Links for FREE</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-master-the-art-of-yt-channel-creation-right-from-your-smartphone/"><u>[Updated] In 2024, Master the Art of YT Channel Creation, Right From Your Smartphone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-tracks-of-the-decade-on-spotify-for-2024/"><u>[Updated] Top Tracks of the Decade on Spotify for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-picsarts-full-spectrum-exploration/"><u>2024 Approved  PicsArt's Full Spectrum Exploration</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-realme-gt-3-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Realme GT 3?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-poco-x6-pro-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Poco X6 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-pop-7-pro-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Pop 7 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-pova-5-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Pova 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-realme-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Realme</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-realme-10t-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Realme 10T 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-realme-11-proplus-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Realme 11 Pro+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-realme-11x-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Realme 11X 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-realme-12-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Realme 12 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-realme-c51-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Realme C51</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-realme-c53-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Realme C53</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-realme-c67-4g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Realme C67 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-realme-gt-neo-5-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Realme GT Neo 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-realme-narzo-60-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Realme Narzo 60 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-realme-narzo-60x-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-realme-narzo-n53-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Realme Narzo N53</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-rog-phone-7-ultimate-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Samsung</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-a05-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Samsung Galaxy A05</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-a15-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-a24-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Samsung Galaxy A24</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-a54-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-f14-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-s24-ultra-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-s24plus-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Samsung Galaxy S24+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-sony-xperia-1-v-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Sony Xperia 1 V</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-tecno-camon-20-pro-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-tecno-phantom-v-flip-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Tecno Phantom V Flip</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-tecno-phantom-v-fold-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Tecno Phantom V Fold</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-tecno-pop-8-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Tecno Pop 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-tecno-spark-10-4g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Tecno Spark 10 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-tecno-spark-10-pro-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-tecno-spark-20-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Tecno Spark 20</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-asus-rog-phone-7-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Asus ROG Phone 7 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-15-revolutionary-metaverse-ventures-explored/"><u>In 2024, 15 Revolutionary Metaverse Ventures Explored</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oppo-k11x-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Oppo K11x Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-rapid-reclamation-of-elusive-videos/"><u>In 2024, Rapid Reclamation of Elusive Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-simple-steps-for-extracting-video-audio-as-mp3/"><u>In 2024, Simple Steps for Extracting Video Audio as MP3</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-lenovo-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Lenovo IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-a-closer-look-at-vn-video-editor-apk-features-pricing-and-more/"><u>New In 2024, A Closer Look at VN Video Editor APK Features, Pricing, and More</u></a></li>
+<li><a href="https://games-able.techidaily.com/stepwise-process-for-clearing-out-ps5-user-info/"><u>Stepwise Process for Clearing Out PS5 User Info</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-lava-agni-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Lava Agni 2 5G | Dr.fone</u></a></li>
+</ul></div>

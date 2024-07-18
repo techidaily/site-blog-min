@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on OnePlus 11R
-date: 2024-05-19T18:32:07.957Z
-updated: 2024-05-20T18:32:07.957Z
+date: 2024-07-17T09:04:57.848Z
+updated: 2024-07-18T09:04:57.848Z
 tags: 
   - recover
 categories: 
@@ -37,6 +37,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your OnePlus 11R model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
@@ -75,11 +78,17 @@ The software works on damaged, corrupt, formatted, inaccessible mobile SD cards 
 
 In addition, you can also restore your Gallery videos and audio files with the help of Stellar Photo Recovery. It is available for both Windows and Mac computers.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover Gallery photos with Stellar Photo Recovery:
 
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
@@ -95,6 +104,9 @@ Watch this video for the step-by-step process to recover Gallery pictures from A
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Recover deleted Gallery from Android internal storage
 
 Mostly Android photos are saved in the internal storage of the Android device. You can recover the permanently deleted Android photos with the help of a recovery software. However, make sure your OnePlus 11R device is rooted and has USB debugging enabled.
@@ -127,6 +139,9 @@ If you had turned on the device backup service, restore the deleted Gallery pict
 
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your OnePlus 11R to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -135,6 +150,9 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
@@ -146,10 +164,16 @@ Apart from built-in Google cloud backup apps, you might be using other cloud sto
 
 The benefit of cloud backup is that you can recover deleted smartphone photos from any device simply by login into the account.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Cloud-backup-in-Android-Xiaomi-768x469.webp)
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Tips to Protect Photos from Loss on Android
 
 1. Back up Android photos on cloud.
@@ -171,12 +195,18 @@ Download the software’s free trial to assess its performance and preview the d
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. What to do if I can’t find my Gallery photos in Google Photos and Google Drive?
 
 If the photos are permanently deleted from Google Drive and Google Photos, you may take the help of the [Google Drive support team](https://support.google.com/drive/?hl=en#topic=14940). Another quick solution is to use a photo recovery software to retrieve lost pictures from Android internal storage and SD card by using the steps given in this post.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -189,6 +219,9 @@ You can recover deleted photos from Android Gallery without backup using a photo
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after format?
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -216,3 +249,50 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-elevate-your-brand-with-these-10-keywords-on-facebook/"><u>[New] Elevate Your Brand with These 10 Keywords on Facebook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-get-savvy-with-chromebook-snaps-explore-these-4-methods-for-2024/"><u>[New] Get Savvy with Chromebook Snaps - Explore These 4 Methods for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-pros-recommendation-top-10-apps-for-high-quality-vimeo-downloads/"><u>[New] Pro's Recommendation  Top 10 Apps for High-Quality Vimeo Downloads</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-5-best-hd-hunting-cameras-reviewed/"><u>[Updated] 5 Best HD Hunting Cameras Reviewed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-essential-techniques-for-computer-based-vhs-image-transformation-for-2024/"><u>[Updated] Essential Techniques for Computer-Based VHS Image Transformation for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-art-of-subtlety-decoding-snapchats-concealed-messages/"><u>[Updated] In 2024, The Art of Subtlety  Decoding Snapchat's Concealed Messages</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-pip-feature-while-consuming-youtube-videos-on-iphones/"><u>[Updated] Master PIP Feature While Consuming YouTube Videos on iPhones</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-streamlining-the-capture-process-in-competitive-rl-gaming/"><u>[Updated] Streamlining the Capture Process in Competitive RL Gaming</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevate-your-instagram-aesthetic-with-new-and-old-filters/"><u>2024 Approved  Elevate Your Instagram Aesthetic with New and Old Filters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tier-session-identifier-generator/"><u>2024 Approved  Top-Tier Session Identifier Generator</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-vivo-x-fold-2-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo X Fold 2 Safely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>How to identify missing drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>How to identify missing drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>How to identify missing drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>How to identify missing drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager in Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-by-drivereasy-guide/"><u>How to identify missing or malfunctioning drivers with Windows Device Manager</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-moto-g-5g-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Moto G 5G (2023)?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-ai-driven-high-quality-editing-platform/"><u>In 2024, AI-Driven High-Quality Editing Platform</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-best-apps-to-make-your-whatsapp-status-stand-out/"><u>In 2024, Best Apps to Make Your WhatsApp Status Stand Out</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-civi-3-disney-100th-anniversary-edition-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi Civi 3 Disney 100th Anniversary Edition Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-guide-to-mounting-a-tripod-for-vloggers/"><u>In 2024, Essential Guide to Mounting a Tripod for Vloggers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-prime-audio-cleansing-app-elevate-the-quality-of-your-videos/"><u>In 2024, Prime Audio Cleansing App Elevate the Quality of Your Videos</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-reno-9a-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo Reno 9A Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimal-transformation-tool-for-hd-videos/"><u>Optimal Transformation Tool for HD Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-discover-the-top-8-studio-tools-for-producers-on-mac-and-windows-systems/"><u>Updated Discover the Top 8 Studio Tools for Producers on Mac and Windows Systems</u></a></li>
+</ul></div>

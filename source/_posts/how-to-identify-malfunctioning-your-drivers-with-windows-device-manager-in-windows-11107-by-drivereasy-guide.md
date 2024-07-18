@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your drivers with Windows Device Manager in Windows 11/10/7
-date: 2024-05-19T18:32:12.793Z
+date: 2024-07-17T10:12:22.476Z
 tags: 
   - driver
   - device driver
@@ -19,12 +19,18 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -81,6 +87,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -103,6 +112,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -133,6 +145,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -164,6 +179,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -188,3 +206,66 @@ To understand why, you first have to understand what drivers actually are…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-apexs-single-player-focus-how-to-optimize-your-game-experience-for-2024/"><u>[New] Apex's Single Player Focus  How to Optimize Your Game Experience for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-6-must-try-instagram-reel-apps/"><u>[New] In 2024, Top 6 Must-Try Instagram Reel Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ransform-your-youtube-channels-with-impactful-branding-strategies-for-2024/"><u>[New] Transform Your YouTube Channels with Impactful Branding Strategies for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-how-to-easily-disableremove-youtube-shorts-permanently/"><u>[Updated] How to Easily Disable/Remove YouTube Shorts Permanently?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-unveiled-the-premier-video-platform/"><u>[Updated] Vimeo Unveiled  The Premier Video Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-backtrack-broadcasts-effortlessly-with-these-20-stream-steps/"><u>2024 Approved  Backtrack Broadcasts Effortlessly with These 20 Stream Steps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ideal-outlet-where-to-post-your-videos/"><u>2024 Approved  The Ideal Outlet  Where to Post Your Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/choreographing-a-memorable-tiktok-fade-out-for-2024/"><u>Choreographing a Memorable TikTok Fade-Out for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-techniques-for-yt-video-tweaking-with-wm-maker-for-2024/"><u>Essential Techniques for YT Video Tweaking with WM Maker for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-latest-wins-windows-10-enhancements-for-2024/"><u>Exploring Latest Wins  Windows 10 Enhancements for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-tecno-pop-7-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Tecno Pop 7 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-google-pixel-8-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Google Pixel 8 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-google-pixel-8-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Google Pixel 8 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-google-pixel-8-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Google Pixel 8 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-google-pixel-8-pro-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Google Pixel 8 Pro Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-google-pixel-8-pro-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Google Pixel 8 Pro Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-google-pixel-fold-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Google Pixel Fold Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-google-pixel-fold-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Google Pixel Fold Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-gt-5-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted GT 5 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-100-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor 100 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-100-pro-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor 100 Pro Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-100-pro-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor 100 Pro Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-70-lite-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor 70 Lite 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-90-gt-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor 90 GT Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-90-gt-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor 90 GT Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-90-lite-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor 90 Lite Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-90-lite-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor 90 Lite Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-90-lite-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Honor 90 Lite Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-90-pro-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor 90 Pro Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-6-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor Magic 6 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-6-lite-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor Magic 6 Lite Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-6-lite-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Magic 6 Lite Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-6-lite-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Honor Magic 6 Lite Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-6-pro-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor Magic 6 Pro Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-6-pro-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Magic 6 Pro Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-6-pro-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Honor Magic 6 Pro Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-v2-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor Magic V2 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-v2-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Magic V2 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-vs-2-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Magic Vs 2 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-vs-2-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Honor Magic Vs 2 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic5-ultimate-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor Magic5 Ultimate Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic5-ultimate-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Magic5 Ultimate Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Honor Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-play-40c-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Play 40C Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-play-7t-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Play 7T Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-play-7t-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Honor Play 7T Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-play-8t-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor Play 8T Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-play-8t-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Honor Play 8T Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-make-video-thumbnails-for-youtube/"><u>In 2024, How to Make Video Thumbnails for YouTube</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-oneplus-nord-n30-5g-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://extra-information.techidaily.com/punches-over-views-the-great-debate/"><u>Punches Over Views  The Great Debate</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-f3-pro-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after F3 Pro has been deleted</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/strategies-for-improving-youtubefacebook-video-quality/"><u>Strategies for Improving YouTube/Facebook Video Quality</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/techniques-for-extracting-and-storing-instagram-video-files-pcmac-systems-for-2024/"><u>Techniques for Extracting and Storing Instagram Video Files (PC/Mac Systems) for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/turning-down-igtv-on-insta/"><u>Turning Down IGTV on Insta</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-movies-online-for-free-top-9-tools/"><u>Updated Create Movies Online for Free Top 9 Tools</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-elite-sound-polishing-programme-perfect-your-digital-storytelling-for-2024/"><u>Updated Elite Sound Polishing Programme Perfect Your Digital Storytelling for 2024</u></a></li>
+</ul></div>

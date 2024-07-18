@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Excel 2016 files
-date: 2024-05-19T18:32:13.514Z
-updated: 2024-05-20T18:32:13.514Z
+date: 2024-07-17T10:22:58.482Z
+updated: 2024-07-18T10:22:58.482Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to make a digital signature for Excel 2016 files
 excerpt: This article describes How to make a digital signature for Excel 2016 files
 keywords: excel signature,excel signature service,.xlsx signature free,.xlsx signature best,sign .xlsx online
-thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155096051-5b1bf60d43a1030036cfac94.jpg
+thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec47ad22d2523d6d2404f16cd1.jpg
 ---
 
 ## 1. How to make a digital signature for Excel 2016 files
@@ -23,6 +23,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -53,12 +56,18 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -75,6 +84,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -95,6 +107,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -108,6 +123,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -122,6 +140,9 @@ To implement each of the ways to install a digital signature in Excel, you need 
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -130,6 +151,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -163,3 +196,54 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-how-can-i-share-videos-to-instagram-for-2024/"><u>[New] How Can I Share Videos to Instagram for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-dissecting-illusions-how-to-detect-fake-likes-and-followers/"><u>[New] In 2024, Dissecting Illusions  How to Detect Fake Likes and Followers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-leading-tips-to-record-videos-in-silence/"><u>[New] Leading Tips to Record Videos in Silence</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-jaunt-vr-landscape/"><u>[New] Navigating the Jaunt VR Landscape</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-discovering-the-quintessential-25-influence-kings-and-queens/"><u>[Updated] Discovering The Quintessential 25 Influence Kings and Queens</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-srt-to-sub-enhancing-video-captioning/"><u>2024 Approved  From SRT to SUB  Enhancing Video Captioning</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-stop-motion-cinema-ranking-the-best-15/"><u>2024 Approved  Innovative Stop-Motion Cinema  Ranking the Best 15</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieving-economical-data-management-with-cloud-services-for-2024/"><u>Achieving Economical Data Management with Cloud Services for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-infinix-smart-8-hd-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Infinix Smart 8 HD Phone that is Locked?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Honor Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-play-40c-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Play 40C Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-play-7t-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Play 7T Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-play-7t-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Honor Play 7T Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-play-8t-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor Play 8T Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-play-8t-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Honor Play 8T Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-v-purse-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor V Purse Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-v-purse-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor V Purse Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-x50-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor X50 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-x50-gt-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor X50 GT Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-x50-gt-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor X50 GT Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-x50-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Honor X50 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-x50i-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor X50i Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-x50i-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor X50i Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-x50iplus-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Honor X50i+ Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-x7b-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor X7b Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-x7b-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Honor X7b Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-x8b-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Honor X8b Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-hot-40-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Hot 40 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-hot-40-pro-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Hot 40 Pro Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-htc-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted HTC Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-htc-u23-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted HTC U23 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-htc-u23-pro-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted HTC U23 Pro Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-huawei-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Huawei Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-huawei-nova-y71-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Huawei Nova Y71 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-huawei-nova-y91-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Huawei Nova Y91 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-huawei-p60-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Huawei P60 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Infinix Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-gt-10-pro-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Infinix GT 10 Pro Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-motorola-moto-g73-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Motorola Moto G73 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-riding-the-wave-of-solitary-podcast-popularity/"><u>In 2024, Riding the Wave of Solitary Podcast Popularity</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-list-of-web-based-vertical-video-editors-for-2024/"><u>New The Ultimate List of Web-Based Vertical Video Editors for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-drones-on-offer-for-2024/"><u>Premium Drones on Offer for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-realme-11-proplus-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Realme 11 Pro+ Location | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-things-you-need-to-know-about-transparent-png-remove-and-convert/"><u>Updated Things You Need to Know About Transparent PNG Remove and Convert</u></a></li>
+</ul></div>

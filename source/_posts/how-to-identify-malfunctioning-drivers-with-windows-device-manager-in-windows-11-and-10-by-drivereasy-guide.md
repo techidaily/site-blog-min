@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-05-19T18:32:12.725Z
+date: 2024-07-17T10:11:36.337Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -61,6 +64,9 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -70,6 +76,9 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -92,6 +101,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -107,10 +119,16 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -143,6 +161,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -187,3 +208,63 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-deeper-dive-into-high-definition-online-visibility/"><u>[New] A Deeper Dive Into High Definition Online Visibility</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-a-step-by-step-guide-to-stunning-image-artistry-mosaics/"><u>[New] A Step-By-Step Guide to Stunning Image Artistry Mosaics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-get-screenshotted-right-best-5-apps-for-chromebook-users-for-2024/"><u>[New] Get Screenshotted Right  Best 5 Apps for Chromebook Users for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-fixes-for-professional-looking-indie-films/"><u>[New] Quick Fixes for Professional-Looking Indie Films</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quick-tips-adding-captions-in-youtube-videos/"><u>[New] Quick Tips  Adding Captions in YouTube Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-discovering-bargains-inexpensive-gopro-purchasing-guide/"><u>[Updated] 2024 Approved  Discovering Bargains  Inexpensive GoPro Purchasing Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-dive-into-the-digital-ocean-unveiling-facebooks-video-depth/"><u>[Updated] 2024 Approved  Dive Into the Digital Ocean  Unveiling Facebook's Video Depth</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-tiny-titans-top-games-anthology/"><u>[Updated] 2024 Approved  Tiny Titans' Top Games Anthology</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-breathe-and-stretch-with-these-expert-yogis-online/"><u>[Updated] Breathe and Stretch with These Expert Yogis Online</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-enhancing-images-with-motion-blur-in-illustrator/"><u>[Updated] In 2024, Enhancing Images with Motion Blur in Illustrator</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-streamlined-scheduling-combine-iphoneandroid-calendars-with-zoom/"><u>2024 Approved  Streamlined Scheduling  Combine iPhone/Android Calendars With Zoom</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/easy-methods-for-saving-online-meetings-for-2024/"><u>Easy Methods for Saving Online Meetings for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/te-your-digital-footprint-crafting-compelling-shorts-thumbnails-for-2024/"><u>Elevate Your Digital Footprint  Crafting Compelling Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/harnessing-online-platforms-beyond-youtube-to-30plus-communities-for-2024/"><u>Harnessing Online Platforms  Beyond YouTube to 30+ Communities for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oneplus-ace-3-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change OnePlus Ace 3 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-s17-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo S17</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-s17e-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo S17e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-v29-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo V29</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-x-flip-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo X Flip</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-x90s-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo X90S</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-y02t-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo Y02T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-y100t-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo Y100t</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-y200-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo Y200</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-y78plus-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo Y78+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-vivo-y78plus-t1-edition-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-xiaomi-13t-pro-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Xiaomi 13T Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-xiaomi-14-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Xiaomi 14</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-xiaomi-redmi-13c-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-xiaomi-redmi-k70e-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-y27-4g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Y27 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-y27s-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Y27s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-zte-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from ZTE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-13t-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from 13T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-a18-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from A18?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-asus-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Asus ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Asus ROG Phone 7 Ultimate?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-asus-rog-phone-7-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Asus ROG Phone 7?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-asus-rog-phone-8-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Asus ROG Phone 8 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-asus-rog-phone-8-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Asus ROG Phone 8?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-c67-4g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from C67 4G?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-moto-g04-phone-without-pin-by-drfone-android/"><u>How to Unlock Motorola Moto G04 Phone without PIN</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/ideal-cameras-for-full-sphere-livestream-experience-for-2024/"><u>Ideal Cameras for Full Sphere Livestream Experience for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-modify-twitter-video-screenshot/"><u>In 2024, Modify Twitter Video Screenshot</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-practical-steps-for-immediate-deletion-on-youtube-platform/"><u>In 2024, Practical Steps for Immediate Deletion on Youtube Platform</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/interactive-content-platform-audit-and-rating-for-2024/"><u>Interactive Content Platform Audit & Rating for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-from-the-past-10-top-history-educational-channels/"><u>Learning From the Past - 10 Top History Educational Channels</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/1714192427977-new-want-to-edit-videos-on-your-iphone-and-android-phones-but-not-know-where-to-start-dont-worry-in-this-article-i-will-show-you-some-of-the-best-video-edit/"><u>New Want to Edit Videos on Your iPhone and Android Phones, but Not Know Where to Start? Dont Worry, in This Article, I Will Show You some of the Best Video Editing Apps for Mobile for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/no-cost-top-quality-premiere-pro-designs-for-2024/"><u>No-Cost, Top-Quality Premiere Pro Designs for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-remediation-of-r9-driver-crashes-on-win10/"><u>Successful Remediation of R9 Driver Crashes on Win10</u></a></li>
+</ul></div>

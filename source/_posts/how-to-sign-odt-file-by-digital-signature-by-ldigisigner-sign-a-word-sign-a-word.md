@@ -1,7 +1,7 @@
 ---
 title: How to sign .odt file by digital signature
-date: 2024-03-09 15:15:23
-updated: 2024-03-12 16:47:29
+date: 2024-07-17T12:53:56.856Z
+updated: 2024-07-18T12:53:56.856Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to sign .odt file by digital signature
 excerpt: This article describes How to sign .odt file by digital signature
 keywords: .uot file signature tool,best sign word,.fodt file signature app,.wps file signature free
-thumbnail: https://www.lifewire.com/thmb/IOefl4e_6Yr9ZAczXaVDoLd0G88=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1365158534-d6952b03afff43f7a1c5f0405f31dc92.jpg
+thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401fbcd66ce15df928f6be58b2.jpg
 ---
 
 ## 1. How to sign .odt file by digital signature
@@ -23,6 +23,9 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -37,6 +40,9 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
   > Save your changes by clicking on DONE, then select DOWNLOAD DOCUMENT to securely download it via protected SSL connection.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Word
 
 These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -51,6 +57,9 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Word document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -116,10 +125,16 @@ You can use the standard features of Microsoft Office Word to digitally sign a d
 
 To implement each of the ways to install a digital signature in Word, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Word on Windows.
@@ -128,12 +143,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -149,6 +170,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-word-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -159,3 +183,47 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-filmmaking-fundamentals-for-engaging-facebook-groups-for-2024/"><u>[New] Filmmaking Fundamentals for Engaging Facebook Groups for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-grateful-choices-comprehensive-otu-guide/"><u>[New] Grateful Choices  Comprehensive OTU Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-next-gen-heroism-gopro-hero5-black-vs-hero4-silver/"><u>[New] Next-Gen HEROism  GoPro Hero5 Black vs Hero4 Silver</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-techniques-for-vhs-photo-effects-on-pconline-platforms/"><u>[Updated] Prime Techniques for VHS Photo Effects on PC/Online Platforms</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-huawei-p60-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Huawei P60 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-cg318-4k-unveiled-eizos-high-res-monitor-review/"><u>2024 Approved  CG318-4K Unveiled  EIZO's High-Res Monitor Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-originality-in-virtual-meme-worlds/"><u>2024 Approved  Unleashing Originality in Virtual Meme Worlds</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-action-cameras-on-wheels-top-5-picks-for-23-riders/"><u>Best Action Cameras on Wheels – Top 5 Picks for '23 Riders</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/early-education-unveiled-kinder-to-fifth-grade-spanish-essentials/"><u>Early Education Unveiled: Kinder to Fifth-Grade Spanish Essentials</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpd file by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpd file document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wpd file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wpd file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpd file electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpd file free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wpd file Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wps-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wps file by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wps-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wps file document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wps-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wps file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wps-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wps file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wps-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wps file electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wps-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wps file free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wps-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wps file Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpt file by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpt file document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wpt file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wpt file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpt file electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wpt file free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpt-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wpt file Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign Word document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign Word Online with DigiSigner</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/i-cento-e-piu-numero-italiani-esplorati/"><u>I Cento E Più Numero Italiani Esplorati</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-best-female-sounding-voice-transformation-software-for-men/"><u>In 2024, Best Female-Sounding Voice Transformation Software for Men</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-y02t-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo Y02T?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-aiff-conversion-made-easy-a-step-by-step-guide-to-selecting-the-best-tool-for-2024/"><u>New AIFF Conversion Made Easy A Step-by-Step Guide to Selecting the Best Tool for 2024</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/refine-your-beauty-videos-with-youtubes-palette-tweaking-for-2024/"><u>Refine Your Beauty Videos with Youtube's Palette Tweaking for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-samsung-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Samsung</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-your-creativity-best-mobile-video-editing-apps-for-ios-and-android/"><u>Updated In 2024, Unleash Your Creativity Best Mobile Video Editing Apps for iOS and Android</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 7,10,11
-date: 2024-05-19T18:32:12.920Z
+date: 2024-07-17T10:13:51.630Z
 tags: 
   - driver
   - device driver
@@ -19,12 +19,18 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -41,6 +47,9 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -80,10 +89,16 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -122,6 +137,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -173,6 +191,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -210,6 +231,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 <ins class="adsbygoogle"
@@ -227,3 +251,56 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-clean-cut-windows-10-screen-logger/"><u>[New] 2024 Approved  Clean-Cut Windows 10 Screen Logger</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-the-core-plotline/"><u>[New] Crafting the Core Plotline</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-optimized-vimeo-video-exporting-apps/"><u>[New] In 2024, Optimized Vimeo Video Exporting Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-achieve-full-screen-display-in-social-media-videos-for-2024/"><u>[Updated] Achieve Full-Screen Display in Social Media Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-affordable-yet-high-quality-cameras-list-for-2024/"><u>[Updated] Affordable Yet High-Quality Cameras List for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-craftsmanship-in-focus-leading-android-collage-tools/"><u>[Updated] Craftsmanship in Focus – Leading Android Collage Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-tecno-phantom-v-flip-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Tecno Phantom V Flip?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/chuckling-chronicles-the-best-tiktok-joke-and-prank-compilation-for-2024/"><u>Chuckling Chronicles  The Best TikTok Joke & Prank Compilation for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-words-to-wax-mastering-voice-note-techniques-for-2024/"><u>From Words to Wax  Mastering Voice Note Techniques for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Tecno Camon 20 Premier 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-tecno-spark-10c-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Tecno Spark 10C?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-v27-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from V27 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-v29-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from V29 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-s17e-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo S17e?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-s18-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo S18 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-v27-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo V27?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-v29e-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo V29e?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-v30-lite-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo V30 Lite 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-x-flip-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo X Flip?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-x100-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo X100 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y100-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y100 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y100i-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y100i?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y27-4g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y27 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y27-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y27 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y27s-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y27s?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y28-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y28 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-x6-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from X6 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-x6-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from X6?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-x7b-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from X7b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-13t-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi 13T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-redmi-12-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi Redmi 12?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-redmi-13c-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi Redmi 13C 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi Redmi K70 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-redmi-k70-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi Redmi K70?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi Redmi Note 13 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xperia-10-v-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xperia 10 V?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 Pro 5G Phone without Google Account?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-m54-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy M54 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-easy-video-editing-software-for-newbies/"><u>New 2024 Approved Easy Video Editing Software for Newbies</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/precise-codex-of-conduct-in-the-digital-realm/"><u>Precise Codex of Conduct in the Digital Realm</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-science-and-art-of-engaging-youtube-audiences/"><u>The Science and Art of Engaging YouTube Audiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-free-premiere-pro-template-hacks-for-2024/"><u>The Ultimate Guide to Free Premiere Pro Template Hacks for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-honor-v-purse-by-fonelab-android-recover-music/"><u>The way to get back lost music from Honor V Purse</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-5-free-mpeg-video-joiner-tools-reviewed/"><u>Updated Top 5 Free MPEG Video Joiner Tools Reviewed</u></a></li>
+</ul></div>

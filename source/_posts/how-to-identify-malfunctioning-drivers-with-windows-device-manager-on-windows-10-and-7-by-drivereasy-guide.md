@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager on Windows 10 & 7
-date: 2024-05-19T18:32:12.731Z
+date: 2024-07-17T10:11:43.301Z
 tags: 
   - driver
   - device driver
@@ -36,6 +36,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -50,6 +53,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -59,6 +65,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
@@ -124,6 +133,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -141,9 +153,15 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -154,6 +172,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -193,6 +214,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -219,3 +243,52 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-15-must-watch-anime-web-channels-for-uplifting-days/"><u>[New] 2024 Approved  15 Must-Watch Anime Web Channels for Uplifting Days</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-viral-visionaries-exploring-10-wildest-tiktok-gaming-scenes/"><u>[Updated] In 2024, Viral Visionaries  Exploring 10 Wildest TikTok Gaming Scenes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-surprisingly-good-underrated-movie-hits/"><u>[Updated] Surprisingly Good  Underrated Movie Hits</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-tecno-camon-30-pro-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Tecno Camon 30 Pro 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-tecno-pova-5-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Tecno Pova 5?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-tecno-spark-10-4g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Tecno Spark 10 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-tecno-spark-10-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Tecno Spark 10 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-tecno-spark-10c-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Tecno Spark 10C?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-t2-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo T2 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-t2-pro-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo T2 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-v29-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo V29?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-v29e-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo V29e?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-v30-lite-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo V30 Lite 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y02t-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y02T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y28-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y28 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y36-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y36?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y56-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y56 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y77t-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y77t?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-vivo-y78t-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Vivo Y78t?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-x6-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from X6?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-xiaomi-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Xiaomi ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-xiaomi-13-ultra-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Xiaomi 13 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-xiaomi-mix-fold-3-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Xiaomi Mix Fold 3?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Xiaomi Redmi K70 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Xiaomi Redmi Note 13 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-xperia-1-v-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Xperia 1 V?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-yuva-2-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Yuva 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-zte-axon-40-lite-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from ZTE Axon 40 Lite?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-zte-blade-a73-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from ZTE Blade A73 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-zte-nubia-z60-ultra-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from ZTE Nubia Z60 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-11x-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from 11X 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-ace-2-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Ace 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-agni-2-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Agni 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-asus-rog-phone-8-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Asus ROG Phone 8</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-precision-in-prose-enhancing-narrative-scripts/"><u>In 2024, Precision in Prose  Enhancing Narrative Scripts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/leveraging-obs-for-smooth-streaming-mac-and-pc-users-guide-for-2024/"><u>Leveraging OBS for Smooth Streaming  Mac & PC Users' Guide for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/pcs-choice-for-classic-gaming-essential-top-5-ps1-emulators/"><u>PC's Choice for Classic Gaming  Essential Top 5 PS1 Emulators</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-fixing-0x8009030e-on-virt-environments/"><u>Step-by-Step Guide: Fixing 0X8009030E on Virt Environments</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-ultimate-guide-to-speedy-skipping-in-the-world-of-tiktok/"><u>The Ultimate Guide to Speedy Skipping in the World of TikTok</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unlock-filmora-for-free-legit-and-secure-download-options/"><u>Updated In 2024, Unlock Filmora for Free Legit and Secure Download Options</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-huawei-p60-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Huawei P60 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>

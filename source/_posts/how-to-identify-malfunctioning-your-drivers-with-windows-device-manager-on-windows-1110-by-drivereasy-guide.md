@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your drivers with Windows Device Manager on Windows 11/10
-date: 2024-05-19T18:32:12.844Z
+date: 2024-07-17T10:12:31.784Z
 tags: 
   - driver
   - device driver
@@ -19,12 +19,18 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -32,6 +38,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -42,6 +51,9 @@ To understand why, you first have to understand what drivers actually are…
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -64,6 +76,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -144,6 +159,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -152,6 +170,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -195,6 +216,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -217,3 +241,56 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-critical-acclaim-top-9-web-recording-microphones-of-the-year-23/"><u>[New] 2024 Approved  Critical Acclaim  Top 9 Web Recording Microphones of the Year ('23)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensive-analysis-dji-inspire-1-unveiled/"><u>[New] Comprehensive Analysis  DJI Inspire 1 Unveiled</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-freeframe-studio-gameplay-capture-made-simple-in-24/"><u>[New] FreeFrame Studio  Gameplay Capture Made Simple in '24</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-video-making-apps-iphone-android-edition/"><u>[New] Top 10 Video-Making Apps  IPhone, Android Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-10-recording-tips-to-record-audio-in-high-quality-for-2024/"><u>[Updated] 10 Recording Tips to Record Audio in High Quality for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-m1-magic-cutting-edge-video-edits-for-ultra-smooth-results/"><u>[Updated] M1 Magic  Cutting-Edge Video Edits for Ultra-Smooth Results</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-leading-spots-for-advertising-on-youtube-videos/"><u>2024 Approved  Leading Spots for Advertising on YouTube Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-live-streaming-war-confronting-the-titans-wirecast-and-obs/"><u>2024 Approved  Live Streaming War  Confronting the Titans, Wirecast & OBS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unlock-the-secrets-crafting-captivating-instagram-unboxing-videos/"><u>2024 Approved  Unlock the Secrets  Crafting Captivating Instagram Unboxing Videos</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-whatsapp-status-editor-apps-top-picks/"><u>2024 Approved WhatsApp Status Editor Apps Top Picks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-oppo-reno-10-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Oppo Reno 10 5G Lock Screen Password</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-m6-pro-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Poco M6 Pro 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-m6-pro-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Poco M6 Pro 5G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-m6-pro-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Poco M6 Pro 5G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Poco Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Poco Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-x5-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Poco X5 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-x6-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Poco X6 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-x6-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Poco X6 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-x6-pro-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Poco X6 Pro Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-11-pro-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Realme 11 Pro Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-11-pro-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Realme 11 Pro Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-11-proplus-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Realme 11 Pro+ Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-11x-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Realme 11X 5G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-c33-2023-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Realme C33 2023 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-c51-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Realme C51 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-c51-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Realme C51 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-c67-4g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Realme C67 4G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-c67-4g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Realme C67 4G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-c67-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Realme C67 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Realme Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-gt-5-pro-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Realme GT 5 Pro Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-gt-neo-5-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Realme GT Neo 5 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-gt-neo-5-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Realme GT Neo 5 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-gt-neo-5-se-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Realme GT Neo 5 SE Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-gt-neo-5-se-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Realme GT Neo 5 SE Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-narzo-60-pro-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Realme Narzo 60 Pro 5G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-narzo-n53-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Realme Narzo N53 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-narzo-n55-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Realme Narzo N55 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Realme Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-red-magic-8s-pro-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Red Magic 8S Pro Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-red-magic-8s-proplus-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Red Magic 8S Pro+ Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-redmi-13c-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Redmi 13C 5G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-redmi-13c-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Redmi 13C Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-de-following-immediate-awareness/"><u>In 2024, Instagram De-Following  Immediate Awareness</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-iphone-11-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and iPhone 11 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-pros-pathway-to-perfect-sound-cutting-for-2024/"><u>Premier Pro's Pathway to Perfect Sound Cutting for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/strategies-for-deleting-watch-later-items-on-youtube-for-2024/"><u>Strategies for Deleting Watch Later Items on YouTube for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-the-path-to-sonic-purity-techniques-for-eliminating-audio-distortion-in-film-and-video/"><u>Updated 2024 Approved The Path to Sonic Purity Techniques for Eliminating Audio Distortion in Film and Video</u></a></li>
+</ul></div>

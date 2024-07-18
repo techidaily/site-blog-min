@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on ZTE Axon 40 Lite
-date: 2024-05-19T18:32:07.839Z
+date: 2024-07-17T09:02:54.283Z
 tags: 
   - recover
 categories: 
@@ -21,6 +21,9 @@ However, we all make mistakes, sometimes in a hurry or unknowingly, which lead t
 
 But no worries. Here you will know how to recover deleted photos from Android Gallery app. This post shares the best 7 ways worth trying to restore deleted photos on Android devices, both with and without software.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/How-to-Recover-Deleted-Photos-from-Android-Gallery-app.webp)
 
 ## Method 1: Recover Android photos from Google Photos
@@ -34,6 +37,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your ZTE Axon 40 Lite model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
@@ -44,6 +50,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -53,6 +62,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -77,8 +89,14 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
 
 Watch this video for the step-by-step process to recover Gallery pictures from Android SD card with the help of Stellar Photo Recovery : 
@@ -106,6 +124,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 - Connect the rooted Android phone with your PC or Mac.
 - Launch the software, select the Android device to scan and follow the prompts in the software.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5: Restore photos with inbuilt Android backup services
 
 These days, Android phone manufacturers provide their own inbuilt backup functions in the devices. You can back up your ZTE Axon 40 Lite phone’s app data to the phone’s cloud backup, local backup, Google backup, or external storage. The options vary with the mobile phone brands. Some mobile phones like Huawei even have a builtin backup app.
@@ -122,6 +143,9 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
@@ -147,6 +171,9 @@ The benefit of cloud backup is that you can recover deleted smartphone photos fr
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Tips to Protect Photos from Loss on Android
 
 1. Back up Android photos on cloud.
@@ -184,10 +211,16 @@ Steps to perform Chkdsk scan:
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery without backup?
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after factory reset?
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -219,3 +252,56 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-streamline-your-impact-the-most-effective-video-formats-for-youtube/"><u>[New] 2024 Approved  Streamline Your Impact  The Most Effective Video Formats for YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-9-screen-free-adventures-in-mobile-gaming-android-edition-for-2024/"><u>[Updated] Best 9 Screen-Free Adventures in Mobile Gaming (Android Edition) for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-the-potential-latest-win11-applications-and-games/"><u>[Updated] Unleash the Potential  Latest Win11 Applications and Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-metaversal-journey-versus-omniverse-quest/"><u>2024 Approved  Metaversal Journey Versus Omniverse Quest</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-headsets-for-next-gen-drone-pilots/"><u>2024 Approved  Premium Headsets for Next-Gen Drone Pilots</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-oneplus-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of OnePlus on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-oppo-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Oppo ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-oppo-a78-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Oppo A78 on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-oppo-a78-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Oppo A78?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-oppo-f23-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Oppo F23 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-oppo-find-x6-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Oppo Find X6 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-oppo-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Oppo on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-oppo-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Oppo on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-oppo-reno-11-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Oppo Reno 11 5G on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-pixel-8-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Pixel 8 on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-c55-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco C55?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-f5-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco F5 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-f5-pro-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco F5 Pro 5G on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-m6-pro-4g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco M6 Pro 4G on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-m6-pro-4g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco M6 Pro 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-x5-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco X5 on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-x5-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco X5?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-x6-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco X6 on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-11-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme 11 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-narzo-60-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme Narzo 60 5G on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-narzo-60-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme Narzo 60 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-narzo-n55-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme Narzo N55 on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-note-50-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme Note 50 on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-realme-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Realme on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-red-magic-9-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Red Magic 9 Pro on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-redmi-13c-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Redmi 13C?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-redmi-a2plus-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Redmi A2+ on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-redmi-note-13-proplus-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Redmi Note 13 Pro+ 5G on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-reno-8t-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Reno 8T on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-s17-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of S17 on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-a05-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy A05 on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-a15-4g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy A15 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-a24-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy A24 on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-m14-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy M14 5G on Mac?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-zero-5g-2023-turbo-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Zero 5G 2023 Turbo to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-video-downloader-download-twitter-videos-to-iphone/"><u>In 2024, Twitter Video Downloader  Download Twitter Videos to iPhone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-oppo-a58-4g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Oppo A58 4G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-audio-fade-ins-and-outs-made-easy-2-final-cut-pro-techniques-for-2024/"><u>Updated Audio Fade Ins and Outs Made Easy 2 Final Cut Pro Techniques for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-essential-audio-software-for-musicians-a-comprehensive-list-of-best-free-and-paid-options-2023-for-2024/"><u>Updated Essential Audio Software for Musicians A Comprehensive List of Best Free & Paid Options 2023 for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-13t-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi 13T Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>

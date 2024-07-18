@@ -1,7 +1,7 @@
 ---
 title: How to Sign Excel 2016 document with Electronic Digital Signature - (Tutorial)
-date: 2024-03-10 10:23:22
-updated: 2024-03-12 20:17:34
+date: 2024-07-17T12:52:58.894Z
+updated: 2024-07-18T12:52:58.894Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to Sign Excel 2016 document with Electronic Digital Signature - (Tutorial)
 excerpt: This article describes How to Sign Excel 2016 document with Electronic Digital Signature - (Tutorial)
 keywords: excel signature,excel signature app,.xlsx signature online
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## 1. How to Sign Excel 2016 document with Electronic Digital Signature - (Tutorial)
@@ -53,24 +53,36 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -79,6 +91,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -108,6 +123,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -118,6 +136,9 @@ You can use the standard features of Microsoft Office Excel to digitally sign a 
 
 To implement each of the ways to install a digital signature in Excel, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
@@ -151,6 +172,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +185,73 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-font-powerhouses-for-captivating-youtube-thumbnails/"><u>[New] 2024 Approved  Font Powerhouses for Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-budget-friendly-flight-machines-the-cheapest-drone-list-for-2024/"><u>[New] Budget-Friendly Flight Machines  The Cheapest Drone List for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-fireshadow-video-recording-for-2024/"><u>[New] Fireshadow Video Recording for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-influencing-now-top-10-hashtags-for-your-next-post/"><u>[New] Influencing Now  Top 10 Hashtags for Your Next Post</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-tips-to-develop-engaging-lifestyle-enlightenment-vids/"><u>[New] Tips to Develop Engaging Lifestyle Enlightenment Vids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-5-streamlined-methods-for-mac-cam-recording-for-2024/"><u>[Updated] 5 Streamlined Methods for Mac Cam Recording for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-effortlessly-record-time-lapses-on-apple-devices/"><u>[Updated] Effortlessly Record Time-Lapses on Apple Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-professionals-choice-top-10-afx-templates-for-free/"><u>[Updated] Professionals' Choice  Top 10 AFX Templates for FREE</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-best-choice-streamline-your-youtube-audio/"><u>2024 Approved  Best Choice  Streamline Your YouTube Audio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-pinnacle-montage-apps-androidiphones-creative-powerhouses/"><u>2024 Approved  Pinnacle Montage Apps  Android/iPhone's Creative Powerhouses</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-reversing-time-retracing-your-steps-for-lost-snaps/"><u>2024 Approved  Reversing Time  Retracing Your Steps for Lost Snaps</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-mastering-the-art-of-silencing-irrelevant-acoustic-interferences-in-web-based-audio-content/"><u>2024 Approved Mastering the Art of Silencing Irrelevant Acoustic Interferences in Web-Based Audio Content</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/expert-guide-to-tiktoks-must-have-elements-for-2024/"><u>Expert Guide to TikTok's Must-Have Elements for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-fans-gain-more-with-streamed-content-sharing/"><u>Facebook Fans Gain More with Streamed Content Sharing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-tecno-pova-5-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Tecno Pova 5 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-tecno-spark-10-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Tecno Spark 10 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-v29-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on V29?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-v30-lite-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on V30 Lite 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-vivo-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Vivo ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-vivo-g2-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Vivo G2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-vivo-v27-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Vivo V27 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-vivo-x-fold-2-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Vivo X Fold 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-vivo-x100-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Vivo X100 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-x7b-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on X7b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-xiaomi-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Xiaomi ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-xiaomi-14-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Xiaomi 14?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-xiaomi-redmi-12-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Xiaomi Redmi 12?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-xiaomi-redmi-a2-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Xiaomi Redmi A2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Xiaomi Redmi Note 13 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Xiaomi Redmi Note 13 Pro+ 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-xperia-5-v-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Xperia 5 V?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-y27s-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Y27s?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-y36-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Y36?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-zte-axon-40-lite-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on ZTE Axon 40 Lite?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-14-ultra-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on 14 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-a1-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on A1 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-asus-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Asus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-asus-rog-phone-7-ultimate-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-asus-rog-phone-8-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Asus ROG Phone 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-blaze-2-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Blaze 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-c110-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on C110</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-edge-40-neo-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Edge 40 Neo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-edgeplus-2023-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Edge+ (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-galaxy-a25-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Galaxy A25 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-galaxy-f14-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Galaxy F14 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-google-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Google</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-google-pixel-fold-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Google Pixel Fold</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-90-gt-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor 90 GT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-magic-6-lite-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor Magic 6 Lite</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-14-pro-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 14 Pro to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-nubia-red-magic-9-proplus-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Nubia Red Magic 9 Pro+ Face Lock?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-introduce-natural-photo-smear-in-ps/"><u>In 2024, Introduce Natural Photo Smear in PS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-what-everyone-must-know-about-creating-short-form-videos/"><u>In 2024, What Everyone Must Know About Creating Short-Form Videos</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-display-medium-network-selection-tips-for-2024/"><u>Large Display Medium Network Selection Tips for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-console-ambiance-with-premium-lights/"><u>Maximize Your Console Ambiance with Premium Lights</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-steps-to-create-a-soft-start-audio-experience/"><u>New In 2024, Steps to Create a Soft-Start Audio Experience</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unbranded-video-merging-our-top-7-recommendations/"><u>New In 2024, Unbranded Video Merging Our Top 7 Recommendations</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-play-videos-at-a-slower-pace-with-vlc-media-player/"><u>New Play Videos at a Slower Pace with VLC Media Player</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/non-detecting-graphics-interface/"><u>Non-Detecting Graphics Interface</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-12-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 12 Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-create-stunning-videos-on-windows-imovie-inspired-alternatives/"><u>Updated 2024 Approved Create Stunning Videos on Windows IMovie-Inspired Alternatives</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 10
-date: 2024-05-19T18:32:12.907Z
+date: 2024-07-17T10:13:40.701Z
 tags: 
   - driver
   - device driver
@@ -48,6 +48,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -75,6 +78,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -103,6 +109,9 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -126,10 +135,16 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -140,6 +155,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -162,6 +180,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -191,6 +212,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -218,3 +242,51 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-checklist-seamless-conversion-of-phone-photos-to-snapchat/"><u>[New] In 2024, The Ultimate Checklist  Seamless Conversion of Phone Photos to Snapchat</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-depth-guide-to-extracting-vimeo-media/"><u>[New] In-Depth Guide to Extracting Vimeo Media</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-smart-selective-blur-for-enhanced-mobile-photography/"><u>[New] Smart Selective Blur for Enhanced Mobile Photography</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-5-next-level-editors-to-transcend-the-standard-youtube-videos-for-2024/"><u>[Updated] 5 Next-Level Editors to Transcend the Standard Youtube Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-high-quality-video-calling-solutions-top-10-best-apps-ranked/"><u>[Updated] High-Quality Video Calling Solutions  Top 10 Best Apps Ranked</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-effortless-gameplay-capture-a-compreayers-approach-to-xbox-recording/"><u>[Updated] In 2024, Effortless Gameplay Capture  A Compreayer's Approach to Xbox Recording</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-depth-guide-to-uploading-lengthier-content-on-youtube/"><u>[Updated] In-Depth Guide to Uploading Lengthier Content on YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-tecno-spark-10-4g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Tecno Spark 10 4G</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-low-lag-techniques-for-efficient-screen-snaps/"><u>2024 Approved  Best Low-Lag Techniques for Efficient Screen Snaps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-quantum-megadesk-pure-4k-multi-touch/"><u>2024 Approved  Quantum MegaDesk  Pure 4K Multi-Touch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-video-editing-mastery-using-lut-filters-in-obs-studio/"><u>2024 Approved  Unlock Video Editing Mastery Using LUT Filters in OBS Studio</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-your-videography-insights-on-youtube-studio-editor/"><u>Elevate Your Videography  Insights on YouTube Studio Editor</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-motorola-moto-g04-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Motorola Moto G04</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-motorola-moto-g24-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Motorola Moto G24</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-motorola-moto-g84-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Motorola Moto G84 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-motorola-razr-40-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Motorola Razr 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-motorola-razr-40-ultra-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-nokia-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Nokia</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-nokia-c12-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Nokia C12 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-nokia-c210-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Nokia C210</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-nokia-c300-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Nokia C300</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-nokia-g310-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Nokia G310</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-nokia-g42-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Nokia G42 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-nokia-xr21-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Nokia XR21</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-nova-y71-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Nova Y71</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oneplus-by-fonelab-android-recover-video/"><u>How to restore wiped videos on OnePlus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oneplus-11-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on OnePlus 11 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oneplus-nord-3-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oppo-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Oppo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oppo-a38-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Oppo A38</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oppo-find-n3-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Oppo Find N3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oppo-find-n3-flip-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Oppo Find N3 Flip</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oppo-find-x6-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Oppo Find X6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oppo-k11-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Oppo K11 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oppo-reno-10-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Oppo Reno 10 5G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-color-palettes-applying-theories-effectively/"><u>In 2024, Mastering Color Palettes  Applying Theories Effectively</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-minimap-memories-mastering-6-ways-to-record-your-gameplay/"><u>In 2024, Minimap Memories  Mastering 6 Ways to Record Your Gameplay</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-t2x-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo T2x 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-g2-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo G2 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Motorola Edge 2023? | Dr.fone</u></a></li>
+</ul></div>

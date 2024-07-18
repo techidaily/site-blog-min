@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-05-19T18:32:12.908Z
+date: 2024-07-17T10:13:41.861Z
 tags: 
   - driver
   - device driver
@@ -19,12 +19,18 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -33,6 +39,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -62,6 +71,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -78,6 +90,9 @@ And without all these drivers, none of your devices will work.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -90,6 +105,9 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -117,6 +135,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -193,3 +214,40 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-savor-success-ideas-to-bolster-cookery-channel-brands/"><u>[New] Savor Success  Ideas to Bolster Cookery Channel Brands</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-techniques-for-navigating-popular-and-trending-youtube-reactions/"><u>[Updated] Expert Techniques for Navigating Popular and Trending YouTube Reactions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-professional-3d-creation-software-for-video-startups/"><u>2024 Approved  Professional 3D Creation Software for Video Startups</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dive-into-the-world-of-dynamic-and-entertaining-video-shopping-content/"><u>Dive Into the World of Dynamic and Entertaining Video Shopping Content</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/harmony-in-digital-15-high-fidelity-bots-transforming-discord-soundscape/"><u>Harmony in Digital  15 High-Fidelity Bots Transforming Discord Soundscape</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-record-audio-from-youtube/"><u>How to Record Audio From YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oppo-reno-11f-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oppo-reno-9a-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Oppo Reno 9A</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-p40plus-by-fonelab-android-recover-video/"><u>How to restore wiped videos on P40+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-poco-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Poco</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-poco-f5-pro-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Poco F5 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-poco-m6-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Poco M6 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-realme-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Realme</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-realme-10t-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Realme 10T 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-realme-11-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Realme 11 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-realme-11-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Realme 11 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-realme-11x-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Realme 11X 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-realme-c33-2023-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Realme C33 2023</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-realme-c67-4g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Realme C67 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-realme-gt-5-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Realme GT 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-realme-note-50-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Realme Note 50</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-redmi-13c-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Redmi 13C 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-redmi-k70e-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Redmi K70E</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-reno-9a-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Reno 9A</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-s17-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on S17 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-y28-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo Y28 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-v-purse-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor V Purse to New Android? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-perfect-your-story-a-roundup-of-best-editing-apps/"><u>In 2024, Perfect Your Story  A Roundup of Best Editing Apps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-x100-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo X100 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-ultimate-guide-to-low-budget-film-editing-software/"><u>In 2024, The Ultimate Guide to Low-Budget Film Editing Software</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-top-free-dj-beats-downloads-site/"><u>In 2024, Top Free DJ Beats Downloads Site</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-5-best-free-mov-video-joiners/"><u>Top 5 Best Free MOV Video Joiners</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+</ul></div>

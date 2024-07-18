@@ -1,6 +1,6 @@
 ---
 title: How to identify some outdated hardware drivers with Windows Device Manager on Windows 10
-date: 2024-05-19T18:32:13.069Z
+date: 2024-07-17T10:16:24.168Z
 tags: 
   - driver
   - device driver
@@ -21,6 +21,9 @@ Identifying outdated drivers with Device Manager is a very tedious process. You 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -57,10 +60,16 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -133,6 +142,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -149,6 +161,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -172,6 +187,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -181,6 +199,9 @@ To automatically update to the correct version of all the drivers that are missi
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -217,3 +238,52 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-top-8-mobile-mosaics-best-blend-of-affordable-and-premium-android-videomosaic-apps-for-2024/"><u>[New] Top 8 Mobile Mosaics  Best Blend of Affordable and Premium Android Videomosaic Apps for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-strategic-steps-to-determine-a-unique-tiktok-hashtag/"><u>[Updated] In 2024, Strategic Steps to Determine a Unique TikTok Hashtag</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-strategies-to-soar-effective-chats-on-google-meet/"><u>[Updated] In 2024, Strategies to Soar  Effective Chats on Google Meet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-optimal-screen-capture-techniques-tunefab-style/"><u>[Updated] Optimal Screen Capture Techniques - Tunefab Style</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-360-live-streaming-cameras-for-youtube-and-facebook/"><u>[Updated] Top 360 Live Streaming Cameras for YouTube and Facebook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-jest-in-layout-and-edit-suite/"><u>2024 Approved  Best Jest in Layout & Edit Suite</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-laugh-out-loud-essential-comedy-channels-for-endless-fun/"><u>2024 Approved  Laugh Out Loud  Essential Comedy Channels for Endless Fun</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionizing-video-quality-on-tiktok/"><u>2024 Approved  Revolutionizing Video Quality on TikTok</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-audio-visual-connection-top-music-picks-that-elevate-your-diverse-video-projects/"><u>2024 Approved The Audio-Visual Connection Top Music Picks That Elevate Your Diverse Video Projects</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-infinix-note-30-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Infinix Note 30 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/capturing-youtube-icons-browser-extension-command-line-and-software-trio-for-2024/"><u>Capturing Youtube Icons  Browser Extension, Command Line & Software Trio for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-nubia-red-magic-8s-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Nubia Red Magic 8S Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-poco-x5-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Poco X5?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-realme-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Realme ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-realme-c53-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Realme C53?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-realme-gt-5-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Realme GT 5 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-realme-narzo-60x-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Realme Narzo 60x 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-realme-narzo-n55-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Realme Narzo N55?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-realme-v30-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Realme V30?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-red-magic-9-proplus-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Red Magic 9 Pro+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-samsung-galaxy-f14-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Samsung Galaxy F14 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-samsung-galaxy-f34-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Samsung Galaxy F34 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-tecno-spark-20-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Tecno Spark 20 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-v29e-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my V29e?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-vivo-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Vivo ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-vivo-y36i-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Vivo Y36i?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-xiaomi-redmi-12-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Xiaomi Redmi 12 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-xperia-10-v-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Xperia 10 V?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-xperia-5-v-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Xperia 5 V?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-z50-ultra-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Z50 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-zero-5g-2023-turbo-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Zero 5G 2023 Turbo?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-13-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on 13 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-13t-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on 13T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-14-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on 14 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-14-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on 14 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-civi-3-disney-100th-anniversary-edition-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Civi 3 Disney 100th Anniversary Edition?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-edge-40-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Edge 40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-g24-power-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on G24 Power?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-galaxy-a14-4g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Galaxy A14 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-galaxy-a24-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Galaxy A24?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-galaxy-a34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Galaxy A34 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-galaxy-a54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Galaxy A54 5G?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-mix-fold-3-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Mix Fold 3 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-youtube-makeup-craft-color-correction-essentials/"><u>In 2024, The YouTube Makeup Craft  Color Correction Essentials</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-from-shaky-to-smooth-adobe-premiere-pro-video-stabilization-tutorial/"><u>New In 2024, From Shaky to Smooth Adobe Premiere Pro Video Stabilization Tutorial</u></a></li>
+</ul></div>

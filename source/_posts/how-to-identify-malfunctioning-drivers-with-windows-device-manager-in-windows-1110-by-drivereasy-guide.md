@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager in Windows 11/10
-date: 2024-05-19T18:32:12.728Z
+date: 2024-07-17T10:11:39.478Z
 tags: 
   - driver
   - device driver
@@ -40,8 +40,23 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -77,6 +92,9 @@ And without all these drivers, none of your devices will work.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -86,10 +104,16 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -104,6 +128,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -149,6 +176,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -193,3 +223,66 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-pc-strategies-for-acquiring-twitter-jokes-gifs/"><u>[New] PC Strategies for Acquiring Twitter Jokes (GIFs)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outubes-video-editing-power-plus-professional-equivalents-for-2024/"><u>[New] YouTube's Video Editing Power + Professional Equivalents for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-saturating-screen-with-high-definition-tweets/"><u>[Updated] 2024 Approved  Saturating Screen with High-Definition Tweets</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-quest-for-superior-video-playback-software/"><u>[Updated] 2024 Approved  The Quest for Superior Video Playback Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-master-the-use-of-musical-emoji-features-on-instawow/"><u>[Updated] How to Master the Use of Musical Emoji Features on InstaWow</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-skyrocket-your-view-count-youtube-success-via-sony-vegas-editing/"><u>[Updated] Skyrocket Your View Count  YouTube Success via Sony Vegas Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-picks-excellent-4k-displays-for-playing-games/"><u>[Updated] Top Picks  Excellent 4K Displays for Playing Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-voice-clarity-overcoming-skype-noise-issues-for-2024/"><u>[Updated] Voice Clarity  Overcoming Skype Noise Issues for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-expert-strategies-for-perfectly-shared-screens-on-mobiledesktop/"><u>2024 Approved  Expert Strategies for Perfectly Shared Screens on Mobile/Desktop</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-screenmasters-battleground/"><u>2024 Approved  ScreenMasters Battleground</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dji-spark-review-best-mini-drone-with-gesture-control-for-taking-selfie-for-2024/"><u>DJI Spark Review  Best Mini Drone with Gesture Control for Taking Selfie for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/endless-display-recorder-app-for-2024/"><u>Endless Display Recorder App for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-nokia-c300-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Nokia C300 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to Come up With the Best Pokemon Team On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-x8b-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor X8b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-hot-40-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Hot 40 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-htc-u23-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from HTC U23?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-huawei-nova-y71-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Huawei Nova Y71?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-huawei-nova-y91-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Huawei Nova Y91?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-huawei-p60-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Huawei P60?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-hot-40-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Hot 40 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-hot-40-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Hot 40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-hot-40i-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Hot 40i?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-note-30-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Note 30 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-smart-7-hd-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Smart 7 HD?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-itel-a70-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Itel A70?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-itel-p40-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Itel P40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-itel-p40plus-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Itel P40+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-itel-s23-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Itel S23?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-lava-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Lava ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-lava-blaze-2-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Lava Blaze 2 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-lava-blaze-2-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Lava Blaze 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-lava-blaze-pro-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Lava Blaze Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-lava-yuva-2-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Lava Yuva 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-magic-5-lite-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Magic 5 Lite?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-meizu-21-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Meizu 21?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-moto-g34-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Moto G34 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-motorola-defy-2-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Motorola Defy 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Motorola Moto G 5G (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Motorola Moto G Stylus 5G (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-motorola-moto-g04-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Motorola Moto G04?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-motorola-moto-g14-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Motorola Moto G14?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-motorola-moto-g24-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Motorola Moto G24?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-motorola-moto-g84-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-motorola-razr-40-ultra-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Motorola Razr 40 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-motorola-razr-40-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Motorola Razr 40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-nokia-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Nokia ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-nokia-150-2023-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Nokia 150 (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-nokia-c12-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Nokia C12 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-nokia-c12-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Nokia C12?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-nord-n30-se-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Nord N30 SE?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-note-30-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Note 30 Pro?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-precise-speech-to-text-the-google-standard/"><u>In 2024, Precise Speech to Text  The Google Standard</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-13-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 13? How to Fix</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-video-to-audio-insider-tips-for-picking-the-best-converter/"><u>New From Video to Audio Insider Tips for Picking the Best Converter</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-this-article-we-will-be-covering-the-most-important-topics-you-have-to-remember-when-becoming-a-successful-youtube-star/"><u>New In This Article We Will Be Covering the Most Important Topics You Have to Remember when Becoming a Successful YouTube-Star</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-itel-by-drfone-android/"><u>Top 10 Password Cracking Tools For Itel</u></a></li>
+</ul></div>

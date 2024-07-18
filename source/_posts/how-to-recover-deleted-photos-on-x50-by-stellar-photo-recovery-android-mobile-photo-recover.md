@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on X50
-date: 2024-05-19T18:32:08.057Z
+date: 2024-07-17T09:06:56.320Z
 tags: 
   - recover
 categories: 
@@ -37,6 +37,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Honor X50 model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Recover Gallery photos from Google Drive
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
@@ -72,13 +75,22 @@ The software works on damaged, corrupt, formatted, inaccessible mobile SD cards 
 
 In addition, you can also restore your Gallery videos and audio files with the help of Stellar Photo Recovery. It is available for both Windows and Mac computers.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover Gallery photos with Stellar Photo Recovery:
 
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
 
 Watch this video for the step-by-step process to recover Gallery pictures from Android SD card with the help of Stellar Photo Recovery : 
@@ -122,6 +134,9 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
@@ -132,11 +147,17 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
 - Enable **Show Hidden Files**. All the .nomedia files will be visible in the phone’s folders. You can delete them now.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 7: Recover Gallery photos from Android cloud backup
 
 Apart from built-in Google cloud backup apps, you might be using other cloud storage such as DropBox or OneDrive etc. If you have enabled Android Gallery backup in any such cloud backup, restore the deleted Gallery photos from there.
@@ -147,6 +168,9 @@ The benefit of cloud backup is that you can recover deleted smartphone photos fr
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Tips to Protect Photos from Loss on Android
 
 1. Back up Android photos on cloud.
@@ -166,12 +190,18 @@ Download the software’s free trial to assess its performance and preview the d
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## FAQ
 
 ### Q. How to retrieve deleted Photos on Android Tablet?
 
 You can follow the methods shared in this post to recover photos from Android tablet.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -180,6 +210,9 @@ Yes, you can recover permanently deleted photos from Android with the help of a 
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after factory reset?
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -211,3 +244,61 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-audiovisual-collection-computer-and-voice-archives/"><u>[New] Audiovisual Collection  Computer & Voice Archives</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-premier-5-socially-engaging-logo-movements/"><u>[New] In 2024, Premier 5 Socially Engaging Logo Movements</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-viral-videos-1mplus-audience-journey/"><u>[Updated] Mastering the Art of Viral Videos  1M+ Audience Journey</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-premier-choice-of-10-tiktok-editors-for-w-pcs/"><u>[Updated] Premier Choice of 10 TikTok Editors for W PCs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-elevating-ppt-impact-through-high-quality-recordings/"><u>2024 Approved  Elevating PPT Impact Through High-Quality Recordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-launch-your-first-session-with-vrecorder/"><u>2024 Approved  How to Launch Your First Session with VRecorder</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/connect-with-more-audiences-smart-multitasking-on-youtube-and-twitch-for-2024/"><u>Connect with More Audiences  Smart Multitasking on YouTube and Twitch for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-your-creative-vision-iphones-new-camera-tools/"><u>Enhancing Your Creative Vision  IPhone's New Camera Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-se-2020-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone SE (2020) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-se-2022-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone SE (2022) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-se-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone SE | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-x-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone X | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-xr-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone XR | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-xs-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone XS | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-whatsapp-chat-history-from-iphone-xs-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Whatsapp Chat History From iPhone XS Max | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-red-magic-9-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Red Magic 9 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-redmi-12-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Redmi 12 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-redmi-13c-5g-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Redmi 13C 5G Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-redmi-note-12-pro-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Redmi Note 12 Pro 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-redmi-note-13-proplus-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Redmi Note 13 Pro+ 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-redmi-note-13-proplus-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Redmi Note 13 Pro+ 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-12-pro-5g-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove 12 Pro 5G PIN</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-asus-rog-phone-7-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Asus ROG Phone 7 PIN</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-find-n3-flip-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Find N3 Flip PIN</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-find-x6-pro-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Find X6 Pro PIN</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-galaxy-s23-tactical-edition-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Galaxy S23 Tactical Edition PIN</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-gionee-f3-pro-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Gionee F3 Pro PIN</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-14-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on 14 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-21-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on 21</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-70-lite-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on 70 Lite 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-90-gt-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on 90 GT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-asus-rog-phone-7-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Asus ROG Phone 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-asus-rog-phone-8-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Asus ROG Phone 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-asus-rog-phone-8-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-blaze-2-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Blaze 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-blaze-2-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Blaze 2 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-c110-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on C110</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-c53-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on C53</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-camon-20-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Camon 20</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-edgeplus-2023-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Edge+ (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-g54-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on G54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-galaxy-s21-fe-5g-2023-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-galaxy-z-fold-5-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Galaxy Z Fold 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-gionee-f3-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Gionee F3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-google-pixel-8-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-realme-11-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Realme 11 Pro online without jailbreak</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-x-fold-2-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo X Fold 2 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-premier-popularity-prognosticator-for-video-charts/"><u>In 2024, Premier Popularity Prognosticator for Video Charts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-s3700-sony-bd-play-new-insights/"><u>In 2024, S3700 Sony BD PLAY  New Insights</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-tactics-for-making-youtube-videos-go-viral/"><u>In 2024, Tactics for Making YouTube Videos Go Viral</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-14-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your iPhone 14</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-xiaomi-redmi-note-13-proplus-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Xiaomi Redmi Note 13 Pro+ 5G Location | Dr.fone</u></a></li>
+</ul></div>

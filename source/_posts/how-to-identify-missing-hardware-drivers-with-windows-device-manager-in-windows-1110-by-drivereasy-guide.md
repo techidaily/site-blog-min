@@ -1,6 +1,6 @@
 ---
 title: How to identify missing hardware drivers with Windows Device Manager in Windows 11/10
-date: 2024-05-19T18:32:12.892Z
+date: 2024-07-17T10:13:24.156Z
 tags: 
   - driver
   - device driver
@@ -32,10 +32,16 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -50,6 +56,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -59,10 +68,25 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -95,6 +119,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -124,6 +151,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -163,6 +193,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -180,6 +213,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 ## What are drivers?
@@ -222,3 +258,71 @@ To understand why, you first have to understand what drivers actually are…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-streamline-your-tiktok-creativity-how-to-upload-videos-seamlessly/"><u>[New] 2024 Approved  Streamline Your TikTok Creativity  How to Upload Videos Seamlessly</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-building-engagement-the-role-of-youtube-shorts-template-design/"><u>[New] Building Engagement  The Role of YouTube Shorts Template Design</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-start-up-must-haves-decoded/"><u>[New] GoPro Start-Up Must-Haves Decoded</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-muting-problem-solutions-for-obs-sound-capture/"><u>[New] In 2024, Muting Problem Solutions for OBS Sound Capture</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-a-professionals-guide-to-precision-with-morphvox-technology/"><u>[Updated] A Professional's Guide to Precision with MorphVOX Technology</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-angles-the-complete-manual-for-effective-video-turns/"><u>[Updated] In 2024, Instagram Angles  The Complete Manual for Effective Video Turns</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-to-mp4-conversion-made-simple/"><u>[Updated] In 2024, Vimeo to MP4 Conversion Made Simple</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-melodic-messaging-audio-enhancements-for-status/"><u>[Updated] Melodic Messaging  Audio Enhancements for Status</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-novice-film-capture-scrutiny-report/"><u>[Updated] Novice Film Capture Scrutiny Report</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-facebook-spotlight-todays-1-10-music-vids/"><u>2024 Approved  Facebook Spotlight  Today’s #1-#10 Music Vids</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-make-your-content-stand-out-with-instagrams-procedural-slow-mo-journey/"><u>2024 Approved  Make Your Content Stand Out with Instagram’s Procedural Slow Mo Journey</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-professional-tips-for-efficient-screen-casting-in-meet/"><u>2024 Approved  Professional Tips for Efficient Screen Casting in Meet</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/audio-dynamics-crafting-the-ideal-listening-environment-via-video-adjustments/"><u>Audio Dynamics Crafting the Ideal Listening Environment via Video Adjustments</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/digital-detailing-at-your-command-for-2024/"><u>Digital Detailing at Your Command for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-tecno-spark-20-proplus-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Tecno Spark 20 Pro+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-tecno-spark-go-2024-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Tecno Spark Go (2024).</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-u23-pro-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from U23 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-v30-lite-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from V30 Lite 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-s17-pro-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo S17 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-s17-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo S17.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-s18-pro-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo S18 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-t2-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo T2 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-t2-pro-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo T2 Pro 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-v29-pro-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo V29 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-v29-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo V29.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-v29e-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo V29e.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-v30-lite-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo V30 Lite 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-x100-pro-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo X100 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-x90s-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo X90S.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y02t-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y02T.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y100i-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y100i.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y200-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y200.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y27s-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y27s.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y36i-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y36i.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y78-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y78 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y78t-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y78t.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-13-ultra-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi 13 Ultra.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-13t-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi 13T.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-14-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi 14.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-12-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi 12 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-13c-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi 13C 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi K70 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-k70e-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi K70E.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-note-12-proplus-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi Note 12 Pro+ 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-note-12r-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Xiaomi Redmi Note 12R.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-tecno-spark-10-4g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Tecno Spark 10 4G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 6 Plus?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-realme-narzo-n55-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Realme Narzo N55 to Another | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-streamlining-avi-to-gif-transitions-on-pcmac-via-filmora-pro/"><u>In 2024, Streamlining AVI to GIF Transitions on PC/Mac via Filmora Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transformative-guide-gifs-becoming-stickers-on-discord-whatsapp-and-telegram/"><u>In 2024, Transformative Guide  GIFs Becoming Stickers on Discord, WhatsApp & Telegram</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/innovative-approach-to-revamping-your-videos-cover-images-on-fb/"><u>Innovative Approach to Revamping Your Videos' Cover Images on FB</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-gaming-and-productivity-which-upgrade-comes-first-cpu-or-gpu/"><u>Maximizing Gaming & Productivity: Which Upgrade Comes First, CPu or GPU?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/musicality-in-whatsapp-expressions-for-2024/"><u>Musicality in WhatsApp Expressions for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-blurring-faces-with-best-video-editing-software/"><u>New In 2024, Blurring Faces with Best Video Editing Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/quick-route-to-your-latest-fb-video-viewings-for-2024/"><u>Quick Route to Your Latest FB Video Viewings for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-lava-yuva-3-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Lava Yuva 3 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-silencing-audio-in-updated-mkv-files-a-comprehensive-guide-mkv-2023/"><u>Updated In 2024, Silencing Audio in Updated MKV Files - A Comprehensive Guide (MKV-2023)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/1714298576733-updated-in-2024-the-definitive-handbook-to-choosing-the-perfect-aiff-converter/"><u>Updated In 2024, The Definitive Handbook to Choosing the Perfect Aiff Converter</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/viral-success-the-most-loved-ae-themes-for-social-media/"><u>Viral Success  The Most Loved AE Themes for Social Media</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+</ul></div>

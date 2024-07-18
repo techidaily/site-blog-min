@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager on Windows 11/10/7
-date: 2024-05-19T18:32:12.738Z
+date: 2024-07-17T10:11:51.157Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -32,10 +35,16 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -44,6 +53,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -134,6 +146,9 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -143,6 +158,9 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -178,6 +196,9 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
@@ -193,6 +214,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -216,3 +240,56 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-sky-high-streams-on-facebook-a-dji-drone-users-guide/"><u>[New] 2024 Approved  Sky-High Streams on Facebook  A DJI Drone User's Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-achieve-professional-quality-on-yt-with-simple-blurring/"><u>[Updated] Achieve Professional Quality on YT with Simple Blurring</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevating-creative-content-vimeo-vs-youtubes-approach/"><u>[Updated] Elevating Creative Content  Vimeo vs YouTube's Approach</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sky-high-results-the-creme-de-la-liste-of-drone-editors/"><u>[Updated] Sky-High Results  The Crème De La Liste of Drone Editors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mi-drones-sky-views-unveiled-in-full-hd-quality-check/"><u>2024 Approved  Mi Drone's Sky Views Unveiled in Full HD Quality Check</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-iphone-album-organizing-techniques-and-icloud-uploads/"><u>2024 Approved  Navigating iPhone Album Organizing Techniques and iCloud Uploads</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-unleash-the-power-of-messaging-mastering-pinning-on-discord/"><u>2024 Approved  Unleash the Power of Messaging  Mastering Pinning on Discord</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-itel-p55-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/8-apps-to-custom-your-gif-stickers/"><u>8 Apps to Custom Your GIF Stickers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-p40plus-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Itel P40+</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-lava-blaze-2-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Lava Blaze 2 Pro? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/expert-analysis-top-9-digital-recording-tools-assessed/"><u>Expert Analysis  Top 9 Digital Recording Tools Assessed</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/how-to-ai-denoise-for-2024/"><u>How to AI DeNoise for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-x100-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo X100 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-infinix-smart-8-hd-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Infinix Smart 8 HD?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-infinix-smart-8-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Infinix Smart 8?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-itel-a05s-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Itel A05s?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-itel-a70-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Itel A70?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-itel-p55-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Itel P55?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-lava-blaze-2-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Lava Blaze 2 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-lava-blaze-2-pro-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Lava Blaze 2 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-lava-storm-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Lava Storm 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-lava-yuva-3-pro-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Lava Yuva 3 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-magic-6-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Magic 6?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-moto-g-stylus-2023-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Moto G Stylus (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-motorola-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Motorola ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-motorola-edge-2023-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Motorola Edge 2023?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-motorola-edge-40-neo-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Motorola Edge 40 Neo?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-motorola-edge-40-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Motorola Edge 40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-motorola-g54-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Motorola G54 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Motorola Moto G 5G (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Motorola Moto G Stylus (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-motorola-moto-g04-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Motorola Moto G04?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-motorola-moto-g34-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Motorola Moto G34 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-motorola-moto-g84-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-nokia-130-music-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Nokia 130 Music?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-nokia-c12-plus-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Nokia C12 Plus?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-nokia-c12-pro-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Nokia C12 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-nokia-c210-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Nokia C210?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-chuckle-champions-twitters-comedy-corner/"><u>In 2024, Chuckle-Champions  Twitter’s Comedy Corner</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-guide-to-recording-gotomeet-sessions/"><u>In 2024, Essential Guide to Recording GoToMeet Sessions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-s23plus-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Itel S23+ Phone with Broken Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-nubia-red-magic-9-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-securing-success-navigating-channels-and-encodings-in-discord/"><u>In 2024, Securing Success  Navigating Channels and Encodings in Discord</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-toolwiz-scrutiny-expert-analysis-on-mobile-photo-tools/"><u>In 2024, Toolwiz Scrutiny  Expert Analysis on Mobile Photo Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-motorola-g54-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Motorola G54 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-10-best-alternatives-to-audacity/"><u>New In 2024, 10 Best Alternatives to Audacity</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-cut-and-split-wmv-videos-for-free-top-software-picks/"><u>Updated Cut and Split WMV Videos for Free Top Software Picks</u></a></li>
+</ul></div>

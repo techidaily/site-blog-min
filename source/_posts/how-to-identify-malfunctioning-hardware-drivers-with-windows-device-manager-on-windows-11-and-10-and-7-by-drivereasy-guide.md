@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10 & 7
-date: 2024-05-19T18:32:12.753Z
+date: 2024-07-17T10:12:06.365Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -40,6 +43,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -53,6 +59,9 @@ To understand why, you first have to understand what drivers actually are…
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -61,6 +70,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -76,6 +88,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
@@ -112,6 +127,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -149,6 +167,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 ## Download Driver Easy FREE
@@ -187,3 +208,49 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-enhance-collaboration-with-these-zoom-tools/"><u>[New] In 2024, Enhance Collaboration with These Zoom Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-gopro-camera-showdown/"><u>[New] The Ultimate GoPro Camera Showdown</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-vibe-of-the-town-top-20-viral-tiktok-rap-songs-to-follow-for-2024/"><u>[New] Vibe of the Town  Top 20 Viral TikTok Rap Songs to Follow for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-avoiding-common-mistakes-in-macos-mixer-streaming-for-2024/"><u>[Updated] Avoiding Common Mistakes in MacOS Mixer Streaming for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-jumping-to-the-top-the-best-tiktok-dance-routines/"><u>[Updated] In 2024, Jumping to the Top  The Best TikTok Dance Routines</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-sound-sweep-clearing-background-buzz-on-software/"><u>[Updated] Sound Sweep  Clearing Background Buzz on Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-in-depth-look-at-macs-top-screen-capture-apps/"><u>2024 Approved  In-Depth Look at Mac's Top Screen Capture Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instatales-order-your-pictures-rightly/"><u>2024 Approved  InstaTales  Order Your Pictures Rightly</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-snicker-sonatas-top-10-humorous-hits/"><u>2024 Approved  Snicker Sonatas  Top 10 Humorous Hits</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-a34-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-f15-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-m14-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-s23plus-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy S23+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-s24-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy S24</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-s24plus-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy S24+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-smart-8-plus-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Smart 8 Plus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-sony-xperia-10-v-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Sony Xperia 10 V</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-tecno-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Tecno</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-tecno-camon-30-pro-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-tecno-phantom-v-flip-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Tecno Phantom V Flip</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-tecno-pop-8-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Tecno Pop 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-tecno-spark-go-2024-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-v-purse-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from V Purse</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-v27-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from V27</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-v30t-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from V30T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-vivo-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Vivo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-vivo-g2-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Vivo G2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-vivo-s17-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Vivo S17 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-vivo-t2x-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Vivo T2x 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-vivo-v29-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Vivo V29</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-vivo-y100i-power-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-vivo-y17s-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Vivo Y17s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-vivo-y28-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Vivo Y28 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-poco-c50-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Poco C50 Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-leading-list-10-budget-friendly-sbd-solutions/"><u>In 2024, Leading List  10 Budget-Friendly SBD Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-free-clip-art-licenses/"><u>The Ultimate Guide to Free Clip Art Licenses</u></a></li>
+</ul></div>

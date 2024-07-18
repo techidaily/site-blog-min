@@ -1,7 +1,7 @@
 ---
 title: 2 Ways to Transfer Text Messages from Vivo S18 to iPhone 15/14/13/12/11/X/8/ | Dr.fone
-date: 2024-04-03T08:55:26.756Z
-updated: 2024-04-04T08:55:26.756Z
+date: 2024-07-17T13:07:14.664Z
+updated: 2024-07-18T13:07:14.664Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 2 Ways to Transfer Text Messages from Vivo S18 to iPhone 15/14/13/12/11/X/8/
 excerpt: This article describes 2 Ways to Transfer Text Messages from Vivo S18 to iPhone 15/14/13/12/11/X/8/
 keywords: transfer from android to android,transfer from Vivo S18 to pc,transfer from Vivo S18 to mac,transfer from Vivo S18 to ipad,transfer from Vivo S18 to iphone,transfer from android to ipad,transfer from android to iphone
-thumbnail: https://www.lifewire.com/thmb/TtsVrd32qSZ-IgZ8x0AB3dHyQVs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-a-song-your-ringtone-on-android-4777573-5d571b57c5a5436e91ebb7fcae1c2b6b.jpg
+thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca322a8100dfaafbd0ac4bcb97.jpg
 ---
 
 ## 2 Ways to Transfer Text Messages from Vivo S18 to iPhone 15/14/13/12/11/X/8/
@@ -18,6 +18,14 @@ The biggest dilemma that people face when they buy a new iPhone like iPhone 14/1
 
 Aside from this, it is also important that they can transfer messages and contacts to their new phone like iPhone 14/14 Pro (Max). But the process of how to transfer text messages from Vivo S18 to iPhone can get a little more tricky than transferring other data. But don’t worry, as there are some ways available that allow easy transferring of messages from Vivo S18 to iPhone.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: One-click solution to transfer text messages from Vivo S18 to iPhone
 
 Buying a new iPhone like iPhone 14/14 Pro (Max) is a lot easier than setting it up. Media files like music, images, and video clips are a lot easier to transfer cross-platform. But the part of migrating contacts and text messages especially gets tricky cross-platform due to poor compatibility between Android and iPhone. Though is possible to transfer text messages from android to iPhone, the process can be slower and will need several workarounds than normal.
@@ -26,13 +34,16 @@ Want to transfer Android data to the new iPhone 14/13/12/11/X/8 faster and secur
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Phone Transfer
 
 Transfer Text Messages from Vivo S18 to iPhone like iPhone 15/14/14 Pro (Max)
 
 - Easy, fast, and safe.
 - Move data between devices with different operating systems, i.e iOS to Android.
-- Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+- Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
 - Supports over 8000+ Android devices.
 - Works for all models of iPhone, iPad, and iPod.
@@ -47,6 +58,9 @@ Step 1: Download the Dr.Fone toolkit and install it on the Windows or Mac comput
 
 Step 2: Then connect both the Vivo S18 devices i.e. Android and iPhone to the computer with the help of USB cables. Wait for them to be detected by the software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![launch the tool and connect devices](https://images.wondershare.com/drfone/guide/drfone-home.png "first screen of Dr.Fone")
 
 Step 3: Click on the Switch option on the Dr.Fone utility home screen and it will take you to Dr.Fone - Phone Transfer interface.
@@ -55,6 +69,9 @@ Step 4: Both the Android and iPhone will be displayed on the next screen. Select
 
 Step 5: Now, select the data that you want to transfer by checking the respective option. In this case, only check the Text messages checkbox and uncheck everything else.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select text messages for transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png "transfer sms from android to iphone")
 
 Step 6: Finally hit the “Start Transfer” button and it will begin to transfer text messages from Vivo S18 to iPhone.
@@ -63,6 +80,9 @@ Dr.Fone - Phone Transfer offers a safe and quick way to transfer messages from V
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Part 2: Transfer SMS from Vivo S18 to iPhone using Move to iOS app
 
 Transferring text messages from Vivo S18 to iPhone using Dr.Fone - Phone Transfer is the best and the fastest way. But it requires a computer and physically connecting the Vivo S18 devices via USB cables. What if the person doesn’t have a computer? They won’t be able to transfer any data from their old Android to a new iPhone like iPhone 14/14 Pro (Max). If you want to find another way to transfer messages and other stuff from Vivo S18 to iPhone, then Move to the iOS app can help in this task.
@@ -82,6 +102,9 @@ Want to learn how to transfer messages from android to iPhone without USB cables
 
 Step 1: Click on the “Move Data from Android” button on the “Apps and Data” screen during the iPhone setup process. If you have already set up the Vivo S18 device, then you need to erase the data from Settings > General > Reset and then go to Apps and Data screen.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![transfer messages from android to iphone](https://images.wondershare.com/drfone/article/2018/02/move-data-from-android.JPG "Apps and data screen")
 
 Step 2: On the iPhone, click “Continue” on the Move from Android screen. It will generate the 6-digit or 10-digit code.
@@ -92,6 +115,9 @@ Step 4: Tap on “Continue” and then “Agree” on the terms and conditions s
 
 Step 5: Enter the code generated on the iPhone in the “Enter Code” screen.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter code](https://images.wondershare.com/drfone/article/2018/02/enter-code.JPG "enter the code to verify")
 
 Step 6: On the Transfer Data screen, select the content to transfer and click “Next”. It will start the transfer process and will take some time to complete depending on the size of the data.
@@ -104,12 +130,18 @@ The disadvantage that this method has is that you can’t transfer messages from
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2 Ways to Transfer Text Messages from Vivo S18 to iPhone 15/14/13/12/11/X/8/
 
 The biggest dilemma that people face when they buy a new iPhone like iPhone 14/14 Pro (Max) is how to transfer data from the Android or old iPhone. Well, transferring images, audio, videos, etc. is easy as there are lots of apps available that allow doing so.
 
 Aside from this, it is also important that they can transfer messages and contacts to their new phone like iPhone 14/14 Pro (Max). But the process of how to transfer text messages from Vivo S18 to iPhone can get a little more tricky than transferring other data. But don’t worry, as there are some ways available that allow easy transferring of messages from Vivo S18 to iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: One-click solution to transfer text messages from Vivo S18 to iPhone
 
 Buying a new iPhone like iPhone 14/14 Pro (Max) is a lot easier than setting it up. Media files like music, images, and video clips are a lot easier to transfer cross-platform. But the part of migrating contacts and text messages especially gets tricky cross-platform due to poor compatibility between Android and iPhone. Though is possible to transfer text messages from android to iPhone, the process can be slower and will need several workarounds than normal.
@@ -118,13 +150,13 @@ Want to transfer Android data to the new iPhone 14/13/12/11/X/8 faster and secur
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 Transfer Text Messages from Vivo S18 to iPhone like iPhone 15/14/14 Pro (Max)
 
 - Easy, fast, and safe.
 - Move data between devices with different operating systems, i.e iOS to Android.
-- Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+- Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
 - Supports over 8000+ Android devices.
 - Works for all models of iPhone, iPad, and iPod.
@@ -147,6 +179,9 @@ Step 4: Both the Android and iPhone will be displayed on the next screen. Select
 
 Step 5: Now, select the data that you want to transfer by checking the respective option. In this case, only check the Text messages checkbox and uncheck everything else.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select text messages for transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png "transfer sms from android to iphone")
 
 Step 6: Finally hit the “Start Transfer” button and it will begin to transfer text messages from Vivo S18 to iPhone.
@@ -155,6 +190,9 @@ Dr.Fone - Phone Transfer offers a safe and quick way to transfer messages from V
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Transfer SMS from Vivo S18 to iPhone using Move to iOS app
 
 Transferring text messages from Vivo S18 to iPhone using Dr.Fone - Phone Transfer is the best and the fastest way. But it requires a computer and physically connecting the Vivo S18 devices via USB cables. What if the person doesn’t have a computer? They won’t be able to transfer any data from their old Android to a new iPhone like iPhone 14/14 Pro (Max). If you want to find another way to transfer messages and other stuff from Vivo S18 to iPhone, then Move to the iOS app can help in this task.
@@ -168,6 +206,9 @@ Move to iOS is an Android app developed to make it easier to transfer data from 
 - • Data doesn’t exceed the storage on iPhone
 - • Steady Wi-Fi network is available
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to transfer text messages from Android and iPhone using Move to iOS?
 
 Want to learn how to transfer messages from android to iPhone without USB cables and computers? With the below steps, you can easily transfer messages and other data from Vivo S18 to iPhone like iPhone 14/14 Pro (Max) using Move to iOS -
@@ -188,6 +229,9 @@ Step 5: Enter the code generated on the iPhone in the “Enter Code” screen.
 
 Step 6: On the Transfer Data screen, select the content to transfer and click “Next”. It will start the transfer process and will take some time to complete depending on the size of the data.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![process of transferring sms from android to iphone](https://images.wondershare.com/drfone/article/2018/02/move-to-ios.JPG "transfer to be complete in a while")
 
 Step 7: After transferring is complete, finish the iPhone device setup process.
@@ -218,6 +262,9 @@ Also, besides contacts, you can transfer other content from your old device to a
 2. This software provides easy navigation so that even a layman can operate the software with a one-click solution.
 3. The transfer speed of Dr.Fone's Phone Transfer tool is the lowest among other transfer methods. Within 3 minutes, all of your content can be transferred to another device.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Guide To Move Contacts Between iPhone and Android Using Wondershare Dr.Fone
 
 This software will require a few steps to transfer your contacts to another device. Here is the answer in a step-wise manner to your "**how do I transfer contacts from phone to phone**" question. Moreover, this toolkit can work in all directions, such as from one iPhone to another or from an old Android smartphone to a new one.
@@ -228,12 +275,18 @@ This software will require a few steps to transfer your contacts to another devi
 
 First, you have to activate Wondershare Dr.Fone on your computer and navigate to the “Toolbox" section. In that section, you have to select the "Phone Transfer” tool to proceed further.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose phone transfer in toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - Step 2. Designate the “Source” and “Destination” Devices
 
 Here, you need to set “Source” and “Destination” devices. In either case, you must set the Vivo S18 device as a source from which you want to transfer the contacts. Moreover, you can also use the “Flip” button to change the transfer direction between the Vivo S18 devices.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![set source and destination device](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 - Step 3. Select the “Contacts” Option for their Transfer
@@ -248,10 +301,16 @@ After you turn off iCloud syncing on your iOS device, a notification will indica
 
 ![data transfer process completed](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. 2 Methods To Transfer Contacts From iPhone to iPhone
 
 Although Wondershare Dr.Fone is the perfect solution to transfer your contacts, we'll consider various scenarios in which you can transfer contacts. Now, if you have an iPhone and want to know **how to copy contacts from phone to phone**, you can adopt the following two methods:
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Use NameDrop
 
 Apple has introduced a new feature in the latest iPhones named NameDrop. The feature allows you to share your contact card with another person by tapping the two iPhones together. The step-by-step guide to move contacts between iPhone and iPhone using “NameDrop" is below.
@@ -262,12 +321,21 @@ Apple has introduced a new feature in the latest iPhones named NameDrop. The fea
 
 - **Step 2.** Afterward,you have to select whether to “Share” your contact card and receive the contact of another person. Or tap “Receive Only” to receive another person's contact information.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose to share or receive contact](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-7.jpg)
 
 - **Step 3.** If you want to share your contact card, tap the “ Downward Arrow” icon, choose the fields you wish to include, and then share it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select fields to share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Method 2. iCloud Sync
 
 The alternate method to transfer your phone contacts is via iCloud synchronization. The technique involves your iCloud contacts option to be toggled on. You can sign in with the same iCloud account to transfer the contact list to your new iPhone. Here's how to transfer contacts from iPhone to iPhone using iCloud Sync:
@@ -294,10 +362,16 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 
 - **Step 2.** Next, choose the "Also sync device contacts" option at the top of the screen and ensure that the "Automatically back up & sync device contacts" feature is turned on. Afterward, switch to your iPhone and open the "Settings" app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![enable back up and sync option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-12.jpg)
 
 - **Step 3.** Subsequently, navigate to the "Contacts" settings within your iPhone's "Settings" app. Here, find and select the "Accounts" option and proceed to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![explore connected accounts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-13.jpg)
 
 - **Step 4.** As you lead to the next window, tap the "Add Account" option. You have to sign in with your Google Account and ensure that the "Contacts" option is enabled.
@@ -334,10 +408,16 @@ Nearby Share is a feature available on Android devices that allows you to easily
 
 - **Step 3.** Now, you have to open the "Google Contacts" app on your Vivo S18 and access the "Fix & manage" tab. Choose the "Export to file" option and select the Vivo S18 device and account from which you want to share contacts. After making the selection, hit the "Export" button and save the file within your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select contacts to export](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-19.jpg)
 
 - **Step 3.** Continue by locating the saved contacts file, then tap on it, and choose the "Send" option. Next, from the available sharing options, select "Nearby Share.” Lastly, you have to locate and select the name of your target Android device when it becomes visible and tap to accept the file share on your destination device.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select the Vivo S18 device in nearby share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-20.jpg)
 
 ### Method 2. Use Google Account
@@ -368,10 +448,16 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 
 - **Step 2.** Now, you have to install or access the “Google One” app on your Vivo S18. Sign in and configure your Google One settings. Then, navigate to the “Sync” section and tap the “View” option.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![view sync in google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-24.jpg)
 
 - **Step 3.** There, you need to select the “Contacts" option and click "Set up Sync.” Next, proceed to the “Upload Contacts” option.Subsequently, contacts will sync to your Vivo S18.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload contacts via google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-25.jpg)
 
 ### Method 2. Import the VCF File
@@ -388,6 +474,9 @@ Importing a VCF file is another simple method for transferring contacts. It incl
 
 - **Step 3.** Now, choose "Contacts" on the iCloud website, tap the "Three Dots" icon, and proceed with the "Select All" option. After that, you can tap the "Share" icon to choose the "Export vCard" feature. Subsequently, you need to open the exported file and select your Google account to import the contacts to your Vivo S18.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![export vcard via icloud site](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-28.jpg)
 
 ## Conclusion
@@ -413,3 +502,42 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-secrets-unveiled-complete-guide-to-live-tv-recording-via-windows-pcs/"><u>[New] In 2024, Secrets Unveiled  Complete Guide to Live TV Recording via Windows PCs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-differentiate-yourself-with-these-critical-yt-shorts-hacks-for-2024/"><u>[Updated] Differentiate Yourself with These Critical YT Shorts Hacks for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-camtasia-9-unlock-the-art-of-ken-burns-easing/"><u>2024 Approved  Camtasia 9  Unlock the Art of Ken Burns Easing</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-realme-gt-5-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Realme GT 5 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/compreenas-comprehensive-walkthrough-for-creating-a-unified-skype-chat-room-accessible-by-users-of-different-operating-systems/"><u>Compreenas Comprehensive Walkthrough for Creating a Unified Skype Chat Room Accessible by Users of Different Operating Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/health-communication-winning-on-social-networks/"><u>Health Communication Winning on Social Networks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-x8b-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on X8b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-13-ultra-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-13t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi 13T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-civi-3-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi Civi 3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-redmi-12-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi Redmi 12</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-redmi-12-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-redmi-13c-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-redmi-k70-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi Redmi K70</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-redmi-note-12-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-redmi-note-12r-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-redmi-note-13-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-redmi-note-13-proplus-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xperia-10-v-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xperia 10 V</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-y100-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Y100 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-y17s-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Y17s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-y200-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Y200</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-y28-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Y28 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-y36i-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Y36i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-yuva-3-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Yuva 3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-zte-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on ZTE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-zte-axon-40-lite-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-zte-blade-a73-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on ZTE Blade A73 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-poco-c65-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Poco C65 Phones with/without a PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-soundstage-viewing/"><u>In 2024, Leading Soundstage Viewing</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-win-troubleshooting-toolkit/"><u>The Ultimate Win Troubleshooting Toolkit</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-digital-beat-downloads-accessing-dj-anthems-for-2024/"><u>Updated Digital Beat Downloads Accessing DJ Anthems for 2024</u></a></li>
+</ul></div>

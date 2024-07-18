@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in Excel 2007 files
-date: 2024-05-19T18:32:13.239Z
-updated: 2024-05-20T18:32:13.239Z
+date: 2024-07-17T10:18:47.579Z
+updated: 2024-07-18T10:18:47.579Z
 tags: 
   - signer
   - signer online
@@ -12,17 +12,32 @@ categories:
 description: This article describes How to insert signature in Excel 2007 files
 excerpt: This article describes How to insert signature in Excel 2007 files
 keywords: best sign excel,sign excel online,.xlsx signer online,.xlsx signature online,excel signature best
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## 1. How to insert signature in Excel 2007 files
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -49,6 +64,9 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
@@ -71,10 +89,16 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -122,6 +146,9 @@ To implement each of the ways to install a digital signature in Excel, you need 
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -136,6 +163,9 @@ You can also use a signature line in Excel to insert a signature with properties
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -151,6 +181,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -163,3 +196,49 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decoding-the-best-of-beauty-youtubes-elite-artists-showcased/"><u>[New] 2024 Approved  Decoding the Best of Beauty  YouTube's Elite Artists Showcased</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-adapt-posting-techniques-after-instagrams-revisions-for-2024/"><u>[New] How to Adapt Posting Techniques After Instagram’s Revisions for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-streamlining-your-profile-alter-name-in-google-meet/"><u>[New] In 2024, Streamlining Your Profile  Alter Name in Google Meet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-top-techniques-for-professional-looking-ig-video-content/"><u>[New] Top Techniques for Professional-Looking IG Video Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-in-depth-recmaster-screen-capture-analysis/"><u>[Updated] 2024 Approved  In-Depth Recmaster Screen Capture Analysis</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-comprehensive-kinetic-analysis-2023/"><u>2024 Approved  Comprehensive Kinetic Analysis 2023</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-integrating-shorts-for-social-networks/"><u>2024 Approved  Integrating Shorts for Social Networks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-the-art-of-musical-integration-in-video-editing-an-in-depth-look-at-using-filmora/"><u>2024 Approved The Art of Musical Integration in Video Editing An In-Depth Look at Using Filmora</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-unclutter-your-mac-a-comprehensive-guide-to-liberating-space-for-fcpx/"><u>2024 Approved Unclutter Your Mac A Comprehensive Guide to Liberating Space for FCPX</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-apple-iphone-8-plus-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the Apple iPhone 8 Plus iCloud Lock</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-13-mini-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 13 mini Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-13-pro-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 13 Pro Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-13-pro-max-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 13 Pro Max Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-14-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 14 Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-14-plus-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 14 Plus Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-14-pro-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 14 Pro Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-14-pro-max-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 14 Pro Max Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-15-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 15 Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-15-plus-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 15 Plus Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-15-pro-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 15 Pro Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-15-pro-max-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 15 Pro Max Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-6-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 6 Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-6-plus-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 6 Plus Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-6s-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 6s Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-6s-plus-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 6s Plus Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-7-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 7 Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-7-plus-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 7 Plus Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-8-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 8 Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-8-plus-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 8 Plus Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-se-2020-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone SE (2020) Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-14-pro-max-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 14 Pro Max to Computer? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-zte-axon-40-lite-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of ZTE Axon 40 Lite Through Google Earth?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-google-pixel-8-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Google Pixel 8 Without PUK Codes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimized-recording-software-seamless-every-time/"><u>In 2024, Optimized Recording Software - Seamless Every Time</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-realme-v30-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Realme V30 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simplified-rss-feed-creation-methods-for-podcasters/"><u>Simplified RSS Feed Creation Methods for Podcasters</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-windows-8-mp4-video-editor-effortless-file-editing/"><u>Updated In 2024, Windows 8 MP4 Video Editor Effortless File Editing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-uplifting-melodies-for-birthday-clip-soundtrack-year-2024/"><u>Updated Uplifting Melodies for Birthday Clip Soundtrack, Year 2024</u></a></li>
+</ul></div>

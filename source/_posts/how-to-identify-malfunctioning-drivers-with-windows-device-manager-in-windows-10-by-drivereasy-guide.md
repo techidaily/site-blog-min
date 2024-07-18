@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager in Windows 10
-date: 2024-05-19T18:32:12.723Z
+date: 2024-07-17T10:11:33.839Z
 tags: 
   - driver
   - device driver
@@ -19,12 +19,18 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -46,6 +52,9 @@ And without all these drivers, none of your devices will work.
 
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -54,8 +63,14 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -84,6 +99,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -109,3 +127,41 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-five-easy-steps-to-enhance-photo-hues/"><u>[New] Five Easy Steps to Enhance Photo Hues</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-2023s-elite-web-based-recording-devices/"><u>[New] In 2024, 2023'S Elite Web-Based Recording Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-eyedome-xtreme-ultimate-os-video-snapper/"><u>[New] In 2024, EyeDome Xtreme  Ultimate OS Video Snapper</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-fireshadow-video-recording/"><u>[New] In 2024, Fireshadow Video Recording</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-boomerang-brilliance-keeping-users-hooked-on-ig-for-2024/"><u>[Updated] Boomerang Brilliance  Keeping Users Hooked on IG for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-expert-techniques-for-uploading-youtubes-on-dailymotion/"><u>[Updated] In 2024, Expert Techniques for Uploading YouTubes on Dailymotion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleash-creativity-how-to-elegantly-add-descriptive-elements-in-photos-for-windows-and-macos/"><u>[Updated] Unleash Creativity  How to Elegantly Add Descriptive Elements in Photos for Windows & MacOS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-2023s-approach-tweeting-from-tiktok/"><u>2024 Approved  2023'S Approach  Tweeting From TikTok</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-best-free-online-face-generators/"><u>2024 Approved Best Free Online Face Generators</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-a1x-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo A1x 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-a2-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo A2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-a38-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo A38</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-a59-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo A59 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-a78-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo A78</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-a79-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo A79 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-f23-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo F23 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-find-x7-ultra-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-k11-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo K11 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-k11x-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo K11x</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-reno-11f-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-pixel-7a-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Pixel 7a</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-poco-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Poco</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-poco-f5-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Poco F5 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-poco-m6-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Poco M6 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-poco-m6-pro-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Poco M6 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-realme-10t-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Realme 10T 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-realme-12plus-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Realme 12+ 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-masterclass-in-making-memories-expert-tips-for-snapchat-edits/"><u>In 2024, Masterclass in Making Memories  Expert Tips for Snapchat Edits</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/save-fb-pages-with-a-click-top-8-tools-available-online-and-free-for-2024/"><u>Save FB Pages with a Click  Top 8 Tools Available Online & FREE for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-should-i-apply-pitch-correction-to-elevate-speech-sounds/"><u>Updated Should I Apply Pitch Correction to Elevate Speech Sounds?</u></a></li>
+</ul></div>

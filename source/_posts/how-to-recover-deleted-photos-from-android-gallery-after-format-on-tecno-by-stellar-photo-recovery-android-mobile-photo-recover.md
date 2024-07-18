@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Tecno
-date: 2024-05-19T18:32:07.336Z
-updated: 2024-05-20T18:32:07.336Z
+date: 2024-07-17T08:53:58.709Z
+updated: 2024-07-18T08:53:58.709Z
 tags: 
   - recover
 categories: 
@@ -24,6 +24,9 @@ However, we all make mistakes, sometimes in a hurry or unknowingly, which lead t
 
 But no worries. Here you will know how to recover deleted photos from Android Gallery app. This post shares the best 7 ways worth trying to restore deleted photos on Android devices, both with and without software.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/How-to-Recover-Deleted-Photos-from-Android-Gallery-app.webp)
 
 ## Method 1: Recover Android photos from Google Photos
@@ -40,10 +43,21 @@ How to recover deleted photos from Android Gallery free using Google Photos:
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Tecno Camon 30 Pro 5G model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Recover Gallery photos from Google Drive
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
@@ -56,6 +70,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -109,6 +126,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 - Connect the rooted Android phone with your PC or Mac.
 - Launch the software, select the Android device to scan and follow the prompts in the software.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5: Restore photos with inbuilt Android backup services
 
 These days, Android phone manufacturers provide their own inbuilt backup functions in the devices. You can back up your Tecno Camon 30 Pro 5G phone’s app data to the phone’s cloud backup, local backup, Google backup, or external storage. The options vary with the mobile phone brands. Some mobile phones like Huawei even have a builtin backup app.
@@ -125,6 +145,9 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
@@ -135,6 +158,9 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
@@ -146,10 +172,16 @@ Apart from built-in Google cloud backup apps, you might be using other cloud sto
 
 The benefit of cloud backup is that you can recover deleted smartphone photos from any device simply by login into the account.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Cloud-backup-in-Android-Xiaomi-768x469.webp)
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Tips to Protect Photos from Loss on Android
 
 1. Back up Android photos on cloud.
@@ -171,6 +203,9 @@ Download the software’s free trial to assess its performance and preview the d
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to retrieve deleted Photos on Android Tablet?
 
 You can follow the methods shared in this post to recover photos from Android tablet.
@@ -187,6 +222,9 @@ You can recover deleted photos from Android Gallery without backup using a photo
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after format?
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -214,3 +252,58 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-elite-selection-personal-video-replay-software-12/"><u>[New] Elite Selection  Personal Video Replay Software (12)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-art-of-finding-instagram-filters-on-a-budget/"><u>[New] The Art of Finding Instagram Filters on a Budget</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-compact-guide-setting-up-snapchat-macos-style/"><u>[Updated] 2024 Approved  Compact Guide  Setting up Snapchat macOS-Style</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-photographers-toolkit-top-text-editors-for-images/"><u>[Updated] 2024 Approved  The Photographer's Toolkit  Top Text Editors for Images</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expertly-capture-your-macs-display-with-no-cost/"><u>[Updated] Expertly Capture Your Mac's Display with No Cost</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-syncing-words-and-images-lyric-video-magic-with-lyric-video-maker/"><u>[Updated] Syncing Words and Images  Lyric Video Magic with Lyric Video Maker</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-detailed-guide-to-ending-your-linkedin-user-experience/"><u>2024 Approved  A Detailed Guide to Ending Your LinkedIn User Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-apple-musics-role-in-professional-video-production/"><u>2024 Approved  Apple Music's Role in Professional Video Production</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-how-to-climb-higher-on-tiktoks-rankings-a-guide-for-more-interactions/"><u>2024 Approved  How to Climb Higher on TikTok's Rankings  A Guide for More Interactions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-beginners-pathway-to-custom-vocalization-expert-tips-on-modifying-sounds-free/"><u>2024 Approved  The Beginner's Pathway to Custom Vocalization  Expert Tips on Modifying Sounds (Free)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/beat-the-hype-30-tiktok-inspired-deals-at-amazon-for-2024/"><u>Beat the Hype - 30 TikTok-Inspired Deals at Amazon for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-xiaomi-redmi-k70e-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Xiaomi Redmi K70E?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-huawei-p60-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Huawei P60.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-gt-10-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix GT 10 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-hot-30-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix Hot 30 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-hot-40-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix Hot 40 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-hot-40-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix Hot 40.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-hot-40i-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix Hot 40i.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-note-30-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix Note 30 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix Note 30 VIP Racing Edition.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-note-30i-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix Note 30i.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-smart-7-hd-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix Smart 7 HD.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-zero-30-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix Zero 30 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-itel-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Itel .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-itel-a60-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Itel A60.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-itel-p40-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Itel P40.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-itel-p40plus-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Itel P40+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-itel-p55plus-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Itel P55+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-lava-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Lava .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-lava-blaze-2-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Lava Blaze 2 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-lava-yuva-2-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Lava Yuva 2.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-lava-yuva-3-pro-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Lava Yuva 3 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-lava-yuva-3-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Lava Yuva 3.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-meizu-21-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Meizu 21.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-motorola-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Motorola .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-motorola-edge-2023-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Motorola Edge 2023.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-motorola-moto-g04-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Motorola Moto G04.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-motorola-moto-g14-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Motorola Moto G14.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-motorola-moto-g34-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Motorola Moto G34 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-motorola-moto-g84-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Motorola Moto G84 5G.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-resources-to-explore-for-personalized-text-enhancements-online/"><u>In 2024, Best Resources to Explore for Personalized Text Enhancements Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-how-to-deafen-silent-tweets-impact/"><u>In 2024, How to Deafen Silent Tweets' Impact</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-x5-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco X5 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-components-for-next-gen-streaming/"><u>In 2024, Premium Components for Next-Gen Streaming</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-s23plus-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy S23+ Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713953850941-new-3-actionable-ways-to-create-countdown-animation-for-videos-for-2024/"><u>New 3 Actionable Ways to Create Countdown Animation for Videos for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-whats-the-difference-between-adobe-premiere-and-after-effects/"><u>New Whats the Difference Between Adobe Premiere and After Effects?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-lg-screen-chronicles-a-complete-review-of-4k-quality/"><u>The Ultimate LG Screen Chronicles  A Complete Review of 4K Quality</u></a></li>
+</ul></div>

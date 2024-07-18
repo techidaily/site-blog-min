@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos on Infinix Smart 8 HD
-date: 2024-05-19T18:32:07.906Z
-updated: 2024-05-20T18:32:07.906Z
+date: 2024-07-17T09:04:05.453Z
+updated: 2024-07-18T09:04:05.453Z
 tags: 
   - recover
 categories: 
@@ -37,6 +37,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Infinix Smart 8 HD model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
@@ -75,11 +78,17 @@ The software works on damaged, corrupt, formatted, inaccessible mobile SD cards 
 
 In addition, you can also restore your Gallery videos and audio files with the help of Stellar Photo Recovery. It is available for both Windows and Mac computers.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover Gallery photos with Stellar Photo Recovery:
 
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
@@ -95,6 +104,9 @@ Watch this video for the step-by-step process to recover Gallery pictures from A
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Recover deleted Gallery from Android internal storage
 
 Mostly Android photos are saved in the internal storage of the Android device. You can recover the permanently deleted Android photos with the help of a recovery software. However, make sure your Infinix Smart 8 HD device is rooted and has USB debugging enabled.
@@ -103,6 +115,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 
 **Caution**: Rooting makes your Infinix Smart 8 HD phone’s warranty null and void.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover deleted Gallery photos from Android internal storage:
 
 - Download any secure Android recovery software on Windows or Mac computer.
@@ -117,6 +132,9 @@ The location path of the backup function may differ with Android phones. General
 
 For example,
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/image.webp)
 
 - On Xiaomi Redmi phones: Settings> Additional Settings> Backup & reset
@@ -150,12 +168,18 @@ The benefit of cloud backup is that you can recover deleted smartphone photos fr
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Tips to Protect Photos from Loss on Android
 
 1. Back up Android photos on cloud.
 2. Always ensure some free space on your Infinix Smart 8 HD device. Use any secure Android cleaner like CCleaner utility.
 3. Regularly delete image cache files in Android, if only image thumbnails are visible.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Wrapping up & FAQ
 
 Backup is a huge respite from accidental deletion or sudden loss of your precious photos from Android Gallery. You can always get back your photos from Google Photos, Google Drive, DropBox, or your phone’s Android backup service.
@@ -179,6 +203,9 @@ You can recover deleted Gallery pictures from the Google Photos app’s Trash or
 - Click Trash or Bin.
 - Touch and hold the photo you want to restore and tap Restore.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -191,10 +218,16 @@ You can recover deleted photos from Android Gallery without backup using a photo
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after format?
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after software update?
 
 You can recover deleted photos from Android Gallery after software update using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -218,3 +251,41 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-nailing-the-art-of-powerpoint-to-video-conversion/"><u>[New] In 2024, Nailing the Art of PowerPoint to Video Conversion</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-premium-access-to-the-best-6-vids/"><u>[Updated] In 2024, Premium Access to the Best 6 Vids</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-selecting-the-ideal-screen-recording-application-obs-vs-fraps-showdown-for-2024/"><u>[Updated] Selecting the Ideal Screen Recording Application  OBS vs Fraps Showdown for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebook-group-video-downloader/"><u>2024 Approved  Facebook Group Video Downloader</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-6s-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 6s? Heres the Best Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-honor-90-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-13-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 13 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-14-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 14 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-14-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 14 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-14-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 14 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-14-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 14 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-15-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 15 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-15-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 15 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-15-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 15 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-15-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 15 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-6-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 6 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-6-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 6 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-6s-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 6s Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-6s-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 6s Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-7-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 7 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-7-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 7 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-8-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 8 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-8-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 8 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-se-2020-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone SE (2020) Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-se-2022-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone SE (2022) Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-se-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone SE Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-x-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone X Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-video-for-your-babys-first-year-for-2024/"><u>How to Make a Video for Your Babys First Year for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-playbook-speaking-with-flair-on-slides/"><u>In 2024, The Ultimate Playbook  Speaking with Flair on Slides</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-voice-record-hacks-3-ways-to-get-it-right-on-ipad/"><u>In 2024, Voice Record Hacks  3 Ways to Get It Right on iPad</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-from-phone-to-fame-best-vertical-video-editing-apps-for-mobile-creators/"><u>New In 2024, From Phone to Fame Best Vertical Video Editing Apps for Mobile Creators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uncovering-the-invisible-how-to-inspect-facebooks-data-trails-for-2024/"><u>Uncovering the Invisible  How to Inspect Facebook's Data Trails for 2024</u></a></li>
+</ul></div>

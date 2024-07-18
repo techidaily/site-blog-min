@@ -1,6 +1,6 @@
 ---
 title: How to Fix Excel 2010 Formulas Not Working Properly | Step-by-Step Guide
-date: 2024-05-19T18:32:11.523Z
+date: 2024-07-17T09:56:05.496Z
 tags: 
   - repair
   - repair excel
@@ -24,6 +24,9 @@ When working with Excel formulas, situations may arise when the formula doesn’
 
 Let’s check out the possible reasons that cause Excel formulas to work properly and solutions to resolve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Problem 1 – Switching Automatic to Manual Calculation Mode
 
 Automatic and manual are the two modes of calculation in Microsoft Excel.
@@ -32,6 +35,9 @@ By default, Excel is set to automatic calculation mode. Everything is recalculat
 
 Excel will not calculate automatically when set to manual calculation mode. And this may make you think that the Excel formula is not working properly.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Change Calculation Mode from Manual to Automatic
 
 To do so, perform these steps:
@@ -41,6 +47,9 @@ To do so, perform these steps:
 
 ![Automatic to Manual Calculation Mode](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/switch-manual-to-automatic-calculation-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Problem 2 – Missing or Mismatched Parentheses
 
 It’s easy to miss or incorrectly place parentheses or include extra parentheses in a complex formula. If a parenthesis is missing or mismatched and you click Enter after entering a formula, Excel displays a message window suggesting to fix the issue (refer to the screenshot below).
@@ -57,10 +66,25 @@ When typing a formula or editing one, Excel provides visual cues to determine if
 - Excel does not make the opening parentheses bold. So, if you’ve inserted the last closing parentheses in a formula, you can determine if your parentheses are mismatched.
 - Excel helps identify parentheses pairs by highlighting and formatting them with the same color once you cross over them.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Problem 3 – Formatting Cells in an Excel Formula
 
 When adding a number in an Excel formula, don’t add any decimal separator or special characters like $ or €. You may use a comma to separate a function’s argument in an Excel formula or use a currency sign like $ or € as part of cell references. Formatting the numbers may prevent the formula from functioning correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Use Format Cells Option for Formatting
 
 Use Format Cells instead of using a comma or currency signs for formatting a number in the formula. For instance, rather than entering a value of $10,000 in your formula, insert 10000, and click the ‘Ctrl+1’ keys together to open the Format Cells dialog box.
@@ -71,6 +95,9 @@ Use Format Cells instead of using a comma or currency signs for formatting a num
 
 Numbers are displayed as left-aligned in a sheet in a worksheet, and text formatted numbers are right-aligned in cells. Excel considers numbers formatted as text to be text strings. Thus, it leaves those numbers out of calculations. As a result, a formula won’t work as intended. For example, in the following screenshot, you can see that the SUM formula works correctly for normal numbers. But, when the SUM formula is applied to numbers formatted as text, the formula doesn’t return the correct value.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cells Formatted as Text](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/cells-formatted-as-text-4.png)
 
 Sometimes, you may also see an apostrophe in the cells or green triangles in the top-left corner of all the cells when numbers in those cells are formatted as Text.
@@ -84,12 +111,18 @@ To fix the issue, do the following:
 
 ![Format Cells in Excel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/format-cells-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Problem 5 – Double Quotes to Enclose Numbers
 
 Avoid enclosing numbers in a formula in double-quotes, as the numbers are interpreted as a string value.
 
 Meaning if you enter a formula like =IF(A1>B1, “1”), Excel will consider the output one as a string and not a number. So, you won’t be able to use 1’s in calculations.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Don’t Enclose Numbers in Double Quotes
 
 Remove any double quotes around a number in your formula unless you want that number to be treated as text. For example, you can write the formula mentioned above as “1” =IF(A1>B1, 1).
@@ -98,6 +131,9 @@ Remove any double quotes around a number in your formula unless you want that nu
 
 When entering a formula, you may end up adding an extra space before the equal (=) sign. You may also add an apostrophe (‘) in the formula at times. As a result, the calculation won’t be performed and may return an error. This usually happens when you use a formula copied from the web.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Remove Extra Space from the Formula
 
 The fix to this issue is pretty simple. You need to look for extra space before the equal sign and remove it. Also, ensure there is an additional apostrophe added in the formula.
@@ -133,3 +169,53 @@ This blog discussed some problems you might make causing an Excel formula to sto
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagrams-step-by-step-guide-to-green-room-editing/"><u>[New] 2024 Approved  Instagram's Step-by-Step Guide to Green Room Editing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-professional-insights-io-screen-capturing-demystified/"><u>[New] 2024 Approved  Professional Insights  IO Screen Capturing Demystified</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-serene-strums-and-dance-steps-tiktoks-country-playlist/"><u>[New] 2024 Approved  Serene Strums and Dance Steps  TikTok's Country Playlist</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-cut-to-impact-video-editing-secrets-for-instagram-professionals-for-2024/"><u>[New] Cut to Impact  Video Editing Secrets for Instagram Professionals for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ssentials-of-youtube-mastery-free-online-course-series/"><u>[New] Essentials of YouTube Mastery  Free Online Course Series</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-multimedia-a-detailed-review-of-video-editors/"><u>[New] Mastering Multimedia  A Detailed Review of Video Editors</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-choreographing-an-impactful-tiktok-finale-dance/"><u>[Updated] 2024 Approved  Choreographing an Impactful TikTok Finale Dance</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-avoid-blandness-optimize-your-thumbnail-with-20-fonts/"><u>[Updated] Avoid Blandness - Optimize Your Thumbnail with 20 Fonts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevate-your-pc-best-8-video-capture-tools-for-windows-10-for-2024/"><u>[Updated] Elevate Your PC  Best 8 Video Capture Tools for Windows 10 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-mobile-mastery-an-exhaustive-look-at-androids-lightroom/"><u>[Updated] In 2024, Mobile Mastery  An Exhaustive Look at Android’s Lightroom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-closure-in-digital-landscapes/"><u>[Updated] Seamless Closure in Digital Landscapes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-transform-your-tone-and-texture-with-easy-snapchat-voice-tweaks-for-2024/"><u>[Updated] Transform Your Tone and Texture with Easy Snapchat Voice Tweaks for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-financial-projections-producing-a-music-video/"><u>2024 Approved  Financial Projections  Producing a Music Video</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/create-like-a-pro-8-best-movie-makers-for-mac-users/"><u>Create Like a Pro 8 Best Movie Makers for Mac Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/expert-advice-how-to-share-your-imovie-videos-on-vimeo-for-2024/"><u>Expert Advice  How to Share Your iMovie Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harmonious-hush-for-restfulness-top-asmr-picks/"><u>Harmonious Hush for Restfulness  Top ASMR Picks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-motorola-moto-g-stylus-2023-by-fonelab-android-recover-music/"><u>How to recover old music from your Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-motorola-moto-g04-by-fonelab-android-recover-music/"><u>How to recover old music from your Motorola Moto G04</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-motorola-moto-g14-by-fonelab-android-recover-music/"><u>How to recover old music from your Motorola Moto G14</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-motorola-razr-40-ultra-by-fonelab-android-recover-music/"><u>How to recover old music from your Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-nokia-130-music-by-fonelab-android-recover-music/"><u>How to recover old music from your Nokia 130 Music</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-nokia-c12-by-fonelab-android-recover-music/"><u>How to recover old music from your Nokia C12</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-nokia-c210-by-fonelab-android-recover-music/"><u>How to recover old music from your Nokia C210</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-nokia-c300-by-fonelab-android-recover-music/"><u>How to recover old music from your Nokia C300</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-nokia-g310-by-fonelab-android-recover-music/"><u>How to recover old music from your Nokia G310</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-nokia-g42-5g-by-fonelab-android-recover-music/"><u>How to recover old music from your Nokia G42 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-note-30-vip-racing-edition-by-fonelab-android-recover-music/"><u>How to recover old music from your Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-note-30i-by-fonelab-android-recover-music/"><u>How to recover old music from your Note 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-nubia-by-fonelab-android-recover-music/"><u>How to recover old music from your Nubia</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-nubia-red-magic-9-proplus-by-fonelab-android-recover-music/"><u>How to recover old music from your Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-oneplus-by-fonelab-android-recover-music/"><u>How to recover old music from your OnePlus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-oppo-by-fonelab-android-recover-music/"><u>How to recover old music from your Oppo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-oppo-a1-5g-by-fonelab-android-recover-music/"><u>How to recover old music from your Oppo A1 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-oppo-a18-by-fonelab-android-recover-music/"><u>How to recover old music from your Oppo A18</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-oppo-a1x-5g-by-fonelab-android-recover-music/"><u>How to recover old music from your Oppo A1x 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-oppo-a2-by-fonelab-android-recover-music/"><u>How to recover old music from your Oppo A2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-oppo-a38-by-fonelab-android-recover-music/"><u>How to recover old music from your Oppo A38</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-oppo-find-x6-by-fonelab-android-recover-music/"><u>How to recover old music from your Oppo Find X6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-oppo-reno-8t-5g-by-fonelab-android-recover-music/"><u>How to recover old music from your Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 30 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-infinix-note-30i-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Infinix Note 30i Screen | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-the-ultimate-guide-to-exceptional-tiktok-intro-videos-mac/"><u>In 2024, The Ultimate Guide to Exceptional TikTok Intro Videos (Mac)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-top-5-guitar-centric-audio-capture-programs-for-musicians/"><u>New 2024 Approved Top 5 Guitar-Centric Audio Capture Programs for Musicians</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/streamlining-content-sharing-on-discord-with-ease-and-finesse-for-2024/"><u>Streamlining Content Sharing on Discord with Ease and Finesse for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/top-10-popular-cartoons-you-forgot-existed-for-2024/"><u>Top 10 Popular Cartoons You Forgot Existed for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-say-goodbye-to-stock-photo-fees-free-alternatives-for-2024/"><u>Updated Say Goodbye to Stock Photo Fees Free Alternatives for 2024</u></a></li>
+</ul></div>

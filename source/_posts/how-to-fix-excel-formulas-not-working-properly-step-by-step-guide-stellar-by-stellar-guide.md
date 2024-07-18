@@ -1,7 +1,7 @@
 ---
 title: How to Fix Excel Formulas Not Working Properly | Step-by-Step Guide | Stellar
-date: 2024-05-19T18:32:11.606Z
-updated: 2024-05-20T18:32:11.606Z
+date: 2024-07-17T09:56:51.164Z
+updated: 2024-07-18T09:56:51.164Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to Fix Excel Formulas Not Working Properly | Step-by-Step Guide
 excerpt: This article describes How to Fix Excel Formulas Not Working Properly | Step-by-Step Guide
 keywords: repair corrupt .xlsx files,repair excel 2013,repair damaged .csv,repair corrupt .xlsm,repair corrupt .xlb,repair .csv files,repair corrupt .xltm,repair excel 2019,repair corrupt .xltm files,repair excel,repair damaged .xltm,repair damaged .xltx files
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## How to Fix Excel Formulas Not Working Properly | Step-by-Step Guide
@@ -23,6 +23,9 @@ thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/fi
 
 When working with Excel formulas, situations may arise when the formula doesn’t calculate or update automatically. Or, you may receive errors by clicking on a formula.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Problems Causing the ‘Excel Formulas not Working Properly’ Issue and Solutions
 
 Let’s check out the possible reasons that cause Excel formulas to work properly and solutions to resolve the issue.
@@ -42,16 +45,25 @@ To do so, perform these steps:
 - Click on the column with problematic formulas.
 - Go to the **Formulas** tab, click the **Calculation Options** drop-down, and select **Automatic**.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Automatic to Manual Calculation Mode](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/switch-manual-to-automatic-calculation-1.png)
 
 ### Problem 2 – Missing or Mismatched Parentheses
 
 It’s easy to miss or incorrectly place parentheses or include extra parentheses in a complex formula. If a parenthesis is missing or mismatched and you click Enter after entering a formula, Excel displays a message window suggesting to fix the issue (refer to the screenshot below).
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Missing or Mismatched Parentheses](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/missing-or-mismatched-parantheses-2.png)
 
 Clicking ‘Yes’ might help fix the issue. But Excel might not fix the parentheses properly, as it tends to add the missing parentheses at the end of a formula which won’t always be the case.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Solution – Check for Visual Cues When Typing or Editing a Formula with Parentheses
 
 When typing a formula or editing one, Excel provides visual cues to determine if there’s an issue with the parentheses inserted in a formula. Checking for these visual cues can help you fix missing/mismatched parentheses.
@@ -60,6 +72,9 @@ When typing a formula or editing one, Excel provides visual cues to determine if
 - Excel does not make the opening parentheses bold. So, if you’ve inserted the last closing parentheses in a formula, you can determine if your parentheses are mismatched.
 - Excel helps identify parentheses pairs by highlighting and formatting them with the same color once you cross over them.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Problem 3 – Formatting Cells in an Excel Formula
 
 When adding a number in an Excel formula, don’t add any decimal separator or special characters like $ or €. You may use a comma to separate a function’s argument in an Excel formula or use a currency sign like $ or € as part of cell references. Formatting the numbers may prevent the formula from functioning correctly.
@@ -68,8 +83,14 @@ When adding a number in an Excel formula, don’t add any decimal separator or s
 
 Use Format Cells instead of using a comma or currency signs for formatting a number in the formula. For instance, rather than entering a value of $10,000 in your formula, insert 10000, and click the ‘Ctrl+1’ keys together to open the Format Cells dialog box.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Format Cells Option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/format-cells-3-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Problem 4 – Formatting Numbers as Text
 
 Numbers are displayed as left-aligned in a sheet in a worksheet, and text formatted numbers are right-aligned in cells. Excel considers numbers formatted as text to be text strings. Thus, it leaves those numbers out of calculations. As a result, a formula won’t work as intended. For example, in the following screenshot, you can see that the SUM formula works correctly for normal numbers. But, when the SUM formula is applied to numbers formatted as text, the formula doesn’t return the correct value.
@@ -85,6 +106,9 @@ To fix the issue, do the following:
 - Select the cells with numbers stored as text, right-click on them, and click Format Cells.
 - From the Format Cells window, click on Number and then press OK.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Format Cells in Excel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/format-cells-5.png)
 
 ### Problem 5 – Double Quotes to Enclose Numbers
@@ -93,14 +117,23 @@ Avoid enclosing numbers in a formula in double-quotes, as the numbers are interp
 
 Meaning if you enter a formula like =IF(A1>B1, “1”), Excel will consider the output one as a string and not a number. So, you won’t be able to use 1’s in calculations.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Don’t Enclose Numbers in Double Quotes
 
 Remove any double quotes around a number in your formula unless you want that number to be treated as text. For example, you can write the formula mentioned above as “1” =IF(A1>B1, 1).
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Problem 6 – Extra Space at Beginning of the Formula
 
 When entering a formula, you may end up adding an extra space before the equal (=) sign. You may also add an apostrophe (‘) in the formula at times. As a result, the calculation won’t be performed and may return an error. This usually happens when you use a formula copied from the web.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Remove Extra Space from the Formula
 
 The fix to this issue is pretty simple. You need to look for extra space before the equal sign and remove it. Also, ensure there is an additional apostrophe added in the formula.
@@ -119,10 +152,16 @@ This blog discussed some problems you might make causing an Excel formula to sto
 [![Free Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/03/free-download-windows-2.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## [Error Solved] Excel file is not in recognizable format
 
 **Summary:** Microsoft’s Excel is one of the most widely used spreadsheet tools, however, it isn’t entirely free of errors. There are in fact quite a large number of problems that can crop up in this user-friendly application which can put all work to halt. One such error occurs when Excel does not recognize the file format of .xls or .xlsx file and the error message says “Excel file is not in recognizable format” error. Let us explore this annoying error in detail.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://cloud.stellarinfo.com/[StellarRepairforExcel-B.exe](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) "Free Download for Windows")
 
 ![Excel file is not in a recognizable format](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/10/Excel-file-is-not-in-a-recognizable-format.jpg)
@@ -137,6 +176,18 @@ While Excel enjoys wild popularity, thanks to its powerful design and features, 
 
 The “Excel file in unrecognizable format error” occurs when the Excel file you are trying to load is corrupted. Microsoft has ensured that the workbook will be recoverable when the file is imported into excel but there are times when the automatic recovery does not happen. That’s where the challenge really lies. In such cases, getting to the root of the issue becomes necessary to be able to solve it.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Reasons behind the error**
 
 1. One of the main reasons for the error is that the file must have got corrupted while being transferred from one machine to another.
@@ -146,8 +197,14 @@ The “Excel file in unrecognizable format error” occurs when the Excel file y
 
 If you have ever faced this error, you do not need to panic. We have a couple of solutions listed for you when you face the Excel file in an unrecognizable format error.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **How do you go about fixing this?**
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### **<u>Solution 1:</u> Use MOC.exe file to convert the workbook and then open it in Excel:**
 
 1. Right-click on .XLS (you can use any .XLS files in your system).
@@ -185,16 +242,25 @@ Figure: Manual option
 7. Now, browse for the file which was corrupted.
 8. Click on the file and then select the option “Open and Repair”. You will find it in the drop down Menu.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open and Repair](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/10/Open-and-Repair.jpg)
 
 Figure: Open and Repair
 
 9. Once the file has been imported, click on “Repair” to recover the data from the selected workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Repair Option -Excel File](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/10/Repair-Excel-File.jpg)
 
 Figure: Repair option
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **<u>Solution 3:</u> Use automated Excel repair software**
 
 If none of the above mentioned manual methods works to eliminate the ‘Excel file in unrecognizable format’ error, it means your Excel file has been severely corrupted and needs professional assistance. In such a scenario, quickly download reliable and competent software [**Stellar Repair for Excel**](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). Backed by powerful scanning and repair algorithms, this product guarantees up to 100% Excel file repair regardless of the amount of damage in it.
@@ -211,10 +277,16 @@ This method is currently the easiest and most convenient to resolve miscellaneou
 Excel is one of the most powerful tools which can easily reduce your workload by more than 75% if used in a proper way. However, if you face complex errors like “Excel file is not in recognizable format”, you can use the methods mentioned above to get rid of it and resume your working in MS Excel. Remember, if the manual solutions don’t work, you can always rely on a proficient software like Stellar Repair for Excel to complete the job with finesse.
 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 'Open and Repair' Doesn't Work in MS Excel
 
 **Summary:** In this Blog, we will go through Microsoft office most important product i.e Microsoft excel, let's get into all possible Manual and an alternate method to deal with MS Excel **open and Repair doesn’t work** issue, read on to know more.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 Whether you are a student or an entrepreneur, the features of Microsoft Excel do not delude anyone. Setting goals, creating budgets, analyzing data, calculating salaries, is there anything that Excel can’t do? All of us have used it and trusted it to calculate and provide a solution to our most difficult problems. However, like every other software application, this otherwise reliable application can sometimes fall prey to unexpected errors which can even threaten to make our critical data inaccessible.
@@ -233,6 +305,18 @@ In this guide, we’re providing you with the solutions to this very problem. If
 
 If your workbook is opening in Excel, there are two options to recover its data. It would be best if you try to perform one, and if you are unsuccessful, move on to the next.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Revert the workbook to the version that was saved before the corruption**
 
 - Launch Excel and click **File** -> **Open**
@@ -249,7 +333,7 @@ If your workbook is opening in Excel, there are two options to recover its data.
 - Launch Excel and click **File** -> **Save As**.
 - In the **Save as Type** field, select **SYLK (Symbolic Link)** from the drop-down menu, and click **Save**.
 
-![Save Excel Workbook in SYLK File Format ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/SYLK-format.png)
+![Save Excel Workbook in SYLK File Format](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/SYLK-format.png)
 
 - To save only the active sheet in the workbook, click **OK**. The system will display a message that the sheet has features that are not compatible with the SYLK file format.
 - Click **Yes**.
@@ -271,6 +355,9 @@ In this case too, there are two options to recover the data. Try to perform one,
 
 - Launch Excel and click **File** -> **New**.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/New-file.png)
 
 - From the **Available Templates** window, select **Blank workbook**.
@@ -280,6 +367,9 @@ In this case too, there are two options to recover the data. Try to perform one,
 - Click **File** -> **Options**.
 - Under **Formulas**, in the **Calculation options** section, click **Manual**.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/Calculation-Options.png)
 
 - Click **OK**.
@@ -288,6 +378,9 @@ In this case too, there are two options to recover the data. Try to perform one,
 
 The system opens the corrupted file. Since the workbook won’t be calculated, it might open.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Link the workbook to external references**
 
 - Launch Excel and click **File** -> **Open**.
@@ -318,6 +411,9 @@ Thus, if the above methods do not yield the desired results, a quick and easy wa
 
 [![Free Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/03/free-download-windows-2.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Wrapping it up**
 
 Though one of the above-mentioned techniques should recover Excel file if ‘_**Open and Repair’ utility doesn’t work**_, in case you’ve reached nowhere even after using them, contact Microsoft support for more help.
@@ -325,6 +421,9 @@ Though one of the above-mentioned techniques should recover Excel file if ‘_**
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## How to fix runtime error 424 object required error in Excel
 
 The Runtime error 424: Object required occurs when Excel is not able to recognize an object that you are referring to in a VBA code. The object can be a workbook, worksheet, range, variable, class, macro, etc. Some users have also reported that this error occurred when they tried to copy the values of the cells from one workbook to another.
@@ -347,6 +446,9 @@ In this code, _Worksheets("First")_ is a data object. If I mistakenly delete t
 
 ![Runtime Error with scenario](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Error424/run-time-error-424-with-scenario.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## **Causes of Runtime Error 424 in Excel**
 
 The Runtime error 424: Object required can occur due to the following reasons:
@@ -361,6 +463,9 @@ The Runtime error 424: Object required can occur due to the following reasons:
 - You are trying to perform an invalid action on an object in a code.
 - Workbook is corrupted.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  **Solutions to Fix Runtime Error 424: Object Required in Excel**
 
 The VBA error ‘object required’ may occur due to different reasons. Based on the reason, you can follow the solutions mentioned below to fix the error.
@@ -377,6 +482,9 @@ The Runtime error 424 can occur when you run the VBA code using an incorrect nam
 
 To fix the issue, you need to provide the correct name of the object.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **2\. Check if the Object is Missing**
 
  The Runtime error 424 can occur if the object you are referring to as a method is not available or you are using the wrong object in a code. In the below example, you can see that the error occurs when an object named “Employee” is not available in the Project list.
@@ -385,6 +493,9 @@ To fix the issue, you need to provide the correct name of the object.
 
  You can check and mention the object which is available. For instance, Sheet2 in the below code.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Check When The Object Is Available](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Error424/check-when-the-object-is-available.png)
 
 ### **3\. Check All References are Declared in the Code**
@@ -426,6 +537,9 @@ The Runtime error 424 usually occurs when there is an issue with the objects in 
 
 **Summary:** Excel formulas sometimes fail to function correctly and even return an error. This article explains what you might be doing wrong that prevents Excel formulas from working properly and solutions to resolve the issue. If your formulas have disappeared from the Excel spreadsheet and you are having trouble recovering them, you can use an Excel repair tool to recover the formulas.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 When working with Excel formulas, situations may arise when the formula doesn’t calculate or update automatically. Or, you may receive errors by clicking on a formula.
@@ -442,6 +556,9 @@ By default, Excel is set to automatic calculation mode. Everything is recalculat
 
 Excel will not calculate automatically when set to manual calculation mode. And this may make you think that the Excel formula is not working properly.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution – Change Calculation Mode from Manual to Automatic
 
 To do so, perform these steps:
@@ -459,6 +576,9 @@ It’s easy to miss or incorrectly place parentheses or include extra parenthese
 
 Clicking ‘Yes’ might help fix the issue. But Excel might not fix the parentheses properly, as it tends to add the missing parentheses at the end of a formula which won’t always be the case.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Check for Visual Cues When Typing or Editing a Formula with Parentheses
 
 When typing a formula or editing one, Excel provides visual cues to determine if there’s an issue with the parentheses inserted in a formula. Checking for these visual cues can help you fix missing/mismatched parentheses.
@@ -494,6 +614,9 @@ To fix the issue, do the following:
 
 ![Format Cells in Excel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/format-cells-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Problem 5 – Double Quotes to Enclose Numbers
 
 Avoid enclosing numbers in a formula in double-quotes, as the numbers are interpreted as a string value.
@@ -508,10 +631,16 @@ Remove any double quotes around a number in your formula unless you want that nu
 
 When entering a formula, you may end up adding an extra space before the equal (=) sign. You may also add an apostrophe (‘) in the formula at times. As a result, the calculation won’t be performed and may return an error. This usually happens when you use a formula copied from the web.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Remove Extra Space from the Formula
 
 The fix to this issue is pretty simple. You need to look for extra space before the equal sign and remove it. Also, ensure there is an additional apostrophe added in the formula.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Other Things to Consider to Fix the ‘Excel Formulas not Working Properly’ Issue
 
 - If your Excel formula is not showing the result as intended, see this [blog](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/).
@@ -519,6 +648,9 @@ The fix to this issue is pretty simple. You need to look for extra space before 
 - You may see the formula instead of the result if you have accidentally clicked the ‘Show Formulas’ option. So, click on the problematic cell, click on the Formula tab, and then click Show Formulas.
 - If you’re getting an error “Excel found a problem with one or more formula references in this worksheet”, find solutions to fix the error [here](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/).
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This blog discussed some problems you might make causing an Excel formula to stop working properly. Read about these common problems and solutions to fix them. If a problem doesn’t apply in your case, move to the next one. If you cannot retrieve formulas in your Excel sheet, using an [Excel file repair tool](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) like Stellar Repair for Excel can help you restore all the formulas. It does so by repairing the Excel file (XLS/XLSX) and recovering all the components, including formulas.
@@ -549,6 +681,9 @@ Click on the desired tab to repair that file format.
 
 **_Note:_** _Click Find file(s) to search for the Word file, if the location is not known._
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Select word file](https://stellarinfo.com/support/kb/images/Select-word-file.jpg)
 
                                      _<small>Figure 2 - Illustrates Selection of single doc/.docx file or multiple files</small>_
@@ -556,6 +691,9 @@ Click on the desired tab to repair that file format.
 - Once the file is selected, click the **Scan** button to scan and repair the file.
 - A preview of the repaired Word file is displayed on the screen. Verify the file contents from the right pane of the preview window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Preview of word repair](https://stellarinfo.com/support/kb/images/preview-repaired-word-file.png)
 
                                          _<small>Figure 3 - Preview of Repaired Word Document</small>_
@@ -612,6 +750,9 @@ The repaired file gets saved at the preferred location.
 
 - Click **Browse** to select the corrupt PowerPoint file. Alternately, click on **Search** to search for the file, if the location is not known.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Select powerpoint presentation](https://www.stellarinfo.com/public/image/catalog/screenshot/powerpoint-repair/1-Stellar-Repair-for-Power-Point-Select-Corrupt-PPT-file.jpg)
 
                                     _<small>Figure 9 - Illustrates Selection of Single PowerPoint Presentation</small>_
@@ -621,6 +762,9 @@ The repaired file gets saved at the preferred location.
 - Click **Save** on **Home** menu to save the repaired PPT file.
 - From the **Save File** dialog box, click **Default location** or **Other location** under **Save As** for saving the file.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Save ppt](https://stellarinfo.com/support/kb/images/Select-location-to-save-ppt.png)
 
                                                     _<small>Figure 10 - Select Location to Save PPT File</small>_
@@ -637,6 +781,9 @@ The repaired file gets saved at the preferred location.
 
 - A screen with recently added PDF file is displayed. Select the file and click **Repair** to start repairing it.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Repair selected file](https://www.stellarinfo.com/screenshots/pdf-repair/2-Stellar-Phoenix-Repair-for-PDF-add-file.jpg)
 
                                                 _<small>Figure 12 - Repair the Selected PDF File</small>_
@@ -664,6 +811,9 @@ The repaired file gets saved at the preferred location.
 
 **Summary:** You may unable to save your Excel Workbooks due to several reasons. Many users have reported this issue on the Tech Forums. This blog will discuss a few instances when users cannot save their Excel files. It lists the causes behind the issue and their possible solutions. It also mentions the Stellar Repair for Excel to fix the saving error if it is due to corruption in the Excel file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 It is easy to work with Microsoft Excel but sometimes, the application may create issues thereby hampering the smooth functioning of the workbook. One such issue is “unable to Save Excel Workbook”.
@@ -690,6 +840,9 @@ Figure: Unable to Save Excel WorkBook Issue
 
 **Note:** This issue impacts build Version 1707 (Build 8326.2086) and later, and also only occurs with files that are stored locally, such as on the desktop. This problem does not occur if you manually enter values or insert a chart in a newly created workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Plausible reasons for the ‘Unable to save Excel workbook’ Issue
 
 1. The issue was detected in Microsoft Office Professional Plus 2010 32-bit, Service Pack 14.0.6029.1000.
@@ -697,6 +850,9 @@ Figure: Unable to Save Excel WorkBook Issue
 3. The issue of ‘Unable to Save Excel Workbook’ impacts only the Build Version 1707 (Build 8326.2086) and later.
 4. In case of Issue 2, the problem surfaces when the user adds files, tables or charts in the locally saved excel files, such as on the desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Methods to fix the ‘Unable to Save Excel Workbook’ Issue
 
 There may be an issue with the Build version or the Registry Values settings may not be appropriate, which does not allow the Excel workbooks to save.
@@ -718,6 +874,9 @@ If multiple users are unable to access their workbooks stored on the shared driv
 
 1. Go to ‘Registry Entry’. To do this, type ‘regedit’ in the Start Search box, and press ENTER
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image of Run window with the command 'regedit" that is to be Run](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Registry-Entry.jpg)
 
 Figure: Edit Registry
@@ -731,13 +890,16 @@ Figure: CSC Location
 
 4. Point the cursor to New, and click Key
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image of Registry Window, Right clicking on the subkey 'CSC', hover over "New" and clicking on "Key"](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/New-Key.jpg)
 
 Figure: Create new key
 
 5. Type ‘File Parameters’ in the available box
 
-!['Type ‘File Parameters’ in the available box' ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/File-Parameter.jpg)
+!['Type ‘File Parameters’ in the available box'](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/File-Parameter.jpg)
 
 Figure: File parameters
 
@@ -762,6 +924,9 @@ Figure: Value data
 9. Exit ‘Registry Editor’
 10. Restart the system and verify if the files can be saved now
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Try Google Uploads
 
 If the user is unable to save the changes after editing in a locally saved spreadsheet (see Instance 2 above), then follow these steps:
@@ -779,12 +944,18 @@ If the user is unable to save the changes after editing in a locally saved sprea
 2. Go to **Computers** and click **Browse**.
 3. Access the **Location and Folder** and click the arrow icon beside **Open** followed by **Open and Repair.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image of Open and Repair built-in utility in the browse window.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Open-and-Repair-1024x549.png)
 
 Figure: Illustrates Steps to use ‘Open and Repair’ method
 
 The Open and Repair utility is not competitive enough and may not fix corruption in severely corrupted files. Hence, if you are unable to save Excel workbook after applying the manual methods, then you can search for a useful software-based repair utility.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Excel File Repair Software
 
 Specifically meant to resolve Excel file corruption. **[Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)** helps you to repair every single object including charts, tables, their formatting, shared formulae and rules and more.
@@ -800,6 +971,9 @@ See the working of the software which has been declared as a tool that provides 
 
 The **Excel repair software** takes care to save the repaired data in a new file to minimize the chances of further corruption.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Conclusion**
 
 ‘Unable to save Excel file’ is a generic problem that may appear due to various reasons. In this blog post, we presented some of the actual instances reported by users on community forums.
@@ -828,3 +1002,36 @@ Hence, it is suggested to analyze the nature of the problem and decide an approp
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-charting-the-course-of-monetization-for-creator-economy-on-youtubeshorts-for-2024/"><u>[New] Charting the Course of Monetization for Creator Economy on YouTubeshorts for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-speedy-setup-procedures-for-personalized-youtube-shorts-images/"><u>[New] Speedy Setup Procedures for Personalized YouTube Shorts Images</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-substitutes-for-winmovie-new-windows-editors-for-2024/"><u>[New] Substitutes for WinMovie  New Windows Editors for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-avoiding-youtubes-controversial-scrutiny/"><u>[Updated] 2024 Approved  Avoiding YouTube's Controversial Scrutiny</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-itel-a70-by-fonelab-android-recover-music/"><u>How to restore wiped music on Itel A70</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-itel-p40plus-by-fonelab-android-recover-music/"><u>How to restore wiped music on Itel P40+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-itel-p55-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Itel P55 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-lava-by-fonelab-android-recover-music/"><u>How to restore wiped music on Lava</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-lava-agni-2-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Lava Agni 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-lava-blaze-pro-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-lava-yuva-2-by-fonelab-android-recover-music/"><u>How to restore wiped music on Lava Yuva 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-magic-6-by-fonelab-android-recover-music/"><u>How to restore wiped music on Magic 6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-magic5-ultimate-by-fonelab-android-recover-music/"><u>How to restore wiped music on Magic5 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-meizu-21-by-fonelab-android-recover-music/"><u>How to restore wiped music on Meizu 21</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-edge-40-neo-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-edge-40-pro-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-edgeplus-2023-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-g24-power-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola G24 Power</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-moto-g-5g-2023-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-moto-g-stylus-2023-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-moto-g34-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Moto G34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-moto-g73-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Moto G73 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Hot 40 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-11-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme 11 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-building-blocks-for-movie-making-youtubes-framework-and-more/"><u>In 2024, Building Blocks for Movie Making  YouTube's Framework & More</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-find-n3-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo Find N3</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-best-video-blur-apps-for-iphone-and-android-for-2024/"><u>New Best Video Blur Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-guide-on-how-to-enable-the-text-to-speech-function-on-iphone/"><u>New In 2024, Guide on How to Enable the Text to Speech Function on iPhone</u></a></li>
+</ul></div>

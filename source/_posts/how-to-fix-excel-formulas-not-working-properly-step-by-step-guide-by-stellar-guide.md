@@ -1,6 +1,6 @@
 ---
 title: How to Fix Excel Formulas Not Working Properly | Step-by-Step Guide
-date: 2024-05-19T18:32:11.605Z
+date: 2024-07-17T09:56:49.993Z
 tags: 
   - repair
   - repair excel
@@ -16,14 +16,23 @@ keywords: repair .xlsx,repair excel 2013,repair excel 2010,repair .xlb
 
 **Summary:** Excel formulas sometimes fail to function correctly and even return an error. This article explains what you might be doing wrong that prevents Excel formulas from working properly and solutions to resolve the issue. If your formulas have disappeared from the Excel spreadsheet and you are having trouble recovering them, you can use an Excel repair tool to recover the formulas.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 When working with Excel formulas, situations may arise when the formula doesn’t calculate or update automatically. Or, you may receive errors by clicking on a formula.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Problems Causing the ‘Excel Formulas not Working Properly’ Issue and Solutions
 
 Let’s check out the possible reasons that cause Excel formulas to work properly and solutions to resolve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Problem 1 – Switching Automatic to Manual Calculation Mode
 
 Automatic and manual are the two modes of calculation in Microsoft Excel.
@@ -67,14 +76,23 @@ Use Format Cells instead of using a comma or currency signs for formatting a num
 
 ![Format Cells Option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/format-cells-3-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Problem 4 – Formatting Numbers as Text
 
 Numbers are displayed as left-aligned in a sheet in a worksheet, and text formatted numbers are right-aligned in cells. Excel considers numbers formatted as text to be text strings. Thus, it leaves those numbers out of calculations. As a result, a formula won’t work as intended. For example, in the following screenshot, you can see that the SUM formula works correctly for normal numbers. But, when the SUM formula is applied to numbers formatted as text, the formula doesn’t return the correct value.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Cells Formatted as Text](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/cells-formatted-as-text-4.png)
 
 Sometimes, you may also see an apostrophe in the cells or green triangles in the top-left corner of all the cells when numbers in those cells are formatted as Text.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Do Not Format Numbers as Text
 
 To fix the issue, do the following:
@@ -82,8 +100,14 @@ To fix the issue, do the following:
 - Select the cells with numbers stored as text, right-click on them, and click Format Cells.
 - From the Format Cells window, click on Number and then press OK.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Format Cells in Excel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/format-cells-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Problem 5 – Double Quotes to Enclose Numbers
 
 Avoid enclosing numbers in a formula in double-quotes, as the numbers are interpreted as a string value.
@@ -102,6 +126,9 @@ When entering a formula, you may end up adding an extra space before the equal (
 
 The fix to this issue is pretty simple. You need to look for extra space before the equal sign and remove it. Also, ensure there is an additional apostrophe added in the formula.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Other Things to Consider to Fix the ‘Excel Formulas not Working Properly’ Issue
 
 - If your Excel formula is not showing the result as intended, see this [blog](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/).
@@ -133,3 +160,37 @@ This blog discussed some problems you might make causing an Excel formula to sto
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-enhancing-video-creation-tips-for-adobe-connect-users/"><u>[New] Enhancing Video Creation  Tips for Adobe Connect Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-streams-weighing-xsplit-against-obs-capabilities/"><u>[Updated] Mastering Streams  Weighing XSplit Against OBS Capabilities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/amp-up-your-humor-arsenal-kapwings-meme-creator-for-2024/"><u>Amp Up Your Humor Arsenal – Kapwing's Meme Creator for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/here-we-will-investigate-ai-based-video-interview-how-it-is-being-used-and-how-to-master-an-artificial-intelligence-video-interview-act-for-2024/"><u>Here We Will Investigate AI-Based Video Interview, How It Is Being Used, and How to Master an Artificial Intelligence Video Interview Act for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-f15-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy F15 5G Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oneplus-ace-2v-by-drfone-android/"><u>How To Fix OEM Unlock Missing on OnePlus Ace 2V?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-magic-6-lite-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor Magic 6 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-magic-v2-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor Magic V2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-play-40c-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor Play 40C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-x50i-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor X50i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-x7b-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor X7b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-x8b-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor X8b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-hot-40i-by-fonelab-android-recover-music/"><u>How to restore wiped music on Hot 40i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-htc-u23-by-fonelab-android-recover-music/"><u>How to restore wiped music on HTC U23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-htc-u23-pro-by-fonelab-android-recover-music/"><u>How to restore wiped music on HTC U23 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-huawei-nova-y71-by-fonelab-android-recover-music/"><u>How to restore wiped music on Huawei Nova Y71</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-huawei-p60-by-fonelab-android-recover-music/"><u>How to restore wiped music on Huawei P60</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-hot-30i-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Hot 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-hot-40-pro-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-note-30-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Note 30</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-note-30-pro-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Note 30 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-note-30i-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Note 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-smart-8-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Smart 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-zero-30-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Zero 30 5G</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-building-a-fanbase-key-strategies-for-desktop-tiktok-videos/"><u>In 2024, Building a Fanbase  Key Strategies for Desktop TikTok Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-the-xml-blueprint-a-step-by-step-guide-to-fcpx-success/"><u>In 2024, The XML Blueprint A Step-by-Step Guide to FCPX Success</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-mastery-essential-tech-to-enhance-your-streams/"><u>In 2024, YouTube Mastery  Essential Tech to Enhance Your Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mobile-mastery-upgrade-photos-elevated-at-no-price-for-2024/"><u>Mobile Mastery Upgrade  Photos Elevated at No Price for 2024</u></a></li>
+</ul></div>

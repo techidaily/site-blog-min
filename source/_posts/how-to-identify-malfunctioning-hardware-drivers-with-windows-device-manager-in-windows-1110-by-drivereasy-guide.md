@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning hardware drivers with Windows Device Manager in Windows 11/10
-date: 2024-05-19T18:32:12.747Z
+date: 2024-07-17T10:11:59.989Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -62,6 +65,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -70,6 +76,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -81,6 +90,9 @@ To understand why, you first have to understand what drivers actually are…
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -97,6 +109,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -116,6 +131,9 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
@@ -144,3 +162,50 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-decoding-vsdcs-technology-against-top-screen-recorder-competitors/"><u>[Updated] 2024 Approved  Decoding VSDC's Technology Against Top Screen Recorder Competitors</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-mastering-the-art-of-youtube-brand-creation-best-names-for-vloggers-and-filmmakers-limit-to-156-characters/"><u>[Updated] In 2024, Mastering the Art of YouTube Brand Creation  Best Names for Vloggers & Filmmakers (Limit to 156 Characters)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mobile-magic-instagram-covers-iphone-plus-android/"><u>[Updated] In 2024, Mobile Magic Instagram Covers  IPhone + Android</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-leveraging-innovation-a-comprehensive-guide-to-redefining-your-tiktok-avatar/"><u>[Updated] Leveraging Innovation  A Comprehensive Guide to Redefining Your TikTok Avatar</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-exploring-stardews-best-modifications-a-list-of-the-top-7/"><u>2024 Approved  Exploring Stardew's Best Modifications  A List of the Top 7</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/captivating-creations-the-best-video-effects-on-tiktok/"><u>Captivating Creations  The Best Video Effects on TikTok</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/charting-updates-youtube-money-standards-for-2024/"><u>Charting Updates  YouTube Money Standards for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-upgrade-installing-new-lenovo-w11-drivers/"><u>Drive Upgrade: Installing New Lenovo W11 Drivers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/eye-to-screen-safety-proven-strategies-for-secure-online-gatherings/"><u>Eye-to-Screen Safety Proven Strategies for Secure Online Gatherings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-vivo-t2-pro-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Vivo T2 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-vivo-y02t-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Vivo Y02T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-vivo-y100-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Vivo Y100 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-vivo-y100i-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Vivo Y100i?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-vivo-y17s-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Vivo Y17s?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-x100-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from X100?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-xiaomi-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Xiaomi ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-xiaomi-13-ultra-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Xiaomi 13 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-xiaomi-14-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Xiaomi 14 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-xiaomi-14-ultra-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Xiaomi 14 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Xiaomi Redmi K70 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Xiaomi Redmi Note 12 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-xiaomi-redmi-note-12-pro-4g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Xiaomi Redmi Note 12 Pro 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-y02t-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Y02T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-y27-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Y27 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-y78plus-t1-edition-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Y78+ (T1) Edition?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-zte-nubia-flip-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from ZTE Nubia Flip 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-zte-nubia-z60-ultra-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from ZTE Nubia Z60 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-90-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from 90</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-a05s-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from A05s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-asus-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Asus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-asus-rog-phone-7-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Asus ROG Phone 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-huawei-nova-y91-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Huawei Nova Y91 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-note-12r-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi Note 12R Pattern Lock Screen</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 15 Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-15-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone 15 Plus Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-note-30-vip-racing-edition-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Note 30 VIP Racing Edition Phone?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/livestream-landscape-analysis-fb-live-vs-yt-live-and-tweettv/"><u>Livestream Landscape Analysis  FB LIVE Vs. YT Live & TweetTV</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/motionmaster-win8-edition-for-2024/"><u>MotionMaster Win8 Edition for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-audacity-to-mp3-conversion-a-comprehensive-tutorial/"><u>New Audacity to MP3 Conversion A Comprehensive Tutorial</u></a></li>
+</ul></div>

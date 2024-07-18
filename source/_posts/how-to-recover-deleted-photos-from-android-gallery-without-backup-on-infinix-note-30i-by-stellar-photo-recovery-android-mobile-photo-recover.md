@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Infinix Note 30i
-date: 2024-05-19T18:32:07.652Z
+date: 2024-07-17T08:59:49.913Z
 tags: 
   - recover
 categories: 
@@ -34,9 +34,15 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Infinix Note 30i model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Recover Gallery photos from Google Drive
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
@@ -44,6 +50,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -114,6 +123,9 @@ The location path of the backup function may differ with Android phones. General
 
 For example,
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/image.webp)
 
 - On Xiaomi Redmi phones: Settings> Additional Settings> Backup & reset
@@ -122,6 +134,9 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
@@ -132,6 +147,9 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
@@ -143,10 +161,16 @@ Apart from built-in Google cloud backup apps, you might be using other cloud sto
 
 The benefit of cloud backup is that you can recover deleted smartphone photos from any device simply by login into the account.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Cloud-backup-in-Android-Xiaomi-768x469.webp)
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Tips to Protect Photos from Loss on Android
 
 1. Back up Android photos on cloud.
@@ -166,6 +190,9 @@ Download the software’s free trial to assess its performance and preview the d
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
 ### Q. I have deleted photos from Google Photos and now don’t know how to recover Gallery pictures from Google Photos
@@ -176,6 +203,9 @@ You can recover deleted Gallery pictures from the Google Photos app’s Trash or
 - Click Trash or Bin.
 - Touch and hold the photo you want to restore and tap Restore.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -192,6 +222,9 @@ You can recover deleted photos from Android Gallery after factory reset using a 
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after software update?
 
 You can recover deleted photos from Android Gallery after software update using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -215,3 +248,56 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/1716069978023-new-2024-approved-pc-and-macs-best-screenshot-apps-ranked/"><u>[New] 2024 Approved  PC and Mac's Best Screenshot Apps Ranked!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-perfected-framing-for-fb-videos-implement-letterbox-and-dark-frame/"><u>[New] 2024 Approved  Perfected Framing for FB Videos  Implement Letterbox & Dark Frame</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-extract-unlimited-photographic-content-from-esteemed-4-video-channels/"><u>[New] In 2024, Extract Unlimited Photographic Content From Esteemed 4 Video Channels</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-metaverse-quest-10-innovative-sci-fi-films-worldwide-travels/"><u>2024 Approved  Metaverse Quest  10 Innovative Sci-Fi Films Worldwide Travels</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-f23-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-camon-30-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Camon 30 Pro 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-ext-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign {{ext}} by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-ext-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign {{ext}} document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-ext-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign {{ext}} document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-ext-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign {{ext}} files online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2016-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2016 by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2016-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2016 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2016-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2016 document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2016-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2016 document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2016-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2016 files online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2016-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2016 Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2019-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2019 by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2019-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2019 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2019-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2019 document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2019-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2019 document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2019-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2019 files online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2019-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2019 Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2021-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2021 by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2021-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2021 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2021-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2021 document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2021-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2021 document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2021-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2021 files online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2021-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2021 Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2023-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2023 by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2023-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2023 document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2023-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2023 document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2023-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2023 document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2023-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2023 files online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2023-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2023 Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel Online with DigiSigner</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-motorola-defy-2-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Motorola Defy 2 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-realme-gt-5-240w-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Realme GT 5 (240W) online without jailbreak</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-samsung-galaxy-a54-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Samsung Galaxy A54 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-y78plus-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo Y78+ Phone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-process-embedding-internet-video-in-ppt-decks/"><u>In 2024, Step-By-Step Process  Embedding Internet Video in PPT Decks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-quick-fix-resizing-your-video-to-perfect-proportions/"><u>New 2024 Approved Quick Fix Resizing Your Video to Perfect Proportions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-list-10-best-cartoon-video-editing-apps/"><u>New 2024 Approved The Ultimate List 10 Best Cartoon Video Editing Apps</u></a></li>
+<li><a href="https://facebook.techidaily.com/reclaim-privacy-how-to-avoid-facebooks-stalking/"><u>Reclaim Privacy: How to Avoid Facebook's Stalking</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-new-tech-horizon-with-microsofts-hololens-review-for-2024/"><u>The New Tech Horizon with Microsoft's HoloLens Review for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Excel 2007 files
-date: 2024-05-19T18:32:13.511Z
-updated: 2024-05-20T18:32:13.511Z
+date: 2024-07-17T10:22:54.542Z
+updated: 2024-07-18T10:22:54.542Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to make a digital signature for Excel 2007 files
 excerpt: This article describes How to make a digital signature for Excel 2007 files
 keywords: sign .xlsx online,free sign .xlsx,.xlsx signature free,.xlsx signature tool,.xlsx signature app,sign a .xlsx
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## 1. How to make a digital signature for Excel 2007 files
@@ -23,6 +23,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -39,6 +42,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Excel
 
 These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -65,16 +71,25 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -85,6 +100,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -108,6 +126,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -136,6 +157,9 @@ You can also use a signature line in Excel to insert a signature with properties
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -163,3 +187,56 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-boosting-your-browser-lightning-speed-profile-hunts/"><u>[New] In 2024, Boosting Your Browser  Lightning Speed Profile Hunts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-entering-the-world-of-content-creation-sign-up-tutorial/"><u>[New] In 2024, Entering the World of Content Creation  Sign Up Tutorial</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-selecting-the-finest-screen-recorders-1-to-5-android/"><u>[New] In 2024, Selecting the Finest Screen Recorders, #1 to #5 (Android)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-sidestep-green-screen-gaffes-your-essential-mac-fix-guide/"><u>[New] Sidestep Green Screen Gaffes  Your Essential Mac Fix Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-piecing-together-a-unique-tiktok-outro-elements/"><u>[Updated] 2024 Approved  Piecing Together A Unique TikTok Outro Elements</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-activate-grid-in-google-meet-for-full-participant-display-for-2024/"><u>[Updated] Activate Grid in Google Meet for Full-Participant Display for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-aps-hdr-essentials-for-professionals-and-enthusiasts/"><u>2024 Approved  APS HDR Essentials for Professionals & Enthusiasts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-poco-f5-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Poco F5 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/creating-captivating-loops-for-instagram-posts/"><u>Creating Captivating Loops for Instagram Posts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/free-to-mix-unveiling-two-dji-devices-with-20-luts-complimentary/"><u>Free to Mix - Unveiling Two DJI Devices with 20 LUTS Complimentary</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-12-pro-max-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-6-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 6 (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-6-plus-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 6 Plus (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-6s-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 6s (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-6s-plus-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 6s Plus (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-7-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 7 (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-7-plus-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 7 Plus (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-8-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 8 (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-8-plus-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 8 Plus (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-se-2020-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone SE (2020) (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-se-2022-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone SE (2022) (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-se-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone SE (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-x-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone X (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-xr-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone XR (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-xs-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone XS (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-xs-max-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone XS Max (4 Methods) | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-11-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted 11 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-11-proplus-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted 11 Pro+ Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-11x-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted 11X 5G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-11x-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted 11X 5G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-12-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted 12 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-12-pro-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted 12 Pro 5G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-12-proplus-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted 12 Pro+ 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-12plus-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted 12+ 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-150-2023-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted 150 (2023) Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-21-pro-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted 21 Pro Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-90-gt-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted 90 GT Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-a58-4g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted A58 4G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-asus-rog-phone-7-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Asus ROG Phone 7 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-essential-techniques-to-elevate-your-channels-visibility/"><u>In 2024, Essential Techniques to Elevate Your Channel's Visibility</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-jolly-gaming-haven-for-little-explorers/"><u>In 2024, Jolly Gaming Haven for Little Explorers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-prankster-peak-standout-comedians-of-the-week/"><u>In 2024, Prankster Peak  Standout Comedians of the Week</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-10-places-to-find-music-for-podcast-intro-for-2024/"><u>Top 10 Places to Find Music for Podcast Intro for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-crack-the-code-4-effective-strategies-for-filmora-discounts/"><u>Updated 2024 Approved Crack the Code 4 Effective Strategies for Filmora Discounts</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-how-to-record-on-garageband-step-by-step-guide-for-2024/"><u>Updated How to Record on GarageBand? Step by Step Guide for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-wevideo-the-simple-way-to-make-professional-looking-videos-for-2024/"><u>Updated WeVideo The Simple Way to Make Professional-Looking Videos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/writing-effective-slug-lines-in-film-scripts/"><u>Writing Effective Slug Lines in Film Scripts</u></a></li>
+</ul></div>

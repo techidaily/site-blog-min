@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Excel 2021 files
-date: 2024-05-19T18:32:13.517Z
-updated: 2024-05-20T18:32:13.517Z
+date: 2024-07-17T10:23:01.058Z
+updated: 2024-07-18T10:23:01.058Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to make a digital signature for Excel 2021 files
 excerpt: This article describes How to make a digital signature for Excel 2021 files
 keywords: .xlsx signature app,excel signer online,.xlsx signature online,excel signature best,excel signature software,.xlsx signature free
-thumbnail: https://www.lifewire.com/thmb/bEojajcVOmaMDVv4xG-kC_soHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-81522363-5683a5573df78ccc15cabf56.jpg
+thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7dcea0bf9addd82da02902e0.jpg
 ---
 
 ## 1. How to make a digital signature for Excel 2021 files
@@ -23,6 +23,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -53,6 +56,9 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -65,12 +71,18 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -79,6 +91,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -108,6 +123,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -122,6 +140,9 @@ To implement each of the ways to install a digital signature in Excel, you need 
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -136,6 +157,9 @@ You can also use a signature line in Excel to insert a signature with properties
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -163,3 +187,71 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-essential-guide-to-using-voicemod-effectively-on-desktop-and-mobile/"><u>[New] 2024 Approved  The Essential Guide to Using VoiceMod Effectively on Desktop & Mobile</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-avoid-common-mistakes-mastering-youtube-tags-wisely/"><u>[New] Avoid Common Mistakes - Mastering YouTube Tags Wisely</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-is-splitcam-the-ultimate-in-video-capture-for-2024/"><u>[New] Is SplitCam The Ultimate in Video Capture for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-laughing-in-the-metaverse-how-to-create-your-own-funny-memes/"><u>[New] Laughing in the Metaverse  How to Create Your Own Funny Memes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-15-top-mobiles-elevating-dji-video-production-value/"><u>[Updated] 2024 Approved  15 Top Mobiles Elevating DJi Video Production Value</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capture-gaming-sessions-in-hd-using-obs-for-2024/"><u>[Updated] Capture Gaming Sessions in HD - Using OBS for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unlocking-your-pc-games-with-ease-on-windows-10/"><u>[Updated] In 2024, Unlocking Your PC Games with Ease on Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-oneclickpodcaststream-effortlessly-livestream-your-podcast-content/"><u>[Updated] OneClickPodcastStream  Effortlessly Livestream Your Podcast Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715860536199-updated-screen-recording-through-built-in-features-of-huaweis-mate-and-p-devices-p20-p10/"><u>[Updated] Screen Recording Through Built-In Features of Huawei's Mate and P Devices (P20, P10).</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-streamlined-process-altering-video-direction-in-vlc-for-2024/"><u>[Updated] Streamlined Process  Altering Video Direction in VLC for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-desktop-route-to-viral-video-success-with-tiktok/"><u>[Updated] The Desktop Route to Viral Video Success with TikTok</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-chuckle-forge-mutant-comedy-creatures/"><u>2024 Approved  Chuckle Forge  Mutant Comedy Creatures</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-blender-green-screen-effects/"><u>2024 Approved Blender Green Screen Effects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/effortless-polyglots-playlist-top-10-simple-tongues/"><u>Effortless Polyglots' Playlist: Top 10 Simple Tongues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-c67-4g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme C67 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-smart-8-hd-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Infinix Smart 8 HD Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-smart-8-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Infinix Smart 8 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-zero-30-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Infinix Zero 30 5G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-zero-30-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Infinix Zero 30 5G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-a05s-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Itel A05s Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-a05s-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Itel A05s Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-a05s-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Itel A05s Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-a60-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Itel A60 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-a60-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Itel A60 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-a60-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Itel A60 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-a60s-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Itel A60s Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-a60s-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Itel A60s Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-a70-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Itel A70 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-a70-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Itel A70 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-p40-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Itel P40 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-p40plus-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Itel P40+ Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-p55-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Itel P55 5G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Itel Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Itel Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-s23-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Itel S23 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-agni-2-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Lava Agni 2 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-agni-2-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Lava Agni 2 5G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-blaze-2-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Lava Blaze 2 5G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-blaze-2-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Lava Blaze 2 5G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-blaze-2-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Lava Blaze 2 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-blaze-2-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Lava Blaze 2 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-blaze-2-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Lava Blaze 2 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-blaze-2-pro-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Lava Blaze 2 Pro Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-blaze-2-pro-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Lava Blaze 2 Pro Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-blaze-pro-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Lava Blaze Pro 5G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Lava Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Lava Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-storm-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Lava Storm 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-storm-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Lava Storm 5G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-poco-c51-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Poco C51 Fingerprint Lock</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-infinix-smart-7-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Infinix Smart 7 to Another | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-nubia-z50-ultra-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Nubia Z50 Ultra? Fixed | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/innovative-apps-revolutionizing-video-talks-for-2024/"><u>Innovative Apps Revolutionizing Video Talks for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/master-your-screen-time-top-10-in-depth-guide-to-excellent-offline-ios-gaming/"><u>Master Your Screen Time - Top 10 In-Depth Guide to Excellent Offline iOS Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-correcting-error-740-on-winos/"><u>Mastering the Art of Correcting Error 740 on WINOS</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-high-quality-voip-games-chat-tools-to-elevate-your-experience-2023-update/"><u>New In 2024, High-Quality VOIP Games Chat Tools to Elevate Your Experience - 2023 Update</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/producing-an-expressive-tiktok-conclusion-snippet-for-2024/"><u>Producing an Expressive TikTok Conclusion Snippet for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revamping-pc-graphics-via-intel-drivers-for-windows/"><u>Revamping PC Graphics via Intel Drivers for Windows</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/skyline-your-videos-dodging-the-bot-observers/"><u>Skyline Your Videos  Dodging the Bot Observers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-11-remedy-six-steps-to-resurrect-lost-panes/"><u>The Ultimate Windows 11 Remedy: Six Steps to Resurrect Lost Panes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-effortless-mkv-trimming-on-mac-the-best-tools/"><u>Updated Effortless MKV Trimming on Mac The Best Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-kernel-fixes-com-failure/"><u>Windows Kernel Fixes COM Failure</u></a></li>
+</ul></div>

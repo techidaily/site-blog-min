@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11/10/7
-date: 2024-05-19T18:32:12.913Z
+date: 2024-07-17T10:13:47.560Z
 tags: 
   - driver
   - device driver
@@ -44,6 +44,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -59,10 +62,16 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -124,6 +133,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -157,6 +169,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -165,6 +180,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -173,6 +191,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 
@@ -192,3 +213,70 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-proven-techniques-for-swiftly-locating-your-desired-discord-server/"><u>[New] 2024 Approved  Proven Techniques for Swiftly Locating Your Desired Discord Server</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-screensnapper-summit-the-ultimate-guide-to-capturing/"><u>[New] 2024 Approved  ScreenSnapper Summit  The Ultimate Guide to Capturing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unraveling-the-secret-of-seamless-subtitle-crafting-for-facebook-videos/"><u>[New] 2024 Approved  Unraveling the Secret of Seamless Subtitle Crafting for Facebook Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-annual-roundup-top-no-money-video-editing-software-reviewed/"><u>[New] Annual Roundup  Top No-Money Video Editing Software Reviewed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-breaking-tiktok-trends-twitters-1-list-unveiled-for-2024/"><u>[New] Breaking TikTok Trends  Twitter's #1 List Unveiled for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclass-in-minimal-photoshop-alterations/"><u>[New] Masterclass in Minimal Photoshop Alterations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-secrets-to-superior-sprouts-in-the-world-of-valheim-for-2024/"><u>[New] Secrets to Superior Sprouts in the World of Valheim for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-10-excellent-open-source-screen-capture-programs/"><u>[Updated] 2024 Approved  10 Excellent Open-Source Screen Capture Programs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-midnight-tales-in-motion-evaluating-parental-choices-for-kids/"><u>[Updated] 2024 Approved  Midnight Tales in Motion  Evaluating Parental Choices for Kids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-chortlecraft-funny-visuals-for-social-engagement/"><u>[Updated] ChortleCraft  Funny Visuals for Social Engagement</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-from-click-to-convert-a-guide-to-effective-social-media-sales-techniques-for-2024/"><u>[Updated] From Click to Convert  A Guide to Effective Social Media Sales Techniques for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-your-ipad-as-a-creative-tool-for-time-lapse/"><u>[Updated] In 2024, Your iPad as a Creative Tool for Time Lapse</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-craft-a-compelling-narrative-with-your-igtv-video-titles-and-texts/"><u>2024 Approved  Craft a Compelling Narrative with Your IGTV Video Titles & Texts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-simple-path-your-guide-to-convert-youtube-audio-on-mac/"><u>2024 Approved  Simple Path  Your Guide to Convert YouTube Audio on Mac</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-ultimate-guide-to-tailoring-netflix-original-films/"><u>2024 Approved  The Ultimate Guide to Tailoring Netflix Original Films</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/are-bloggers-getting-cash-for-product-insights-for-2024/"><u>Are Bloggers Getting Cash for Product Insights for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-itel-s23plus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Itel S23+ Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-c32-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from C32?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-camon-30-pro-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Camon 30 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-g22-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from G22?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-g24-power-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from G24 Power?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-google-pixel-7a-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Google Pixel 7a?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-google-pixel-8-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Google Pixel 8?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-gt-5-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from GT 5 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-100-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor 100?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-70-lite-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor 70 Lite 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-90-gt-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor 90 GT?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-90-lite-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor 90 Lite?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-90-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor 90?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-magic-6-lite-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Magic 6 Lite?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-magic-6-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Magic 6 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-magic-v2-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Magic V2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-magic-vs-2-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Magic Vs 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-magic5-ultimate-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Magic5 Ultimate?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-play-8t-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Play 8T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-v-purse-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor V Purse?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-x8b-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor X8b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-htc-u23-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from HTC U23 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-htc-u23-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from HTC U23?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-huawei-nova-y71-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Huawei Nova Y71?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-huawei-nova-y91-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Huawei Nova Y91?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-gt-10-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix GT 10 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-hot-30-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Hot 30 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-note-30-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Note 30 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-note-30-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Note 30 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Note 30 VIP Racing Edition?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-note-30-vip-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Note 30 VIP?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-note-30i-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Note 30i?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-smart-7-hd-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Smart 7 HD?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-infinix-zero-30-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Infinix Zero 30 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-itel-a05s-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Itel A05s?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-itel-a70-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Itel A70?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-best-high-quality-discord-music-bots-you-should-try/"><u>In 2024, Best High-Quality Discord Music Bots You Should Try</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-poco-x6-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Poco X6 Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unlocking-ideal-image-proportions-calculation-and-adjustment-tips/"><u>In 2024, Unlocking Ideal Image Proportions Calculation and Adjustment Tips</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-quickcut-pro-for-mac/"><u>New 2024 Approved QuickCut Pro for Mac</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unlock-perfect-lighting-best-video-brightening-apps-for-mobile/"><u>New 2024 Approved Unlock Perfect Lighting Best Video Brightening Apps for Mobile</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-rated-aiff-conversion-tools-a-comprehensive-guide/"><u>New Top-Rated AIFF Conversion Tools A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-vivo-x-fold-2-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Vivo X Fold 2</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-a-deep-dive-into-adobe-audition-understanding-its-impact-on-audio-editing/"><u>Updated A Deep Dive Into Adobe Audition Understanding Its Impact on Audio Editing</u></a></li>
+</ul></div>

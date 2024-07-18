@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Motorola Moto G04
-date: 2024-05-19T18:32:07.471Z
+date: 2024-07-17T08:56:17.653Z
 tags: 
   - recover
 categories: 
@@ -34,6 +34,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Motorola Moto G04 model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
@@ -44,6 +47,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -100,12 +106,18 @@ You can root the Android phone with the help of a rooting software. However, roo
 
 **Caution**: Rooting makes your Motorola Moto G04 phone’s warranty null and void.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover deleted Gallery photos from Android internal storage:
 
 - Download any secure Android recovery software on Windows or Mac computer.
 - Connect the rooted Android phone with your PC or Mac.
 - Launch the software, select the Android device to scan and follow the prompts in the software.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5: Restore photos with inbuilt Android backup services
 
 These days, Android phone manufacturers provide their own inbuilt backup functions in the devices. You can back up your Motorola Moto G04 phone’s app data to the phone’s cloud backup, local backup, Google backup, or external storage. The options vary with the mobile phone brands. Some mobile phones like Huawei even have a builtin backup app.
@@ -114,6 +126,9 @@ The location path of the backup function may differ with Android phones. General
 
 For example,
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/image.webp)
 
 - On Xiaomi Redmi phones: Settings> Additional Settings> Backup & reset
@@ -137,6 +152,9 @@ Your photos will be visible again in the Gallery app.
 - In ES File Explorer Menu go to **Settings> Display** Settings.
 - Enable **Show Hidden Files**. All the .nomedia files will be visible in the phone’s folders. You can delete them now.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 7: Recover Gallery photos from Android cloud backup
 
 Apart from built-in Google cloud backup apps, you might be using other cloud storage such as DropBox or OneDrive etc. If you have enabled Android Gallery backup in any such cloud backup, restore the deleted Gallery photos from there.
@@ -166,8 +184,14 @@ Download the software’s free trial to assess its performance and preview the d
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. I have deleted photos from Google Photos and now don’t know how to recover Gallery pictures from Google Photos
 
 You can recover deleted Gallery pictures from the Google Photos app’s Trash or Bin. Photos deleted from both Android Gallery and Google Photos on your Android phone stay for 60 days in the Trash or Bin of Google Photos app. Here are the steps to recover deleted photos from Android Gallery on Google Photos:
@@ -176,6 +200,9 @@ You can recover deleted Gallery pictures from the Google Photos app’s Trash or
 - Click Trash or Bin.
 - Touch and hold the photo you want to restore and tap Restore.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -184,6 +211,9 @@ Yes, you can recover permanently deleted photos from Android with the help of a 
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after factory reset?
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -192,6 +222,9 @@ You can recover deleted photos from Android Gallery after factory reset using a 
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after software update?
 
 You can recover deleted photos from Android Gallery after software update using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -215,3 +248,60 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-the-top-10-capture-cards-for-youtube-you-should-know/"><u>[New] The Top 10 Capture Cards for YouTube You Should Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-for-the-curious-player/"><u>[New] The Ultimate Guide for the Curious Player</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevating-online-presence-how-to-flawlessly-transmit-upside-down-videos-on-youtube/"><u>[Updated] 2024 Approved  Elevating Online Presence  How to Flawlessly Transmit Upside-Down Videos on Youtube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streamlined-screencasting-steps-ultimate-tutorial/"><u>[Updated] 2024 Approved  Streamlined Screencasting Steps - Ultimate Tutorial</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-more-watchers-simple-youtube-growth-hacks/"><u>[Updated] Unlock More Watchers  Simple YouTube Growth Hacks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-evasion-tactics-for-watching-instagram-stories-unattached-to-your-account/"><u>2024 Approved  Evasion Tactics for Watching Instagram Stories Unattached to Your Account</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-role-of-analytics-in-amplifying-your-youtube-presence/"><u>2024 Approved  The Role of Analytics in Amplifying Your YouTube Presence</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-edit-recorded-video/"><u>2024 Approved How to Edit Recorded Video</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nokia-130-music-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nokia 130 Music?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-redmi-note-12-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi Note 12 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-s24plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-honor-v-purse-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Honor V Purse</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-honor-x50-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Honor X50</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-honor-x50-gt-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Honor X50 GT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-honor-x50iplus-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Honor X50i+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-honor-x7b-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Honor X7b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-honor-x8b-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Honor X8b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-hot-30i-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Hot 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-hot-40-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Hot 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-hot-40-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Hot 40 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-htc-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on HTC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-htc-u23-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on HTC U23 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-huawei-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Huawei</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-infinix-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Infinix</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-infinix-hot-30i-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Infinix Hot 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-infinix-hot-40-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Infinix Hot 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-infinix-note-30-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Infinix Note 30</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-infinix-note-30-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Infinix Note 30 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-infinix-note-30-vip-racing-edition-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-infinix-smart-8-hd-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Infinix Smart 8 HD</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-infinix-smart-8-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Infinix Smart 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-itel-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Itel</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-itel-a60-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Itel A60</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-itel-a60s-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Itel A60s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-itel-p40plus-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Itel P40+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-itel-p55-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Itel P55 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-itel-p55plus-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Itel P55+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-k11x-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on K11x</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-lava-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Lava</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-lava-yuva-2-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Lava Yuva 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-m6-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on M6 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-m6-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on M6 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-magic-5-lite-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Magic 5 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-magic-6-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Magic 6 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-meizu-21-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Meizu 21</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-moto-g-5g-2023-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Moto G 5G (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-motorola-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Motorola</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-the-quintessential-list-8-iconic-sound-effects-from-todays-blockbusters/"><u>In 2024, The Quintessential List 8 Iconic Sound Effects From Todays Blockbusters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-iphone-collages-the-ultimate-guide-to-cutting-edge-design-for-2024/"><u>Innovative iPhone Collages  The Ultimate Guide to Cutting-Edge Design for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-innovators-in-virtual-reality-production/"><u>Leading Innovators in Virtual Reality Production</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/perfect-pixels-selecting-best-cameras-for-yt-for-2024/"><u>Perfect Pixels  Selecting Best Cameras For YT for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/pro-tips-for-free-fast-effective-tv-show-recording-for-2024/"><u>Pro Tips for FREE, Fast, Effective TV Show Recording for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/quicktime-video-editing-how-to-speed-up-or-slow-down-footage-for-2024/"><u>QuickTime Video Editing How to Speed Up or Slow Down Footage for 2024</u></a></li>
+</ul></div>

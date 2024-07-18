@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in Excel 2021 files
-date: 2024-05-19T18:32:13.253Z
-updated: 2024-05-20T18:32:13.253Z
+date: 2024-07-17T10:18:53.997Z
+updated: 2024-07-18T10:18:53.997Z
 tags: 
   - signer
   - signer online
@@ -12,13 +12,16 @@ categories:
 description: This article describes How to insert signature in Excel 2021 files
 excerpt: This article describes How to insert signature in Excel 2021 files
 keywords: excel signature best,excel signature online,excel signer online,.xlsx signer online
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## 1. How to insert signature in Excel 2021 files
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
@@ -39,6 +42,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Excel
 
 These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -59,18 +65,27 @@ In just a few seconds your Excel document will be fully available once the uploa
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -79,6 +94,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -95,6 +113,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -130,6 +151,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -163,3 +196,49 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-automate-playlist-retrieval-from-youtube-directly/"><u>[New] 2024 Approved  Automate Playlist Retrieval From YouTube Directly</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-the-desktop-route-to-viral-video-success-with-tiktok/"><u>[New] 2024 Approved  The Desktop Route to Viral Video Success with TikTok</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-amplify-your-content-reach-with-twitters-visual-stories-to-insta/"><u>[Updated] Amplify Your Content Reach with Twitter's Visual Stories to Insta</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-comedy-rising-tiktoks-top-humorous-actors/"><u>[Updated] Comedy Rising  TikTok's Top Humorous Actors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-guide-mastering-quick-screen-recording-on-mac-via-keys/"><u>[Updated] In 2024, Ultimate Guide  Mastering Quick Screen Recording on Mac via Keys</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-infinix-hot-40i-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-magic-6-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Magic 6 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2003-has-encountered-a-problem-stellar-by-stellar-guide/"><u>How to Fix Excel 2003 has Encountered a Problem | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2003-run-time-error-1004-by-stellar-guide/"><u>How to Fix Excel 2003 Run Time Error 1004</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2003-run-time-error-1004-stellar-by-stellar-guide/"><u>How to Fix Excel 2003 Run Time Error 1004 | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2007-formulas-not-working-properly-step-by-step-guide-by-stellar-guide/"><u>How to Fix Excel 2007 Formulas Not Working Properly | Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2007-formulas-not-working-properly-step-by-step-guide-stellar-by-stellar-guide/"><u>How to Fix Excel 2007 Formulas Not Working Properly | Step-by-Step Guide | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2007-has-encountered-a-problem-by-stellar-guide/"><u>How to Fix Excel 2007 has Encountered a Problem</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2007-has-encountered-a-problem-stellar-by-stellar-guide/"><u>How to Fix Excel 2007 has Encountered a Problem | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2007-run-time-error-1004-by-stellar-guide/"><u>How to Fix Excel 2007 Run Time Error 1004</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2007-run-time-error-1004-stellar-by-stellar-guide/"><u>How to Fix Excel 2007 Run Time Error 1004 | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2010-formulas-not-working-properly-step-by-step-guide-by-stellar-guide/"><u>How to Fix Excel 2010 Formulas Not Working Properly | Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2010-formulas-not-working-properly-step-by-step-guide-stellar-by-stellar-guide/"><u>How to Fix Excel 2010 Formulas Not Working Properly | Step-by-Step Guide | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2010-has-encountered-a-problem-by-stellar-guide/"><u>How to Fix Excel 2010 has Encountered a Problem</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2010-has-encountered-a-problem-stellar-by-stellar-guide/"><u>How to Fix Excel 2010 has Encountered a Problem | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2010-run-time-error-1004-by-stellar-guide/"><u>How to Fix Excel 2010 Run Time Error 1004</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2010-run-time-error-1004-stellar-by-stellar-guide/"><u>How to Fix Excel 2010 Run Time Error 1004 | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2013-formulas-not-working-properly-step-by-step-guide-by-stellar-guide/"><u>How to Fix Excel 2013 Formulas Not Working Properly | Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2013-formulas-not-working-properly-step-by-step-guide-stellar-by-stellar-guide/"><u>How to Fix Excel 2013 Formulas Not Working Properly | Step-by-Step Guide | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2013-has-encountered-a-problem-by-stellar-guide/"><u>How to Fix Excel 2013 has Encountered a Problem</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2013-has-encountered-a-problem-stellar-by-stellar-guide/"><u>How to Fix Excel 2013 has Encountered a Problem | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2013-run-time-error-1004-by-stellar-guide/"><u>How to Fix Excel 2013 Run Time Error 1004</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2013-run-time-error-1004-stellar-by-stellar-guide/"><u>How to Fix Excel 2013 Run Time Error 1004 | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2016-formulas-not-working-properly-step-by-step-guide-by-stellar-guide/"><u>How to Fix Excel 2016 Formulas Not Working Properly | Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2016-formulas-not-working-properly-step-by-step-guide-stellar-by-stellar-guide/"><u>How to Fix Excel 2016 Formulas Not Working Properly | Step-by-Step Guide | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2016-has-encountered-a-problem-by-stellar-guide/"><u>How to Fix Excel 2016 has Encountered a Problem</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2016-has-encountered-a-problem-stellar-by-stellar-guide/"><u>How to Fix Excel 2016 has Encountered a Problem | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2016-run-time-error-1004-by-stellar-guide/"><u>How to Fix Excel 2016 Run Time Error 1004</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2016-run-time-error-1004-stellar-by-stellar-guide/"><u>How to Fix Excel 2016 Run Time Error 1004 | Stellar</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-make-thumbnails-for-2024/"><u>How to Make Thumbnails for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-a38-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo A38 FRP Locks</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-x90s-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo X90S Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reversing-macos-sierra-update-to-os-x-el-capitan/"><u>Reversing MacOS Sierra Update to OS X El Capitan</u></a></li>
+<li><a href="https://fox-http.techidaily.com/tutorial-turning-on-hdr-for-windows-11-users/"><u>Tutorial  Turning on HDR for Windows 11 Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlocking-hidden-social-content-where-are-your-vids-in-2024/"><u>Unlocking Hidden Social Content  Where Are Your Vids, In 2024</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: How to Manually Install a Driver in Windows 11
-date: 2024-05-19T18:32:13.580Z
+date: 2024-07-17T10:23:51.558Z
 tags: 
   - driver
   - device driver
@@ -18,6 +18,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)  
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
@@ -25,6 +28,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category.
 - **Step4**: Right-click the device whose driver you’d like to update, and select `Update Driver`.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/3.jpg) 
 
 - **Step5**: Select Search automatically for updated driver software.
@@ -84,6 +90,9 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -98,6 +107,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -107,10 +119,16 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -121,6 +139,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -187,3 +208,49 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-use-a-whiteboard-in-google-meet-on-laptopiphoneandroid-for-2024/"><u>[New] How to Use a Whiteboard in Google Meet on Laptop/iPhone/Android for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-maximizing-your-story-potential-with-instagram-highlights-for-2024/"><u>[New] Maximizing Your Story Potential with Instagram Highlights for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-screen-recorder-pros-free-software-on-both-windows-and-macos/"><u>[Updated] 2024 Approved  Screen Recorder Pros  Free Software on Both Windows & MacOS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-best-in-class-facebook-media-firefox-edition/"><u>[Updated] Best-in-Class Facebook Media  FireFox Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-journey-into-av1-the-newcomers-guidebook/"><u>[Updated] Journey Into AV1  The Newcomer's Guidebook</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-narzo-n53-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme Narzo N53 FRP Bypass Instantly</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hidden-in-plain-sight-top-e-shops-for-buying-enigmatic-box-collections-for-2024/"><u>Hidden in Plain Sight  Top E-Shops for Buying Enigmatic Box Collections for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-f54-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Samsung Galaxy F54 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-m14-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Samsung Galaxy M14 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Samsung Galaxy S23 FE.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-s24-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Samsung Galaxy S24.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-s24plus-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Samsung Galaxy S24+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Samsung Galaxy XCover 6 Pro Tactical Edition.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Samsung Galaxy Z Flip 5.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Samsung Galaxy Z Fold 5.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-sony-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Sony .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-sony-xperia-5-v-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Sony Xperia 5 V.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-storm-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Storm 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-tecno-camon-20-pro-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Tecno Camon 20 Pro 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-tecno-spark-10-5g-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Tecno Spark 10 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-tecno-spark-10-pro-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Tecno Spark 10 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-tecno-spark-20-pro-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Tecno Spark 20 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-tecno-spark-20-proplus-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Tecno Spark 20 Pro+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-tecno-spark-20-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Tecno Spark 20.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-tecno-spark-20c-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Tecno Spark 20C.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-thinkphone-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from ThinkPhone.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-v-purse-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from V Purse.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-g2-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo G2.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-s17t-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo S17t.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-v27e-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo V27e.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-v29-pro-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo V29 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-vivo-v29-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Vivo V29.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-se-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone SE With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-fast-tracking-your-creative-spark-with-google-images-art/"><u>In 2024, Fast-Tracking Your Creative Spark with Google Images Art</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-multi-app-sign-ins-the-case-for-and-against-using-facebook-login/"><u>Navigating Multi-App Sign-Ins: The Case for & Against Using Facebook Login</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-from-beginner-to-pro-best-vlog-video-editing-software-for-every-level-for-2024/"><u>New From Beginner to Pro Best Vlog Video Editing Software for Every Level for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713963191163-new-have-you-ever-heard-hyperlapse-and-tume-lapse-videos-do-you-know-the-differences-between-them-this-article-will-introduce-the-concepts-features-and-diff/"><u>New Have You Ever Heard Hyperlapse and Tume Lapse Videos? Do You Know the Differences Between Them? This Article Will Introduce the Concepts, Features and Differnces of Them for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ty-video-sharing-leading-alternative-converters-from-flv-to-yt-for-2024/"><u>Quality Video Sharing  Leading Alternative Converters From FLV to YT for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-samsung-galaxy-s23-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Samsung Galaxy S23</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/swap-your-face-the-ultimate-guide-to-2024s-best-apps/"><u>Swap Your Face The Ultimate Guide to 2024S Best Apps</u></a></li>
+</ul></div>

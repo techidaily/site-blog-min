@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in .xltx files
-date: 2024-05-19T18:32:13.236Z
-updated: 2024-05-20T18:32:13.236Z
+date: 2024-07-17T10:18:42.258Z
+updated: 2024-07-18T10:18:42.258Z
 tags: 
   - signer
   - signer online
@@ -12,13 +12,16 @@ categories:
 description: This article describes How to insert sign in .xltx files
 excerpt: This article describes How to insert sign in .xltx files
 keywords: best sign excel,sign .xlsx online,free sign .xlsx,excel signature software,.xlsx signer online,excel signature online
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## 1. How to insert sign in .xltx files
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
@@ -39,6 +42,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Excel
 
 These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -49,6 +55,9 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
@@ -65,6 +74,9 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -75,10 +87,16 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -122,6 +140,9 @@ To implement each of the ways to install a digital signature in Excel, you need 
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -151,6 +172,14 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -163,3 +192,63 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-final-cut-pro-x-mastery-crafting-instagrams-desired-format/"><u>[New] Final Cut Pro X Mastery  Crafting Instagram's Desired Format</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-ultimate-edge-top-10-wild-tiktok-gaming-adventures/"><u>[New] In 2024, Ultimate Edge  Top 10 Wild TikTok Gaming Adventures</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-download-vimeo-video-to-mp4/"><u>[Updated] 2024 Approved  How To Download Vimeo Video to MP4</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-affordable-pc-cases-and-accessories-under-100-for-2024/"><u>[Updated] Best Affordable PC Cases & Accessories (Under $100) for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-procedures-instilling-stopwatch-capabilities-in-broadcast-encoders/"><u>[Updated] In 2024, Essential Procedures  Instilling Stopwatch Capabilities in Broadcast Encoders</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ingenious-designer-of-visual-and-auditory-delight-for-2024/"><u>[Updated] Ingenious Designer of Visual & Auditory Delight for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-youtube-profits-transitioning-from-ads-to-accounts/"><u>[Updated] Maximizing YouTube Profits  Transitioning From Ads to Accounts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-techniques-for-elevating-your-tiktok-unboxing-popularity/"><u>[Updated] Techniques for Elevating Your TikTok Unboxing Popularity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-cinematic-edge-master-the-top-5-camera-skills/"><u>[Updated] The Cinematic Edge  Master the Top 5 Camera Skills</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-evolutionary-path-from-novice-to-expert-in-audio-recording-for-film/"><u>[Updated] The Evolutionary Path  From Novice to Expert in Audio Recording for Film</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-easy-start-guide-to-enhancing-gopro-use/"><u>2024 Approved  Easy-Start Guide to Enhancing GoPro Use</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/android-audio-recording-tips-no-root-required-for-2024/"><u>Android Audio Recording Tips - No Root Required for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-screen-recorders-for-google-meet-you-should-try-free-and-paid/"><u>Best Screen Recorders for Google Meet You Should Try [Free and Paid]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-12-pro-max-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-13-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-13-mini-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-13-pro-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-13-pro-max-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-14-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-14-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-14-pro-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-14-pro-max-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-15-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-15-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-15-pro-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-15-pro-max-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-6-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-6-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-6s-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-6s-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-7-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-7-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-8-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-8-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-se-2020-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-se-2022-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-se-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-x-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone X | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-xr-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-xs-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-xs-max-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone XS Max Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-final-cut-pros-top-10-vfx-power-players/"><u>In 2024, Final Cut Pro’s Top 10 VFX Power Players</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-s23-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy S23 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-guide-to-add-transition-effects-in-premiere-pro-for-2024/"><u>New Guide to Add Transition Effects in Premiere Pro for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-head-to-head-showdown-final-cut-pro-or-lumafusion-for-video-editing-for-2024/"><u>New Head-to-Head Showdown Final Cut Pro or LumaFusion for Video Editing for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/pixelperfect-editor/"><u>PixelPerfect Editor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/realitys-new-horizons-analyzing-metaverse-and-omniverse-worlds-for-2024/"><u>Reality's New Horizons  Analyzing Metaverse and Omniverse Worlds for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-videos-with-the-right-dimension-proportions-for-2024/"><u>Transform Your Videos with the Right Dimension Proportions for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-create-obs-slideshow/"><u>Updated In 2024, How to Create OBS Slideshow</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/utilizing-twitters-videos-in-your-instagram-content-strategy/"><u>Utilizing Twitter's Videos in Your Instagram Content Strategy</u></a></li>
+</ul></div>

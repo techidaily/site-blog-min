@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for Word 2000
-date: 2024-06-09T01:56:43.599Z
-updated: 2024-06-10T01:56:43.599Z
+date: 2024-07-17T10:23:18.778Z
+updated: 2024-07-18T10:23:18.778Z
 tags: 
   - signer
   - signer online
@@ -23,6 +23,9 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -51,18 +54,27 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Word document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/hover-mouse.png)
 
 Feel free to sign Word document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -73,10 +85,16 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -120,6 +138,9 @@ To implement each of the ways to install a digital signature in Word, you need t
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Word on Windows.
@@ -128,6 +149,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -161,3 +185,45 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-discovering-the-hottest-templates-for-social-media-vfx-for-2024/"><u>[New] Discovering the Hottest Templates for Social Media VFX for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-infusing-vitality-into-text-an-animated-adventure/"><u>[New] Infusing Vitality Into Text  An Animated Adventure</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-tech-gadgets-for-effortless-virtual-meetings-capture/"><u>[New] Top Tech Gadgets for Effortless Virtual Meetings Capture</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-best-screen-recorder-apowersoft-vs-others/"><u>[Updated] In 2024, The Best Screen Recorder  Apowersoft vs Others</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-silent-story-consumers-leading-anonymity-apps/"><u>[Updated] Silent Story Consumers  Leading Anonymity Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-step-by-step-guide-to-seamless-editing-of-full-spherical-video-content/"><u>2024 Approved  Step-by-Step Guide to Seamless Editing of Full Spherical Video Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bring-your-hauls-to-life-the-ultimate-editing-tips-for-2024/"><u>Bring Your Hauls to Life  The Ultimate Editing Tips for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-14-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi 14 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-x50-gt-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Honor X50 GT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-x50i-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Honor X50i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-x50iplus-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Honor X50i+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-x7b-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Honor X7b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-x8b-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Honor X8b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-hot-30i-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Hot 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-htc-u23-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from HTC U23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-htc-u23-pro-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from HTC U23 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-huawei-nova-y71-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Huawei Nova Y71</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-huawei-p60-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Huawei P60</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-hot-30-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Infinix Hot 30 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-hot-40i-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Infinix Hot 40i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-note-30-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Infinix Note 30</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-note-30-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Infinix Note 30 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-note-30-pro-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Infinix Note 30 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-note-30-vip-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Infinix Note 30 VIP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-note-30i-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Infinix Note 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-smart-7-hd-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-infinix-smart-8-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Infinix Smart 8</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from iPhone 15 Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-no-complications-in-hdr-a-thorough-review/"><u>In 2024, No Complications in HDR  A Thorough Review</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-outrageous-odyssey-your-roadmap-to-the-funniest-tiktok-challenges/"><u>In 2024, Outrageous Odyssey  Your Roadmap to the Funniest TikTok Challenges</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-reno-8t-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unlock-your-visual-potential-the-leading-ten-tools-for-instagram-grids/"><u>In 2024, Unlock Your Visual Potential  The Leading Ten Tools for Instagram Grids</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/personalize-your-youtube-movies-length/"><u>Personalize Your YouTube Movie's Length</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/um-viewership-the-ultimate-youtube-wealth/"><u>Premium Viewership  The Ultimate YouTube Wealth</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-oppo-a38-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Oppo A38 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-the-auto-transcription-experts-choice-top-6-software-picks/"><u>Updated 2024 Approved The Auto-Transcription Experts Choice – Top 6 Software Picks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-selecting-the-optimal-youtube-video-downloader-for-mp4-conversion/"><u>Updated In 2024, Selecting the Optimal YouTube Video Downloader for MP4 Conversion</u></a></li>
+</ul></div>

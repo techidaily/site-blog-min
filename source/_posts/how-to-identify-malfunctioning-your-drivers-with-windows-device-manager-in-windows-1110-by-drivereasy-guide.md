@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your drivers with Windows Device Manager in Windows 11/10
-date: 2024-05-19T18:32:12.792Z
+date: 2024-07-17T10:12:21.033Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -43,10 +46,16 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -55,12 +64,18 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -74,6 +89,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -84,6 +102,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -199,6 +220,9 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
@@ -227,3 +251,56 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-naming-gems-top-strategies-for-exceptional-podcast-titles/"><u>[New] 2024 Approved  Naming Gems  Top Strategies for Exceptional Podcast Titles</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-the-science-of-scaling-characters-in-digital-creativity/"><u>[New] 2024 Approved  The Science of Scaling Characters in Digital Creativity</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-expert-tips-for-harnessing-the-power-of-top-9-free-youtube-makers-for-2024/"><u>[New] Expert Tips for Harnessing the Power of Top 9 Free YouTube Makers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-king-of-construction-showdown-thieye-t5-or-sjcam-s6/"><u>[New] King of Construction Showdown  Thieye T5 or SJCAM S6?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-securing-every-play-moment-advanced-obs-techniques/"><u>[New] Securing Every Play Moment  Advanced OBS Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-10-best-video-conferencing-tools-beyond-zoom/"><u>[New] The 10 Best Video Conferencing Tools  Beyond Zoom</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-echoes-in-280-characters-viral-video-stories/"><u>[Updated] 2024 Approved  Echoes in 280 Characters  Viral Video Stories</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-the-premier-selection-of-top-10-emoji-creation-tools-for-discord/"><u>[Updated] 2024 Approved  The Premier Selection of Top 10 Emoji Creation Tools for Discord</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-comprerante-titling-matrix-for-multiple-platforms/"><u>[Updated] Comprerante Titling Matrix for Multiple Platforms</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-digital-broadcasting-battle-comparing-facebook-live-youtube-live-and-twitter-spaces/"><u>[Updated] In 2024, Digital Broadcasting Battle  Comparing Facebook LIVE, YouTube Live, & Twitter Spaces</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-professional-filmmakers-pick-is-it-filmora-or-democreator/"><u>[Updated] In 2024, Professional Filmmakers' Pick  Is It Filmora or Democreator?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-updated-features-in-sony-blu-ray-player-s6700/"><u>[Updated] Updated Features in Sony Blu-Ray Player S6700</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-expert-recommended-6-online-apps-to-delete-background-perfectly/"><u>2024 Approved  Expert-Recommended 6 Online Apps to Delete Background Perfectly</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-editors-alchemy-precision-pc-editing-plus-harmony/"><u>2024 Approved  Top Editor's Alchemy  Precision PC Editing + Harmony</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-top-rated-free-mp4-video-editors-for-cutting-and-trimming/"><u>2024 Approved Top-Rated Free MP4 Video Editors for Cutting and Trimming</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-the-value-of-microtransactions-in-elite-gaming/"><u>Examining the Value of Microtransactions in Elite Gaming</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-asus-rog-phone-8-pro-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Asus ROG Phone 8 Pro Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-asus-rog-phone-8-pro-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Asus ROG Phone 8 Pro Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-blaze-curve-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Blaze Curve 5G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-c110-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted C110 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-c210-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted C210 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-c300-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted C300 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-c51-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted C51 Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-c53-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted C53 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-c67-4g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted C67 4G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-c67-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted C67 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-c67-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted C67 5G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-camon-20-premier-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Camon 20 Premier 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-edge-40-neo-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Edge 40 Neo Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-f23-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted F23 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-f5-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted F5 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-find-n3-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Find N3 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-g310-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted G310 Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-galaxy-a15-4g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Galaxy A15 4G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-galaxy-a15-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Galaxy A15 5G Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-galaxy-a54-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Galaxy A54 5G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-galaxy-f04-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Galaxy F04 Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-galaxy-m14-4g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Galaxy M14 4G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-galaxy-m34-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Galaxy M34 5G Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-galaxy-m54-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Galaxy M54 5G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-google-pixel-7a-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Google Pixel 7a Contacts  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-google-pixel-7a-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Google Pixel 7a Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-google-pixel-7a-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Google Pixel 7a Pictures  An Easy Method Explained.</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-exploring-the-freshest-tiktok-challenges/"><u>In 2024, Exploring the Freshest TikTok Challenges</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-15-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 15 Plus</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-steady-shot-best-apps-for-stable-videos/"><u>In 2024, Steady Shot Best Apps for Stable Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidias-latest-graphics-drivers-a-win10-upgrade/"><u>NVIDIA's Latest Graphics Drivers: A Win10 Upgrade</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/vlc-tutorial-the-art-of-video-angling/"><u>VLC Tutorial  The Art of Video Angling</u></a></li>
+</ul></div>

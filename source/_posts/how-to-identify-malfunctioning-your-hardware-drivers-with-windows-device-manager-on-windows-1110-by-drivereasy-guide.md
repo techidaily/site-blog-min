@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10
-date: 2024-05-19T18:32:12.864Z
+date: 2024-07-17T10:12:52.423Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -33,6 +36,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -43,6 +49,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -51,6 +60,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -92,6 +104,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -189,14 +204,23 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -217,3 +241,59 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-full-screen-pro-excellence-4-precise-pc-and-mac-tools/"><u>[New] 2024 Approved  Full Screen Pro Excellence  4 Precise PC & Mac Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-unveiling-t-series-profit-generation-methods-on-youtube/"><u>[New] In 2024, Unveiling T-Series' Profit Generation Methods on YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-optimize-your-instagram-media-flow-desktopmobile/"><u>[New] Optimize Your Instagram Media Flow (Desktop/Mobile)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-vegaspros-new-era-reviewed-2019/"><u>[New] VegasPro's New Era Reviewed (2019)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-tactics-to-determine-igtv-viewership-success/"><u>[Updated] In 2024, Tactics to Determine IGTV Viewership Success</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-instagram-live-guide-conversation-tools-unveiled-for-2024/"><u>[Updated] The Instagram Live Guide  Conversation Tools Unveiled for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-hubs-for-downloading-popular-youtube-tone-selections/"><u>2024 Approved  Ideal Hubs for Downloading Popular YouTube Tone Selections</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/blur-away-distractions-essential-tips-for-immaculate-google-meet-spaces-for-2024/"><u>Blur Away Distractions  Essential Tips for Immaculate Google Meet Spaces for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/demystifying-chromecast-for-effortless-broadcasting/"><u>Demystifying Chromecast for Effortless Broadcasting</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-honor-x8b-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Honor X8b.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-htc-u23-pro-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from HTC U23 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-htc-u23-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from HTC U23.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-huawei-nova-y71-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Huawei Nova Y71.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-huawei-p60-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Huawei P60.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-gt-10-pro-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix GT 10 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-hot-30-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Hot 30 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-hot-30i-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Hot 30i.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-hot-40-pro-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Hot 40 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-hot-40-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Hot 40.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-hot-40i-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Hot 40i.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-note-30-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Note 30 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-note-30-pro-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Note 30 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Note 30 VIP Racing Edition.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-note-30-vip-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Note 30 VIP.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-note-30i-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Note 30i.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-smart-7-hd-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Smart 7 HD.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-smart-8-hd-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Smart 8 HD.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-smart-8-plus-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Smart 8 Plus.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-smart-8-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Smart 8.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-zero-30-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Zero 30 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-zero-5g-2023-turbo-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Infinix Zero 5G 2023 Turbo.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-itel-a05s-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Itel A05s.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-itel-a60-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Itel A60.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-itel-a60s-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Itel A60s.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-itel-p40plus-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Itel P40+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-itel-p55-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Itel P55 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-itel-s23-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Itel S23.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-itel-s23plus-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Itel S23+.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-lava-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Lava .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-lava-blaze-2-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Lava Blaze 2 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-lava-blaze-2-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Lava Blaze 2.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-lava-blaze-pro-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Lava Blaze Pro 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-lava-yuva-3-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Lava Yuva 3.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-meizu-21-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Meizu 21.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-moto-e13-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Moto E13.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-moto-g24-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Moto G24.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-moto-g84-5g-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Moto G84 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-motorola-g24-power-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Motorola G24 Power.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-90-lite-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 90 Lite to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-elevating-your-contents-reach-without-breaching-laws/"><u>In 2024, Elevating Your Content's Reach Without Breaching Laws</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55 To Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transform-your-passion-unboxing-videos-made-simple/"><u>In 2024, Transform Your Passion  Unboxing Videos Made Simple</u></a></li>
+</ul></div>

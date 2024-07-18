@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager on Windows 10
-date: 2024-05-19T18:32:12.732Z
+date: 2024-07-17T10:11:44.744Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,18 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -48,6 +60,9 @@ And without all these drivers, none of your devices will work.
 
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -58,6 +73,9 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -74,6 +92,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -97,6 +118,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -116,6 +140,9 @@ To understand why, you first have to understand what drivers actually are…
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -141,3 +168,65 @@ There are two reasons why…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-facebooks-360-livestream-a-complete-comprehensive-guide-for-2024/"><u>[New] Facebook's 360 Livestream  A Complete Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fine-tuning-gameplay-roblox-closer-scan-guide/"><u>[New] Fine-Tuning Gameplay  Roblox Closer Scan Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elevating-vlogging-to-new-heights-yi-hero-reviewed/"><u>[New] In 2024, Elevating Vlogging to New Heights  Yi Hero Reviewed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-the-undisclosed-terrain-of-youtube-archives/"><u>[New] Navigating the Undisclosed Terrain of YouTube Archives</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-eliminating-exposure-how-to-conceal-private-video-sections-for-2024/"><u>[Updated] Eliminating Exposure  How to Conceal Private Video Sections for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-emulators-reviving-sonys-ps1-games/"><u>[Updated] In 2024, Essential Emulators Reviving Sony's PS1 Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pro-tips-for-time-lapping-your-samsung-camera/"><u>[Updated] Pro Tips for Time-Lapping Your Samsung Camera</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-boosting-visuals-high-definition-on-twitter-vids/"><u>2024 Approved  Boosting Visuals  High-Definition on Twitter Vids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tick-tock-tally-calculating-pewdiepies-cash/"><u>2024 Approved  Tick-Tock Tally  Calculating PewDiePie’s Cash</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clearing-photos-expert-background-takedown-in-photopea-for-2024/"><u>Clearing Photos  Expert Background Takedown in Photopea for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-easter-a-multicultural-journey-of-well-wishing/"><u>Global Easter: A Multicultural Journey of Well-Wishing</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-y17s-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo Y17s Quickly? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-find-x6-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Find X6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-find-x6-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Find X6 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-g310-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from G310</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-galaxy-a05s-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Galaxy A05s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-google-pixel-8-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Google Pixel 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-google-pixel-fold-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Google Pixel Fold</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-gt-5-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from GT 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-honor-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Honor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-honor-100-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Honor 100</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-honor-100-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Honor 100 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-honor-80-pro-straight-screen-edition-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-honor-90-gt-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Honor 90 GT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-honor-magic-6-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Honor Magic 6 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-honor-play-40c-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Honor Play 40C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-honor-play-7t-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Honor Play 7T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-honor-x7b-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Honor X7b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-hot-40-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Hot 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-htc-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from HTC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-htc-u23-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from HTC U23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-htc-u23-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from HTC U23 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-huawei-nova-y91-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Huawei Nova Y91</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-infinix-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Infinix</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-infinix-gt-10-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Infinix GT 10 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-infinix-hot-30i-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Infinix Hot 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-infinix-hot-40i-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Infinix Hot 40i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-infinix-note-30-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Infinix Note 30</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-infinix-note-30-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Infinix Note 30 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-infinix-zero-30-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Infinix Zero 30 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-itel-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Itel</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-itel-a05s-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Itel A05s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-itel-a60s-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Itel A60s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-itel-a70-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Itel A70</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-itel-s23plus-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Itel S23+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-lava-yuva-3-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Lava Yuva 3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-meizu-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Meizu</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-motorola-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Motorola</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-motorola-edge-40-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-enrich-your-tweeting-experience-the-ultimate-toolkit-review/"><u>In 2024, Enrich Your Tweeting Experience  The Ultimate Toolkit Review</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-nokia-c12-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Nokia C12 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-gaming-galore-top-websites-to-download-games/"><u>New 2024 Approved Gaming Galore Top Websites to Download Games</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-watermark-free-video-joining-7-top-rated-solutions-for-2024/"><u>New Watermark-Free Video Joining 7 Top-Rated Solutions for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/prime-8-instagram-managers-for-mobile-devices-for-2024/"><u>Prime 8 Instagram Managers for Mobile Devices for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-15-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 15 Plus Making It Possible</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/w11-addressing-undetected-additional-monitor/"><u>W11: Addressing Undetected Additional Monitor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-achieved-optimal-resolution/"><u>Win10: Achieved Optimal Resolution</u></a></li>
+</ul></div>

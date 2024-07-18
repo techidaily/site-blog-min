@@ -1,6 +1,6 @@
 ---
 title: How to identify missing hardware drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-05-19T18:32:12.898Z
+date: 2024-07-17T10:13:31.734Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -32,6 +35,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
@@ -44,6 +50,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -73,6 +82,9 @@ First, we locate and download any new drivers from nearly 100 manufacturer websi
 - have failed our previous tests.
 Then we add all drivers that pass these filters to our development-only version of Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 2. Test on all modern versions of Windows
 
 We then scan a small selection of computers with our development-only Driver Easy. These computers have typical devices attached, like a mouse, keyboard, monitor and printer. On each computer, we test all modern versions of Windows (Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit):
@@ -95,6 +107,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -132,6 +147,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 ## Try Driver Easy for free
@@ -144,6 +162,9 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -184,3 +205,45 @@ There are two reasons why…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-adapt-posting-techniques-after-instagrams-revisions-for-2024/"><u>[New] How to Adapt Posting Techniques After Instagram’s Revisions for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-family-vehicle-entertainment-adventures-for-2024/"><u>[New] Top Family Vehicle Entertainment Adventures for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-comprehensive-list-of-instagram-tracking-tools-for-better-decisions/"><u>[Updated] 2024 Approved  The Comprehensive List of Instagram Tracking Tools for Better Decisions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-best-8-evidenced-tools-for-video-propagation/"><u>[Updated] Best 8 Evidenced Tools for Video Propagation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mini-stories-decoded-whats-inside/"><u>[Updated] Mini Stories Decoded  What's Inside?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-photography-wonders-capturing-surface-mirrors/"><u>2024 Approved  IPhone Photography Wonders  Capturing Surface Mirrors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-apex-of-general-knowledge-trivia-channels-in-24/"><u>2024 Approved  Navigating the Apex of General Knowledge Trivia Channels in '24</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-se-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone SE With or Without Password</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-xiaomi-redmi-12-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Xiaomi Redmi 12?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-xiaomi-redmi-a2-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Xiaomi Redmi A2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Xiaomi Redmi Note 13 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Xiaomi Redmi Note 13 Pro+ 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-xperia-5-v-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Xperia 5 V?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-y27s-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Y27s?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-y36-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Y36?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-zte-axon-40-lite-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on ZTE Axon 40 Lite?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-14-ultra-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on 14 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-a1-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on A1 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-asus-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Asus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-asus-rog-phone-7-ultimate-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-asus-rog-phone-8-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Asus ROG Phone 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-blaze-2-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Blaze 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-c110-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on C110</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-edge-40-neo-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Edge 40 Neo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-edgeplus-2023-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Edge+ (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-galaxy-a25-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Galaxy A25 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-galaxy-f14-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Galaxy F14 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-google-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Google</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-webinars-in-written-form/"><u>In 2024, Webinars in Written Form</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-12-pro-maxipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 12 Pro Max/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-t2-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-complete-guide-to-earnings-via-video-ads-on-youtube-for-2024/"><u>The Complete Guide to Earnings via Video Ads on YouTube for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-potential-of-todays-drones-for-tomorrow/"><u>Unveiling the Potential of Today's Drones for Tomorrow</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-8-best-daw-apps-for-android-to-boost-your-music-production-2023/"><u>Updated In 2024, 8 Best DAW Apps for Android to Boost Your Music Production 2023</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-in-2024-how-i-animate-discord-profile-pictures-and-you-can-too/"><u>Updated In 2024, How I Animate Discord Profile Pictures (& You Can Too)</u></a></li>
+</ul></div>

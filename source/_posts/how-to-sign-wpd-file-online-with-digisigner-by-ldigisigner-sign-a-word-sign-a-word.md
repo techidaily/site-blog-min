@@ -1,7 +1,7 @@
 ---
 title: How to Sign .wpd file Online with DigiSigner
-date: 2024-03-11 12:40:57
-updated: 2024-03-12 19:52:58
+date: 2024-07-17T12:55:54.534Z
+updated: 2024-07-18T12:55:54.534Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to Sign .wpd file Online with DigiSigner
 excerpt: This article describes How to Sign .wpd file Online with DigiSigner
 keywords: .wps file signature online,free sign .dotx file,.wpt file signature service,.docm file signature tool,sign .doc file
-thumbnail: https://www.lifewire.com/thmb/0LHpu91V9jV229cdma0w0BAh3EI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-logo-steering-wheel-25522ee2c5664139948ebfd1cb1df653.jpg
+thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db8bd23e967a3613c122b6663.jpg
 ---
 
 ## 1. How to Sign .wpd file Online with DigiSigner
@@ -23,6 +23,9 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -47,6 +50,9 @@ These detailed instructions demonstrate how to sign a Word document online. Our 
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Word document will be fully available once the upload is completed.
@@ -63,6 +69,9 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/hover-mouse.png)
 
 Feel free to sign Word document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -73,6 +82,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -83,6 +95,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -116,6 +131,9 @@ You can use the standard features of Microsoft Office Word to digitally sign a d
 
 To implement each of the ways to install a digital signature in Word, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
@@ -128,12 +146,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -159,3 +183,52 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-smooth-video-transfer-facebook-integration-with-whatsapp/"><u>[New] 2024 Approved  Smooth Video Transfer  Facebook Integration with WhatsApp</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-amplifying-zoom-picture-quality-insider-secrets/"><u>[Updated] 2024 Approved  Amplifying Zoom Picture Quality  Insider Secrets</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-how-to-add-titlestext-to-video-on-microsoft-photos-in-windows-11/"><u>[Updated] In 2024, How to Add Titles/Text to Video on Microsoft Photos in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pinnacle-plotlines-writers-who-changed-film/"><u>[Updated] Pinnacle Plotlines  Writers Who Changed Film</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-vivo-y02t-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Vivo Y02T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-vivo-y100i-power-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Vivo Y100i Power 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-xiaomi-14-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Xiaomi 14?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Xiaomi Civi 3 Disney 100th Anniversary Edition?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-xiaomi-redmi-13c-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Xiaomi Redmi 13C 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-xiaomi-redmi-note-12-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Xiaomi Redmi Note 12 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-xiaomi-redmi-note-13-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Xiaomi Redmi Note 13 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-zte-nubia-flip-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on ZTE Nubia Flip 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-edge-40-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Edge 40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-galaxy-s23-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Galaxy S23?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-honor-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Honor ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-honor-x7b-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Honor X7b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-htc-u23-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my HTC U23 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-infinix-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Infinix ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-infinix-hot-30i-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Infinix Hot 30i?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-infinix-hot-40-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Infinix Hot 40 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-infinix-note-30-vip-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Infinix Note 30 VIP?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-infinix-smart-8-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Infinix Smart 8?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-magic-6-lite-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Magic 6 Lite?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-motorola-moto-g04-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Motorola Moto G04?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-motorola-razr-40-ultra-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Motorola Razr 40 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-nokia-105-2023-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Nokia 105 (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-nokia-c12-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Nokia C12?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-nubia-red-magic-8s-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Nubia Red Magic 8S Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-oneplus-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my OnePlus ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-oppo-k11-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Oppo K11 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-poco-c50-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Poco C50?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-poco-x5-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Poco X5?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-realme-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Realme ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-realme-c53-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Realme C53?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-realme-gt-5-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Realme GT 5 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-realme-narzo-60x-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Realme Narzo 60x 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-7-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone 7 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-pova-6-pro-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Pova 6 Pro 5GFRP Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-a34-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy A34 5G Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-lava-blaze-2-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Lava Blaze 2 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-transform-your-videos-aspect-ratio-in-a-flash/"><u>New 2024 Approved Transform Your Videos Aspect Ratio in a Flash</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-the-power-of-music-in-videos-for-2024/"><u>New The Power of Music in Videos for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-samsung-galaxy-z-fold-5-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Samsung Galaxy Z Fold 5 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-your-webm-experience-without-spending-money-for-2024/"><u>Streamlining Your WebM Experience Without Spending Money for 2024</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: How to install device drivers manually in Windows 11
-date: 2024-05-19T18:32:13.316Z
+date: 2024-07-17T10:19:52.423Z
 tags: 
   - driver
   - device driver
@@ -18,6 +18,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg)  
 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
@@ -25,6 +28,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category.
 - **Step4**: Right-click the device whose driver you’d like to update, and select `Update Driver`.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/3.jpg) 
 
 - **Step5**: Select Search automatically for updated driver software.
@@ -36,6 +42,9 @@ To update a driver in Device Manager (or to see if Windows thinks it needs updat
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -48,6 +57,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 ## Try Driver Easy for free
@@ -69,6 +81,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -79,6 +94,9 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -113,3 +131,48 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-high-quality-audio-excellence-with-these-mics/"><u>[New] High-Quality Audio Excellence with These Mics</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elite-recording-tools-for-gamers/"><u>[Updated] Elite Recording Tools for Gamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-glimpsing-at-huawei-p10s-thermal-management-tech/"><u>[Updated] Glimpsing at Huawei P10's Thermal Management Tech</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-freeze-frame-perfection-the-best-9-apps-to-record-and-save-animation-on-pc/"><u>[Updated] In 2024, Freeze Frame Perfection  The Best 9 Apps to Record and Save Animation on PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-downloads-for-mac-easy-steps-included/"><u>[Updated] Snapchat Downloads for Mac - Easy Steps Included</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-compendium-for-synchronized-and-curved-videography/"><u>Android's Compendium for Synchronized & Curved Videography</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/discords-prime-locations-to-date-or-fall-in-love/"><u>Discord's Prime Locations to Date or Fall in Love</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-lava-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Lava</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/free-and-value-oriented-mac-audio-editing-suite/"><u>Free & Value-Oriented Mac Audio Editing Suite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-in-windows-7-by-drivereasy-guide/"><u>How to Manually Install a Driver in Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-on-windows-10-by-drivereasy-guide/"><u>How to Manually Install a Driver on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-on-windows-10-and-7-by-drivereasy-guide/"><u>How to Manually Install a Driver on Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-on-windows-11-by-drivereasy-guide/"><u>How to Manually Install a Driver on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-on-windows-11-and-10-by-drivereasy-guide/"><u>How to Manually Install a Driver on Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to Manually Install a Driver on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-on-windows-1110-by-drivereasy-guide/"><u>How to Manually Install a Driver on Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-on-windows-11107-by-drivereasy-guide/"><u>How to Manually Install a Driver on Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-on-windows-7-by-drivereasy-guide/"><u>How to Manually Install a Driver on Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-in-windows-10-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-in-windows-10-and-7-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver in Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-in-windows-11-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-in-windows-11-and-10-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver in Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-in-windows-1110-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver in Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-in-windows-11107-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver in Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-in-windows-7-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver in Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-on-windows-10-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-on-windows-10-and-7-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver on Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-on-windows-11-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-on-windows-11-and-10-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver on Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-on-windows-1110-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver on Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-on-windows-11107-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver on Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-on-windows-7-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver on Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-meizu-21-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Meizu 21 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-meizu-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Meizu Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-motorola-edge-40-pro-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Motorola Edge 40 Pro Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-nokia-c12-plus-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Nokia C12 Plus Without PUK Codes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-5-spotify-playlist-converters-for-creating-youtube-content/"><u>In 2024, Top 5 Spotify Playlist Converters for Creating YouTube Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/maintaining-constant-calc-display-in-windows/"><u>Maintaining Constant Calc Display in Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Oppo Find N3 Flip | Dr.fone</u></a></li>
+</ul></div>

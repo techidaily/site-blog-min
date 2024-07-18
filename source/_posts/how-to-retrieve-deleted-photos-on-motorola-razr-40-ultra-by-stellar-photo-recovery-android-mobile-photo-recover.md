@@ -1,6 +1,6 @@
 ---
 title: How to Retrieve  deleted photos on Motorola Razr 40 Ultra
-date: 2024-05-19T18:32:09.809Z
+date: 2024-07-17T09:33:54.333Z
 tags: 
   - recover
 categories: 
@@ -21,6 +21,9 @@ However, we all make mistakes, sometimes in a hurry or unknowingly, which lead t
 
 But no worries. Here you will know how to recover deleted photos from Android Gallery app. This post shares the best 7 ways worth trying to restore deleted photos on Android devices, both with and without software.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/How-to-Recover-Deleted-Photos-from-Android-Gallery-app.webp)
 
 ## Method 1: Recover Android photos from Google Photos
@@ -34,6 +37,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Motorola Razr 40 Ultra model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
@@ -41,9 +47,24 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -53,6 +74,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -79,6 +103,9 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Select your SD card from the location window. Click **Scan**.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
 
 Watch this video for the step-by-step process to recover Gallery pictures from Android SD card with the help of Stellar Photo Recovery : 
@@ -92,6 +119,9 @@ Watch this video for the step-by-step process to recover Gallery pictures from A
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Recover deleted Gallery from Android internal storage
 
 Mostly Android photos are saved in the internal storage of the Android device. You can recover the permanently deleted Android photos with the help of a recovery software. However, make sure your Motorola Razr 40 Ultra device is rooted and has USB debugging enabled.
@@ -124,6 +154,9 @@ If you had turned on the device backup service, restore the deleted Gallery pict
 
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Motorola Razr 40 Ultra to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -166,6 +199,9 @@ Download the software’s free trial to assess its performance and preview the d
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
 ### Q. How to retrieve deleted Photos on Android Tablet?
@@ -176,10 +212,16 @@ You can follow the methods shared in this post to recover photos from Android ta
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery without backup?
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after factory reset?
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -211,3 +253,55 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-dji-flying-spectrum-standard-vs-upgraded-professional-vs-4k-precision-for-2024/"><u>[New] DJI Flying Spectrum  Standard Vs Upgraded, Professional Vs 4K Precision for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aximize-engagement-with-proper-youtube-video-dimensions/"><u>[New] Maximize Engagement with Proper YouTube Video Dimensions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-visual-storytelling-with-ar-and-luts/"><u>[New] Unlocking Visual Storytelling with AR & LUTs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-boost-production-with-final-cut-pros-top-10-tools/"><u>[Updated] Boost Production with Final Cut Pro's Top 10 Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-convert-youtube-to-igtv-videos-3-ways/"><u>[Updated] How to Convert YouTube to IGTV Videos? [3 Ways]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-elevate-video-branding-incorporating-watermarks-into-youtube-media/"><u>2024 Approved  Elevate Video Branding  Incorporating Watermarks Into YouTube Media</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-world-through-ultra-hd-with-leading-mirrorless-cams/"><u>2024 Approved  Explore the World Through Ultra-HD with Leading Mirrorless Cams</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/3-effective-methods-to-archive-itunes-videos-for-2024/"><u>3 Effective Methods to Archive iTunes Videos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-motorola-moto-g14-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Motorola Moto G14?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-motorola-moto-g24-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Motorola Moto G24?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-motorola-moto-g73-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Motorola Moto G73 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-motorola-razr-40-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Motorola Razr 40 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-nova-y71-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Nova Y71?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-razr-40-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Razr 40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-redmi-note-12-pro-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Redmi Note 12 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-a15-4g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy A15 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-a24-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy A24?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-a25-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy A25 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-a34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy A34 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-f14-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy F14 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-f54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy F54 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-m14-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy M14 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-m34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy M34 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-m34-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy M34?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-s23-fe-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy S23 FE?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-s23-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy S23?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-s24-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy S24?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy Z Flip 5?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy Z Fold 5?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-sony-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Sony ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-u23-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on U23 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-xiaomi-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Xiaomi ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-xiaomi-13-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Xiaomi 13 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Xiaomi Redmi 12?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-xiaomi-redmi-a2plus-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Xiaomi Redmi A2+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-xiaomi-redmi-note-12t-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Xiaomi Redmi Note 12T Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-xiaomi-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Xiaomi Redmi Note 13 Pro+ 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-13t-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on 13T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-14-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on 14 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-civi-3-disney-100th-anniversary-edition-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Civi 3 Disney 100th Anniversary Edition?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-defy-2-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Defy 2?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-essential-guide-to-documenting-macs-roblox-playthroughs/"><u>In 2024, Essential Guide to Documenting Mac's Roblox Playthroughs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incredible-drone-photoshoot-contenders-10/"><u>In 2024, Incredible Drone Photoshoot Contenders #10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-superior-choices-top-5-sd-cards-for-gopro-hero-cameras-8-7/"><u>In 2024, Superior Choices  Top 5 SD Cards for GoPro Hero Cameras (8, 7)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-visual-storytelling-the-cutting-edge-6-instagram-reel-tools-for-2024/"><u>Mastering Visual Storytelling  The Cutting-Edge 6 Instagram Reel Tools for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/perfect-playtime-toy-cars-and-games/"><u>Perfect Playtime  Toy Cars & Games</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-top-12-2d-animation-studios-all-should-check-out/"><u>Updated Top 12 2D Animation Studios All Should Check Out</u></a></li>
+</ul></div>

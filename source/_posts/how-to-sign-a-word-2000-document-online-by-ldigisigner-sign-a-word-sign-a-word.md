@@ -1,7 +1,7 @@
 ---
 title: How to Sign a Word 2000 document online
-date: 2024-03-10 16:40:23
-updated: 2024-03-12 17:24:58
+date: 2024-07-17T12:50:35.889Z
+updated: 2024-07-18T12:50:35.889Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to Sign a Word 2000 document online
 excerpt: This article describes How to Sign a Word 2000 document online
 keywords: .fodt file signature app,sign .dotm file,.ott file signature,.wbk file signature tool,free sign .wbk file,.wbk file signature online
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## 1. How to Sign a Word 2000 document online
@@ -47,22 +47,34 @@ These detailed instructions demonstrate how to sign a Word document online. Our 
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Word document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/hover-mouse.png)
 
 Feel free to sign Word document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -73,6 +85,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -83,6 +98,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -106,6 +124,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Word on Windows
 
 You can use the standard features of Microsoft Office Word to digitally sign a document. There are several options:
@@ -128,6 +149,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -159,3 +183,41 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-metaversal-journey-versus-omniverse-quest/"><u>[Updated] Metaversal Journey Versus Omniverse Quest</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-passport-selfie-maker-top-quality-instant-access-for-desktoponline-use-for-2024/"><u>[Updated] Passport Selfie Maker – Top Quality, Instant Access for Desktop/Online Use for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-best-free-subtitles-and-downloader-guide/"><u>2024 Approved  Best Free Subtitles & Downloader Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/efficiently-edit-your-youtube-videos-using-sony-vegas-for-2024/"><u>Efficiently Edit Your YouTube Videos Using Sony Vegas for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-elements-for-fascinating-vlog-dialogues/"><u>Essential Elements for Fascinating Vlog Dialogues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/extracting-stills-for-windows-11-video-projects/"><u>Extracting Stills for Windows 11 Video Projects</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-samsung-galaxy-s23-tactical-edition-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Samsung Galaxy S23 Tactical Edition? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-samsung-galaxy-s24plus-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Samsung Galaxy S24+ using Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-sony-xperia-1-v-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Sony Xperia 1 V? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-tecno-pova-5-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Tecno Pova 5 using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-tecno-spark-10-4g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Tecno Spark 10 4G using Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-tecno-spark-20-proplus-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Tecno Spark 20 Pro+ using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-vivo-y100a-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Vivo Y100A using Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-vivo-y78-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Vivo Y78 5G using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-pivot-table-of-ms-excel-file-by-stellar-guide/"><u>How to Repair Corrupt Pivot Table of MS Excel File?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-pivot-table-of-ms-excel-file-stellar-by-stellar-guide/"><u>How to Repair Corrupt Pivot Table of MS Excel File? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-pivot-table-of-pdf-file-by-stellar-guide/"><u>How to Repair Corrupt Pivot Table of PDF File?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-pivot-table-of-pdf-file-stellar-by-stellar-guide/"><u>How to Repair Corrupt Pivot Table of PDF File? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-or-damaged-excel-file-with-ease-by-stellar-guide/"><u>How to Repair Corrupted or Damaged Excel File with Ease?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-or-damaged-excel-file-with-ease-stellar-by-stellar-guide/"><u>How to Repair Corrupted or Damaged Excel File with Ease? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF file when manual method fails</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF file when manual method fails | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v10-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF v1.0 file when manual method fails</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v10-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF v1.0 file when manual method fails | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v11-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF v1.1 file when manual method fails</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v11-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF v1.1 file when manual method fails | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oppo-a78-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Oppo A78 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nokia-c12-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nokia C12 Pro Lock Screen Password</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-qanda-strategy-for-attracting-audio-lovers/"><u>In 2024, Innovative Q&A Strategy for Attracting Audio Lovers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-top-5-tips-for-tiktok-success-on-mac/"><u>In 2024, Top 5 Tips for TikTok Success on Mac</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-easy-video-editors-for-beginners-for-2024/"><u>New Easy Video Editors for Beginners for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-audio-video-syncing-in-final-cut-pro-x-2024/"><u>The Ultimate Guide to Audio-Video Syncing in Final Cut Pro X 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-studio-editor-transform-your-videos-with-ease/"><u>YouTube Studio Editor  Transform Your Videos with Ease</u></a></li>
+</ul></div>

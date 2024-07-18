@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Oppo A2
-date: 2024-05-19T18:32:07.967Z
+date: 2024-07-17T09:05:09.463Z
 tags: 
   - recover
 categories: 
@@ -34,6 +34,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
 - Open the Google Photos app on your Android phone
 - Select the photo, which you want to restore
 - Tap on Menu icon (three dots on the top right)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Oppo A2 model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
@@ -44,6 +47,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -77,8 +83,23 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
 
 Watch this video for the step-by-step process to recover Gallery pictures from Android SD card with the help of Stellar Photo Recovery : 
@@ -124,6 +145,9 @@ If you had turned on the device backup service, restore the deleted Gallery pict
 
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Oppo A2 to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -132,11 +156,17 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
 - Enable **Show Hidden Files**. All the .nomedia files will be visible in the phone’s folders. You can delete them now.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 7: Recover Gallery photos from Android cloud backup
 
 Apart from built-in Google cloud backup apps, you might be using other cloud storage such as DropBox or OneDrive etc. If you have enabled Android Gallery backup in any such cloud backup, restore the deleted Gallery photos from there.
@@ -153,6 +183,9 @@ Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc.,
 2. Always ensure some free space on your Oppo A2 device. Use any secure Android cleaner like CCleaner utility.
 3. Regularly delete image cache files in Android, if only image thumbnails are visible.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Wrapping up & FAQ
 
 Backup is a huge respite from accidental deletion or sudden loss of your precious photos from Android Gallery. You can always get back your photos from Google Photos, Google Drive, DropBox, or your phone’s Android backup service.
@@ -166,12 +199,18 @@ Download the software’s free trial to assess its performance and preview the d
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
 ### Q. How to retrieve deleted Photos on Android Tablet?
 
 You can follow the methods shared in this post to recover photos from Android tablet.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -188,6 +227,9 @@ You can recover deleted photos from Android Gallery after factory reset using a 
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after software update?
 
 You can recover deleted photos from Android Gallery after software update using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -211,3 +253,57 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-decrypt-viewer-counts-unveiling-instagram-audience-numbers/"><u>[New] 2024 Approved  Decrypt Viewer Counts  Unveiling Instagram Audience Numbers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-improve-chromium-performance-fb-video-streaming-for-2024/"><u>[New] Improve Chromium Performance  FB Video Streaming for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-adding-joy-to-snaps-the-guide-to-cartoon-filters/"><u>[New] In 2024, Adding Joy to Snaps  The Guide to Cartoon Filters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-age-old-artwork-free-from-modern-constraints/"><u>[Updated] Age-Old Artwork  Free From Modern Constraints</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-how-to-join-someones-live-on-tiktok/"><u>[Updated] In 2024, How to Join Someone's Live on TikTok</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-class-on-vsco-camera-and-lens-for-creative-use/"><u>[Updated] Master Class on VSCO Camera & Lens for Creative Use</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-vector-editing-beyond-magixs-domain/"><u>[Updated] Navigating Vector Editing Beyond Magix's Domain</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comparing-syma-x8c-to-previous-models/"><u>2024 Approved  Comparing Syma X8C to Previous Models</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-maximizing-snapchat-earning-potential-step-by-step/"><u>2024 Approved  Maximizing Snapchat Earning Potential Step by Step</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-navigating-zoom-to-elevate-your-facebook-lives/"><u>2024 Approved  Navigating Zoom to Elevate Your Facebook Lives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enlarged-pictures-maintaining-high-quality-standards/"><u>Enlarged Pictures  Maintaining High-Quality Standards</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/hidden-pitfalls-investing-in-fraudulent-subscribers/"><u>Hidden Pitfalls  Investing in Fraudulent Subscribers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-itel-p55-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Itel P55 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-xlsx-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert sign in .xlsx files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-xltm-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert sign in .xltm files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-xltx-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert sign in .xltx files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-csv-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in .csv files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-xlb-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in .xlb files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-xls-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in .xls files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-xlsm-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in .xlsm files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-xlsx-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in .xlsx files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-xltm-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in .xltm files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-xltx-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in .xltx files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-ext-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in {{ext}} files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2000-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2000 files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2003-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2003 files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2007-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2007 files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2010-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2010 files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2013-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2013 files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2016-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2016 files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2019-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2019 files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2021-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2021 files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-insert-signature-in-excel-2023-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert signature in Excel 2023 files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-device-drivers-manually-in-windows-10-by-drivereasy-guide/"><u>How to install and update device drivers manually in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-device-drivers-manually-in-windows-10-and-7-by-drivereasy-guide/"><u>How to install and update device drivers manually in Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-device-drivers-manually-in-windows-11-by-drivereasy-guide/"><u>How to install and update device drivers manually in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-device-drivers-manually-in-windows-11-and-10-by-drivereasy-guide/"><u>How to install and update device drivers manually in Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-device-drivers-manually-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to install and update device drivers manually in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-device-drivers-manually-in-windows-1110-by-drivereasy-guide/"><u>How to install and update device drivers manually in Windows 11/10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y78plus-t1-edition-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo Y78+ (T1) Edition to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-youtube-sharing-with-google-credentials/"><u>In 2024, Navigating YouTube Sharing with Google Credentials</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-socialmediarecorder-toolkit/"><u>In 2024, SocialMediaRecorder Toolkit</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-f15-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy F15 5G Phone Network-Ready</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-cartoonize-your-videos-the-ultimate-conversion-tutorial/"><u>New 2024 Approved Cartoonize Your Videos The Ultimate Conversion Tutorial</u></a></li>
+<li><a href="https://driver-install.techidaily.com/precision-and-reliability-install-hp-projector-8710-printer-software-windows/"><u>Precision & Reliability - Install HP Projector 8710 Printer Software (Windows)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-ways-to-preserve-and-log-youtube-live-streams/"><u>Top Ways to Preserve and Log YouTube Live Streams</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-in-this-article-we-are-going-to-introduce-you-to-some-of-the-best-lightweight-movie-makers-you-can-easily-use-for-free-on-your-desktop/"><u>Updated 2024 Approved In This Article, We Are Going to Introduce You to some of the Best Lightweight Movie Makers You Can Easily Use for Free on Your Desktop or Phone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-fcpx-freebie-list-10-plugins-you-cant-miss/"><u>Updated The Ultimate FCPX Freebie List 10 Plugins You Cant Miss</u></a></li>
+</ul></div>

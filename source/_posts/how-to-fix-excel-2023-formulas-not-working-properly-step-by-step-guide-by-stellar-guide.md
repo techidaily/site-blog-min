@@ -1,6 +1,6 @@
 ---
 title: How to Fix Excel 2023 Formulas Not Working Properly | Step-by-Step Guide
-date: 2024-05-19T18:32:11.594Z
+date: 2024-07-17T09:56:39.734Z
 tags: 
   - repair
   - repair excel
@@ -20,10 +20,16 @@ keywords: repair excel 2023,repair .xltm,repair excel 2000,repair excel 2010
 
 When working with Excel formulas, situations may arise when the formula doesn’t calculate or update automatically. Or, you may receive errors by clicking on a formula.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Problems Causing the ‘Excel Formulas not Working Properly’ Issue and Solutions
 
 Let’s check out the possible reasons that cause Excel formulas to work properly and solutions to resolve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Problem 1 – Switching Automatic to Manual Calculation Mode
 
 Automatic and manual are the two modes of calculation in Microsoft Excel.
@@ -32,6 +38,9 @@ By default, Excel is set to automatic calculation mode. Everything is recalculat
 
 Excel will not calculate automatically when set to manual calculation mode. And this may make you think that the Excel formula is not working properly.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Change Calculation Mode from Manual to Automatic
 
 To do so, perform these steps:
@@ -41,6 +50,9 @@ To do so, perform these steps:
 
 ![Automatic to Manual Calculation Mode](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/switch-manual-to-automatic-calculation-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Problem 2 – Missing or Mismatched Parentheses
 
 It’s easy to miss or incorrectly place parentheses or include extra parentheses in a complex formula. If a parenthesis is missing or mismatched and you click Enter after entering a formula, Excel displays a message window suggesting to fix the issue (refer to the screenshot below).
@@ -49,6 +61,9 @@ It’s easy to miss or incorrectly place parentheses or include extra parenthese
 
 Clicking ‘Yes’ might help fix the issue. But Excel might not fix the parentheses properly, as it tends to add the missing parentheses at the end of a formula which won’t always be the case.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Check for Visual Cues When Typing or Editing a Formula with Parentheses
 
 When typing a formula or editing one, Excel provides visual cues to determine if there’s an issue with the parentheses inserted in a formula. Checking for these visual cues can help you fix missing/mismatched parentheses.
@@ -61,6 +76,9 @@ When typing a formula or editing one, Excel provides visual cues to determine if
 
 When adding a number in an Excel formula, don’t add any decimal separator or special characters like $ or €. You may use a comma to separate a function’s argument in an Excel formula or use a currency sign like $ or € as part of cell references. Formatting the numbers may prevent the formula from functioning correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Use Format Cells Option for Formatting
 
 Use Format Cells instead of using a comma or currency signs for formatting a number in the formula. For instance, rather than entering a value of $10,000 in your formula, insert 10000, and click the ‘Ctrl+1’ keys together to open the Format Cells dialog box.
@@ -84,6 +102,9 @@ To fix the issue, do the following:
 
 ![Format Cells in Excel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/format-cells-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Problem 5 – Double Quotes to Enclose Numbers
 
 Avoid enclosing numbers in a formula in double-quotes, as the numbers are interpreted as a string value.
@@ -109,10 +130,16 @@ The fix to this issue is pretty simple. You need to look for extra space before 
 - You may see the formula instead of the result if you have accidentally clicked the ‘Show Formulas’ option. So, click on the problematic cell, click on the Formula tab, and then click Show Formulas.
 - If you’re getting an error “Excel found a problem with one or more formula references in this worksheet”, find solutions to fix the error [here](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/).
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This blog discussed some problems you might make causing an Excel formula to stop working properly. Read about these common problems and solutions to fix them. If a problem doesn’t apply in your case, move to the next one. If you cannot retrieve formulas in your Excel sheet, using an [Excel file repair tool](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) like Stellar Repair for Excel can help you restore all the formulas. It does so by repairing the Excel file (XLS/XLSX) and recovering all the components, including formulas.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/03/free-download-windows-2.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 
@@ -133,3 +160,40 @@ This blog discussed some problems you might make causing an Excel formula to sto
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fb-vids-to-mp4-downloader-efficient-and-effective-for-2024/"><u>[New] FB Vids to MP4 Downloader – Efficient & Effective for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-understanding-the-fascinating-universe-of-tiktok-animations-and-memes/"><u>[New] In 2024, Understanding the Fascinating Universe of TikTok Animations and Memes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-viewers-toolkit-assistant/"><u>[New] In 2024, Viewer's Toolkit Assistant</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-watch-in-style-top-8-best-mobile-movies-for-iphones/"><u>[Updated] 2024 Approved  Watch in Style  Top 8 Best Mobile Movies for iPhones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-auroras-vision-in-home-theater-systems-evaluated/"><u>[Updated] Aurora's Vision in Home Theater Systems Evaluated</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-11-pro-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from 11 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-11x-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from 11X 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-tecno-spark-20-proplus-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-v30-lite-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from V30 Lite 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-s17e-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo S17e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-v29e-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo V29e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-x-flip-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo X Flip</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-y100a-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo Y100A</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-y100i-power-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-y17s-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo Y17s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-y200-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo Y200</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-y27-4g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo Y27 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-y78t-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo Y78t</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-x-flip-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from X Flip</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-x100-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from X100 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-x8b-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from X8b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-xiaomi-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Xiaomi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-xiaomi-14-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Xiaomi 14</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-xiaomi-redmi-k70e-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-y36i-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Y36i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-y78plus-t1-edition-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Y78+ (T1) Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-lightweight-recording-tool-windows-compatible/"><u>In 2024, Lightweight Recording Tool, Windows Compatible</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-10-essential-online-waveform-generators-for-audio-enthusiasts/"><u>New 2024 Approved 10 Essential Online Waveform Generators for Audio Enthusiasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-encyclopedia-of-touch-based-gesture-analytics/"><u>The Encyclopedia of Touch-Based Gesture Analytics</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-rated-free-video-editing-tools-for-mp4-files/"><u>Updated 2024 Approved Top-Rated Free Video Editing Tools for MP4 Files</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-premier-virtual-applications-for-deciphering-clearer-soundtracks/"><u>Updated In 2024, Premier Virtual Applications for Deciphering Clearer Soundtracks</u></a></li>
+</ul></div>

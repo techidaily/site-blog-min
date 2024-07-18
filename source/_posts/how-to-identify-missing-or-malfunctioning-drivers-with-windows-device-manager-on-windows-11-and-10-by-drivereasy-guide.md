@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager on Windows 11 & 10
-date: 2024-05-19T18:32:12.924Z
+date: 2024-07-17T10:13:57.080Z
 tags: 
   - driver
   - device driver
@@ -43,6 +43,9 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -63,10 +66,16 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -75,6 +84,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -94,6 +106,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -126,6 +141,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -155,6 +173,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -184,3 +205,46 @@ And without all these drivers, none of your devices will work.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-from-snippets-to-stars-the-essence-of-video-musical-success/"><u>[Updated] 2024 Approved  From Snippets to Stars  The Essence of Video Musical Success</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-exploring-alternate-functions-with-webcams/"><u>[Updated] In 2024, Exploring Alternate Functions with Webcams</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-maximizing-the-impact-the-art-of-using-whiteboards-on-zoom/"><u>[Updated] In 2024, Maximizing the Impact  The Art of Using Whiteboards on Zoom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-photo-fables-the-best-ios-and-android-text-apps-for-pictures/"><u>2024 Approved  Photo Fables  The Best iOS & Android Text Apps for Pictures</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/add-edge-to-insta-videos-a-trifecta-guide-for-2024/"><u>Add Edge to Insta Videos - A Trifecta Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adopting-inshot-the-path-to-improved-laptop-edits/"><u>Adopting Inshot  The Path to Improved Laptop Edits</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-s18-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo S18 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-a14-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy A14 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-samsung-galaxy-s24-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Samsung Galaxy S24</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-sony-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Sony</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-sony-xperia-5-v-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Sony Xperia 5 V</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-tecno-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Tecno</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-tecno-camon-20-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Tecno Camon 20</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-tecno-phantom-v-flip-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Tecno Phantom V Flip</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-tecno-pova-5-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Tecno Pova 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-tecno-pova-5-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-tecno-spark-20-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Tecno Spark 20 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-v29e-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from V29e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-s17-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo S17</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-s17-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo S17 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-s17t-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo S17t</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-s18-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo S18 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-t2x-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo T2x 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-v27e-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo V27e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-x100-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo X100 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-y27s-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo Y27s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-y36-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo Y36</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-y78-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo Y78 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-y78plus-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo Y78+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-x100-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from X100 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-x6-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from X6 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-x9b-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from X9b</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-crack-the-code-how-to-download-audio-from-youtube-with-ease-for-2024/"><u>New Crack the Code How to Download Audio From YouTube with Ease for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mastering-linkedin-video-thumbnails-tips-and-tricks-for-success-for-2024/"><u>New Mastering LinkedIn Video Thumbnails Tips and Tricks for Success for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-mastering-voice-recording-on-your-mac-a-simple-step-by-step-tutorial-for-2024/"><u>New Mastering Voice Recording on Your Mac A Simple Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-shrink-mpeg2-files-get-virtualdub-for-video-compression/"><u>Updated In 2024, Shrink MPEG2 Files Get VirtualDub for Video Compression</u></a></li>
+</ul></div>

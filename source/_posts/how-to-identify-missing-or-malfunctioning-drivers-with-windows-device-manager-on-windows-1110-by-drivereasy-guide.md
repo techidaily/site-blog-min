@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager on Windows 11/10
-date: 2024-05-19T18:32:12.925Z
+date: 2024-07-17T10:13:59.728Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,18 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -32,6 +44,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -67,6 +82,18 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
@@ -75,6 +102,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -97,6 +127,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -105,6 +138,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 
@@ -143,3 +179,47 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-gastronomes-guidebook-culinary-videos/"><u>[New] 2024 Approved  The Gastronome's Guidebook  Culinary Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-windows-best-video-chat-providers-6-1-rated/"><u>[New] 2024 Approved  Windows' Best Video Chat Providers, #6-#1 Rated</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-how-to-quickly-upload-and-load-tiktok-videos/"><u>[New] How to Quickly Upload and Load TikTok Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-alternatives-to-xboxs-game-bar-for-gamers/"><u>[New] In 2024, Alternatives to Xbox’s Game Bar for Gamers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-exploring-the-infinite-a-look-at-lgs-vr-technology/"><u>[New] In 2024, Exploring the Infinite  A Look at LG's VR Technology</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-reno-11f-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo Reno 11F 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/breaking-into-livestreaming-your-pathway-to-youtube-and-twitch-via-obs/"><u>Breaking Into Livestreaming  Your Pathway to YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-oppo-reno-11-pro-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Oppo Reno 11 Pro 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-x50-gt-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor X50 GT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-x50iplus-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor X50i+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-x7b-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor X7b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-x8b-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor X8b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-hot-40-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Hot 40 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-htc-u23-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from HTC U23 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-infinix-gt-10-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Infinix GT 10 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-infinix-hot-30i-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Infinix Hot 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-infinix-hot-40-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Infinix Hot 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-infinix-hot-40-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-infinix-hot-40i-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Infinix Hot 40i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-infinix-note-30-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Infinix Note 30 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-infinix-note-30-vip-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Infinix Note 30 VIP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-infinix-note-30i-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Infinix Note 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-infinix-zero-30-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Infinix Zero 30 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-itel-a70-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Itel A70</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-itel-p40plus-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Itel P40+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-itel-s23plus-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Itel S23+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-lava-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Lava</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-lava-agni-2-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Lava Agni 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-lava-blaze-2-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Lava Blaze 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-lava-blaze-2-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Lava Blaze 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-lava-blaze-2-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-lava-yuva-2-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Lava Yuva 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-magic-6-lite-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Magic 6 Lite</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/immersive-health-experiences-enhanced-care/"><u>Immersive Health Experiences, Enhanced Care</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-free-facebook-link-extractors-top-8-available-for-the-year-23/"><u>In 2024, Free Facebook Link Extractors  Top 8 Available for the Year '23</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-the-chart-toppers-playbook-for-2024/"><u>Navigating the Chart-Toppers' Playbook for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-reno-9a-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo Reno 9A FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/trustworthy-tiktok-audience-growers/"><u>Trustworthy TikTok Audience Growers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-transformation-pics-and-tunes-fusion/"><u>Video Transformation  Pics and Tunes Fusion</u></a></li>
+<li><a href="https://network-issues.techidaily.com/warriors-wrath-gameplay-improved/"><u>Warrior's Wrath: Gameplay Improved</u></a></li>
+</ul></div>

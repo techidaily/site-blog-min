@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on Infinix Note 30i
-date: 2024-05-19T18:32:07.905Z
+date: 2024-07-17T09:04:04.283Z
 tags: 
   - recover
 categories: 
@@ -44,6 +44,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -72,11 +75,17 @@ The software works on damaged, corrupt, formatted, inaccessible mobile SD cards 
 
 In addition, you can also restore your Gallery videos and audio files with the help of Stellar Photo Recovery. It is available for both Windows and Mac computers.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover Gallery photos with Stellar Photo Recovery:
 
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
@@ -100,6 +109,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 
 **Caution**: Rooting makes your Infinix Note 30i phone’s warranty null and void.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover deleted Gallery photos from Android internal storage:
 
 - Download any secure Android recovery software on Windows or Mac computer.
@@ -114,6 +126,9 @@ The location path of the backup function may differ with Android phones. General
 
 For example,
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/image.webp)
 
 - On Xiaomi Redmi phones: Settings> Additional Settings> Backup & reset
@@ -124,6 +139,9 @@ If you had turned on the device backup service, restore the deleted Gallery pict
 
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Infinix Note 30i to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -153,6 +171,9 @@ Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc.,
 2. Always ensure some free space on your Infinix Note 30i device. Use any secure Android cleaner like CCleaner utility.
 3. Regularly delete image cache files in Android, if only image thumbnails are visible.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Wrapping up & FAQ
 
 Backup is a huge respite from accidental deletion or sudden loss of your precious photos from Android Gallery. You can always get back your photos from Google Photos, Google Drive, DropBox, or your phone’s Android backup service.
@@ -168,10 +189,16 @@ Download the software’s free trial to assess its performance and preview the d
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to retrieve deleted Photos on Android Tablet?
 
 You can follow the methods shared in this post to recover photos from Android tablet.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -180,10 +207,16 @@ Yes, you can recover permanently deleted photos from Android with the help of a 
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after factory reset?
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after format?
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -211,3 +244,64 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-quality-videos-a-guide-to-apple-device-screen-recording-for-2024/"><u>[New] Crafting Quality Videos  A Guide to Apple Device Screen Recording for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-stream-to-youtube-facebook-twitch-and-over-30-platforms/"><u>[New] How to Stream to YouTube, Facebook, Twitch and Over 30 Platforms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-a-compreranly-approach-to-high-quality-ps3-video-capture/"><u>[Updated] 2024 Approved  A Compreranly Approach to High-Quality PS3 Video Capture</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-stepwise-guide-integrating-subtitles-into-your-vimeo-content/"><u>[Updated] 2024 Approved  Stepwise Guide  Integrating Subtitles Into Your Vimeo Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-realism-to-fantasy-how-green-screen-paints-new-worlds/"><u>[Updated] From Realism to Fantasy  How Green Screen Paints New Worlds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-get-ahead-with-these-must-know-pixlr-techniques/"><u>2024 Approved  Get Ahead with These Must-Know Pixlr Techniques</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-compute-and-correct-image-dimensions/"><u>2024 Approved Compute and Correct Image Dimensions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-harmonizing-hertz-techniques-for-consistent-audio-levels-across-video-media/"><u>2024 Approved Harmonizing Hertz Techniques for Consistent Audio Levels Across Video Media</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-14-pro-max-waze-drfone-by-drfone-virtual-ios/"><u>7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 14 Pro Max Waze | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-visionary-leap-to-4k-the-eizo-coloredge-monitor-review-for-2024/"><u>A Visionary Leap to 4K  The EIZO ColorEdge Monitor Review for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-your-game-night-3-best-stream-networks-on-switch/"><u>Ace Your Game Night: 3 Best Stream Networks on Switch</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cultivate-creativity-10plus-channel-driven-video-suggestions-for-2024/"><u>Cultivate Creativity  10+ Channel-Driven Video Suggestions for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/eye-on-the-social-scene-top-tweets-of-2023-for-2024/"><u>Eye on the Social Scene  Top Tweets of 2023 for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-odt-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .odt file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-ott-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .ott file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-rtf-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .rtf file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-svd-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .svd file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-txt-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .txt file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-uot-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .uot file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-wbk-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .wbk file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-wpd-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .wpd file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-wps-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .wps file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-wpt-file-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a .wpt file Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xlb-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xlb Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xls-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xls Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xlsm-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xlsm Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xlsx-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xlsx Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xltm-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xltm Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-xltx-using-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Electronically Sign a .xltx Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-jpg-using-digisigner-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to Electronically Sign a JPG Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-pdf-using-digisigner-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to Electronically Sign a PDF Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-electronically-sign-a-word-using-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Electronically Sign a Word Using DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-11-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 11 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-11-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 11 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-11-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 11 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-mini-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 mini Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 Pro Max Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-13-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 13 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-13-mini-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 13 mini Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-13-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 13 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-on-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>How to Screen Share on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-mini-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 mini to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-c32-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia C32</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-amplify-videographic-excellence-choose-from-these-7-audios/"><u>In 2024, Amplify Videographic Excellence - Choose From These 7 Audios</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-13c-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi 13C 5G Fingerprint Lock</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-discovering-top-webinar-platforms/"><u>In 2024, Discovering Top Webinar Platforms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Samsung Galaxy S23+</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-plus-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 Plus</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/macos-11-big-sur-system-and-hardware-requirements/"><u>MacOS 11 Big Sur  System and Hardware Requirements</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-5-best-vob-video-editors-that-wont-break-the-bank/"><u>New 2024 Approved 5 Best VOB Video Editors That Wont Break the Bank</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-adobe-premiere-shortcut-guide-20-essentials/"><u>New 2024 Approved The Ultimate Adobe Premiere Shortcut Guide 20 Essentials</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-11-proplus-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme 11 Pro+ Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/two-titans-clash-in-the-vr-arena-for-2024/"><u>Two Titans Clash in the VR Arena for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Sign .fodt file document with Electronic Digital Signature - (Tutorial)
-date: 2024-03-11 10:23:30
-updated: 2024-03-12 15:39:25
+date: 2024-07-17T12:53:41.450Z
+updated: 2024-07-18T12:53:41.450Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to Sign .fodt file document with Electronic Digital Signature - (Tutorial)
 excerpt: This article describes How to Sign .fodt file document with Electronic Digital Signature - (Tutorial)
 keywords: .wps file signature,.dot file signature best,sign .dotx file online,.doc file signer online,.doc file signature software,.rtf file signature online
-thumbnail: https://www.lifewire.com/thmb/uayRyPYo9UvTUkcunakDixhwqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Robothandholdinganapple-fbe6ff482ed641e188dd6650b9ac132e.jpg
+thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e1719fd0426ca459ec8dc06e9a5.jpg
 ---
 
 ## 1. How to Sign .fodt file document with Electronic Digital Signature - (Tutorial)
@@ -23,6 +23,9 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -47,6 +50,9 @@ These detailed instructions demonstrate how to sign a Word document online. Our 
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Word document will be fully available once the upload is completed.
@@ -69,20 +75,41 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/draw-e-signature.png)
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -128,12 +155,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -159,3 +192,58 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-captivating-readers-with-the-top-5-engaging-book-trailers/"><u>[New] 2024 Approved  Captivating Readers with the Top 5 Engaging Book Trailers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-smartcapture-hd-v2/"><u>[New] 2024 Approved  SmartCapture HD V2</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-comprehensive-compilation-of-world-class-e-learning-sites-minus-udemy-for-2024/"><u>[New] Comprehensive Compilation of World-Class E-Learning Sites (Minus Udemy) for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-all-encompassing-evaluation-gecatas-live-recording/"><u>[New] In 2024, All-Encompassing Evaluation  Gecata's Live Recording</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-behind-the-scenes-the-genesis-of-a-mukbang-video/"><u>[New] In 2024, Behind the Scenes  The Genesis of a Mukbang Video</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-hidden-perspectives-what-youre-ignoring-as-a-stories-viewer/"><u>[New] In 2024, Hidden Perspectives  What You're Ignoring as a Stories Viewer</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-mastering-the-art-of-watermarking-on-facebook-for-2024/"><u>[New] Mastering the Art of Watermarking on Facebook for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-trusted-sources-for-authentic-tiktok-fans/"><u>[Updated] 2024 Approved  Trusted Sources for Authentic TikTok Fans</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-breaking-new-ground-installation-of-windows-11/"><u>[Updated] Breaking New Ground  Installation of Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-gathering-the-good-times-easy-steps-to-download-and-store-twitters-animated-tweets/"><u>[Updated] In 2024, Gathering the Good Times  Easy Steps to Download and Store Twitter's Animated Tweets</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-professional-broadcasting-tools-excluding-obs/"><u>[Updated] Professional Broadcasting Tools Excluding OBS</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-discover-the-magic-behind-effective-youtube-short-videos/"><u>2024 Approved  Discover the Magic Behind Effective YouTube Short Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/converting-srt-into-sub-quick-effective-ways-for-2024/"><u>Converting SRT Into SUB  Quick, Effective Ways for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-fidelity-avi-player-for-portable-and-stationary-use/"><u>High-Fidelity AVI Player for Portable & Stationary Use</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-samsung-galaxy-m34-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Samsung Galaxy M34 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-samsung-galaxy-m34-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Samsung Galaxy M34 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-samsung-galaxy-s21-fe-5g-2023-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Samsung Galaxy S21 FE 5G (2023) Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-samsung-galaxy-s21-fe-5g-2023-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Samsung Galaxy S21 FE 5G (2023) Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-samsung-galaxy-s24-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Samsung Galaxy S24 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-samsung-galaxy-s24plus-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Samsung Galaxy S24+ Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-samsung-galaxy-xcover-6-pro-tactical-edition-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Samsung Galaxy XCover 6 Pro Tactical Edition Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-samsung-galaxy-z-fold-5-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Samsung Galaxy Z Fold 5 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-samsung-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Samsung Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-samsung-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Samsung Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-samsung-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Samsung Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-scalp-and-copy-trading-on-mt4-and-mt5-by-mt4copier-guide/"><u>How to scalp and Copy Trading on MT4 and MT5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-12-mini-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone 12 mini Face ID?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-12-pro-max-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone 12 Pro Max Face ID?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-14-plus-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone 14 Plus Face ID?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-14-pro-max-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone 14 Pro Max Face ID?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-15-pro-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone 15 Pro Face ID?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-6-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone 6 Face ID?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-6s-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone 6s Face ID?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-7-plus-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone 7 Plus Face ID?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-8-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone 8 Face ID?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-se-2020-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone SE (2020) Face ID?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-xr-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone XR Face ID?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-xs-max-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone XS Max Face ID?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-share-your-winning-forex-trades-with-friends-and-family-by-mt4copier-guide/"><u>How to Share Your Winning Forex Trades With Friends and Family</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-share-your-winning-forex-trades-with-friends-and-family-on-local-trade-copier-tm-together-by-mt4copier-guide/"><u>How to Share Your Winning Forex Trades With Friends and Family on Local Trade Copier™ Together</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-csv-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .csv document online</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-csv-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .csv file document online</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-10-best-reaper-plugins-you-need-to-know-for-2024/"><u>New 10 Best Reaper Plugins You Need to Know for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-the-comprehensive-guide-to-ai-powered-audio-clarity/"><u>New 2024 Approved The Comprehensive Guide to AI-Powered Audio Clarity</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-video-tempo-changers-best-free-and-paid-options-for-windows-mac-and-online/"><u>New 2024 Approved Video Tempo Changers Best Free and Paid Options for Windows, Mac, and Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/phantoms-view-droning-action-highlights-for-2024/"><u>Phantom's View  Droning Action Highlights for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/problem-solved-windows-10-monitors-not-displaying-full-windows/"><u>Problem Solved: Windows 10 Monitors Not Displaying Full Windows</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/revolutionary-discothemes-a-top-10-showcase/"><u>Revolutionary DiscoThemes - A Top 10 Showcase</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-progressive-solutions-to-add-vhs-effects-to-video-with-ease/"><u>Updated In 2024, Progressive Solutions to Add VHS Effects to Video with Ease</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-edge-2023-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Edge 2023 Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>

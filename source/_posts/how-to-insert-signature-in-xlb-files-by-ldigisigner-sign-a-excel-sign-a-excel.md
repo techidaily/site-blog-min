@@ -1,7 +1,7 @@
 ---
 title: How to insert signature in .xlb files
-date: 2024-05-19T18:32:13.257Z
-updated: 2024-05-20T18:32:13.257Z
+date: 2024-07-17T10:18:57.760Z
+updated: 2024-07-18T10:18:57.760Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to insert signature in .xlb files
 excerpt: This article describes How to insert signature in .xlb files
 keywords: excel signature app,excel signature best,best sign excel
-thumbnail: https://www.lifewire.com/thmb/5TQ2qNutxP1-2d0Nqc32lnx5qyc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-16-best-shows-to-watch-on-discovery-plus-right-now-5116795-b17411d87cfd4bd690fda5be50ea188c.jpg
+thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4f9c2a1611133710cbbaabe1.jpg
 ---
 
 ## 1. How to insert signature in .xlb files
@@ -49,6 +49,9 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
@@ -59,18 +62,27 @@ In just a few seconds your Excel document will be fully available once the uploa
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -79,6 +91,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -95,6 +110,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -118,10 +136,16 @@ You can use the standard features of Microsoft Office Excel to digitally sign a 
 
 To implement each of the ways to install a digital signature in Excel, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -163,3 +187,53 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-mastering-conversations-and-sharing-in-facebook-world/"><u>[New] 2024 Approved  Mastering Conversations and Sharing in Facebook World</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capturing-your-iphoneipad-display-now/"><u>[New] Capturing Your iPhone/iPad Display Now</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-chortle-central-top-10-tweet-humor-for-2024/"><u>[New] Chortle Central  Top 10 Tweet Humor for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-crafting-a-profitable-channel-in-your-first-youtube-steps/"><u>[New] Crafting a Profitable Channel in Your First Youtube Steps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-to-origins-the-step-by-step-image-trackback/"><u>[Updated] 2024 Approved  Instagram to Origins  The Step-by-Step Image Trackback</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-perfect-pc-playthrough-captures-6-tips-and-tricks/"><u>[Updated] Perfect PC Playthrough Captures  6 Tips and Tricks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-pixelpuzzle-pro-crafting-videos-for-instagallery-for-2024/"><u>[Updated] PixelPuzzle Pro  Crafting Videos for InstaGallery for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/10-exceptional-online-tools-for-crafting-epic-gaming-intros/"><u>10 Exceptional Online Tools for Crafting Epic Gaming Intros</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebook-cover-makeovers-the-most-trusted-design-tools-ranked/"><u>2024 Approved  Facebook Cover Makeovers  The Most Trusted Design Tools Ranked</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-unrestricted-video-editing-top-10-free-online-tools-with-no-watermark/"><u>2024 Approved Unrestricted Video Editing Top 10 Free Online Tools with No Watermark</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hear-got-music-top-sites-to-download-ringtones/"><u>Hear GoT Music - Top Sites to Download Ringtones</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-m14-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy M14 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-15-pro-max-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 15 Pro Max Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-15-pro-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 15 Pro Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-15-pro-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 15 Pro Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-15-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 15 Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-15-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 15 Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-6-plus-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 6 Plus Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-6-plus-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 6 Plus Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-6-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 6 Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-6-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 6 Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-6s-plus-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 6s Plus Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-6s-plus-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 6s Plus Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-6s-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 6s Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-6s-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 6s Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-7-plus-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 7 Plus Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-7-plus-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 7 Plus Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-7-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 7 Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-7-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 7 Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-8-plus-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 8 Plus Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-8-plus-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 8 Plus Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-8-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 8 Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-8-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 8 Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-se-2020-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone SE (2020) Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-se-2020-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone SE (2020) Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-se-2022-storage-not-loadingshowing-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone SE (2022) Storage Not Loading/Showing | Stellar</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-import-and-adjust-the-video-clips-on-wondershare-filmora/"><u>How To Import and Adjust the Video Clips on Wondershare Filmora?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-6-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone 6?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-windows-leading-video-chat-pros-top-8/"><u>In 2024, Windows' Leading Video Chat Pros  Top 8</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-ultimate-avidemux-tutorial-cropping-videos-like-a-pro/"><u>New In 2024, The Ultimate Avidemux Tutorial Cropping Videos Like a Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/real-time-gamcapture-hacks-and-insights-for-2024/"><u>Real-Time GamCapture Hacks and Insights for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/simplifying-the-complexities-of-vr-devices-for-2024/"><u>Simplifying the Complexities of VR Devices for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-game-showdown-top-10-best-ever-adventures/"><u>The Ultimate Game Showdown  Top 10 Best Ever Adventures</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Sign a Word 2003 document online
-date: 2024-03-10 20:48:10
-updated: 2024-03-12 16:16:47
+date: 2024-07-17T12:50:37.044Z
+updated: 2024-07-18T12:50:37.044Z
 tags: 
   - signer
   - signer online
@@ -12,13 +12,16 @@ categories:
 description: This article describes How to Sign a Word 2003 document online
 excerpt: This article describes How to Sign a Word 2003 document online
 keywords: best sign .wpt file,.wpd file signature online,free sign .dotx file,.dot file signature app,.wpt file signature
-thumbnail: https://www.lifewire.com/thmb/HNtneePKuJeaZXX7qZjEwvmSz6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flora_and_Son-f6517d3de531487e89f5e0e99192d13f.jpg
+thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
 ---
 
 ## 1. How to Sign a Word 2003 document online
 
 Electronic Signature in Word is a simple and secure way to sign documents online. It's a legally binding way to sign Word documents, and it's easy to use. You can sign Word documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Word documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
@@ -47,10 +50,16 @@ These detailed instructions demonstrate how to sign a Word document online. Our 
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Word document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -77,12 +86,18 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -93,6 +108,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Word
 
 The ability to leave your signature in electronic format in Word documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -116,10 +134,25 @@ You can use the standard features of Microsoft Office Word to digitally sign a d
 
 To implement each of the ways to install a digital signature in Word, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Word on Windows.
@@ -159,3 +192,44 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capture-lol-fun-top-3-gameplay-recording-tips-for-2024/"><u>[New] Capture LOL Fun  Top 3 Gameplay Recording Tips for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-deletion-methods-for-youtubes-backlogged-video-collection-for-2024/"><u>[New] Deletion Methods for YouTube's Backlogged Video Collection for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-elevated-image-tale-crafting-package-for-2024/"><u>[New] Elevated Image Tale Crafting Package for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-integrated-technique-for-cross-platform-movie-logging-for-2024/"><u>[New] Integrated Technique for Cross-Platform Movie Logging for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-streaming-showdown-obs-vs-twitch/"><u>[New] The Streaming Showdown  OBS vs Twitch</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-elevating-your-work-with-impeccable-thumbnails/"><u>[Updated] 2024 Approved  Elevating Your Work with Impeccable Thumbnails</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-perfecting-live-broadcasts-with-streamlabs-obs-tips/"><u>[Updated] In 2024, Perfecting Live Broadcasts with Streamlabs OBS Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-metamorphose-into-the-metaverse-an-easy-avatar-guide/"><u>[Updated] Metamorphose Into the Metaverse  An Easy Avatar Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-essentials-of-choosing-top-5-web-based-title-innovators/"><u>2024 Approved  Essentials of Choosing Top 5 Web-Based Title Innovators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-cut-trim-and-split-the-best-free-mpeg-video-splitters/"><u>2024 Approved Cut, Trim, and Split The Best Free MPEG Video Splitters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/error-resolution-at-your-fingertips-top-10-tools/"><u>Error Resolution at Your Fingertips: Top 10 Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v12-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF v1.2 file when manual method fails</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v12-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF v1.2 file when manual method fails | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v13-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF v1.3 file when manual method fails</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v13-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF v1.3 file when manual method fails | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v14-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF v1.4 file when manual method fails</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v14-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF v1.4 file when manual method fails | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v15-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF v1.5 file when manual method fails</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v15-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF v1.5 file when manual method fails | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v16-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF v1.6 file when manual method fails</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v16-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF v1.6 file when manual method fails | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v17-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF v1.7 file when manual method fails</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v17-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF v1.7 file when manual method fails | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v20-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF v2.0 file when manual method fails</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v20-file-when-manual-method-fails-stellar-by-stellar-guide/"><u>How to repair corrupted PDF v2.0 file when manual method fails | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-excel-document-on-a-flash-drive-by-stellar-guide/"><u>How to Repair Excel Document on a Flash Drive</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-excel-document-on-a-flash-drive-stellar-by-stellar-guide/"><u>How to Repair Excel Document on a Flash Drive | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-excel-file-name-is-not-valid-error-by-stellar-guide/"><u>How to Repair Excel File Name is Not Valid Error</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-excel-file-name-is-not-valid-error-stellar-by-stellar-guide/"><u>How to Repair Excel File Name is Not Valid Error | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-excel-files-after-windows-upgrade-by-stellar-guide/"><u>How to Repair Excel Files after Windows Upgrade</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-excel-files-after-windows-upgrade-stellar-by-stellar-guide/"><u>How to Repair Excel Files after Windows Upgrade | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rapid-reference-green-screen-basics/"><u>In 2024, Rapid Reference  Green Screen Basics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-step-into-successful-online-broadcasting-top-youtube-webcam-choices/"><u>In 2024, Step Into Successful Online Broadcasting  Top YouTube Webcam Choices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-twitter-video-aspect-ratio-made-easy-quick-reference-guide/"><u>Updated In 2024, Twitter Video Aspect Ratio Made Easy Quick Reference Guide</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos on G310
-date: 2024-05-19T18:32:07.870Z
+date: 2024-07-17T09:03:25.202Z
 tags: 
   - recover
 categories: 
@@ -37,6 +37,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Nokia G310 model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Recover Gallery photos from Google Drive
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
@@ -53,6 +56,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -72,6 +78,9 @@ The software works on damaged, corrupt, formatted, inaccessible mobile SD cards 
 
 In addition, you can also restore your Gallery videos and audio files with the help of Stellar Photo Recovery. It is available for both Windows and Mac computers.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover Gallery photos with Stellar Photo Recovery:
 
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
@@ -106,6 +115,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 - Connect the rooted Android phone with your PC or Mac.
 - Launch the software, select the Android device to scan and follow the prompts in the software.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 5: Restore photos with inbuilt Android backup services
 
 These days, Android phone manufacturers provide their own inbuilt backup functions in the devices. You can back up your Nokia G310 phone’s app data to the phone’s cloud backup, local backup, Google backup, or external storage. The options vary with the mobile phone brands. Some mobile phones like Huawei even have a builtin backup app.
@@ -122,8 +134,14 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Nokia G310 to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -132,6 +150,9 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
@@ -143,6 +164,9 @@ Apart from built-in Google cloud backup apps, you might be using other cloud sto
 
 The benefit of cloud backup is that you can recover deleted smartphone photos from any device simply by login into the account.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Cloud-backup-in-Android-Xiaomi-768x469.webp)
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
@@ -153,6 +177,9 @@ Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc.,
 2. Always ensure some free space on your Nokia G310 device. Use any secure Android cleaner like CCleaner utility.
 3. Regularly delete image cache files in Android, if only image thumbnails are visible.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Wrapping up & FAQ
 
 Backup is a huge respite from accidental deletion or sudden loss of your precious photos from Android Gallery. You can always get back your photos from Google Photos, Google Drive, DropBox, or your phone’s Android backup service.
@@ -176,10 +203,16 @@ You can recover deleted Gallery pictures from the Google Photos app’s Trash or
 - Click Trash or Bin.
 - Touch and hold the photo you want to restore and tap Restore.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery without backup?
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -215,3 +248,57 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-29-cost-free-youtube-sound-extractors-free-youtube-audio-downloads/"><u>[New] 2024 Approved  29 Cost-Free YouTube Sound Extractors  Free YouTube Audio Downloads</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-creating-captivating-vimeo-video-content/"><u>[New] 2024 Approved  Creating Captivating Vimeo Video Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-step-by-step-installed-vrecorder-software/"><u>[New] 2024 Approved  Step-by-Step  Installed VRecorder Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-explore-9-simple-and-economical-editing-solutions-for-your-projects-for-2024/"><u>[New] Explore 9 Simple & Economical Editing Solutions for Your Projects for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-boost-connectivity-discover-the-best-5-chrome-tools-for-facebook-videos/"><u>[Updated] Boost Connectivity  Discover the Best 5 Chrome Tools for Facebook Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-focus-frameworks-key-tools-to-brighten-videos/"><u>[Updated] Focus Frameworks  Key Tools to Brighten Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-free-online-conversion-6-best-tiktop-to-mp3-extractors-for-2024/"><u>[Updated] Free Online Conversion  6 Best TikTop to MP3 Extractors for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-create-a-heartfel/"><u>2024 Approved Create a Heartfel</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/enhancing-virtual-meetings-how-to-use-discord-for-screenshots-for-2024/"><u>Enhancing Virtual Meetings  How to Use Discord for Screenshots for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-music/"><u>How to restore wiped music on Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-gionee-f3-pro-by-fonelab-android-recover-music/"><u>How to restore wiped music on Gionee F3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-google-pixel-7a-by-fonelab-android-recover-music/"><u>How to restore wiped music on Google Pixel 7a</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-google-pixel-fold-by-fonelab-android-recover-music/"><u>How to restore wiped music on Google Pixel Fold</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-100-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor 100</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-100-pro-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor 100 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-70-lite-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor 70 Lite 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-90-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor 90</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-90-gt-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor 90 GT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-magic-6-lite-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor Magic 6 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-magic-v2-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor Magic V2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-play-40c-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor Play 40C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-x50i-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor X50i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-x7b-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor X7b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-x8b-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor X8b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-hot-40i-by-fonelab-android-recover-music/"><u>How to restore wiped music on Hot 40i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-htc-u23-by-fonelab-android-recover-music/"><u>How to restore wiped music on HTC U23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-htc-u23-pro-by-fonelab-android-recover-music/"><u>How to restore wiped music on HTC U23 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-huawei-nova-y71-by-fonelab-android-recover-music/"><u>How to restore wiped music on Huawei Nova Y71</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-huawei-p60-by-fonelab-android-recover-music/"><u>How to restore wiped music on Huawei P60</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-hot-30i-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Hot 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-hot-40-pro-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-note-30-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Note 30</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-note-30-pro-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Note 30 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-note-30i-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Note 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-smart-8-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Smart 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-zero-30-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Zero 30 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-itel-a70-by-fonelab-android-recover-music/"><u>How to restore wiped music on Itel A70</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-itel-p40plus-by-fonelab-android-recover-music/"><u>How to restore wiped music on Itel P40+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-itel-p55-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Itel P55 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-lava-by-fonelab-android-recover-music/"><u>How to restore wiped music on Lava</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-lava-agni-2-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Lava Agni 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-lava-blaze-pro-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-lava-yuva-2-by-fonelab-android-recover-music/"><u>How to restore wiped music on Lava Yuva 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-magic-6-by-fonelab-android-recover-music/"><u>How to restore wiped music on Magic 6</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-navigating-mobile-technology-for-snapchat-archive/"><u>In 2024, Navigating Mobile Technology for Snapchat Archive</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/master-your-thumbnails-with-these-20-top-fonts/"><u>Master Your Thumbnails with These 20 Top Fonts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-affordable-sound-mastery-the-best-free-audio-editor-applications-for-windows-and-macos-users-today/"><u>New 2024 Approved Affordable Sound Mastery The Best Free Audio Editor Applications for Windows & macOS Users Today</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-bridging-audio-gaps-how-to-convert-your-mp3-playlists-to-mp4/"><u>New In 2024, Bridging Audio Gaps How to Convert Your MP3 Playlists to MP4</u></a></li>
+</ul></div>

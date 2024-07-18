@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 10 & 7
-date: 2024-05-19T18:32:12.906Z
+date: 2024-07-17T10:13:39.482Z
 tags: 
   - driver
   - device driver
@@ -19,12 +19,18 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -40,6 +46,18 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 ## Try Driver Easy for free
@@ -68,6 +86,9 @@ Here’s how Driver Easy works:
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/IXfcOn7SSHY" title="Driver Easy Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Step-by-step instructions
 
 To automatically update to the correct version of all the drivers that are missing or out of date on your system:
@@ -87,6 +108,9 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
@@ -109,6 +133,9 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -143,3 +170,67 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-innovating-with-jujutsu-kaisen-characters-on-tiktok/"><u>[New] 2024 Approved  Innovating with Jujutsu Kaisen Characters on TikTok</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-non-microsoft-methods-for-game-session-recording/"><u>[New] 2024 Approved  Non-Microsoft Methods for Game Session Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-nvidia-game-capturer-simple-gaming-sessions/"><u>[New] 2024 Approved  NVIDIA Game Capturer  Simple Gaming Sessions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-core-concepts-of-story-making/"><u>[New] Core Concepts of Story Making</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-download-all-youtube-images-for-free/"><u>[New] Download All YouTube Images for Free!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-archive-mastery-how-and-why/"><u>[New] In 2024, Instagram Archive Mastery  How and Why?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-integrating-diverse-iphone-media-formats-together/"><u>[New] Integrating Diverse iPhone Media Formats Together</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-earning-edge-exploiting-youtube-studio-for-global-viewers-for-2024/"><u>[Updated] Earning Edge  Exploiting YouTube Studio for Global Viewers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-steps-to-access-high-rate-youtube-likes/"><u>[Updated] Quick Steps to Access High-Rate YouTube Likes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unveiling-the-premier-5-windows-snipping-apps/"><u>[Updated] Unveiling the Premier 5 Windows Snipping Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-crafting-conversational-slides-with-powerpoints-speech-features/"><u>2024 Approved  Crafting Conversational Slides with PowerPoint's Speech Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-insta-wonders-top-9-habits-of-influencers-and-stars/"><u>2024 Approved  Insta Wonders  Top 9 Habits of Influencers and Stars</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-scripting-a-captivating-cinematic-sketchpad/"><u>2024 Approved  Scripting a Captivating Cinematic Sketchpad</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fast-track-to-flawless-podcast-live/"><u>Fast Track to Flawless Podcast Live</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-8-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 8 Plus in the Best Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-x50iplus-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor X50i+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-honor-x8b-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Honor X8b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-htc-u23-by-fonelab-android-recover-video/"><u>How to restore wiped videos on HTC U23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-htc-u23-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on HTC U23 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-huawei-nova-y71-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Huawei Nova Y71</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-huawei-nova-y91-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Huawei Nova Y91</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-huawei-p60-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Huawei P60</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-hot-40-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Hot 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-hot-40-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-hot-40i-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Hot 40i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-note-30-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Note 30 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-note-30-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Note 30 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-note-30-vip-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Note 30 VIP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-note-30i-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Note 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-smart-7-hd-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Smart 7 HD</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-smart-8-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Smart 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-infinix-zero-30-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Infinix Zero 30 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-itel-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Itel</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-itel-a60-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Itel A60</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-itel-p40-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Itel P40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-itel-p55-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Itel P55</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-itel-s23plus-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Itel S23+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-lava-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Lava</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-lava-blaze-2-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Lava Blaze 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-lava-blaze-2-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-lava-blaze-pro-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-lava-yuva-2-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Lava Yuva 2 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-magic-5-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Magic 5 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-magic-6-lite-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Magic 6 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-magic-vs-2-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Magic Vs 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-meizu-21-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Meizu 21</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-motorola-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Motorola</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-motorola-edge-2023-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Motorola Edge 2023</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-motorola-edgeplus-2023-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-motorola-moto-g-stylus-2023-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instructions-on-integrating-audio-into-unboxings-for-2024/"><u>Instructions on Integrating Audio Into Unboxings for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/integrating-extra-footage-crafting-engaging-visual-narratives/"><u>Integrating Extra Footage  Crafting Engaging Visual Narratives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/producing-channel-trailer-synopses-a-guide-for-2024/"><u>Producing Channel Trailer Synopses  A Guide for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/structure-your-storytelling-with-chapter-tags-in-vimeo-videos/"><u>Structure Your Storytelling with Chapter Tags in Vimeo Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-playbook-winning-at-ps1-gaming-on-windows-duckstation-edition/"><u>The Ultimate Playbook: Winning at PS1 Gaming on Windows - Duckstation Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-selection-of-photo-beauty-enhancers-iosandroid/"><u>Ultimate Selection of Photo Beauty Enhancers (iOS/Android)</u></a></li>
+</ul></div>

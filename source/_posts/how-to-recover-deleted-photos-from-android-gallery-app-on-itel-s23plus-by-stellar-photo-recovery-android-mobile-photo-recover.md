@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Photos from Android Gallery App on Itel S23+
-date: 2024-05-19T18:32:07.455Z
+date: 2024-07-17T08:56:00.014Z
 tags: 
   - recover
 categories: 
@@ -44,6 +44,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -53,6 +56,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -77,8 +83,14 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
 
 Watch this video for the step-by-step process to recover Gallery pictures from Android SD card with the help of Stellar Photo Recovery : 
@@ -92,6 +104,9 @@ Watch this video for the step-by-step process to recover Gallery pictures from A
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Recover deleted Gallery from Android internal storage
 
 Mostly Android photos are saved in the internal storage of the Android device. You can recover the permanently deleted Android photos with the help of a recovery software. However, make sure your Itel S23+ device is rooted and has USB debugging enabled.
@@ -122,8 +137,23 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Itel S23+ to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -132,6 +162,9 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
@@ -166,8 +199,14 @@ Download the software’s free trial to assess its performance and preview the d
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. What to do if I can’t find my Gallery photos in Google Photos and Google Drive?
 
 If the photos are permanently deleted from Google Drive and Google Photos, you may take the help of the [Google Drive support team](https://support.google.com/drive/?hl=en#topic=14940). Another quick solution is to use a photo recovery software to retrieve lost pictures from Android internal storage and SD card by using the steps given in this post.
@@ -182,6 +221,9 @@ Yes, you can recover permanently deleted photos from Android with the help of a 
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after factory reset?
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -213,3 +255,63 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-shining-a-light-on-phony-connections-in-facebook-marketing-for-2024/"><u>[New] Shining a Light on Phony Connections in Facebook Marketing for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-unfiltered-guide-to-everyday-video-content/"><u>[New] The Unfiltered Guide to Everyday Video Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gamer-gold-grindings-pewdiepies-profit-profile/"><u>[Updated] Gamer Gold Grindings  PewDiePie's Profit Profile</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-dungeon-dominance-top-ten-rogue-classics/"><u>[Updated] In 2024, Dungeon Dominance  Top Ten Rogue Classics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-vs-paid-gaming-entrances-top-12-insights-for-youtube-gamers/"><u>[Updated] In 2024, Free vs Paid Gaming Entrances  Top 12 Insights for YouTube Gamers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-mysterious-virtual-trove-anonymitys-hidden-gems-of-2023/"><u>[Updated] In 2024, The Mysterious Virtual Trove - Anonymity's Hidden Gems of 2023</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unplanned-tiktok-refresh-can-i-regain-previous-views-for-2024/"><u>[Updated] Unplanned TikTok Refresh  Can I Regain Previous Views for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-comprehensive-commentary-delving-deep-into-bublcams-360-degree-world/"><u>2024 Approved  Comprehensive Commentary  Delving Deep Into Bublcam's 360-Degree World</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-redmi-12-5g-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oneplus-nord-ce-3-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How OnePlus Nord CE 3 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-u23-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your U23?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-v-purse-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your V Purse?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-vivo-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Vivo ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-vivo-s17-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Vivo S17 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-vivo-s17t-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Vivo S17t?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-vivo-t2-pro-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Vivo T2 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-vivo-v27e-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Vivo V27e?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-vivo-v29-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Vivo V29 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-vivo-v30-lite-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Vivo V30 Lite 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-vivo-y100-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Vivo Y100 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-vivo-y77t-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Vivo Y77t?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-xiaomi-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Xiaomi ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-xiaomi-13t-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Xiaomi 13T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Xiaomi Redmi Note 12 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Xiaomi Redmi Note 12T Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-y28-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Y28 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-y36i-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Y36i?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-y78t-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Y78t?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-zero-5g-2023-turbo-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Zero 5G 2023 Turbo?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-zte-axon-40-lite-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your ZTE Axon 40 Lite?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-zte-blade-a73-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your ZTE Blade A73 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-zte-nubia-z60-ultra-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your ZTE Nubia Z60 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-105-classic-by-fonelab-android-recover-messages/"><u>How to recover old messages from your 105 Classic</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-10t-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your 10T 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-12-pro-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your 12 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-12-proplus-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your 12 Pro+ 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-asus-rog-phone-8-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Asus ROG Phone 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-asus-rog-phone-8-pro-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-c65-by-fonelab-android-recover-messages/"><u>How to recover old messages from your C65</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-edge-40-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Edge 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-g42-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your G42 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-galaxy-z-flip-5-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Galaxy Z Flip 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-galaxy-z-fold-5-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Galaxy Z Fold 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-gionee-f3-pro-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Gionee F3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-google-pixel-8-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Google Pixel 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-google-pixel-8-pro-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Google Pixel 8 Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone 8 Plus</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-discover-15-superior-snap-strategies/"><u>In 2024, Discover 15 Superior Snap Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-experts-choice-best-free-photo-tools-for-os-xwindows/"><u>In 2024, Expert's Choice  Best Free Photo Tools for OS X/Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-7-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 7 with iTunes | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-supplementary-video-for-enhanced-storytelling/"><u>In 2024, Mastering Supplementary Video for Enhanced Storytelling</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-preserve-and-organize-transforming-snaps-into-gallery-photos/"><u>In 2024, Preserve and Organize  Transforming Snaps Into Gallery Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-crossfade-audio-transitions/"><u>In 2024, Understanding Crossfade Audio Transitions</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713962719324-new-do-you-want-to-use-a-video-editor-for-your-ios-device-this-article-introduces-lumafusion-a-perfect-multi-track-video-editor-designed-to-cater-to-your-ne/"><u>New Do You Want to Use a Video Editor for Your iOS Device? This Article Introduces LumaFusion, a Perfect Multi-Track Video Editor Designed to Cater to Your Needs for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-5-election-simulation-games-for-2024/"><u>Top 5 Election Simulation Games for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/windows-10-mov-recording-guide-for-2024/"><u>Windows 10 MOV Recording Guide for 2024</u></a></li>
+</ul></div>

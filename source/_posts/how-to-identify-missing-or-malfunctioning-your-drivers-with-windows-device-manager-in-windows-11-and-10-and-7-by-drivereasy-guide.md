@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11 & 10 & 7
-date: 2024-05-19T18:32:12.944Z
+date: 2024-07-17T10:14:27.008Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -32,6 +35,18 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -44,6 +59,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 ## Download Driver Easy FREE
@@ -66,6 +84,9 @@ This page describes how to do this.
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you can’t rely on Windows to keep your drivers up-to-date
 
 Windows comes with an inbuilt tool, called ‘Windows Update’, that’s supposed to automatically keep your drivers up to date. Unfortunately, it doesn’t work very well.
@@ -76,6 +97,9 @@ There are two reasons why…
 
 - Windows Update ignores driver updates it considers ‘optional’ – It categorizes driver updates as either ‘critical’, ‘automatic’ or ‘optional’, and it doesn’t usually concern itself with the ‘optional’ ones – even when they’re actually important. You can install them manually by going to the ‘Optional updates’ screen but, even then, as described above, you’re unlikely to get all the latest drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## How to update all your drivers with just 1 click
 
 The easiest way to automatically update your drivers is with our tool, Driver Easy Pro.
@@ -130,6 +154,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -138,12 +165,23 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -233,3 +271,44 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-6-superior-android-screen-capture-apps/"><u>[Updated] 2024 Approved  6 Superior Android Screen Capture Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-crafting-professional-gamers-content-with-obs-recordings/"><u>[Updated] Crafting Professional Gamers' Content with OBS Recordings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-peek-into-past-posts-panel/"><u>[Updated] In 2024, Peek Into Past Posts Panel</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-iphone-slow-motion-shooting-essentials-for-2024/"><u>[Updated] IPhone Slow Motion Shooting Essentials for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-the-secrets-of-instagram-scheduling-for-2024/"><u>[Updated] Unlocking the Secrets of Instagram Scheduling for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-coding-standards-is-av1-outclassing-vp9-in-2024/"><u>Advanced Coding Standards  Is AV1 Outclassing VP9, In 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-x50-lock-screen-password-by-drfone-android/"><u>How To Change Honor X50 Lock Screen Password?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2007-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2007 document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2007-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2007 electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2007-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2007 free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2010-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2010 document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2010-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2010 electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2010-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2010 free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2013-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2013 document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2013-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2013 electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2013-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2013 free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2016-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2016 document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2016-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2016 electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2016-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2016 free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2019-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2019 document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2019-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2019 electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2019-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2019 free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2021-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2021 document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2021-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2021 electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2021-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2021 free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2023-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2023 document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2023-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2023 electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2023-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2023 free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign Word document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign Word document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-merge-videos-without-watermarks-top-5-tools/"><u>New In 2024, Merge Videos Without Watermarks Top 5 Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-essential-guide-to-understanding-youtubes-earnings-mechanics-cpm/"><u>The Essential Guide to Understanding YouTube's Earnings Mechanics (CPM)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-tale-of-two-platforms-youtube-and-dailymention-for-2024/"><u>The Tale of Two Platforms  YouTube and DailyMention for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/thumbnail-and-banner-strategies-for-online-success/"><u>Thumbnail & Banner Strategies for Online Success</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-y27-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo Y27 5G Phones</u></a></li>
+</ul></div>

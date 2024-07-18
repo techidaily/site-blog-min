@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager on Windows 11
-date: 2024-05-19T18:32:12.736Z
+date: 2024-07-17T10:11:48.717Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -32,6 +35,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why update your drivers in Windows 11, 10 & Windows 7?
 
 Many computer issues are caused by outdated device drivers. Particularly in Windows 10/11.
@@ -71,6 +77,9 @@ This page describes how to do this.
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -99,6 +108,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -108,6 +120,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 - We test on all current versions of Windows – On each test PC, we install and test thoroughly on Windows 11 32-bit, Windows 11 64-bit, Windows 10 32 bit, Windows 10 64-bit, Windows 7 32-bit and Windows 7 64-bit.
 - We test with popular programs installed – On each installation of Windows, we also install a variety of popular software programs before testing the driver (e.g. various versions of Microsoft Office, antivirus products and video players).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here’s our full testing process
 
 We subject all new drivers to a battery of tests.
@@ -144,6 +159,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -188,3 +206,56 @@ Once we’ve located an alternative driver, we start over at step 1 of our testi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-amplify-visual-appeal-in-tiktok-clips/"><u>[New] Amplify Visual Appeal in TikTok Clips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-aligning-brands-with-youtube-content/"><u>[New] The Art of Aligning Brands with YouTube Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-discovering-top-5-fluids-in-virtual-playgrounds/"><u>[Updated] Discovering Top 5 Fluids in Virtual Playgrounds</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-depth-dive-perfecting-the-art-of-green-screen-with-kinemaster-for-2024/"><u>[Updated] In-Depth Dive  Perfecting the Art of Green Screen with Kinemaster for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/15-synergistic-tasks-for-the-contemporary-audio-aficionado/"><u>15 Synergistic Tasks for the Contemporary Audio Aficionado</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-adobes-quick-guide-for-perfect-photo-colors/"><u>2024 Approved  Adobe's Quick Guide for Perfect Photo Colors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-handbook-for-incorporating-music-into-ppt/"><u>2024 Approved  The Essential Handbook for Incorporating Music Into PPT</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-honor-play-8t-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Honor Play 8T.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-s17-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo S17</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-t2x-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo T2x 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-v27e-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo V27e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-v30-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo V30</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-y02t-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo Y02T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-y100i-power-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-y200-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo Y200</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-y28-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo Y28 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-y77t-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo Y77t</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-y78-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo Y78 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-x5-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from X5 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-x50-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from X50</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-xiaomi-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Xiaomi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-xiaomi-13t-pro-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Xiaomi 13T Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-xiaomi-civi-3-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Xiaomi Civi 3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-xiaomi-civi-3-disney-100th-anniversary-edition-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-xiaomi-mix-fold-3-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-xiaomi-redmi-13c-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-xiaomi-redmi-k70-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Xiaomi Redmi K70</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-y02t-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Y02T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-y78plus-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Y78+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-y78plus-t1-edition-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Y78+ (T1) Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-zte-nubia-flip-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from ZTE Nubia Flip 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-zte-nubia-z60-ultra-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-11-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from 11 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-12-proplus-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from 12 Pro+ 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-21-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from 21?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-a18-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from A18?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-a1x-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from A1x 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-a70-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from A70?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-ace-2-pro-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Ace 2 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-asus-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Asus ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Asus ROG Phone 7 Ultimate?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-asus-rog-phone-8-pro-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Asus ROG Phone 8 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-asus-rog-phone-8-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Asus ROG Phone 8?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-civi-3-disney-100th-anniversary-edition-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Civi 3 Disney 100th Anniversary Edition?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-fix-full-screen-error-in-obs/"><u>In 2024, How to Fix Full Screen Error in OBS</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-best-spotify-ripper-how-to-rip-music-from-spotify/"><u>New 2024 Approved Best Spotify Ripper How to Rip Music From Spotify?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smirk-stash-ultimate-guide-to-free-meme-templates-for-2024/"><u>Smirk Stash  Ultimate Guide to FREE Meme Templates for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-ultimate-guide-to-audiovisual-excellence-in-music-videos/"><u>Updated 2024 Approved Ultimate Guide to Audiovisual Excellence in Music Videos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
+</ul></div>

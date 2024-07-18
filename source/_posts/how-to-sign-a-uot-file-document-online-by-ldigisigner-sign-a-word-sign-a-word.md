@@ -1,7 +1,7 @@
 ---
 title: How to Sign a .uot file document online
-date: 2024-03-09 18:59:19
-updated: 2024-03-12 17:25:47
+date: 2024-07-17T12:50:33.385Z
+updated: 2024-07-18T12:50:33.385Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to Sign a .uot file document online
 excerpt: This article describes How to Sign a .uot file document online
 keywords: sign .svd file,.txt file signature app,.fodt file signature tool,.dotm file signature online,.ott file signature best
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## 1. How to Sign a .uot file document online
@@ -23,6 +23,9 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -47,10 +50,16 @@ These detailed instructions demonstrate how to sign a Word document online. Our 
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Word document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -73,10 +82,16 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -93,6 +108,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Word
 
 The ability to leave your signature in electronic format in Word documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -106,6 +124,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Word on Windows
 
 You can use the standard features of Microsoft Office Word to digitally sign a document. There are several options:
@@ -128,6 +149,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -159,3 +183,43 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-beginners-shooting-companion-top-cameras-reviewed/"><u>[New] Beginner's Shooting Companion  Top Cameras Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quickscreen-recorder-plus-guided-soundtrack-companion/"><u>[Updated] QuickScreen Recorder + Guided Soundtrack Companion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/aviations-top-10-hexa-flight-titans/"><u>Aviation's Top 10 Hexa-Flight Titans</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-spectacular-hdr-images-blending-tips-in-adobe-lightroom-for-2024/"><u>Crafting Spectacular HDR Images  Blending Tips in Adobe Lightroom for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2021-files-by-stellar-guide/"><u>How to Repair Corrupt Excel 2021 Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2021-files-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2021 Files | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2021-workbook-by-stellar-guide/"><u>How to Repair Corrupt Excel 2021 Workbook?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2021-workbook-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2021 Workbook? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2023-files-by-stellar-guide/"><u>How to Repair Corrupt Excel 2023 Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2023-files-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2023 Files | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2023-workbook-by-stellar-guide/"><u>How to Repair Corrupt Excel 2023 Workbook?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2023-workbook-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2023 Workbook? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-workbook-by-stellar-guide/"><u>How to Repair Corrupt Excel Workbook?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-workbook-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel Workbook? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-apple-iphone-15-pro-max-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Apple iPhone 15 Pro Max? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-asus-rog-phone-8-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Asus ROG Phone 8 with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-honor-70-lite-5g-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Honor 70 Lite 5G with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-honor-x50i-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Honor X50i with Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-huawei-nova-11-pro-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Huawei Nova 11 Pro with Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-huawei-nova-12-ultra-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Huawei Nova 12 Ultra with Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-huawei-nova-y91-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Huawei Nova Y91 with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-infinix-note-30-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Infinix Note 30 with Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-infinix-smart-8-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Infinix Smart 8? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-itel-a05s-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Itel A05s with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-lava-yuva-2-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Lava Yuva 2 with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-motorola-moto-g-5g-2023-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Motorola Moto G 5G (2023) with Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-motorola-moto-g04-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Motorola Moto G04 with Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-oppo-a2-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Oppo A2 with Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-oppo-reno-10-proplus-5g-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Oppo Reno 10 Pro+ 5G with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-tecno-spark-10c-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Tecno Spark 10C to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-tactics-for-spotify-ad-mastery-for-2024/"><u>Innovative Tactics for Spotify Ad Mastery for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/maximizing-view-count-secrets-to-staff-picks-on-vimeo-for-2024/"><u>Maximizing View Count  Secrets to Staff Picks on Vimeo for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-composers-handbook-to-instagram-and-music-rights/"><u>The Composer's Handbook to Instagram and Music Rights</u></a></li>
+<li><a href="https://win11.techidaily.com/top-windows-compatible-nds-emulators/"><u>Top Windows Compatible NDS Emulators</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs/"><u>Transformative Tutorial  Turning Vids on Twitter Into Catchy Animated Memes (GIFs)</u></a></li>
+</ul></div>

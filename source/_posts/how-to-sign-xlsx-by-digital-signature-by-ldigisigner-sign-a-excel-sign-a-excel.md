@@ -1,7 +1,7 @@
 ---
 title: How to sign .xlsx by digital signature
-date: 2024-03-09 20:26:54
-updated: 2024-03-12 23:48:30
+date: 2024-07-17T12:56:33.646Z
+updated: 2024-07-18T12:56:33.646Z
 tags: 
   - signer
   - signer online
@@ -12,13 +12,16 @@ categories:
 description: Free .xlsx signature service to sign .xlsx online. Add signature to .xlsx documents with our .xlsx signer. No registration or installation required | DigiSigner
 excerpt: Free .xlsx signature service to sign .xlsx online. Add signature to .xlsx documents with our .xlsx signer. No registration or installation required | DigiSigner
 keywords: sign a excel,excel signature online,.xlsx signer online
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## 1. How to sign .xlsx by digital signature
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
@@ -49,10 +52,25 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -65,6 +83,9 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -75,10 +96,16 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -130,6 +157,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -151,6 +181,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +194,55 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free/"><u>[New] In 2024, From Buffer to Broadcast  Learn How to Convert Your YouTube Viewing Into a Screenshot for Free</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-insider-tips-thriving-in-ginger-islet/"><u>[New] In 2024, Insider Tips  Thriving in Ginger Islet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-dji-quadcopters-selection-entry-model-enhanced-edition-professional-uhd-for-2024/"><u>[Updated] DJI Quadcopters Selection  Entry Model, Enhanced Edition, Professional UHD for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-slow-motion-pro-tips-for-gopro-hero-10-users/"><u>[Updated] Harnessing the Power of Slow Motion  Pro Tips for GoPro Hero 10 Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-instant-tv-viewing-of-popular-facebook-feeds-for-2024/"><u>[Updated] Instant TV Viewing of Popular Facebook Feeds for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-toolkit-for-animating-letters/"><u>2024 Approved  Ultimate Toolkit for Animating Letters</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/exploring-nextgen-videostreaming-platforms/"><u>Exploring NextGen Videostreaming Platforms</u></a></li>
+<li><a href="https://tools.techidaily.com/link-assistant/keyword-research/keyword-difficulty-tool/"><u>Free Keyword Difficulty checker tool</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-nokia-c02-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nokia C02? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-12-proplus-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on 12 Pro+ 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-21-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on 21</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-90-lite-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on 90 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-a59-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on A59 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-asus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Asus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-asus-rog-phone-7-ultimate-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-asus-rog-phone-8-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Asus ROG Phone 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-c02-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on C02</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-c110-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on C110</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-c12-plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on C12 Plus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-c22-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on C22</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-c55-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on C55</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-camon-20-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Camon 20 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-camon-30-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Camon 30 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-f5-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on F5 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-find-n3-flip-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Find N3 Flip</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-g310-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on G310</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-galaxy-a24-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Galaxy A24</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-galaxy-a34-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Galaxy A34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-galaxy-m14-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Galaxy M14 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-galaxy-xcover-6-pro-tactical-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-gionee-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Gionee</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-gionee-f3-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Gionee F3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-google-pixel-7a-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Google Pixel 7a</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-google-pixel-8-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Google Pixel 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-google-pixel-8-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-honor-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Honor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-honor-100-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Honor 100 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-honor-90-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Honor 90</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-honor-90-lite-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Honor 90 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-honor-magic-6-lite-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Honor Magic 6 Lite</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-gt-3-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme GT 3 Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-proven-tactics-increasing-your-instagram-video-traffic/"><u>In 2024, Proven Tactics  Increasing Your Instagram Video Traffic</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-content-capture-5-must-have-social-apps-for-2024/"><u>Mastering Content Capture  5 Must-Have Social Apps for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/pioneering-popularity-with-powerful-instagram-videos/"><u>Pioneering Popularity with Powerful Instagram Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-6-cool-minecraft-house-ideas-for-2024/"><u>Top 6 Cool Minecraft House Ideas for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-how-to-find-3d-animation-studio-meeting-all-your-inspiring-needs/"><u>Updated 2024 Approved How to Find 3D Animation Studio Meeting All Your Inspiring Needs</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-best-image-jpgpng-to-gif-converters/"><u>Updated In 2024, Best Image (JPG/PNG) to GIF Converters</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-elevate-your-video-editing-game-best-premiere-pro-transitions/"><u>Updated In 2024, Elevate Your Video Editing Game Best Premiere Pro Transitions</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in {{ext}} files
-date: 2024-05-19T18:32:13.161Z
-updated: 2024-05-20T18:32:13.161Z
+date: 2024-07-17T10:18:13.542Z
+updated: 2024-07-18T10:18:13.542Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to insert sign in {{ext}} files
 excerpt: This article describes How to insert sign in {{ext}} files
 keywords: .xlsx signature tool,excel signature online,free sign excel
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## 1. How to insert sign in {{ext}} files
@@ -39,6 +39,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Excel
 
 These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -53,6 +56,9 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -71,6 +77,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -79,12 +88,18 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -95,6 +110,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -108,6 +126,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -130,6 +151,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -163,3 +187,50 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-decoding-the-art-of-asmr-filmmaking-techniques/"><u>[New] In 2024, Decoding the Art of ASMR Filmmaking Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-text-techniques-in-videos/"><u>[New] Innovative Text Techniques in Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-screen-recordings-the-recmeister-way/"><u>[New] Mastering Screen Recordings  The Recmeister Way</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-windows-11s-top-video-capture-tools-essentials-edition-for-2024/"><u>[New] Windows 11'S Top Video Capture Tools  Essentials Edition for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-tiny-turbines-car-shindig/"><u>[Updated] 2024 Approved  Tiny Turbines' Car Shindig</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beyond-ustream-a-comparative-analysis-of-streams/"><u>[Updated] Beyond Ustream  A Comparative Analysis of Streams</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-breach-to-backup-restore-and-redeem-your-fb-status-for-2024/"><u>[Updated] Breach to Backup  Restore and Redeem Your FB Status for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-smart-strategies-to-enhance-your-video-with-customized-end-screen-cards/"><u>[Updated] Smart Strategies to Enhance Your Video with Customized End Screen Cards</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enhance-igtv-engagement-with-diverse-subtitle-options/"><u>2024 Approved  Enhance IGTV Engagement with Diverse Subtitle Options</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-steps-to-engage-in-a-virtual-meeting-via-devices-google/"><u>2024 Approved  Steps to Engage in a Virtual Meeting via Devices (Google)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-economical-cloud-options/"><u>2024 Approved  The Ultimate Guide to Economical Cloud Options</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-c33-2023-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme C33 2023 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-motorola-g54-5g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Motorola G54 5G</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/efficiently-archiving-mov-movies-on-windows-10-pcs/"><u>Efficiently Archiving .mov Movies on Windows 10 PCs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-12-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 12 When You Forget the Passcode?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-y100-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Y100 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-y100a-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Y100A</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-y100i-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Y100i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-y28-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Y28 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-y78t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Y78t</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-zte-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on ZTE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-13t-pro-by-fonelab-android-recover-music/"><u>How to retrieve erased music from 13T Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-a70-by-fonelab-android-recover-music/"><u>How to retrieve erased music from A70</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-ace-2v-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Ace 2V</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-asus-rog-phone-8-pro-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-c210-by-fonelab-android-recover-music/"><u>How to retrieve erased music from C210</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-c51-by-fonelab-android-recover-music/"><u>How to retrieve erased music from C51</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-find-x7-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Find X7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-g22-by-fonelab-android-recover-music/"><u>How to retrieve erased music from G22</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-google-pixel-8-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Google Pixel 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-google-pixel-8-pro-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Google Pixel 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-google-pixel-fold-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Google Pixel Fold</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-honor-100-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Honor 100</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-honor-70-lite-5g-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Honor 70 Lite 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-honor-90-gt-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Honor 90 GT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-honor-90-pro-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Honor 90 Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-best-sound-equalizer-settings/"><u>In 2024, The Best Sound Equalizer Settings</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-bring-your-invites-t/"><u>New In 2024, Bring Your Invites T</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/online-acoustic-magic-the-ultimate-guide-to-implementing-effective-echo-in-windows-based-audio-workspaces-for-2024/"><u>Online Acoustic Magic The Ultimate Guide to Implementing Effective Echo in Windows-Based Audio Workspaces for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-win-ethernet-no-internet-error/"><u>Resolving Win Ethernet No Internet Error</u></a></li>
+</ul></div>

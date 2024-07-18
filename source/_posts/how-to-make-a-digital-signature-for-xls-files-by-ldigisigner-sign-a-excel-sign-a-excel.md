@@ -1,7 +1,7 @@
 ---
 title: How to make a digital signature for .xls files
-date: 2024-05-19T18:32:13.570Z
-updated: 2024-05-20T18:32:13.570Z
+date: 2024-07-17T10:23:36.988Z
+updated: 2024-07-18T10:23:36.988Z
 tags: 
   - signer
   - signer online
@@ -12,13 +12,16 @@ categories:
 description: This article describes How to make a digital signature for .xls files
 excerpt: This article describes How to make a digital signature for .xls files
 keywords: sign a .xlsx,free sign .xlsx,excel signer online,.xlsx signature service,excel signature tool,excel signature best
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## 1. How to make a digital signature for .xls files
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
@@ -49,6 +52,9 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
@@ -59,12 +65,18 @@ In just a few seconds your Excel document will be fully available once the uploa
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -79,12 +91,18 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -95,6 +113,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -136,6 +157,9 @@ You can also use a signature line in Excel to insert a signature with properties
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -163,3 +187,42 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-economical-pc-streaming-with-simple-obs-configurations/"><u>[New] 2024 Approved  Economical PC Streaming with Simple OBS Configurations</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ain-ground-by-generating-earnings-on-your-youtube-channel-like-ajay/"><u>[New] Gain Ground by Generating Earnings on Your Youtube Channel Like Ajay</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-into-the-world-of-chroma-keying-youtubes-guide-to-green-screens/"><u>[New] Step Into the World of Chroma Keying – YouTube's Guide to Green Screens</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-strategies-for-compelling-facebook-video-content-for-2024/"><u>[New] Strategies for Compelling Facebook Video Content for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-giggles-galaxy-a-guide-to-hilarious-youtube-stars/"><u>[Updated] Giggles Galaxy  A Guide to Hilarious YouTube Stars</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-tailored-approach-to-capturing-every-facetime-interaction-flawlessly/"><u>[Updated] In 2024, Tailored Approach to Capturing Every FaceTime Interaction Flawlessly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-humor-hubs-the-most-enjoyable-ringtone-downloads/"><u>2024 Approved  Humor Hubs  The Most Enjoyable Ringtone Downloads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-leveraging-tweet-sharing-for-facebook-audience/"><u>2024 Approved  Leveraging Tweet Sharing for Facebook Audience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://fox-links.techidaily.com/expert-tips-on-figma-seamless-bg-erasure-techniques-for-2024/"><u>Expert Tips on Figma  Seamless BG Erasure Techniques for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/foundation-to-finery-top-6-mc-home-designs-made-simple-for-2024/"><u>Foundation to Finery  Top 6 MC Home Designs Made Simple for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-find-x6-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Find X6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-galaxy-a54-5g-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Galaxy A54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-gionee-f3-pro-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Gionee F3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-google-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Google</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-google-pixel-8-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Google Pixel 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-gt-5-240w-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from GT 5 (240W)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-gt-neo-5-se-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from GT Neo 5 SE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-100-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor 100</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-100-pro-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor 100 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-90-gt-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor 90 GT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-90-pro-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor 90 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-magic-5-pro-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor Magic 5 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-magic-6-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor Magic 6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-magic-6-pro-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor Magic 6 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-magic-v2-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor Magic V2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-magic-vs-2-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor Magic Vs 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-magic5-ultimate-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-play-7t-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor Play 7T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-play-8t-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor Play 8T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-v-purse-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor V Purse</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-x50-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Honor X50</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-the-art-and-technique-of-incorporating-dramatic-soundtracks-into-movies/"><u>New The Art and Technique of Incorporating Dramatic Soundtracks Into Movies</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-best-gaming-intro-makers-for-windows-and-mac-pc-for-2024/"><u>Updated Best Gaming Intro Makers for Windows and Mac PC for 2024</u></a></li>
+</ul></div>

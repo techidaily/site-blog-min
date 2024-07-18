@@ -1,7 +1,7 @@
 ---
 title: 5 Techniques to Transfer Data from Vivo Y02T to iPhone 15/14/13/12 | Dr.fone
-date: 2024-04-30T01:53:22.893Z
-updated: 2024-05-01T01:53:22.893Z
+date: 2024-07-17T13:30:29.078Z
+updated: 2024-07-18T13:30:29.078Z
 tags: 
   - transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Techniques to Transfer Data from Vivo Y02T to iPhone 15/14/13/12
 excerpt: This article describes 5 Techniques to Transfer Data from Vivo Y02T to iPhone 15/14/13/12
 keywords: transfer from android to iphone,transfer from android to android,transfer from android to ipad,transfer from Vivo Y02T to pc,transfer from Vivo Y02T to iphone,transfer from Vivo Y02T to ipad
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## 5 Techniques to Transfer Data from Vivo Y02T to iPhone 15/14/13/12
@@ -33,18 +33,30 @@ The size of files being transferred affects the process in general. This is beca
 
 The type of files involved in the data transfer is also a factor. Why so? The simplest explanation is that compatibility matters a lot in any form of file transfer. For instance, the procedure will likely fail if the receiver’s device does not support the data you’re trying to send. But don’t worry. There are lots of methods to transfer data from Vivo Y02T to iPhone 15 if your first try doesn’t work out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Device Storage
 
 Device storage is definitely the first thing you should check before going ahead with the data transfer. It is important that the receiver’s device has adequate memory to accommodate the incoming files. Otherwise, the transfer will likely not push through.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Operating Systems
 
 Migrating files between two smartphones with the same operating system is convenient. It’s because these two devices share an identical data-sharing structure. On the one hand, data migration between two smartphones with different operating systems is almost similar to the former. It’s just that the steps for the latter are quite longer. But don’t sweat it. There are many tutorials that can help you transfer data from Vivo Y02T to iPhone 15 conveniently.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5 Various Ways to Transfer Data From Vivo Y02T to iPhone 15
 
 Sharing files between Android and iOS smartphones has become a lot easier today than ever before. In fact, you can actually complete the entire process in just a matter of minutes. No need for any advanced intervention or external assistance. Just initiate the specific technique that perfectly matches your circumstances. With that said, listed below are the top five methods to transfer data from Vivo Y02T to iPhone 15.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Transfer contacts from Vivo Y02T to iPhone 15 using iCloud
 
 Do you need to transfer contacts from Vivo Y02T to iPhone 15? Well, you can easily do that by importing your Android contacts to iCloud. Don’t worry. The steps are very simple. Here’s how to do it quickly and easily.
@@ -61,11 +73,17 @@ Do you need to transfer contacts from Vivo Y02T to iPhone 15? Well, you can easi
 - **Step 4:** Choose the specific account that contains the contact list you want to export.
 - **Step 5:** Then, click **Save.**
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![save vcf](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-3.jpg)
 
 - **Step 6:** Launch the **Browser** app on your Vivo Y02T smartphone.
 - **Step 7:** Visit icloud.com and then log in to the iCloud account you’re currently using on your iPhone 15. From there, import the VCF file.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![icloud on web](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-4.jpg)
 
 - **Step 8:** Once the contact list has been imported successfully, check the **Contact** app on your iPhone and then find the newly uploaded contacts.
@@ -81,6 +99,9 @@ Google Photos is not just a mere gallery application that allows users to view m
 
 - **Step 3:** Click **Back Up Now.** At this point, Google Photos will back up your local photos to the Google servers.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google photos backup](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-6.jpg)
 
 - **Step 4:** On your iPhone, download and install the Google Photos application. Log in to the same Gmail account you use to back up the photos on your Vivo Y02T device. From there, access the media files and save them to the local storage of your iPhone 15.
@@ -92,6 +113,9 @@ Do you use Gmail to manage your emails and organize your calendar appointments? 
 - **Step 1:** Go to the **Settings** app on your iPhone 15.
 - **Step 2:** Click **Mail.**
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mail iphone](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-7.jpg)
 
 - **Step 3:** Click **Accounts.** Right after, click **Add Account.**
@@ -101,10 +125,16 @@ Do you use Gmail to manage your emails and organize your calendar appointments? 
 
 - **Step 5:** Toggle on the radio button next to **Mail** and **Calendar.**
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![mail and calendar](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-9.JPG)
 
 - **Step 6:** Check your **Mail** and **Calendar** applications. Find the Gmail data you’ve just synced.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Transfer data from Vivo Y02T to iPhone 15 using Move to iOS
 
 Move to iOS is a mobile application that automates data migration between Android to iOS devices. It’s very simple to navigate and easy to use. In fact, you can complete the entire process within a few minutes. Here’s a short guide on how to transfer data from Vivo Y02T to iPhone 15 using Move to iOS.
@@ -122,6 +152,9 @@ Move to iOS is a mobile application that automates data migration between Androi
 
 - **Step 6:** On the Find Your Code page, click **Continue** to connect your Vivo Y02T to your new iPhone 15.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find your code](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-12.jpg)
 
 - **Step 7:** Find the unique code displayed on your iPhone 15 screen. Then, enter it into your Vivo Y02T smartphone.
@@ -130,7 +163,7 @@ Move to iOS is a mobile application that automates data migration between Androi
 
 - **Step 8:** Choose the files you want to transfer. After that, initiate the process. Wait until all the files have been transferred to your new iPhone 15.
 
-### Method 5: Transfer data from Vivo Y02T to iPhone 15 using [<u>Wondershare Dr.Fone.</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Method 5: Transfer data from Vivo Y02T to iPhone 15 using <u>Wondershare Dr.Fone.</u>
 
 There’s no denying that the first four methods are all effective in this regard. But if you wish to opt for a more convenient option, Wondershare Dr.Fone can absolutely help you with that. It has a powerful data migration feature that can help you transfer data from Vivo Y02T to iPhone 15. Here’s a short guide to get you started.
 
@@ -152,12 +185,21 @@ There’s no denying that the first four methods are all effective in this regar
 
 - **Step 6:** Wait while Wondershare Dr.Fone is facilitating the transfer. If you wish to terminate the progress, simply click **Cancel.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
 - **Step 7:** After completing the process, click **OK** to wrap it up. Check your files from their respective locations afterward.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![phone transfer done](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Back Up Your Vivo Y02T Before the Transfer
 
 Data migration by means of the five methods enumerated above is considered safe and secure. However, it doesn’t mean that implementing preventive measures against data loss is no longer necessary. Backing up your device before any major procedure is still highly recommended. That’s why don’t initiate the phone transfer without backing up your files first. Below is the guide on how to back up files using [<u>Wondershare Dr.Fone.</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
@@ -191,10 +233,16 @@ When you get a new phone or switch between Android and iPhone, transferring cont
 
 In this article, we will move you through various effective methods on **how to copy contacts from phone to phone**. Also, we have provided the best software that will assist you in transferring contacts securely. After that, you can seamlessly continue communication with your family, friends, and colleagues.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![transfer contacts phone to phone](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-1.jpg)
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. One-Click Solution To Handle All Contacts Transfer Between iPhone and Android
 
 [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/) – Phone Transfer offers a one-click solution to transfer all contacts between your smartphones. The tool has advanced features to move your device’s content in a few minutes. This aspect of the software helps users increase their productivity and easily handle their tasks.
@@ -223,6 +271,9 @@ First, you have to activate Wondershare Dr.Fone on your computer and navigate to
 
 Here, you need to set “Source” and “Destination” devices. In either case, you must set the Vivo Y02T device as a source from which you want to transfer the contacts. Moreover, you can also use the “Flip” button to change the transfer direction between the Vivo Y02T devices.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set source and destination device](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 - Step 3. Select the “Contacts” Option for their Transfer
@@ -235,12 +286,21 @@ Now, select the type of data you want to transfer, which, in your case, is “Co
 
 After you turn off iCloud syncing on your iOS device, a notification will indicate the successful execution of the process once it is complete. Tap the “OK” button to close the window promptly.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![data transfer process completed](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. 2 Methods To Transfer Contacts From iPhone to iPhone
 
 Although Wondershare Dr.Fone is the perfect solution to transfer your contacts, we'll consider various scenarios in which you can transfer contacts. Now, if you have an iPhone and want to know **how to copy contacts from phone to phone**, you can adopt the following two methods:
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Use NameDrop
 
 Apple has introduced a new feature in the latest iPhones named NameDrop. The feature allows you to share your contact card with another person by tapping the two iPhones together. The step-by-step guide to move contacts between iPhone and iPhone using “NameDrop" is below.
@@ -255,6 +315,9 @@ Apple has introduced a new feature in the latest iPhones named NameDrop. The fea
 
 - **Step 3.** If you want to share your contact card, tap the “ Downward Arrow” icon, choose the fields you wish to include, and then share it.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select fields to share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-8.jpg)
 
 ### Method 2. iCloud Sync
@@ -267,8 +330,14 @@ The alternate method to transfer your phone contacts is via iCloud synchronizati
 
 - **Step 2.** Next, you can see the "Contacts" option; toggle on the switch to synchronize them. When you sign in with your iCloud account on the new iPhone, contacts will be restored there.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![toggle switch for contacts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. 2 Methods To Transfer Contacts From Vivo Y02T to iPhone
 
 Let's discuss another scenario in which we will transfer the contact list from an Android to an iPhone. If you want to switch from Vivo Y02T to a new iPhone, you will probably need an effective method to transfer your phone numbers. In this section, we will discuss two simple and quick ways to **how do I transfer contacts from phone to phone:**
@@ -323,18 +392,27 @@ Nearby Share is a feature available on Android devices that allows you to easily
 
 - **Step 3.** Now, you have to open the "Google Contacts" app on your Vivo Y02T and access the "Fix & manage" tab. Choose the "Export to file" option and select the Vivo Y02T device and account from which you want to share contacts. After making the selection, hit the "Export" button and save the file within your device.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select contacts to export](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-19.jpg)
 
 - **Step 3.** Continue by locating the saved contacts file, then tap on it, and choose the "Send" option. Next, from the available sharing options, select "Nearby Share.” Lastly, you have to locate and select the name of your target Android device when it becomes visible and tap to accept the file share on your destination device.
 
 ![select the Vivo Y02T device in nearby share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-20.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2. Use Google Account
 
 The Google account transfer method can also transfer between Android and Android devices. You just have to ensure that the contacts synchronization is turned on. You can follow these steps to handle your “**How do I transfer contacts from phone to phone**” question.
 
 - **Step 1.** First, create a backup on your previous Android phone. For this, you need to access “Settings” on your phone and tap the "Accounts & Sync” option. Then, select “Google” and enable the “Contacts” option to allow the syncing process to complete.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![navigate to google account for sync](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-21.jpg)
 
 - **Step 2.** In the next step, navigate to “Settings” of your new Android device and tap “Accounts & Sync.” Afterward, log in using your Google account credentials and select the "Sync Now” feature within the "More” option. This will import the synced contacts to your new Android device.
@@ -345,6 +423,9 @@ The Google account transfer method can also transfer between Android and Android
 
 This section will discuss two methods to transfer contacts from an iPhone to an Android. Similarly, in this iPhone-to-Android transfer case, the iPhone synchronization method and importing VCF file method can be used to move your contact list.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Enable iPhone Sync Feature
 
 You can enable the iPhone Sync feature to transfer contacts from an iPhone to an Android device. In this case, ensure the contacts option in the Gmail synchronization is toggled on. Later, the contacts are saved when you sign in with the same Google account on your Vivo Y02T. Let's learn **how to transfer from phone to phone using this feature**:
@@ -357,40 +438,61 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 
 - **Step 2.** Now, you have to install or access the “Google One” app on your Vivo Y02T. Sign in and configure your Google One settings. Then, navigate to the “Sync” section and tap the “View” option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![view sync in google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-24.jpg)
 
 - **Step 3.** There, you need to select the “Contacts" option and click "Set up Sync.” Next, proceed to the “Upload Contacts” option.Subsequently, contacts will sync to your Vivo Y02T.
 
 ![upload contacts via google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-25.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2. Import the VCF File
 
 Importing a VCF file is another simple method for transferring contacts. It includes a vCard creation, in which contacts are saved. Then, this card can be downloaded from an iCloud account and imported to your Vivo Y02T. Moreover, this simple process does not involve any complicated steps to implement it. You can import a VCF file by following these simple steps.
 
 - **Step 1.** At first, you will have to access “Settings” on your iPhone and tap your “Profile” icon at the top. After that, tap "iCloud," followed by the "Show All" option. Then,you need to toggle the “Contacts” switch to turn it on.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![locate contacts within icloud](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-26.jpg)
 
 - **Step 2.** Now,on your Vivo Y02T, open “Chrome” browser and navigate to the "iCloud” site. Then, sign in to your iCloud account and tap the “Three Dots” icon in the browser. Afterward, select the "Desktop site" option among various other options.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access icloud site on android](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-27.jpg)
 
 - **Step 3.** Now, choose "Contacts" on the iCloud website, tap the "Three Dots" icon, and proceed with the "Select All" option. After that, you can tap the "Share" icon to choose the "Export vCard" feature. Subsequently, you need to open the exported file and select your Google account to import the contacts to your Vivo Y02T.
 
 ![export vcard via icloud site](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-28.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We have discussed various scenarios on **how to copy contacts from phone to phone,** whether the Vivo Y02T devices are Android or iPhone. Nonetheless, Wondershare Dr.Fone - Phone Transfer stands out as the perfect method. This software provides a one-click and swift solution to all your transfer processes, including the contacts. Moreover, Dr.Fone can deal with all types of phone transfers, such as iPhone to iPhone, Android to iPhone, iPhone to Android, and Android to Android.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Transfer Photos From Vivo Y02T to Samsung Galaxy S21 Ultra
 
 Samsung is one of the leading brands in the technology market, and Samsung Galaxy S21 Ultra is the latest device released by them. Among all the gadgets and smartphones released by Samsung, S21 Ultra is really a remarkable creation that is amazingly filled with all the latest technology. If you are thinking about getting a brand new Samsung S21 Ultra, you are in the right place.
 
 In this article, we will talk about the Samsung Galaxy S21 Ultra price and all its details with proper dissection that will help you determine whether this device is worth the value. Also, you'll definitely get to learn how to transfer photos to Samsung Galaxy S21 Ultra with advanced software that surely does the job well. So let's get to the details without wasting any time!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Samsung Galaxy S21 Ultra Introduction
 
 Samsung Galaxy S21 Ultra is the new model of the Samsung Galaxy series. This amazing device has so many features, the best quality camera, and 5G connectivity. This model of the Samsung Galaxy series has a pro-grade camera. Using its camera, you can take the best shots of anything. You can record video like a professional by using the camera. The camera has multi-lens with zoom-in features. You cannot take a perfect zoomed shot using another device because they don't have these zoom-in features.
@@ -411,6 +513,9 @@ Among Samsung Galaxy S21, S21 Plus, and S21 Ultra, Samsung Galaxy S21 has the lo
 
 Though three of these have the same design of camera and position, the real difference is in size. Galaxy S21 comes in 6.2 inches screen, Galaxy S21 Plus has a 6.7-inch screen, and Galaxy S21 Ultra has a 6.8-inch screen. Galaxy S21 Ultra comes with a wide camera bump that fits the extra sensors. Galaxy S21 Ultra fits better in hands because of its curved edges.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![samsung galaxy s21 ultra vs s20](https://images.wondershare.com/drfone/article/2021/06/samsung-galaxy-20-vs-21.jpg)
 
 **Display:**
@@ -435,12 +540,21 @@ In these three models, you will get 5G. So, there is no argument about this. How
 
 Most of the time, after purchasing a new phone, we cannot transfer photos or other data to that device easily. At that moment, if you can use amazing data recovery software to transfer all your photos to the new Samsung Galaxy S21 Ultra, that would be a great solution. Well, we have the best solution for you. We are going to introduce you to an amazing software: [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It is a brilliant data recovery software that you can use for both iOS and Android systems. It has many amazing features. You can recover your data, transfer your photos and files, unlock Apple's ID and lock screen, repair the Android or iOS system, switch data from one phone to another phone, keep backup, restore data and erase data permanently from a device. Using this amazing software, you can transfer your photos to Samsung Galaxy S21 Ultra within one single click. Let's follow the guideline to know how to do this.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Download & Install Program
 
 Download and install the software on your computer. Then start the Dr.Fone - Phone Transfer, and you'll get the program's home page. Now click on the "Switch" option to proceed forward.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start dr.fone switch](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 2: Connect Android and iOS Device
 
 Next, you can connect your Samsung Galaxy S21 Ultra and an iOS device to the computer (you can also use an Android device here). Use a USB cable for the Android device and a lightning cable for the iOS device. You'll get an interface like below when the program detects both devices. You can use the "Flip" button to change devices as the target device and the sender device. You can also choose the file types here to transfer.
@@ -453,6 +567,9 @@ After choosing the desired file types (Photos for this case), click on the "Star
 
 ![start to transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 4: Finish Transfer and Check
 
 Within a short time, all your selected photos will be transferred to the Samsung Galaxy S21 Ultra. Then disconnect the Vivo Y02T devices and check if everything is okay.
@@ -490,3 +607,49 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unbeatable-tools-to-sharpen-your-webcam-vids/"><u>[New] 2024 Approved  Unbeatable Tools to Sharpen Your Webcam Vids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-infusing-action-into-photos-using-illustrators-features-for-2024/"><u>[New] Infusing Action Into Photos Using Illustrator's Features for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-preventing-social-media-platforms-intrusive-ads-for-2024/"><u>[New] Preventing Social Media Platform's Intrusive Ads for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-30-splitting-apps-like-xsplit/"><u>[Updated] 2024 Approved  Top 30 Splitting Apps Like Xsplit</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-become-a-livestream-king-the-best-webcams-for-youtube-stars/"><u>[Updated] Become a Livestream King  The Best Webcams for YouTube Stars</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unleashing-the-power-of-screen-capture-with-hp-notebooks/"><u>2024 Approved  Unleashing the Power of Screen Capture with HP Notebooks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-youtube-thumbnail-design-blueprint-size-style-and-success/"><u>2024 Approved YouTube Thumbnail Design Blueprint Size, Style, and Success</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Fingerprint Lock</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-consistency-in-action-inserting-logoswatermarks-into-videos/"><u>Brand Consistency in Action  Inserting Logos/Watermarks Into Videos</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-xs-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone XS?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2019-error-code-0x800a03ec-stellar-by-stellar-guide/"><u>How to Fix Microsoft Excel 2019 Error Code 0x800A03EC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2019-has-stopped-working-error-by-stellar-guide/"><u>How to fix Microsoft Excel 2019 has stopped working error?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2019-has-stopped-working-error-stellar-by-stellar-guide/"><u>How to fix Microsoft Excel 2019 has stopped working error? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2021-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2021 Error Code 0x800A03EC?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2021-error-code-0x800a03ec-stellar-by-stellar-guide/"><u>How to Fix Microsoft Excel 2021 Error Code 0x800A03EC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2021-has-stopped-working-error-by-stellar-guide/"><u>How to fix Microsoft Excel 2021 has stopped working error?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2021-has-stopped-working-error-stellar-by-stellar-guide/"><u>How to fix Microsoft Excel 2021 has stopped working error? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2023-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel 2023 Error Code 0x800A03EC?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2023-error-code-0x800a03ec-stellar-by-stellar-guide/"><u>How to Fix Microsoft Excel 2023 Error Code 0x800A03EC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2023-has-stopped-working-error-by-stellar-guide/"><u>How to fix Microsoft Excel 2023 has stopped working error?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2023-has-stopped-working-error-stellar-by-stellar-guide/"><u>How to fix Microsoft Excel 2023 has stopped working error? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-error-code-0x800a03ec-by-stellar-guide/"><u>How to Fix Microsoft Excel Error Code 0x800A03EC?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-error-code-0x800a03ec-stellar-by-stellar-guide/"><u>How to Fix Microsoft Excel Error Code 0x800A03EC? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-has-stopped-working-error-by-stellar-guide/"><u>How to fix Microsoft Excel has stopped working error?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-has-stopped-working-error-stellar-by-stellar-guide/"><u>How to fix Microsoft Excel has stopped working error? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-not-responding-error-and-save-your-data-by-stellar-guide/"><u>How to fix Microsoft Excel not responding error and save your data</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-not-responding-error-and-save-your-data-stellar-by-stellar-guide/"><u>How to fix Microsoft Excel not responding error and save your data | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-pdf-file-couldnt-open-in-protected-view-by-stellar-guide/"><u>How to Fix PDF File Couldnt Open in Protected View</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-pdf-file-couldnt-open-in-protected-view-stellar-by-stellar-guide/"><u>How to Fix PDF File Couldnt Open in Protected View | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-pdf-not-responding-error-and-save-your-data-by-stellar-guide/"><u>How to fix PDF not responding error and save your data</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-pdf-not-responding-error-and-save-your-data-stellar-by-stellar-guide/"><u>How to fix PDF not responding error and save your data | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-pivot-table-field-name-is-not-valid-error-in-excel-2000-by-stellar-guide/"><u>How to fix Pivot Table Field Name is not Valid error in Excel 2000?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-f04-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy F04 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-xs-max-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone XS Max Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-craft-your-ideal-video-experience-on-vimeo-through-plan-selection/"><u>In 2024, Craft Your Ideal Video Experience on Vimeo Through Plan Selection</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-nubia-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Nubia</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-navigating-easy-cross-posting-of-tiktok-videos-on-fb/"><u>In 2024, Navigating Easy Cross-Posting of TikTok Videos on FB</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unleash-your-creativity-10-top-rated-music-video-makers/"><u>New Unleash Your Creativity 10 Top-Rated Music Video Makers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/stirring-emotions-and-interest-with-the-best-tiktok-caption-ideas-for-2024/"><u>Stirring Emotions and Interest with the Best TikTok Caption Ideas for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-final-cut-pro-essentials-creating-engaging-video-slideshows-from-your-favorite-moments/"><u>Updated In 2024, Final Cut Pro Essentials Creating Engaging Video Slideshows From Your Favorite Moments</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to sign Excel 2021 document online
-date: 2024-03-11 14:32:30
-updated: 2024-03-12 16:37:58
+date: 2024-07-17T12:53:11.121Z
+updated: 2024-07-18T12:53:11.121Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to sign Excel 2021 document online
 excerpt: This article describes How to sign Excel 2021 document online
 keywords: .xlsx signature software,excel signature service,free sign excel
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## 1. How to sign Excel 2021 document online
@@ -39,6 +39,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Excel
 
 These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -49,6 +52,9 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
@@ -79,6 +85,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -95,6 +104,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -118,6 +130,9 @@ You can use the standard features of Microsoft Office Excel to digitally sign a 
 
 To implement each of the ways to install a digital signature in Excel, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
@@ -130,12 +145,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -151,6 +172,18 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +194,41 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-analyzing-the-overhaul-of-sony-s6700/"><u>[Updated] Analyzing the Overhaul of Sony S6700</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-downloading-the-latest-hits-top-youtube-playlist-savers-for-pc/"><u>[Updated] Downloading the Latest Hits  Top YouTube Playlist Savers for PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-newbies-instalment-checklist-vrecorder/"><u>[Updated] In 2024, Newbie's Instalment Checklist  VRecorder</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-time-is-money-the-best-facebook-schedulers-reviewed-for-2024/"><u>[Updated] Time Is Money  The Best Facebook Schedulers Reviewed for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/5-smart-tips-about-youtube-shorts-to-grow-your-business/"><u>5 Smart Tips About YouTube Shorts to Grow Your Business</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/asus-lcd-glare-no-more-your-guide-to-a-clearer-view/"><u>ASUS LCD Glare No More: Your Guide to a Clearer View</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choosing-gopro-wisely-a-comparative-examination/"><u>Choosing GoPro Wisely  A Comparative Examination</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-tecno-spark-10-4g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Tecno Spark 10 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-v27e-by-fonelab-android-recover-video/"><u>How to restore wiped videos on V27e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-v29e-by-fonelab-android-recover-video/"><u>How to restore wiped videos on V29e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-v30t-by-fonelab-android-recover-video/"><u>How to restore wiped videos on V30T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-v29-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo V29</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-v29e-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo V29e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-x100-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo X100 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-y02t-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo Y02T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-y100a-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo Y100A</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-y100t-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo Y100t</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-y200-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo Y200</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-y27-4g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo Y27 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-y27-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo Y27 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-xiaomi-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Xiaomi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-xiaomi-13-ultra-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-xiaomi-civi-3-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Xiaomi Civi 3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-xiaomi-redmi-12-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Xiaomi Redmi 12</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-xiaomi-redmi-13c-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-y17s-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Y17s</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y77t-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo Y77t PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-the-art-of-earning-through-vlogs-for-2024/"><u>Mastering the Art of Earning Through Vlogs for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/mealtime-magnates-on-tiktok-platform/"><u>Mealtime Magnates on TikTok Platform</u></a></li>
+<li><a href="https://video-capture.techidaily.com/seamless-integration-of-switch-pro-into-steam-games/"><u>Seamless Integration of Switch Pro Into Steam Games</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-trim-cut-and-edit-videos-for-free-no-watermarks/"><u>Updated In 2024, Trim, Cut, and Edit Videos for Free (No Watermarks!)</u></a></li>
+</ul></div>

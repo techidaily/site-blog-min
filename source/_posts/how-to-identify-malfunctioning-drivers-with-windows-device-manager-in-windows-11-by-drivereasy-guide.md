@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning drivers with Windows Device Manager in Windows 11
-date: 2024-05-19T18:32:12.727Z
+date: 2024-07-17T10:11:37.521Z
 tags: 
   - driver
   - device driver
@@ -19,6 +19,9 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
@@ -67,10 +70,16 @@ To automatically update to the correct version of all the drivers that are missi
 2. Run the downloaded executable file and follow the on-screen prompts.
 3. Run Driver Easy and click `UPGRADE`.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UPGRADE](https://tools.techidaily.com/images/apps/drivereasy/auto-update/1.jpg)
 
 4. Paste or type the software key you were emailed when you bought Driver Easy.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Software key](https://tools.techidaily.com/images/apps/drivereasy/auto-update/2.jpg)
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
@@ -80,6 +89,9 @@ To automatically update to the correct version of all the drivers that are missi
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 7. That’s it. You can go grab a coffee, while Driver Easy does all the work for you!
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -102,6 +114,9 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
@@ -153,6 +168,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -182,6 +200,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -190,6 +211,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 
@@ -218,3 +242,45 @@ There are two reasons why…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-how-to-craft-engaging-tiktok-response-videos/"><u>[New] How to Craft Engaging TikTok Response Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-cost-effective-pc-video-capturing-essentials-checklist/"><u>[New] In 2024, Cost-Effective PC Video Capturing Essentials Checklist</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-2023-roadmap-for-dominant-desktop-tiktok-videos/"><u>[New] In 2024, The 2023 Roadmap for Dominant Desktop TikTok Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-methods-6-steps-for-recording-minecraft-play/"><u>[Updated] 2024 Approved  Essential Methods  6 Steps for Recording Minecraft Play</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-art-of-crafting-perfect-boomerangs-in-snap/"><u>[Updated] 2024 Approved  The Art of Crafting Perfect Boomerangs in Snap</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-undead-uprising-your-guide-to-engrossing-zombie-playtime/"><u>[Updated] In 2024, Undead Uprising  Your Guide to Engrossing Zombie Playtime</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revolutionizing-reality-top-vr-peripherals/"><u>[Updated] Revolutionizing Reality  Top VR Peripherals</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ensuring-long-term-access-to-itunes-videos/"><u>2024 Approved  Ensuring Long-Term Access to iTunes Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-xiaomi-redmi-note-12-pro-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Xiaomi Redmi Note 12 Pro 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-zte-axon-40-lite-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best ZTE Axon 40 Lite Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-add-music-to-facebook-story-for-2024/"><u>How to Add Music to Facebook Story for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-camon-20-pro-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Camon 20 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-civi-3-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Civi 3?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-edge-40-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Edge 40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-f23-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from F23 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-find-n3-flip-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Find N3 Flip?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-g2-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from G2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-google-pixel-7a-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Google Pixel 7a?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-google-pixel-8-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Google Pixel 8?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-google-pixel-fold-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Google Pixel Fold?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-gt-3-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from GT 3?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-70-lite-5g-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor 70 Lite 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-90-gt-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor 90 GT?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-90-lite-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor 90 Lite?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-magic-v2-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor Magic V2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-magic-vs-2-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor Magic Vs 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-magic5-ultimate-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor Magic5 Ultimate?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-play-40c-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor Play 40C?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-play-8t-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor Play 8T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-x50-gt-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor X50 GT?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-x50-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor X50?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-v27-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo V27 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone 12 mini</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/riches-in-pixels-identifying-the-best-12-sites-with-free-stock-photos-for-2024/"><u>Riches in Pixels  Identifying the Best 12 Sites with Free Stock Photos for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-spark-10-4g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Spark 10 4G FRP Bypass</u></a></li>
+</ul></div>

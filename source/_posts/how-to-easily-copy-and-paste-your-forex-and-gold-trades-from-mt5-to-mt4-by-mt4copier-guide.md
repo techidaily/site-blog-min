@@ -1,6 +1,6 @@
 ---
 title: How To Easily Copy & Paste Your Forex and Gold Trades From MT5 to MT4
-date: 2024-05-19T18:32:10.845Z
+date: 2024-07-17T09:47:55.955Z
 tags: 
   - mt5
   - mt4
@@ -50,6 +50,9 @@ So, let’s dive straight in. We have to look at how the trades travel from your
 
 Understanding this is the key to setting up a way to copy trades from the Metatrader account on the mobile app to multiple accounts on other devices. That is very similar to what we’ve been doing with the [Local Trade Copier](https://tools.techidaily.com/mt4copier/)™ software in our other tutorials, but this time, there’s a twist that makes it work from an iPhone or Android mobile device. When you know how it works, you can even copy trades from the Android MT4 account to another phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/copy-forex-trades-from-mt4-mobile/2.png)
 
 So, here’s the answer. The trick to doing this is taking advantage of how MetaTrader was designed. One of the functions of MetaTrader is that it allows you to log in to the same account from multiple devices. That is simple enough. That’s how a lot of social media accounts work. There’s no trade copier software involved in the process yet. That’s just how MetaTrader was built.
@@ -84,12 +87,21 @@ So here you have a screenshot of my VPS and the MetaTrader mobile app. This way,
 
 In the following screenshot, you’ll see that when I open a trade in the Metatrader mobile app, it immediately appears on the master account and instantly gets sent to the client accounts. Getting trades copied across Metatrader accounts on different devices is like magic, right?
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/copy-forex-trades-from-mt4-mobile/6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Copy trades from Android MT5 account to another computer
 
 Of course, this works on MetaTrader 4 and MetaTrader 5 in the same way. Check out the following screenshot, which illustrates how I sent a trade to both client accounts. Both accounts picked up the trade and copied it perfectly. It means you can trade multiple accounts simultaneously from the MT5 Mobile app.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/copy-forex-trades-from-mt4-mobile/7.png)
 
 [Local Trade Copier](https://tools.techidaily.com/mt4copier/)™ will take care of the money management automatically. The beauty of this is that you can copy trades across with all of your settings and make sure that the lot sizes are appropriate to the size of the client accounts. If the capital of the client account is bigger than the master account, you can be sure that the lot size is appropriate for that account.
@@ -110,10 +122,16 @@ They say that knowledge is power and, if that’s true, you just gained a lot of
 
 It is disappointing to find the message “Trade disabled” on your MT4 platform. However, that is not fatal, and you can solve it by finding the reason for disabled trading and fixing it. In some cases, if the market is closed, there is nothing to resolve, but if the market is open and your trading functionality is disabled, you have to know what the issue is and how to solve it. In this article, we will look a the main reasons why trading can be disabled on the MetaTrader 4 platform and what to do to enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What does it mean ‘trade is disabled’?
 
 “Trade is disabled” error message on Metatrader 4 means that you cannot actively trade at all or only some specific instruments, depending on the error message that you get. To find the solution, usually, you need to contact your broker’s support team. But it could be a simple case that the market is closed already for that specific instrument, and you simply need to wait until the market opens.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Why is my trading disabled on MT4?
 
 There are four main reasons you see an error message, and let’s try to figure out what to do about each one of them.  
@@ -128,6 +146,9 @@ Some instruments, usually gold and oil, and some others, may have trading breaks
 
 You can check trading hours for every trading instrument in the Metatrader 4 Market Watch, but honestly, that information is not correct on most accounts, even with top brokerage firms.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/how-to-enable-trading-in-mt4/2.png)
 
 Trading rarely closed due to a force majeure or unforeseen event. This feature won’t typically last long, but it may happen during times of low liquidity, most often during important news releases, for example, FED interest rates announcements, when markets can become very volatile and move hundreds of pips within a matter of seconds. 
@@ -171,6 +192,18 @@ Last but not least, where do you get those error messages about disabled trading
 
 If you are looking to enable 1-click trading on Metatrader 4, all you have to do is press Alt+T on the keyboard for any particular chart window. That will make the one-click trading buttons appear on the chart, allowing you to quickly open buy and sell trades with a predefined fixed lot size.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/how-to-enable-trading-in-mt4/3.png)
 
 The one-click trading tool on MT4 is very convenient. Still, there’s an even better tool with more functionalities that can also set the lot size automatically after you choose to risk the percentage of your account balance. Check out the Trader On Chart trading panel for MT4, and you’ll never want to open another trade without it.
@@ -179,6 +212,9 @@ The one-click trading tool on MT4 is very convenient. Still, there’s an even b
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Easily Copy & Paste Your Forex and Gold Trades From MT5 to MT4
 
 If you are a Forex trader who uses MetaTrader 5 and MetaTrader 4, you may want to copy your trades from one platform to another. This can be a great way to diversify your trading and take advantage of the unique features of each platform. In this guide, we will show you how to copy your Forex and Gold trades from MT5 to MT4 in one click.
@@ -204,6 +240,9 @@ It’s like having a magic wand that does the work for you. So, even if you’ve
 
 In this video, Rimantas explains how you can easily set different lot sizes for each copier account with the [Local Trade Copier](https://tools.techidaily.com/mt4copier/)™ for MT4 & MT5.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Configure MT4 and MT5 Accounts for Running a Local Trade Copier™ Together With Any Other Forex EA
 
 The [Local Trade Copier](https://tools.techidaily.com/mt4copier/) software is a powerful tool that allows you to copy trades between multiple MetaTrader 4 and MetaTrader 5 accounts. It is a perfect solution for money managers and signal providers who need to manage multiple accounts at the same time. The LTC software is also a great tool for traders who want to copy trades between their own trading accounts.
@@ -261,3 +300,40 @@ So, get ready for an exciting journey. By the end of this video, you’ll be bro
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-top-6-pro-rated-gopro-head-straps-and-mastering-usage/"><u>[New] Top 6 Pro-Rated GoPro Head Straps & Mastering Usage</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-twilight-tactics-capturing-the-best-in-low-light-portraits-for-2024/"><u>[Updated] Twilight Tactics  Capturing the Best in Low Light Portraits for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-high-capacity-drives-how-many-vids-can-a-64128gb-hold/"><u>2024 Approved  Evaluating High-Capacity Drives  How Many Vids Can a 64/128GB Hold?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-mastering-fcp-editing-audio-like-a-pro/"><u>2024 Approved Mastering FCP Editing Audio Like a Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-nokia-c210-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Nokia C210 to Roku | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-c32-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from C32</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-multitasking-pip-configuration-on-iphone-youtube/"><u>Enhance Multitasking  PIP Configuration on iPhone YouTube</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-1110-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-11107-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-7-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-10-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-10-and-7-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-11-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-11-and-10-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-1110-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-11107-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-7-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-10-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-10-and-7-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-11-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-11-and-10-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-1110-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-11107-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-7-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-forex-trade-copier-software-on-metatrader-4-and-metatrader-5-by-mt4copier-guide/"><u>How to Install Forex Trade Copier Software on MetaTrader 4 and MetaTrader 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-forex-trade-copier-software-on-mt4-and-mt5-by-mt4copier-guide/"><u>How to Install Forex Trade Copier Software on MT4 and MT5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-in-windows-10-by-drivereasy-guide/"><u>How to install hardware device drivers manually in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-in-windows-10-and-7-by-drivereasy-guide/"><u>How to install hardware device drivers manually in Windows 10 & 7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-the-screen-ultimate-vr-gadget-guide/"><u>In 2024, Beyond the Screen - Ultimate VR Gadget Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-live-webcam-broadcast-the-power-of-vlc-technology/"><u>In 2024, Live Webcam Broadcast  The Power of VLC Technology</u></a></li>
+</ul></div>

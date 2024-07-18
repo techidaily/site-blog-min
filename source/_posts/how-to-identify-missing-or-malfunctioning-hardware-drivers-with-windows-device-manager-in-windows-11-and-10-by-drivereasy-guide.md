@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-05-19T18:32:12.930Z
+date: 2024-07-17T10:14:07.491Z
 tags: 
   - driver
   - device driver
@@ -25,6 +25,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -50,6 +53,9 @@ We employ a strict testing regime to ensure our drivers are safe, secure and sta
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -63,6 +69,9 @@ Our tests are a lot more hands-on and practical than Microsoft’s tests. Becaus
 
 We subject all new drivers to a battery of tests.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1. Filter out faulty drivers
 
 First, we locate and download any new drivers from nearly 100 manufacturer websites, then scan them all with two proprietary tools that filter out any that:
@@ -95,6 +104,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -124,6 +136,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -145,6 +160,9 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -161,6 +179,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 ## How to update all your drivers with just 1 click
@@ -206,6 +227,9 @@ To automatically update to the correct version of all the drivers that are missi
 
 5. Click `Scan Now`. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan Now](https://tools.techidaily.com/images/apps/drivereasy/auto-update/3.jpg)
 
 6. Click `Update All` to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -226,3 +250,44 @@ To automatically update to the correct version of all the drivers that are missi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-best-approaches-to-non-sound-media/"><u>[New] Best Approaches to Non-Sound Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-best-cameras-to-amplify-your-yt-presence-for-2024/"><u>[New] Best Cameras to Amplify Your YT Presence for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-compreeved-tips-on-using-vlcs-video-tools-for-2024/"><u>[New] Compreeved Tips on Using VLC's Video Tools for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-invisible-pathways-advanced-techniques-for-chat-file-extraction/"><u>[New] In 2024, Invisible Pathways  Advanced Techniques for Chat File Extraction</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-the-playlist-tiktoks-hotspots-for-rhythmic-flows-and-beats/"><u>[New] The Playlist  TikTok's Hotspots for Rhythmic Flows and Beats</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-online-presence-mastering-youtube-edits-in-premiere/"><u>[Updated] 2024 Approved  Elevate Your Online Presence  Mastering YouTube Edits in Premiere</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-alter-twitter-video-glimpse-artwork/"><u>[Updated] Alter Twitter Video Glimpse Artwork</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-complete-capture-master-az-reviews-and-backups/"><u>[Updated] Complete Capture Master - AZ Reviews & Backups</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-navigating-to-the-best-images-at-pexels/"><u>[Updated] In 2024, Navigating to the Best Images at Pexels</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-staying-legal-in-the-digital-space-youtubes-copyright-guide/"><u>[Updated] Staying Legal in the Digital Space  YouTube's Copyright Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-look-at-auditory-cutting-techniques/"><u>2024 Approved  In-Depth Look at Auditory Cutting Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonized-performance-hp-printer-driver-upgrade-to-win11/"><u>Harmonized Performance: HP Printer Driver Upgrade to Win11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-a-dynamic-text-animation-in-filmora-step-by-step-for-2024/"><u>How to Create a Dynamic Text Animation in Filmora — Step-By-Step for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-motorola-razr-40-ultra-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Motorola Razr 40 Ultra?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-motorola-razr-40-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Motorola Razr 40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-narzo-60-pro-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Narzo 60 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-narzo-60x-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Narzo 60x 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-narzo-n53-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Narzo N53?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-150-2023-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia 150 (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-c02-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia C02?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-c12-pro-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia C12 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-c12-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia C12?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-c300-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia C300?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-note-30-pro-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Note 30 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nubia-flip-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nubia Flip 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nubia Red Magic 8S Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nubia Red Magic 8S Pro+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oneplus-by-fonelab-android-recover-data/"><u>How to retrieve lost files from OnePlus ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oneplus-nord-3-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from OnePlus Nord 3 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from OnePlus Nord CE 3 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oneplus-open-by-fonelab-android-recover-data/"><u>How to retrieve lost files from OnePlus Open?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oppo-a58-4g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Oppo A58 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oppo-a78-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Oppo A78?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-synchronize-and-schedule-seamless-entry-into-any-zoom-session-from-android/"><u>In 2024, Synchronize and Schedule  Seamless Entry Into Any Zoom Session From Android</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-do-you-often-feel-fascinated-to-try-hands-at-anime-character-design-to-spark-up-your-editing-skills-or-just-for-a-fun-filled-activity-stay-here-for-/"><u>Updated Do You Often Feel Fascinated to Try Hands at Anime Character Design to Spark up Your Editing Skills, or Just for a Fun-Filled Activity? Stay Here for the Best Inspirations You Can Ever Get</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-perfect-quick-and-efficient-video-editing-keyboard-shortcuts-in-filmora/"><u>Updated How to Perfect Quick and Efficient Video Editing | Keyboard Shortcuts in Filmora</u></a></li>
+</ul></div>

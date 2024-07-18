@@ -1,7 +1,7 @@
 ---
 title: How to insert sign in .docx file
-date: 2024-05-19T18:32:13.146Z
-updated: 2024-05-20T18:32:13.146Z
+date: 2024-07-17T10:17:55.277Z
+updated: 2024-07-18T10:17:55.277Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to insert sign in .docx file
 excerpt: This article describes How to insert sign in .docx file
 keywords: .odt file signature app,sign .dot file online,.dot file signature online
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## 1. How to insert sign in .docx file
@@ -47,6 +47,9 @@ These detailed instructions demonstrate how to sign a Word document online. Our 
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Word document will be fully available once the upload is completed.
@@ -57,12 +60,18 @@ In just a few seconds your Word document will be fully available once the upload
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/hover-mouse.png)
 
 Feel free to sign Word document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -73,6 +82,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -93,6 +105,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Word
 
 The ability to leave your signature in electronic format in Word documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -116,6 +131,9 @@ You can use the standard features of Microsoft Office Word to digitally sign a d
 
 To implement each of the ways to install a digital signature in Word, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
@@ -128,12 +146,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -161,3 +185,47 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-visuals-with-these-11-expert-strategies/"><u>[New] Transform Your Visuals with These 11 Expert Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-pro-level-mac-audio-logging-tools-uncover-the-top-5/"><u>[Updated] 2024 Approved  Pro-Level Mac Audio Logging Tools  Uncover the Top 5</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-from-noob-to-pro-making-the-list-of-popular-fb-songs-and-videos-for-2024/"><u>[Updated] From Noob to Pro  Making the List of Popular FB Songs and Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-editors-scouting-the-ultimate-tools-for-youtube-shorts/"><u>[Updated] In 2024, Cutting Edge Editors  Scouting the Ultimate Tools for YouTube Shorts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-driving-social-engagement-with-proper-configurations-of-fb-instream-ads/"><u>[Updated] In 2024, Driving Social Engagement with Proper Configurations of FB Instream Ads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premiere-video-tools-for-iphone/"><u>[Updated] Premiere Video Tools for iPhone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategizing-for-success-the-essential-guide-to-online-individuality/"><u>[Updated] Strategizing for Success  The Essential Guide to Online Individuality</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-utilize-your-appletv-for-a-smooth-view-of-fb-videos-online/"><u>2024 Approved  How to Utilize Your AppleTV for a Smooth View of FB Videos Online</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-s23plus-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy S23+ Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-how-to-erase-past-safety-checks-on-windows/"><u>Expert Tips: How to Erase Past Safety Checks on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-lava-yuva-3-pro-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-motorola-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Motorola</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-motorola-edge-2023-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Motorola Edge 2023</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-motorola-edge-40-neo-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-motorola-g24-power-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Motorola G24 Power</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-motorola-g54-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Motorola G54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-motorola-moto-g14-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Motorola Moto G14</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-motorola-moto-g24-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Motorola Moto G24</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-motorola-moto-g34-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Motorola Moto G34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-motorola-razr-40-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Motorola Razr 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-motorola-razr-40-ultra-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-narzo-60-pro-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-nokia-105-classic-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Nokia 105 Classic</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-nokia-130-music-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Nokia 130 Music</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-nokia-c110-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Nokia C110</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-nokia-c12-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Nokia C12</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-nokia-c12-plus-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Nokia C12 Plus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-nokia-c12-pro-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Nokia C12 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-nokia-c300-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Nokia C300</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-samsung-galaxy-a14-4g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Samsung Galaxy A14 4G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-rated-adobe-premiere-title-templates-free-for-your-next-project/"><u>New Top-Rated Adobe Premiere Title Templates Free for Your Next Project</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/strategic-animation-techniques-to-boost-your-facebook-ad-roi/"><u>Strategic Animation Techniques to Boost Your Facebook Ad ROI</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-sony-xperia-5-v-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Sony Xperia 5 V Location | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-facebook-video-cover-best-practices-size-format-and-more-for-2024/"><u>Updated Facebook Video Cover Best Practices Size, Format, and More for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-secret-source-to-make-a-great-stop-motion-puppet-for-2024/"><u>Updated Secret Source to Make a Great Stop Motion Puppet for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-free-video-invitation-designers-for-your-next-event-for-2024/"><u>Updated The Best Free Video Invitation Designers for Your Next Event for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/videopad-video-editing-software-review-pros-cons-and-buying-advice-for-2024/"><u>Videopad Video Editing Software Review Pros, Cons, and Buying Advice for 2024</u></a></li>
+</ul></div>

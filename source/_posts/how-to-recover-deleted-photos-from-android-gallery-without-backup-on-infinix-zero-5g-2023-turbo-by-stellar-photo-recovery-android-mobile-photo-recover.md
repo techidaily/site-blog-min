@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Infinix Zero 5G 2023 Turbo
-date: 2024-05-19T18:32:07.655Z
-updated: 2024-05-20T18:32:07.655Z
+date: 2024-07-17T08:59:53.777Z
+updated: 2024-07-18T08:59:53.777Z
 tags: 
   - recover
 categories: 
@@ -40,6 +40,9 @@ How to recover deleted photos from Android Gallery free using Google Photos:
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Infinix Zero 5G 2023 Turbo model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Recover Gallery photos from Google Drive
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
@@ -56,6 +59,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -80,6 +86,9 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
@@ -109,6 +118,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 - Connect the rooted Android phone with your PC or Mac.
 - Launch the software, select the Android device to scan and follow the prompts in the software.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5: Restore photos with inbuilt Android backup services
 
 These days, Android phone manufacturers provide their own inbuilt backup functions in the devices. You can back up your Infinix Zero 5G 2023 Turbo phone’s app data to the phone’s cloud backup, local backup, Google backup, or external storage. The options vary with the mobile phone brands. Some mobile phones like Huawei even have a builtin backup app.
@@ -117,6 +129,9 @@ The location path of the backup function may differ with Android phones. General
 
 For example,
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/image.webp)
 
 - On Xiaomi Redmi phones: Settings> Additional Settings> Backup & reset
@@ -127,6 +142,9 @@ If you had turned on the device backup service, restore the deleted Gallery pict
 
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Infinix Zero 5G 2023 Turbo to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -140,12 +158,18 @@ Your photos will be visible again in the Gallery app.
 - In ES File Explorer Menu go to **Settings> Display** Settings.
 - Enable **Show Hidden Files**. All the .nomedia files will be visible in the phone’s folders. You can delete them now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 7: Recover Gallery photos from Android cloud backup
 
 Apart from built-in Google cloud backup apps, you might be using other cloud storage such as DropBox or OneDrive etc. If you have enabled Android Gallery backup in any such cloud backup, restore the deleted Gallery photos from there.
 
 The benefit of cloud backup is that you can recover deleted smartphone photos from any device simply by login into the account.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Cloud-backup-in-Android-Xiaomi-768x469.webp)
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
@@ -169,6 +193,9 @@ Download the software’s free trial to assess its performance and preview the d
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## FAQ
 
 ### Q. I have deleted photos from Google Photos and now don’t know how to recover Gallery pictures from Google Photos
@@ -183,6 +210,9 @@ You can recover deleted Gallery pictures from the Google Photos app’s Trash or
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery without backup?
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -191,6 +221,9 @@ You can recover deleted photos from Android Gallery without backup using a photo
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after format?
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -218,3 +251,51 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-capturing-screenshots-like-a-pro-the-best-recorder-reviews-for-2024/"><u>[New] Capturing Screenshots Like a Pro  The Best Recorder Reviews for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-make-your-archive-pop-with-instagrams-vibrant-filter-options/"><u>[New] In 2024, How to Make Your Archive Pop with Instagram's Vibrant Filter Options</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-rogues-peak-top-ten-titles-reviewed/"><u>[New] Rogue's Peak  Top Ten Titles Reviewed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-complete-archive-of-high-quality-online-workshops-for-2024/"><u>[New] The Complete Archive of High-Quality Online Workshops for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-the-art-of-zooming-expert-strategies-for-snapchat-users/"><u>[Updated] Perfecting the Art of Zooming  Expert Strategies for Snapchat Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-global-stage-excellent-live-soundscape/"><u>2024 Approved  Global Stage  Excellent Live Soundscape</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-auditory-enhancement-for-kinemaster-a-comprehensive-guide/"><u>2024 Approved Auditory Enhancement for KineMaster A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/bite-sized-beginnings-easy-steps-to-launch-personalbusiness-channels-from-phones/"><u>Bite-Sized Beginnings  Easy Steps to Launch Personal/Business Channels From Phones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cut-the-clutter-advanced-techniques-for-windows-11-videos/"><u>Cut the Clutter  Advanced Techniques for Windows 11 Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-uot-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .uot file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-uot-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .uot file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-uot-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .uot file electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-uot-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .uot file free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-uot-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .uot file Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wbk-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wbk file by digital signature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wbk-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wbk file document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wbk-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wbk file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wbk-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wbk file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wbk-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wbk file electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wbk-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .wbk file free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wbk-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wbk file Online with DigiSigner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2000-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2000 document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2000-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2000 electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2000-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2000 free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2003-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2003 document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2003-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2003 electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2003-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2003 free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2007-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2007 document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2007-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2007 electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2007-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2007 free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2010-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2010 document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2010-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2010 electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2010-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2010 free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2013-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2013 document electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2013-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2013 electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2013-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2013 free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2016-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2016 document electronically</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-print-quality-on-win10-through-driver-update/"><u>Improve Print Quality on WIN10 Through Driver Update</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-cutting-edge-strategies-for-iptv-capture-success/"><u>In 2024, Cutting-Edge Strategies for IPTV Capture Success</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-starting-points-for-motion-visual-creation/"><u>In 2024, Starting Points for Motion Visual Creation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-make-animated-magic-happen-top-5-online-stop-motion-makers/"><u>New Make Animated Magic Happen Top 5 Online Stop Motion Makers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/twitch-facebook-synergy-broadcasting-tips-for-2024/"><u>Twitch-Facebook Synergy  Broadcasting Tips for 2024</u></a></li>
+</ul></div>

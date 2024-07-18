@@ -1,7 +1,7 @@
 ---
 title: 5 Techniques to Transfer Data from Infinix Hot 30i to iPhone 15/14/13/12 | Dr.fone
-date: 2024-06-25T04:04:18.142Z
-updated: 2024-06-26T04:04:18.142Z
+date: 2024-07-17T13:25:00.086Z
+updated: 2024-07-18T13:25:00.086Z
 tags: 
   - transfer
 categories:
@@ -21,18 +21,30 @@ Switching to a brand-new smartphone requires plenty of work. You first need to s
 In this article, we’ll talk about the essential factors involved in data migration of two devices with different operating systems. We will also provide a few tutorials on how to **transfer data from Infinix Hot 30i to iPhone 15** conveniently. Continue reading below to learn more.
 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Factors to Consider When Transferring Data From Infinix Hot 30i to iPhone
 
 It’s probably true to say that data migration is a major procedure. It’s not just a simple file-sharing method that can be completed in no time. A lot of things are involved when data is transferred from one device to another. To help you understand it better, below is a list of factors affecting the quality and speed of data migration.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### File Size
 
 The size of files being transferred affects the process in general. This is because the Infinix Hot 30i device on the receiving end needs to allocate the data individually to the available space. That’s why the procedure often takes some time to complete if the volume of files is quite large. On the hand one hand, data migration gets completed in a snap if the file size is smaller.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### File Type
 
 The type of files involved in the data transfer is also a factor. Why so? The simplest explanation is that compatibility matters a lot in any form of file transfer. For instance, the procedure will likely fail if the receiver’s device does not support the data you’re trying to send. But don’t worry. There are lots of methods to transfer data from Infinix Hot 30i to iPhone 15 if your first try doesn’t work out.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Device Storage
 
 Device storage is definitely the first thing you should check before going ahead with the data transfer. It is important that the receiver’s device has adequate memory to accommodate the incoming files. Otherwise, the transfer will likely not push through.
@@ -41,10 +53,16 @@ Device storage is definitely the first thing you should check before going ahead
 
 Migrating files between two smartphones with the same operating system is convenient. It’s because these two devices share an identical data-sharing structure. On the one hand, data migration between two smartphones with different operating systems is almost similar to the former. It’s just that the steps for the latter are quite longer. But don’t sweat it. There are many tutorials that can help you transfer data from Infinix Hot 30i to iPhone 15 conveniently.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 Various Ways to Transfer Data From Infinix Hot 30i to iPhone 15
 
 Sharing files between Android and iOS smartphones has become a lot easier today than ever before. In fact, you can actually complete the entire process in just a matter of minutes. No need for any advanced intervention or external assistance. Just initiate the specific technique that perfectly matches your circumstances. With that said, listed below are the top five methods to transfer data from Infinix Hot 30i to iPhone 15.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Transfer contacts from Infinix Hot 30i to iPhone 15 using iCloud
 
 Do you need to transfer contacts from Infinix Hot 30i to iPhone 15? Well, you can easily do that by importing your Android contacts to iCloud. Don’t worry. The steps are very simple. Here’s how to do it quickly and easily.
@@ -56,20 +74,41 @@ Do you need to transfer contacts from Infinix Hot 30i to iPhone 15? Well, you ca
 
 - **Step 3:** Click **Export to File.**
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![export to file](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-2.jpg)
 
 - **Step 4:** Choose the specific account that contains the contact list you want to export.
 - **Step 5:** Then, click **Save.**
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![save vcf](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-3.jpg)
 
 - **Step 6:** Launch the **Browser** app on your Infinix Hot 30i smartphone.
 - **Step 7:** Visit icloud.com and then log in to the iCloud account you’re currently using on your iPhone 15. From there, import the VCF file.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![icloud on web](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-4.jpg)
 
 - **Step 8:** Once the contact list has been imported successfully, check the **Contact** app on your iPhone and then find the newly uploaded contacts.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Transfer photos from Infinix Hot 30i to iPhone 15 using Google Photos
 
 Google Photos is not just a mere gallery application that allows users to view media files. It can also aid in the data migration between two devices since Google Photos stores the files online. Do you want to try it now? Here’s the guide on how to transfer data from Infinix Hot 30i to iPhone 15 using Google Photos.
@@ -101,6 +140,9 @@ Do you use Gmail to manage your emails and organize your calendar appointments? 
 
 - **Step 5:** Toggle on the radio button next to **Mail** and **Calendar.**
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mail and calendar](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-9.JPG)
 
 - **Step 6:** Check your **Mail** and **Calendar** applications. Find the Gmail data you’ve just synced.
@@ -126,10 +168,16 @@ Move to iOS is a mobile application that automates data migration between Androi
 
 - **Step 7:** Find the unique code displayed on your iPhone 15 screen. Then, enter it into your Infinix Hot 30i smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![type in code](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-sony-to-iphone-13.jpg)
 
 - **Step 8:** Choose the files you want to transfer. After that, initiate the process. Wait until all the files have been transferred to your new iPhone 15.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 5: Transfer data from Infinix Hot 30i to iPhone 15 using <u>Wondershare Dr.Fone.</u>
 
 There’s no denying that the first four methods are all effective in this regard. But if you wish to opt for a more convenient option, Wondershare Dr.Fone can absolutely help you with that. It has a powerful data migration feature that can help you transfer data from Infinix Hot 30i to iPhone 15. Here’s a short guide to get you started.
@@ -152,12 +200,27 @@ There’s no denying that the first four methods are all effective in this regar
 
 - **Step 6:** Wait while Wondershare Dr.Fone is facilitating the transfer. If you wish to terminate the progress, simply click **Cancel.**
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
 - **Step 7:** After completing the process, click **OK** to wrap it up. Check your files from their respective locations afterward.
 
 ![phone transfer done](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Back Up Your Infinix Hot 30i Before the Transfer
 
 Data migration by means of the five methods enumerated above is considered safe and secure. However, it doesn’t mean that implementing preventive measures against data loss is no longer necessary. Backing up your device before any major procedure is still highly recommended. That’s why don’t initiate the phone transfer without backing up your files first. Below is the guide on how to back up files using [<u>Wondershare Dr.Fone.</u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
@@ -165,14 +228,23 @@ Data migration by means of the five methods enumerated above is considered safe 
 - **Step 1:** Launch the Wondershare Dr.Fone application on your computer. Then, connect your Infinix Hot 30i using a data cable.
 - **Step 2:** Access the left-side panel and then click **My Backup.** On the main dashboard, click **Back Up Now.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare drfone backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 - **Step 3:** Follow the on-screen instructions for SMS backup. After that, click **OK** to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sms backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-2.png)
 
 - **Step 4:** Wait while Wondershare Dr.Fone is backing up your files.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![backup ongoing](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 - **Step 5:** After completing the backup process, click **View Backups** or **Open in Folder** to check your files.
@@ -199,6 +271,9 @@ Samsung Galaxy S21 Ultra is the new model of the Samsung Galaxy series. This ama
 
 Record your life's best moment with the Samsung Galaxy S21 Ultra 8k video feature. With this camera, you can also make GIFs, record short videos, slow-motion videos, etc. Galaxy S21 Ultra has a 108MP resolution. When it comes to the battery, you should know it has one lithium battery. Once you charge the Infinix Hot 30i device, it's ready to go for a long day. Now share your life moment on social media and enjoy your favorite game with Galaxy Ultra 5G. This device is available in multiple colors, including Phantom Black, Phantom Silver, Phantom Titanium, Phantom Navy, and Phantom Brown.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: The Differences among S21, S21+, and S21 Ultra
 
 We all know how amazing the Samsung Galaxy S21 series is. Their features and quality make us fall in love with these devices. Though Samsung Galaxy S21, S21+, and S21 Ultra have many common features, there are still many differences among these. So, let's find out what those are:
@@ -235,16 +310,25 @@ In these three models, you will get 5G. So, there is no argument about this. How
 
 Most of the time, after purchasing a new phone, we cannot transfer photos or other data to that device easily. At that moment, if you can use amazing data recovery software to transfer all your photos to the new Samsung Galaxy S21 Ultra, that would be a great solution. Well, we have the best solution for you. We are going to introduce you to an amazing software: [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It is a brilliant data recovery software that you can use for both iOS and Android systems. It has many amazing features. You can recover your data, transfer your photos and files, unlock Apple's ID and lock screen, repair the Android or iOS system, switch data from one phone to another phone, keep backup, restore data and erase data permanently from a device. Using this amazing software, you can transfer your photos to Samsung Galaxy S21 Ultra within one single click. Let's follow the guideline to know how to do this.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 1: Download & Install Program
 
 Download and install the software on your computer. Then start the Dr.Fone - Phone Transfer, and you'll get the program's home page. Now click on the "Switch" option to proceed forward.
 
 ![start dr.fone switch](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 2: Connect Android and iOS Device
 
 Next, you can connect your Samsung Galaxy S21 Ultra and an iOS device to the computer (you can also use an Android device here). Use a USB cable for the Android device and a lightning cable for the iOS device. You'll get an interface like below when the program detects both devices. You can use the "Flip" button to change devices as the target device and the sender device. You can also choose the file types here to transfer.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start dr.fone switch app](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 ### Step 3: Start Transfer Process
@@ -303,6 +387,9 @@ This software will require a few steps to transfer your contacts to another devi
 
 First, you have to activate Wondershare Dr.Fone on your computer and navigate to the “Toolbox" section. In that section, you have to select the "Phone Transfer” tool to proceed further.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![choose phone transfer in toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - Step 2. Designate the “Source” and “Destination” Devices
@@ -333,6 +420,9 @@ Apple has introduced a new feature in the latest iPhones named NameDrop. The fea
 
 - **Step 1.** Start by holding your iPhone's display a few centimeters from the top of the other person's iPhone. Keep both devices close until "NameDrop" appears on both screens.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![place iphone near each other](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-6.jpg)
 
 - **Step 2.** Afterward,you have to select whether to “Share” your contact card and receive the contact of another person. Or tap “Receive Only” to receive another person's contact information.
@@ -343,6 +433,9 @@ Apple has introduced a new feature in the latest iPhones named NameDrop. The fea
 
 ![select fields to share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2. iCloud Sync
 
 The alternate method to transfer your phone contacts is via iCloud synchronization. The technique involves your iCloud contacts option to be toggled on. You can sign in with the same iCloud account to transfer the contact list to your new iPhone. Here's how to transfer contacts from iPhone to iPhone using iCloud Sync:
@@ -355,10 +448,16 @@ The alternate method to transfer your phone contacts is via iCloud synchronizati
 
 ![toggle switch for contacts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3. 2 Methods To Transfer Contacts From Infinix Hot 30i to iPhone
 
 Let's discuss another scenario in which we will transfer the contact list from an Android to an iPhone. If you want to switch from Infinix Hot 30i to a new iPhone, you will probably need an effective method to transfer your phone numbers. In this section, we will discuss two simple and quick ways to **how do I transfer contacts from phone to phone:**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1. Sync Google Account
 
 Android users can back up their phone's data to Google Drive. Also, an Android phone's "Google Contacts" app saves the contact information to their linked Google account. The same account can be logged in a new iPhone, where they can be restored. Follow the simple guide to sync your Google account with the updated contact information:
@@ -369,6 +468,9 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 
 - **Step 2.** Next, choose the "Also sync device contacts" option at the top of the screen and ensure that the "Automatically back up & sync device contacts" feature is turned on. Afterward, switch to your iPhone and open the "Settings" app.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![enable back up and sync option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-12.jpg)
 
 - **Step 3.** Subsequently, navigate to the "Contacts" settings within your iPhone's "Settings" app. Here, find and select the "Accounts" option and proceed to the next step.
@@ -379,6 +481,9 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 
 ![add new google account](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2. Use the VCF File
 
 This method simplifies transferring contacts from Infinix Hot 30i to iPhone without requiring additional software or complex procedures. Also, it maintains contact details and facilitates a smooth transfer between devices. You can follow these steps to import a VCF file in which your contacts are saved.
@@ -391,20 +496,32 @@ This method simplifies transferring contacts from Infinix Hot 30i to iPhone with
 
 ![share vcf file to contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Part 4. 2 Methods To Transfer Contacts from Infinix Hot 30i to Other Android Devices
 
 This section will shed some light on the transfer process of contacts between one Android phone to another. Android devices offer various options to share content with another Android device. You can send contact lists and achieve **how to copy contacts from phone to phone** with these two methods:
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Nearby Share
 
 Nearby Share is a feature available on Android devices that allows you to easily share various types of content, including contacts. You have to ensure that both devices have Bluetooth and Location Services turned on. That’s because Nearby Share uses these services to find nearby devices and establish a connection for sharing content.
 
 - **Step 1.** To begin, navigate to the “Settings" of your Infinix Hot 30i and tap on the "Google” option. Then, proceed with “Devices and Sharing,” followed by switching on the “Nearby Share” feature.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access nearby share option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-17.jpg)
 
 - **Step 2.** As you proceed into the “Nearby Share” option, you have to turn on the “Device visibility” toggle. This will enable Nearby Share on your Android smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable nearby share on android](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-18.jpg)
 
 - **Step 3.** Now, you have to open the "Google Contacts" app on your Infinix Hot 30i and access the "Fix & manage" tab. Choose the "Export to file" option and select the Infinix Hot 30i device and account from which you want to share contacts. After making the selection, hit the "Export" button and save the file within your device.
@@ -421,12 +538,18 @@ The Google account transfer method can also transfer between Android and Android
 
 - **Step 1.** First, create a backup on your previous Android phone. For this, you need to access “Settings” on your phone and tap the "Accounts & Sync” option. Then, select “Google” and enable the “Contacts” option to allow the syncing process to complete.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![navigate to google account for sync](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-21.jpg)
 
 - **Step 2.** In the next step, navigate to “Settings” of your new Android device and tap “Accounts & Sync.” Afterward, log in using your Google account credentials and select the "Sync Now” feature within the "More” option. This will import the synced contacts to your new Android device.
 
 ![sync contacts on new device](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-22.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5. 2 Methods To Transfer Contacts From iPhone to Android
 
 This section will discuss two methods to transfer contacts from an iPhone to an Android. Similarly, in this iPhone-to-Android transfer case, the iPhone synchronization method and importing VCF file method can be used to move your contact list.
@@ -437,16 +560,25 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 
 - **Step 1.** Access the "Settings" app on your iPhone and navigate to the "Contacts" settings. Then, tap on "Accounts" and choose your Gmail account. Turn on the “Contacts” toggle switch to synchronize them.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sync contacts with your gmail account](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-23.jpg)
 
 **Note:** You can select "Add Account,” tap “Google," and input your credentials if your account has not been added yet.
 
 - **Step 2.** Now, you have to install or access the “Google One” app on your Infinix Hot 30i. Sign in and configure your Google One settings. Then, navigate to the “Sync” section and tap the “View” option.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![view sync in google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-24.jpg)
 
 - **Step 3.** There, you need to select the “Contacts" option and click "Set up Sync.” Next, proceed to the “Upload Contacts” option.Subsequently, contacts will sync to your Infinix Hot 30i.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload contacts via google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-25.jpg)
 
 ### Method 2. Import the VCF File
@@ -459,6 +591,18 @@ Importing a VCF file is another simple method for transferring contacts. It incl
 
 - **Step 2.** Now,on your Infinix Hot 30i, open “Chrome” browser and navigate to the "iCloud” site. Then, sign in to your iCloud account and tap the “Three Dots” icon in the browser. Afterward, select the "Desktop site" option among various other options.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access icloud site on android](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-27.jpg)
 
 - **Step 3.** Now, choose "Contacts" on the iCloud website, tap the "Three Dots" icon, and proceed with the "Select All" option. After that, you can tap the "Share" icon to choose the "Export vCard" feature. Subsequently, you need to open the exported file and select your Google account to import the contacts to your Infinix Hot 30i.
@@ -490,3 +634,58 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-budget-friendly-flight-machines-the-cheapest-drone-list/"><u>[New] 2024 Approved  Budget-Friendly Flight Machines  The Cheapest Drone List</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-social-lift-transform-from-zero-to-millionth-follower-in-months/"><u>[New] 2024 Approved  The Social Lift  Transform From Zero to Millionth Follower in Months</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-eliminate-blackout-issues-with-game-capture-apps/"><u>[New] In 2024, Eliminate Blackout Issues with Game Capture Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/aximize-your-video-sound-best-free-wav-extractors-from-youtube-for-2024/"><u>[New] Maximize Your Video Sound  Best Free WAV Extractors From YouTube for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-mastering-the-art-of-editing-movie-maker-on-w11-in-detail/"><u>2024 Approved  Mastering the Art of Editing  Movie Maker on W11 in Detail</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-twitch-vs-youtube-a-complete-comparison/"><u>2024 Approved  Twitch Vs. Youtube – A Complete Comparison</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-updated-inquiry-collection-for-podcast-appeal/"><u>2024 Approved  Updated Inquiry Collection for Podcast Appeal</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-apple-iphone-6-plus-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing Apple iPhone 6 Plus iCloud Activation Lock</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/ditch-windows-10-photos-discover-the-best-photo-editing-alternatives-for-2024/"><u>Ditch Windows 10 Photos Discover the Best Photo Editing Alternatives for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/diving-into-the-essence-of-verified-instagramselfies-for-2024/"><u>Diving Into the Essence of Verified Instagramselfies for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-a1x-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo A1x 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-a38-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo A38</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-a58-4g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo A58 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-a59-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo A59 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-f23-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo F23 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-find-x7-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo Find X7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-k11-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo K11 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-k11x-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo K11x</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-reno-10-proplus-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-reno-11-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo Reno 11 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-reno-11-pro-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-poco-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Poco</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-poco-x6-pro-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Poco X6 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-pova-5-pro-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Pova 5 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-razr-40-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Razr 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-c55-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme C55</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-c67-4g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme C67 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-c67-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme C67 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-gt-5-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme GT 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-narzo-n55-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme Narzo N55</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-v30-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme V30</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-red-magic-9-proplus-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Red Magic 9 Pro+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-redmi-13c-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Redmi 13C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-redmi-k70e-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Redmi K70E</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-redmi-note-13-pro-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-reno-10-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Reno 10 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-samsung-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Samsung</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-samsung-galaxy-a05s-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Samsung Galaxy A05s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-samsung-galaxy-a54-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-samsung-galaxy-s24-ultra-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-samsung-galaxy-z-flip-5-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-g310-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-podcast-logo-basics-key-principles-for-striking-art/"><u>In 2024, Podcast Logo Basics  Key Principles for Striking Art</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/overcoming-compression-artifacts-on-youtube-videos/"><u>Overcoming Compression Artifacts on YouTube Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713942892453-updated-how-to-convert-images-into-video-kapwing-tutorial/"><u>Updated How to Convert Images Into Video - Kapwing Tutorial</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-trail-the-echoes-of-game-soundscape/"><u>Updated Trail the Echoes of Game Soundscape</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/youtube-audio-repository-for-2024/"><u>YouTube Audio Repository for 2024</u></a></li>
+</ul></div>

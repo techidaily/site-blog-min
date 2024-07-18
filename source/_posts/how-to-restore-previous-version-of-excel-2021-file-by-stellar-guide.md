@@ -1,6 +1,6 @@
 ---
 title: How to Restore Previous Version of Excel 2021 File?
-date: 2024-03-03 16:36:56
+date: 2024-07-17T12:25:52.623Z
 tags: 
   - repair
   - repair excel
@@ -32,6 +32,9 @@ Whatever be the reason, if your business is dependent on an Excel file, corrupti
 
 It is important to identify the root cause behind Excel file corruption. If the problem has occurred due to a faulty hard disk drive, contact your hardware vendor to get it fixed. Also, move the file to another local drive and check if it opens. If nothing works, proceed with the methods discussed below to repair and restore the file.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Methods to Repair and Restore Excel File
 
 Try the following methods to fix corruption in an Excel file and restore it.
@@ -42,6 +45,9 @@ You can use the Excel built-in Open and Repair utility to repair the corrupt fil
 
 - Open your Excel application and click on Blank workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blank excel workbook](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/blank-excel-workbook-img-1.png)
 
 - On the blank workbook screen, click on the File tab.
@@ -54,14 +60,23 @@ You can use the Excel built-in Open and Repair utility to repair the corrupt fil
 
 - Select the file you want to repair and then click on Open and Repair from the Open dropdown box.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open and repair excel file](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/open-and-repair-excel-file-img-4.png)
 
 - Click Repair to fix corruption in the Excel file and recover maximum data.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![repair or extract excel data](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/repair-or-extract-data-img-5.png)
 
 - If you get the following error message, click Yes to open the file.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![excel file format does not match error](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/excel-file-format-does-not-match-error-img-6.png)
 
 - If clicking Yes opens the file with garbage entries (see the image below), perform Step 1 – 5 and click Extract Data. This will only help you recover data without formulas and values.
@@ -72,6 +87,9 @@ Note: You may also try to recover the data from a corrupted workbook by using th
 
 A better way to repair and restore an Excel file with complete data is to use a specialized [Excel file repair tool](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2 – Use Excel File Repair Tool
 
 Stellar Repair for Excel is a powerful tool designed to help users fix corrupted .xls or .xlsx files without any technical assistance. Also, the tool recovers all the components from a corrupted workbook, including tables, pivot tables, cell values, formulas, charts, images, etc. You can preview the repaired file and its contents by downloading the free demo version from the link below. It is a useful feature that allows the user to validate the data before saving it.
@@ -86,6 +104,9 @@ Here’s the step-by-step instructions to repair a corrupt Excel file using the 
 
 - Run the software. The software main interface opens with an instruction to add some add-ins if you’ve engineering formulas in the file you want to repair.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![software main screen](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/software-main-screen-img-8.png)
 
 - Click OK to proceed.
@@ -110,10 +131,16 @@ Note: If you’re not aware of the file location, choose the ‘Search’ option
 
 - Select the location where you wish to save the repaired file on the Save File window and then click OK.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![save at default location](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/save-at-default-location.png)
 
 A confirmation message will pop-up after completion of the repair process. You can now try to open the file in your Excel program.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## End Note
 
 Even if you’re taking preventive measures, you might still experience corruption in an Excel file. So, it’s crucial to take regular backups of your workbooks. For this, ensure that the 'Always create backup' option is enabled in Excel. You can find it in General Options by clicking on the Tools button in the Save As dialog box. Enabling it will ensure that the Excel backup file is updated with the changes made in a spreadsheet.
@@ -136,3 +163,48 @@ Additionally, ensure that the Excel ‘AutoRecover’ feature is set to save a v
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enhancing-content-reach-igtv-and-facebook-synergy/"><u>[Updated] 2024 Approved  Enhancing Content Reach  IGTV & Facebook Synergy</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-enhancing-your-video-with-professional-voice-overs/"><u>[Updated] Enhancing Your Video with Professional Voice Overs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-igtv-to-facebook-distribution-masterclass-approach-for-2024/"><u>[Updated] IGTV to Facebook Distribution  Masterclass Approach for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-excellence-exchange-global-creators/"><u>[Updated] In 2024, Excellence Exchange  Global Creators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-smoothly-lowering-sound-levels-using-garageband/"><u>[Updated] Smoothly Lowering Sound Levels Using Garageband</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-social-media-mirrors-the-science-of-true-ig-selfies-for-2024/"><u>[Updated] Social Media Mirrors  The Science of True IG Selfies for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-gopro-cases-insight-for-adventurers/"><u>[Updated] Top 10 GoPro Cases Insight for Adventurers</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/10-free-football-streaming-sites-to-bookmark-for-2024/"><u>10 Free Football Streaming Sites To Bookmark for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-your-webcam-experience-with-logitech-c270-usb-driver/"><u>Enhance Your Webcam Experience with Logitech C270 USB Driver</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-magic-v2-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor Magic V2 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-zte-by-fonelab-android-recover-music/"><u>How to retrieve erased music from ZTE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-zte-axon-40-lite-by-fonelab-android-recover-music/"><u>How to retrieve erased music from ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-zte-nubia-z60-ultra-by-fonelab-android-recover-music/"><u>How to retrieve erased music from ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-civi-3-disney-100th-anniversary-edition-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Civi 3 Disney 100th Anniversary Edition?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-civi-3-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Civi 3?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-edge-40-neo-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Edge 40 Neo?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-edge-40-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Edge 40 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-galaxy-a14-4g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Galaxy A14 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-galaxy-a15-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Galaxy A15 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-galaxy-a54-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Galaxy A54 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-galaxy-s23plus-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Galaxy S23+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Galaxy Z Flip 5?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-htc-u23-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in HTC U23 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-huawei-nova-y71-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Huawei Nova Y71?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-huawei-nova-y91-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Huawei Nova Y91?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-moto-g-stylus-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Moto G Stylus (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-moto-g-stylus-5g-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Moto G Stylus 5G (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-moto-g73-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Moto G73 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-motorola-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Motorola ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-motorola-defy-2-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Motorola Defy 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-motorola-edge-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Motorola Edge 2023?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-motorola-g24-power-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Motorola G24 Power?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-motorola-moto-g-5g-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Motorola Moto G 5G (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-motorola-moto-g34-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Motorola Moto G34 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-nova-y71-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Nova Y71?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-razr-40-ultra-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Razr 40 Ultra?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-achieving-balanced-video-audios-four-essential-techniques/"><u>New Achieving Balanced Video Audios Four Essential Techniques</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-vivid-melodies-for-youtube-content-enhancement/"><u>New In 2024, Vivid Melodies for YouTube Content Enhancement</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unleash-power-in-social-media-10-advanced-tactics-for-fb-optimization-for-2024/"><u>Unleash Power in Social Media  10 Advanced Tactics for FB Optimization for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-understanding-aspect-ratios-a-beginners-guide-to-image-sizing/"><u>Updated In 2024, Understanding Aspect Ratios A Beginners Guide to Image Sizing</u></a></li>
+</ul></div>

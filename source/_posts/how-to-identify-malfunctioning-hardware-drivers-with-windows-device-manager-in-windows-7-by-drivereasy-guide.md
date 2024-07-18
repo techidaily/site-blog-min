@@ -1,6 +1,6 @@
 ---
 title: How to identify malfunctioning hardware drivers with Windows Device Manager in Windows 7
-date: 2024-05-19T18:32:12.749Z
+date: 2024-07-17T10:12:02.453Z
 tags: 
   - driver
   - device driver
@@ -32,10 +32,16 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -95,6 +101,9 @@ We then scan a small selection of computers with our development-only Driver Eas
 
 Any drivers that make it through our first two test phases are then added to the live Driver Easy database.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3. Test on many popular computers
 
 We then use Driver Easy to scan dozens of the most popular computer setups (PC, operating system, video card, sound card, network card, printer, default software, etc.):
@@ -124,6 +133,9 @@ For example, if an audio driver supplied by Dell for a certain laptop causes iss
 
 Once we’ve located an alternative driver, we start over at step 1 of our testing process with it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -153,8 +165,14 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -167,6 +185,9 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
 <ins class="adsbygoogle"
@@ -184,3 +205,51 @@ And without all these drivers, none of your devices will work.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-elevate-views-the-5-most-innovative-tiktok-typography-solutions-of-now/"><u>[New] 2024 Approved  Elevate Views  The 5 Most Innovative TikTok Typography Solutions of Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-cameras-of-2024-the-ultimate-rundown/"><u>[New] Innovative Cameras of 2024  The Ultimate Rundown</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transitioning-artistry-in-inshot-videos/"><u>[New] Transitioning Artistry in Inshot Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hat-are-the-laws-around-saving-youtube-videos-for-offline-use/"><u>[New] What Are the Laws Around Saving YouTube Videos for Offline Use?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-crafting-comedy-mastering-kinemaster/"><u>[Updated] Crafting Comedy  Mastering KineMaster</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-masterclass-in-image-detail-removing-obscuring-elements-with-photopea/"><u>[Updated] In 2024, Masterclass in Image Detail  Removing Obscuring Elements with Photopea</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-explore-the-latest-in-picsart-a-comprehensive-guide-and-review/"><u>2024 Approved  Explore the Latest in PicsArt - A Comprehensive Guide and Review</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-overview-harnessing-the-power-of-googles-text-conversion/"><u>Complete Overview  Harnessing the Power of Google's Text Conversion</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-poco-c51-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-magic-v2-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor Magic V2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-magic5-ultimate-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-play-40c-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor Play 40C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-v-purse-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor V Purse</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-x50-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor X50</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-x50-gt-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor X50 GT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-x50i-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor X50i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-x50iplus-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor X50i+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-x7b-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor X7b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-x9b-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor X9b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-hot-40-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Hot 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-hot-40-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Hot 40 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-htc-u23-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from HTC U23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-htc-u23-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from HTC U23 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-huawei-nova-y91-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Huawei Nova Y91</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-huawei-p60-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Huawei P60</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-infinix-gt-10-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Infinix GT 10 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-infinix-hot-30i-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Infinix Hot 30i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-infinix-hot-40-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Infinix Hot 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-infinix-hot-40i-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Infinix Hot 40i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-infinix-note-30-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Infinix Note 30</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-infinix-note-30-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Infinix Note 30 Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-7-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 7 Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-sony-xperia-10-v-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Sony Xperia 10 V to Roku | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-maximizing-your-reach-live-360-videos-on-facebook/"><u>In 2024, Maximizing Your Reach  Live 360 Videos on Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-ploughing-through-the-past-top-farming-games-follow/"><u>In 2024, Ploughing Through the Past  Top Farming Games Follow</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-11x-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 11X 5G Phone FRP Lock</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-redmi-note-13-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Redmi Note 13 5G</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-legitimate-ways-to-get-filmora-at-no-cost-no-cracks-or-hacks/"><u>New 2024 Approved Legitimate Ways to Get Filmora at No Cost No Cracks or Hacks</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-preferred-playlists-and-music-packages-for-effortless-background-entertainment/"><u>New In 2024, Preferred Playlists and Music Packages for Effortless Background Entertainment</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/smart-approaches-boosting-communication-on-discord-through-the-use-of-voxels-audio-transformation-feature/"><u>Smart Approaches Boosting Communication on Discord Through the Use of Voxels Audio Transformation Feature</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-crash-course-in-surf-cameras-2e3/"><u>The Crash Course in Surf Cameras (2E3)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-fcpx-optimization-tips-and-tricks-to-reclaim-disk-space/"><u>Updated In 2024, FCPX Optimization Tips and Tricks to Reclaim Disk Space</u></a></li>
+</ul></div>

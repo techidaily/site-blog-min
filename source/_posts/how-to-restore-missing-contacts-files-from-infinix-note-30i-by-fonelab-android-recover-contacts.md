@@ -1,6 +1,6 @@
 ---
 title: How To  Restore Missing Contacts Files from Infinix Note 30i.
-date: 2024-04-07T02:11:34.629Z
+date: 2024-07-17T12:09:17.899Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -13,8 +13,10 @@ categories:
 description: In this article, you can find different ways to recover deleted contacts from Infinix Note 30i devices or SIM card. Just read it and find an ideal solution to find back your lost contacts soon.
 keyword: unerase contacts,regain missing contacts,restore deleted phone number on Infinix Note 30i,recover lost contacts from Infinix Note 30i,Infinix Note 30i contacts recovery,undelete contacts from Infinix Note 30i,get back deleted contacts from Infinix Note 30i android,Infinix Note 30i contacts disappeared,lost all contacts in Infinix Note 30i again,how to recover contacts in Infinix Note 30i,recover deleted contacts 2018 for Infinix Note 30i,my contacts deleted from Infinix Note 30i how to undo contacts
 ---
-<br>
-<img src="https://img0mobiles.techidaily.com/images/best-assets/devices/infinix/infinix-note-30i/4.jpg" class="atpl-imgstyle"  /><br>
+
+
+<img src="https://img0mobiles.techidaily.com/images/best-assets/devices/infinix/infinix-note-30i/4.jpg" class="atpl-imgstyle"  />
+
 <div class="atpl-content atpl-for-fonelab-android recover-contacts">
 <div class="atpl-post-description-part-1">
 In this article, you can find different ways to recover deleted contacts from Infinix Note 30i devices or SIM card. Just read it and find an ideal solution to find back your lost contacts soon.
@@ -49,20 +51,28 @@ In this article, you can find different ways to recover deleted contacts from In
 </div>  
 <span class="atpl-stepstyle-a"><span>Step 1: </span></span> <strong>Download and launch the Android Data Recovery on Mac</strong>
 Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" >Android Data Recovery</a> on your Mac computer, when you open it, a dialog box will pop up to remind you whether to register, purchase or free try.
-<br>
-<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/mac-free-try.png" class="atpl-imgstyle" alt="android data recovery free try" /><br>
+
+
+<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/mac-free-try.png" class="atpl-imgstyle" alt="android data recovery free try" />
+
 <span class="atpl-stepstyle-a"><span>Step 2: </span></span> <strong>Connection</strong>
 Run this powerful Android data recovering software on your Mac computer, and then connect your Infinix Note 30i device to computer via the USB cable. The program will detect your device automatically.
-<br>
-<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/mac-connection-interface.jpg" class="atpl-imgstyle" alt="connection android data recovery" /><br>
+
+
+<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/mac-connection-interface.jpg" class="atpl-imgstyle" alt="connection android data recovery" />
+
 <span class="atpl-stepstyle-a"><span>Step 3: </span></span> <strong>Enable USB debugging.</strong>
 Android Data Recovery will prompt you to enable USB debugging on your Infinix Note 30i, if you don't open the debugging mode. The program will detect the version of your Infinix Note 30i automatically and give you the instruction of opening the USB debugging mode on your Infinix Note 30i. After finishing the operations on your device, click <strong>"OK"</strong> button.
-<br>
-<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/mac-android-usb-debug.jpg"  class="atpl-imgstyle" alt="android data recovery debug" /><br>
+
+
+<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/mac-android-usb-debug.jpg"  class="atpl-imgstyle" alt="android data recovery debug" />
+
 <span class="atpl-stepstyle-a"><span>Step 4: </span></span> <strong>Select the contacts you want to recover.</strong>
 After connection, all file types on your Infinix Note 30i will be showed in the interface. Choose the file types you want to recover, such as contacts, messages, messages attachments, call logs, photos, gallery, picture library, videos, audios and other documents. Check the file types you want to recover and click Next. The program will scan your device automatically.
-<br>
-<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/mac-choose-type-contacts.jpg" class="atpl-imgstyle"  /><br>
+
+
+<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/mac-choose-type-contacts.jpg" class="atpl-imgstyle"  />
+
 <span class="atpl-stepstyle-a"><span>Step 5: </span></span> <strong>click "Recover" button to  complete recovering Infinix Note 30i's contacts</strong>
 When the scanning is finished, all types of files will be listed in categories on the left control. You are allowed to check the detailed information of each data. Preview and select the data you want to recover, and then click "Recover" button to complete recovering process.
 <a id="p2" name="p2"></a><hr>
@@ -72,20 +82,28 @@ When the scanning is finished, all types of files will be listed in categories o
 </div>
 <span class="atpl-stepstyle-a"><span>Step 1: </span></span> <strong>Download and launch the Android Data Recovery</strong>
 Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" >Android Data Recovery</a> on your Windows computer.
-<br>
-<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/win-start-interface.png"  class="atpl-imgstyle" alt="android data recovery windows" /><br>
+
+
+<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/win-start-interface.png"  class="atpl-imgstyle" alt="android data recovery windows" />
+
 <span class="atpl-stepstyle-a"><span>Step 2: </span></span> <strong>Connection</strong>
 Connect your Infinix Note 30i device to your Windows computer via the USB cable. Wait for seconds before the device is detected. Install the device driver on your computer if it hasn't been installed.
-<br>
-<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/win-connection-interface.png" class="atpl-imgstyle" alt="connection android data recovery windows" /><br>
+
+
+<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/win-connection-interface.png" class="atpl-imgstyle" alt="connection android data recovery windows" />
+
 <span class="atpl-stepstyle-a"><span>Step 3: </span></span> <strong>Enable USB debugging.</strong>
 Allow USB debugging when your Android prompts you of USB debugging permission. After finishing the operations on your Infinix Note 30i device, click "OK" button.
-<br>
-<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/win-android-usb-debug.png" class="atpl-imgstyle" alt="android data recovery debug windows" /><br>
+
+
+<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/win-android-usb-debug.png" class="atpl-imgstyle" alt="android data recovery debug windows" />
+
 <span class="atpl-stepstyle-a"><span>Step 4: </span></span> <strong>Preview and recover the Infinix Note 30i's lost contacts.</strong>
 Soon, all Android available files will be classified into category on the left. You can toggle the button of "Only display the deleted item(s)" to "On", so that you can quickly find the wanted Android file. Click "Recover" button and choose a destination folder to recover files. Within seconds, you can navigate to the file folder and check your deleted files from Infinix Note 30i.
-<br>
-<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/win-recover-contacts.jpg" class="atpl-imgstyle"  /><br>
+
+
+<img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/win-recover-contacts.jpg" class="atpl-imgstyle"  />
+
 <div class="atpl-post-description-part-4">
 <div class="tpl-content-sub-paragraph-normal">
     <p>
@@ -108,3 +126,48 @@ Soon, all Android available files will be classified into category on the left. 
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-explore-the-best-8-mirrorless-cameras-for-youtube-vloggers/"><u>[New] Explore the Best  8 Mirrorless Cameras for YouTube Vloggers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-crafting-musical-content-on-instagram/"><u>[New] In 2024, Crafting Musical Content on Instagram</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-social-network-showdown-2-written-by-a-computer-program-without-understanding-language-or-culture-for-2024/"><u>[New] Social Network Showdown 2 Written by a Computer Program, without Understanding Language or Culture for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-a-guide-to-gathering-creative-themes-using-google-trends-for-2024/"><u>[Updated] A Guide to Gathering Creative Themes Using Google Trends for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pushing-boundaries-in-post-production-with-ps-3d-luts/"><u>[Updated] Pushing Boundaries in Post-Production with PS 3D LUTs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unplanned-tiktok-refresh-can-i-regain-previous-views-in-2024/"><u>[Updated] Unplanned TikTok Refresh  Can I Regain Previous Views, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-voice-to-text-conversion-a-step-by-step-guide-to-efficient-documentation-using-ms-word/"><u>2024 Approved  Master Voice-to-Text Conversion  A Step by Step Guide to Efficient Documentation Using MS Word</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ace-the-art-of-tiktok-unboxing-more-likes-less-effort/"><u>Ace the Art of TikTok Unboxing  More Likes, Less Effort</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cutting-edge-tools-youtubes-finest-editors/"><u>Cutting Edge Tools  YouTube's Finest Editors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-6s-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 6s without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-7-plus-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 7 Plus to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-7-plus-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 7 Plus Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-7-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 7 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-7-plus-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 7 Plus without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-7-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 7 to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-7-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 7 Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-7-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 7 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-7-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 7 without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-8-plus-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 8 Plus to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-8-plus-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 8 Plus Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-8-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 8 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-8-plus-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 8 Plus without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-8-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 8 to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-8-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 8 Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-8-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 8 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-8-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 8 without Losing Data? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-browsing-boredom-away-15-chuckle-inducing-youtubers/"><u>In 2024, Browsing Boredom Away  15 Chuckle-Inducing YouTubers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-g42-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia G42 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-optimizing-your-youtube-music-selection/"><u>In 2024, Optimizing Your YouTube Music Selection</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713962010741-new-despite-the-aforementioned-restrictions-cartoon-video-makers-still-offer-a-sea-of-possibilities-to-their-users-so-lets-dive-into-the-magical-world-of-an/"><u>New Despite the Aforementioned Restrictions, Cartoon Video Makers Still Offer a Sea of Possibilities to Their Users, so Lets Dive Into the Magical World of Animated Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premiers-top-12-gps-enhanced-surveillance-cameras-for-2024/"><u>Premier's Top 12 GPS-Enhanced Surveillance Cameras for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-300-investment-oculus-quest-trend-post-account-breaches/"><u>The $300 Investment: Oculus Quest Trend Post-Account Breaches</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

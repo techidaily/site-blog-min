@@ -1,6 +1,6 @@
 ---
 title: How to Recover Deleted Excel 2010 Files on Mac Complete Guide
-date: 2024-05-19T18:32:14.497Z
+date: 2024-07-17T10:35:24.977Z
 tags: 
   - repair
   - repair excel
@@ -24,6 +24,9 @@ You may need to access your data from another location. That’s when a USB flas
 
 This blog will provide insights into what are the reasons for the corruption of a USB and how the users can repair Excel on flash drive that has been corrupted.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## **Reasons for USB inaccessibility**
 
 Sometimes flash drives or USBs can become unresponsive due to numerous reasons. There are two types of corruption – logical and physical. Physical corruptions occur due to broken stems and connectors, broken circuits, NAND gate, not recognised, RAW, need to format, not accessible, and dead drives (no power supply).
@@ -32,6 +35,9 @@ One of the main reasons behind such an error could be that the USB drive has bee
 
 There can be various other reasons that may make your USB corrupt or unresponsive. But there are very slim chances that you will be able to recover a flash drive that has physical damage. However, you can try to run the check disk on the USB drive to fix the drive. We will be discussing this as you read on.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Recovery Methods for Corrupted Flash Drives**
 
 There are 3 tried and tested recovery methods. Try them and see which one works out for you.
@@ -46,6 +52,9 @@ To bring back your old Excel files, fixing up the corrupt file is your best opti
 - Go to “My Computer”->USB Drive->Check if the file exists
 - Right click on the excel file and click on the restore previous versions
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Restore Previous Versions](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/12/restore-previous-version-of-Excel.jpg)
 
 - You will now see a list of older versions which were created
@@ -71,10 +80,25 @@ Follow the below steps while the USB flash drive has been plugged into your comp
 - Open “Run” and then open “cmd”
 - Type in “chkdsk /X /f (USB Drive Letter)” where the “(USB Drive Letter)” is the letter of the corrupted USB Drive. You can get this letter easily from the “My Computer”.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chkdsk  command prompt](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/12/check-disk.jpg)
 
 It will now check your disk to and correct any corrupted records.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **What if none of these methods works?**
 
 In case none of the above methods works to repair Excel document on a flash drive, then you would need a professional Excel repair software such as **[Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/?utm_source=Site_Blog&utm_medium=Site_Blog&utm_campaign=Site_Blog_Excel_Flash_Drive)** to restore your files. Such software not only help repair corrupted Excel files on flash drives but also help in recovering the data stored within them in their original format.
@@ -83,6 +107,9 @@ In case none of the above methods works to repair Excel document on a flash driv
 
 **Stellar Repair for Excel** resolves corruption problems in Excel files and recovers all formulas, charts, cell formatting, and more from them. It can repair multiple Excel files in one go. Equipped with a fully interactive GUI, working with this product is extremely easy.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/03/free-download-windows-2.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 ## **To sum it up**
@@ -107,3 +134,37 @@ Although flash drives are quite popularly used, they are not the most reliable o
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-approach-to-hdr-portraiture-excellence/"><u>[New] Innovative Approach to HDR Portraiture Excellence</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-agrarian-aesthetics-stardew-clones-and-cousins/"><u>[Updated] Agrarian Aesthetics  Stardew Clones and Cousins</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-overcoming-video-blank-screen-the-ultimate-chromesafari-guide/"><u>2024 Approved  Overcoming Video Blank Screen  The Ultimate Chrome/Safari Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/best-of-the-best-8-free-online-video-stabilizers-reviewed-for-2024/"><u>Best of the Best 8 Free Online Video Stabilizers Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cutting-edge-video-editing-mastering-green-screen-integration-for-2024/"><u>Cutting Edge Video Editing  Mastering Green Screen Integration for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-htc-u23-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your HTC U23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with electronic signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-electronic-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with electronic signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with electronic signature tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with digital signature app</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with digital signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with digital signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with electronic signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-electronic-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with electronic signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with electronic signature tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v13-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.3 document with digital signature app</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v13-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.3 document with digital signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v13-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.3 document with digital signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v13-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.3 document with electronic signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v13-document-with-electronic-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.3 document with electronic signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v13-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.3 document with electronic signature tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v14-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.4 document with digital signature app</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v14-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.4 document with digital signature service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v14-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.4 document with digital signature software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v14-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.4 document with electronic signature service</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-saying-goodbye-to-instagram-forever-a-detailed-walkthrough/"><u>In 2024, Saying Goodbye to Instagram Forever  A Detailed Walkthrough</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-blueprint-for-your-mobile-youtube-businesspersonal-platform/"><u>In 2024, The Ultimate Blueprint for Your Mobile YouTube Business/Personal Platform</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-new-era-of-content-creation-and-profitability-for-2024/"><u>The New Era of Content Creation and Profitability for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/ultimate-guide-to-auditory-separation-from-visual-media-the-2023-methodology-for-2024/"><u>Ultimate Guide to Auditory Separation From Visual Media The 2023 Methodology for 2024</u></a></li>
+</ul></div>

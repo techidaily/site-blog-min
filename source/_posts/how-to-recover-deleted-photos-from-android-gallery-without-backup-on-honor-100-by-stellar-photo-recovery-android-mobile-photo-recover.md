@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Honor 100
-date: 2024-05-19T18:32:07.627Z
+date: 2024-07-17T08:59:19.493Z
 tags: 
   - recover
 categories: 
@@ -53,6 +53,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -72,13 +75,22 @@ The software works on damaged, corrupt, formatted, inaccessible mobile SD cards 
 
 In addition, you can also restore your Gallery videos and audio files with the help of Stellar Photo Recovery. It is available for both Windows and Mac computers.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover Gallery photos with Stellar Photo Recovery:
 
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
 
 Watch this video for the step-by-step process to recover Gallery pictures from Android SD card with the help of Stellar Photo Recovery : 
@@ -100,6 +112,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 
 **Caution**: Rooting makes your Honor 100 phone’s warranty null and void.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover deleted Gallery photos from Android internal storage:
 
 - Download any secure Android recovery software on Windows or Mac computer.
@@ -124,6 +139,9 @@ If you had turned on the device backup service, restore the deleted Gallery pict
 
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Honor 100 to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -132,11 +150,17 @@ Thus, if you don’t see your pictures in Gallery, check for .nomedia files in t
 
 Your photos will be visible again in the Gallery app.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to delete .nomedia file in Android:
 
 - In ES File Explorer Menu go to **Settings> Display** Settings.
 - Enable **Show Hidden Files**. All the .nomedia files will be visible in the phone’s folders. You can delete them now.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 7: Recover Gallery photos from Android cloud backup
 
 Apart from built-in Google cloud backup apps, you might be using other cloud storage such as DropBox or OneDrive etc. If you have enabled Android Gallery backup in any such cloud backup, restore the deleted Gallery photos from there.
@@ -168,6 +192,9 @@ Download the software’s free trial to assess its performance and preview the d
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Q. How to recover photos when my Android SD card asks to format before I can open it?
 
 You can perform chkdsk scan on your PC followed by photo recovery. If this doesn’t help, you are left with no choice except to format the mobile SD card. However, before that retrieve the lost photos, videos, and audio from the SD card with Stellar Photo Recovery.
@@ -180,6 +207,9 @@ Steps to perform Chkdsk scan:
 - Hit Enter.
 
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. Can I recover permanently deleted photos from Android?
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -192,6 +222,9 @@ You can recover deleted photos from Android Gallery without backup using a photo
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after format?
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -219,3 +252,62 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-top-8-facebook-planners-for-enhanced-team-productivity/"><u>[New] 2024 Approved  Top 8 Facebook Planners for Enhanced Team Productivity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-captivate-viewers-with-stunning-story-bokeh/"><u>[New] In 2024, How to Captivate Viewers with Stunning Story Bokeh</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unlock-6-free-youtube-endings-for-pros/"><u>[Updated] 2024 Approved  Unlock 6 Free YouTube Endings for Pros</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-impact-of-new-instagrams-algorithms-on-users-for-2024/"><u>[Updated] Impact of New Instagram's Algorithms on Users for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-12-ultimate-insta-image-enhancers/"><u>[Updated] In 2024, 12 Ultimate Insta Image Enhancers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-5-steps-to-crafting-engaging-cost-effective-youtube-ads/"><u>[Updated] In 2024, 5 Steps to Crafting Engaging, Cost-Effective YouTube Ads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-master-your-favorite-games-with-obs-streaming-tips-for-2024/"><u>[Updated] Master Your Favorite Games with OBS Streaming Tips for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quickly-transform-sluggish-videos-on-android/"><u>[Updated] Quickly Transform Sluggish Videos on Android</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-tiktoks-take-jujutsu-kaisen-challenges-and-laughs/"><u>[Updated] TikTok's Take  Jujutsu Kaisen Challenges and Laughs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-accessing-and-making-sense-of-twitter-archives/"><u>2024 Approved  Accessing and Making Sense of Twitter Archives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphones-audio-advantages-for-podcast-lovers/"><u>2024 Approved  IPhone's Audio Advantages for Podcast Lovers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-the-art-of-conversation-top-whatsapp-techniques/"><u>2024 Approved  Master the Art of Conversation  Top WhatsApp Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/archive-your-online-dialogues-essential-steps-for-fb-chat-recordings/"><u>Archive Your Online Dialogues  Essential Steps for FB Chat Recordings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effective-strategies-for-archiving-vimeo-footage-for-2024/"><u>Effective Strategies for Archiving Vimeo Footage for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-metaverse-project-seeks-global-talent-pool-of-10k/"><u>Facebook's Metaverse Project Seeks Global Talent Pool of 10K.</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/facecam-recording-techniques-the-essentials/"><u>Facecam Recording Techniques  The Essentials</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-spark-go-2023-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Spark Go (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-t2-pro-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from T2 Pro 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-tecno-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Tecno ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Tecno Camon 20 Premier 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-tecno-spark-10c-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Tecno Spark 10C?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-v27-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from V27 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-v29-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from V29 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-s17e-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo S17e?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-s18-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo S18 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-v27-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo V27?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-v29e-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo V29e?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-v30-lite-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo V30 Lite 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-x-flip-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo X Flip?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-x100-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo X100 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y100-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y100 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y100i-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y100i?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y27-4g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y27 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y27-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y27 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y27s-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y27s?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y28-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y28 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-x6-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from X6 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-x6-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from X6?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-x7b-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from X7b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-13t-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi 13T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-redmi-12-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi Redmi 12?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-redmi-13c-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi Redmi 13C 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi Redmi K70 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-xiaomi-redmi-k70-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Xiaomi Redmi K70?</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-officejet-pro-8600-printer-software-for-windows/"><u>HP OfficeJet Pro 8600 Printer Software for Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-infinix-note-30i-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Infinix Note 30i Phone When You Forget the Password</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-13-pro-max-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 13 Pro Max Properly | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-word-2010-by-ldigisigner-sign-a-word-sign-a-word/"><u>Online signatures for Word 2010</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/refining-audio-in-obs-high-quality-mode-for-2024/"><u>Refining Audio in OBS High-Quality Mode for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-motorola-edge-40-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Motorola Edge 40 Pro FRP Bypass</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/which-recording-tool-excels-more-bandicam-vs-camtasia/"><u>Which Recording Tool Excels More? - Bandicam Vs. Camtasia</u></a></li>
+</ul></div>

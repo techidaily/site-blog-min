@@ -1,7 +1,7 @@
 ---
 title: How to Sign a .txt file document online
-date: 2024-03-09 12:26:14
-updated: 2024-03-12 16:34:49
+date: 2024-07-17T12:50:32.157Z
+updated: 2024-07-18T12:50:32.157Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to Sign a .txt file document online
 excerpt: This article describes How to Sign a .txt file document online
 keywords: .txt file signer online,.dotm file signature online,.dotx file signature app
-thumbnail: https://www.lifewire.com/thmb/p0ylhoIohfzUUD_zptkk_cS1LaE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zenbook-17-fold-oled-72de5601b7334834a2962b7a8c7b4e9b-16fb2ba97f414911a71ffd37c82c541e.png
+thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32ba37267dd79e6e802f121e2.png
 ---
 
 ## 1. How to Sign a .txt file document online
@@ -23,6 +23,18 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -37,6 +49,9 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
   > Save your changes by clicking on DONE, then select DOWNLOAD DOCUMENT to securely download it via protected SSL connection.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Word
 
 These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -69,6 +84,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -77,6 +95,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -116,10 +137,16 @@ You can use the standard features of Microsoft Office Word to digitally sign a d
 
 To implement each of the ways to install a digital signature in Word, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Word on Windows.
@@ -128,6 +155,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -149,6 +179,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-word-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -159,3 +192,50 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-elevate-viewership-3-key-storytelling-approaches/"><u>[New] 2024 Approved  Elevate Viewership  3 Key Storytelling Approaches</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-innovative-grabber-tech-for-film-lovers-for-2024/"><u>[New] Innovative Grabber Tech for Film Lovers for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715859923158-new-next-gen-online-meeting-apps-azoom-no-more/"><u>[New] Next-Gen Online Meeting Apps  Azoom No More!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-real-time-12-hd-streaming-app-for-content-lovers/"><u>[New] Real-Time 12 HD Streaming App for Content Lovers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-frugal-filmmakers-choice-best-cameras-at-low-costs-for-2024/"><u>[New] The Frugal Filmmaker's Choice  Best Cameras at Low Costs for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-from-live-to-legacy-preserving-facebook-events/"><u>[Updated] 2024 Approved  From Live to Legacy  Preserving Facebook Events</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-insiders-manual-to-upload-content-to-igtv/"><u>[Updated] 2024 Approved  The Insider's Manual to Upload Content to IGTV</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-trailblazing-the-future-of-3d-color-grading-tools/"><u>[Updated] Trailblazing the Future of 3D Color Grading Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-universal-youtube-guidelines-and-expectations/"><u>[Updated] Universal YouTube Guidelines and Expectations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlock-the-power-of-instream-ads-detailed-guidelines-on-setup-and-evaluation-in-fb/"><u>2024 Approved  Unlock the Power of Instream Ads  Detailed Guidelines on Setup & Evaluation in FB</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capture-the-action-in-depth-guide-to-game-recording-on-win10/"><u>Capture the Action  In-Depth Guide to Game Recording on Win10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2000-workbook-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2000 Workbook? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2003-files-by-stellar-guide/"><u>How to Repair Corrupt Excel 2003 Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2003-files-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2003 Files | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2003-workbook-by-stellar-guide/"><u>How to Repair Corrupt Excel 2003 Workbook?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2003-workbook-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2003 Workbook? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2007-files-by-stellar-guide/"><u>How to Repair Corrupt Excel 2007 Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2007-files-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2007 Files | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2007-workbook-by-stellar-guide/"><u>How to Repair Corrupt Excel 2007 Workbook?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2007-workbook-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2007 Workbook? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2010-files-by-stellar-guide/"><u>How to Repair Corrupt Excel 2010 Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2010-files-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2010 Files | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2010-workbook-by-stellar-guide/"><u>How to Repair Corrupt Excel 2010 Workbook?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2010-workbook-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2010 Workbook? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2013-files-by-stellar-guide/"><u>How to Repair Corrupt Excel 2013 Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2013-files-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2013 Files | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2013-workbook-by-stellar-guide/"><u>How to Repair Corrupt Excel 2013 Workbook?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2013-workbook-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2013 Workbook? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2016-files-by-stellar-guide/"><u>How to Repair Corrupt Excel 2016 Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2016-files-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2016 Files | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2016-workbook-by-stellar-guide/"><u>How to Repair Corrupt Excel 2016 Workbook?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2016-workbook-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2016 Workbook? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2019-files-by-stellar-guide/"><u>How to Repair Corrupt Excel 2019 Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2019-files-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2019 Files | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2019-workbook-by-stellar-guide/"><u>How to Repair Corrupt Excel 2019 Workbook?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2019-workbook-stellar-by-stellar-guide/"><u>How to Repair Corrupt Excel 2019 Workbook? | Stellar</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-honor-magic-6-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor Magic 6 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-achieve-creative-vibrancy-with-picshots-assistance/"><u>In 2024, Achieve Creative Vibrancy with Picshot's Assistance</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-honor-x9a-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Honor X9a FRP Without Computer</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-minitool-movie-maker-review-and-alternatives/"><u>New 2024 Approved Minitool Movie Maker Review and Alternatives</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-edit-avi-files-with-ease-best-windows-8-video-editor-2023-for-2024/"><u>New Edit AVI Files with Ease Best Windows 8 Video Editor - 2023 for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-free-video-editing-without-watermarks-8-best-trimmers/"><u>Updated 2024 Approved Free Video Editing without Watermarks 8 Best Trimmers</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to recover deleted photos from Android Gallery after format on Narzo 60 Pro 5G
-date: 2024-05-19T18:32:07.248Z
-updated: 2024-05-20T18:32:07.248Z
+date: 2024-07-17T08:52:38.110Z
+updated: 2024-07-18T08:52:38.110Z
 tags: 
   - recover
 categories: 
@@ -47,6 +47,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Recover-Android-photos-google-drive.webp) 
 
 - All the uploaded or backed up photos appear. Right click on the  photos you want to restore and select **Download** to recover the image files from there.
@@ -56,6 +59,9 @@ You can retrieve the deleted Gallery photos from your Google Drive account on yo
 - When you delete a photo in Google Photos, it will also be deleted from Google Drive.
 - When you delete folders, including the Google Photos folder in Google Drive, the photos and videos in those folders will stay in Google Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Photo Recovery Tool to restore from Android SD card
 
 If your deleted Gallery photos were saved in the mobile’s SD card and not in Android’s internal memory, use an [SD card photo recovery tool — Stellar Photo Recovery](https://tools.techidaily.com/stellar-photo-recovery/). The software is popularly used to recover deleted Gallery photos that were saved in Android SD card.
@@ -80,6 +86,9 @@ In addition, you can also restore your Gallery videos and audio files with the h
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
@@ -117,6 +126,9 @@ The location path of the backup function may differ with Android phones. General
 
 For example,
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/image.webp)
 
 - On Xiaomi Redmi phones: Settings> Additional Settings> Backup & reset
@@ -125,6 +137,9 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
@@ -140,12 +155,18 @@ Your photos will be visible again in the Gallery app.
 - In ES File Explorer Menu go to **Settings> Display** Settings.
 - Enable **Show Hidden Files**. All the .nomedia files will be visible in the phone’s folders. You can delete them now.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 7: Recover Gallery photos from Android cloud backup
 
 Apart from built-in Google cloud backup apps, you might be using other cloud storage such as DropBox or OneDrive etc. If you have enabled Android Gallery backup in any such cloud backup, restore the deleted Gallery photos from there.
 
 The benefit of cloud backup is that you can recover deleted smartphone photos from any device simply by login into the account.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Cloud-backup-in-Android-Xiaomi-768x469.webp)
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
@@ -169,6 +190,9 @@ Download the software’s free trial to assess its performance and preview the d
 - [Download Stellar Photo Recovery for Windows](https://secure.2checkout.com/order/cart.php?PRODS=4605232&QTY=1&AFFILIATE=108875)
 - [Download Stellar Photo Recovery for macOS](https://secure.2checkout.com/order/cart.php?PRODS=4605891&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQ
 
 ### Q. How to recover deleted photos from Android Gallery of Samsung phone?
@@ -181,10 +205,16 @@ You can follow the methods shared in this post to recover photos from Android ph
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery without backup?
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after factory reset?
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -193,6 +223,9 @@ You can recover deleted photos from Android Gallery after factory reset using a 
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after software update?
 
 You can recover deleted photos from Android Gallery after software update using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -216,3 +249,51 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-easier-than-ever-2023s-fire-browser-addons-for-capturing-your-fb-videos/"><u>[New] In 2024, Easier Than Ever  2023'S Fire-Browser Addons for Capturing Your FB Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-secure-whole-page-scene/"><u>[Updated] In 2024, Secure Whole-Page Scene</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-straightforward-strategies-for-iphones-screen-recording/"><u>[Updated] Straightforward Strategies for iPhone's Screen Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unified-brands-and-streaming-services-a-new-age-of-marketing-collaboration/"><u>[Updated] Unified Brands & Streaming Services  A New Age of Marketing Collaboration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-artisans-guide-to-cropping-and-soundscaping-in-canvas/"><u>2024 Approved  The Artisan's Guide to Cropping and Soundscaping in Canvas</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/clearer-chrome-tips-to-improve-facebook-playback/"><u>Clearer Chrome  Tips to Improve Facebook Playback</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-poco-x6-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-11-pro-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from 11 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-11x-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from 11X 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-12-proplus-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from 12 Pro+ 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-ace-2v-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Ace 2V</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-asus-rog-phone-8-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Asus ROG Phone 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-asus-rog-phone-8-pro-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-blaze-pro-5g-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Blaze Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-c51-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from C51</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-camon-20-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Camon 20</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-find-x7-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Find X7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-galaxy-s24plus-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Galaxy S24+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-gionee-f3-pro-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Gionee F3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-google-pixel-8-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Google Pixel 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-x-flip-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo X Flip</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-y100a-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo Y100A</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-y100i-power-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-y17s-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo Y17s</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-y200-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo Y200</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-y27-4g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo Y27 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-vivo-y78t-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Vivo Y78t</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-x-flip-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from X Flip</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-x100-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from X100 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-x8b-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from X8b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-xiaomi-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Xiaomi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-xiaomi-14-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Xiaomi 14</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-xiaomi-redmi-k70e-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-y36i-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Y36i</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-y78plus-t1-edition-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Y78+ (T1) Edition</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oneplus-ace-2-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From OnePlus Ace 2 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/influencer-tip-crafting-irresistible-templated-content-in-youtube-descriptions-for-2024/"><u>Influencer Tip  Crafting Irresistible Templated Content in YouTube Descriptions for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-use-frame-blending-in-adobe-premiere-pro-for-2024/"><u>New How to Use Frame Blending in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-social-strategy-sessions-the-top-2023-list-of-podcast-episodes-for-brands-for-2024/"><u>New Social Strategy Sessions The Top 2023 List of Podcast Episodes for Brands for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optimizing-video-capture-with-mov-on-windows-10-for-2024/"><u>Optimizing Video Capture with MOV on Windows 10 for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-beginners-guide-to-luts-and-downloading-tools-for-2024/"><u>The Beginner's Guide to LUTs and Downloading Tools for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-easiest-way-to-edit-avi-files-split-trim-and-cut-with-ease/"><u>The Easiest Way to Edit AVI Files Split, Trim, and Cut with Ease</u></a></li>
+</ul></div>

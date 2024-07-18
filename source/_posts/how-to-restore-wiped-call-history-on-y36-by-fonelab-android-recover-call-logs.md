@@ -1,6 +1,6 @@
 ---
 title: How to restore wiped call history on Y36?
-date: 2024-04-07T02:11:35.546Z
+date: 2024-07-17T12:28:36.528Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -125,3 +125,63 @@ Soon, all Android available files will be classified into category on the left. 
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mythos-mazes-decades-best-adventure-games/"><u>[New] In 2024, Mythos Mazes  Decade’s Best Adventure Games</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-inside-top-15-emotes-a-look-at-the-masters-of-creation/"><u>[New] Inside Top 15 Emotes  A Look at the Masters of Creation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-youtube-name-makers-plus-creative-idea-sparking-techniques/"><u>[New] Top YouTube Name Makers + Creative Idea Sparking Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-efficient-steps-recording-on-apples-ipad/"><u>[Updated] 2024 Approved  Efficient Steps  Recording on Apple's iPad</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-opening-doors-to-collective-listening-on-youtube/"><u>[Updated] In 2024, Opening Doors to Collective Listening on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-yourself-from-video-edges-on-youtube/"><u>2024 Approved  Free Yourself From Video Edges on YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-professional-thumbnail-creation-for-youtube-macos-style/"><u>2024 Approved  Professional Thumbnail Creation for YouTube (macOS Style)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-gionee-f3-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Gionee F3 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-a70-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your A70?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-asus-rog-phone-7-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Asus ROG Phone 7?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-asus-rog-phone-8-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Asus ROG Phone 8 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-asus-rog-phone-8-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Asus ROG Phone 8?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-c22-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your C22?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-camon-20-premier-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Camon 20 Premier 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-edge-40-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Edge 40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-find-n3-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Find N3?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-g54-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your G54 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-galaxy-a05s-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Galaxy A05s?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-galaxy-a15-4g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Galaxy A15 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-galaxy-a24-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Galaxy A24?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-galaxy-z-flip-5-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Galaxy Z Flip 5?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-google-pixel-8-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Google Pixel 8 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-100-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor 100 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-70-lite-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor 70 Lite 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-90-lite-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor 90 Lite?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-90-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor 90?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-magic-5-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor Magic 5?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-magic-6-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor Magic 6 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-magic5-ultimate-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor Magic5 Ultimate?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-play-40c-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor Play 40C?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-play-7t-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor Play 7T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-play-8t-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor Play 8T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-v-purse-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor V Purse?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-x50-gt-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor X50 GT?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-x50i-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor X50i?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-x7b-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor X7b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-x8b-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor X8b?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-content-from-android-to-iphone-directly-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Content from android to iPhone Directly | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-canva-creative-editor-exploration/"><u>In 2024, Canva Creative Editor Exploration</u></a></li>
+<li><a href="https://facebook.techidaily.com/large-techs-credibility-questioned-by-survey-results/"><u>Large Tech's Credibility Questioned by Survey Results</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/little-wheels-whirlwind-games-for-2024/"><u>Little Wheels Whirlwind Games for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-10-best-nature-sounds-apps-for-ios-and-android-for-2024/"><u>New 10 Best Nature Sounds Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ering-avengers-the-marvellous-world-builders-for-2024/"><u>Pioneering Avengers  The Marvellous World-Builders for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-laser-print-quality-concerns/"><u>Resolving Laser Print Quality Concerns</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-instructions-on-initiating-a-cross-platform-skype-conversation-with-ease/"><u>Step-by-Step Instructions on Initiating a Cross-Platform Skype Conversation with Ease</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/thriving-on-both-sides-work-and-youtubing-tips-for-2024/"><u>Thriving on Both Sides  Work and YouTubing Tips for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-novice-to-pro-expert-advice-on-youtub/"><u>Updated 2024 Approved From Novice to Pro Expert Advice on YouTub</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-audio-editors-handbook-6-methodical-steps-for-clearing-vocals-using-adobe-audition/"><u>Updated The Audio Editors Handbook 6 Methodical Steps for Clearing Vocals Using Adobe Audition</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-guide-to-compressing-videos-on-iphone-and-ipad-for-free/"><u>Updated The Ultimate Guide to Compressing Videos on iPhone and iPad for Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-mac-computers-revolutionize-pc-gameplay/"><u>Will Mac Computers Revolutionize PC Gameplay?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/windows-movie-makers-iterative-development-history/"><u>Windows Movie Maker's Iterative Development History</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

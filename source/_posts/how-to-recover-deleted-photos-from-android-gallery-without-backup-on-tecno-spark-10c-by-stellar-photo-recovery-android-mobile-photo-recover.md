@@ -1,6 +1,6 @@
 ---
 title: How to recover deleted photos from Android Gallery without backup on Tecno Spark 10C
-date: 2024-05-19T18:32:07.793Z
+date: 2024-07-17T09:02:00.831Z
 tags: 
   - recover
 categories: 
@@ -37,10 +37,16 @@ How to recover deleted photos from Android Gallery free using Google Photos:
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/recover-Gallery-using-Google-Photos.webp) 
 - Select **‘Save to device’** or **‘Download’** depending on your Tecno Spark 10C model. If the photo is already on your device, this option won’t appear. The image will be saved in your Android Gallery under the **Albums > Restored** folder. 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Recover Gallery photos from Google Drive
 
 You can retrieve the deleted Gallery photos from your Google Drive account on your mobile or computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to restore Android Gallery pictures from Google Drive:
 
 - Open Google Drive on your phone or computer in a web browser
@@ -72,11 +78,17 @@ The software works on damaged, corrupt, formatted, inaccessible mobile SD cards 
 
 In addition, you can also restore your Gallery videos and audio files with the help of Stellar Photo Recovery. It is available for both Windows and Mac computers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Steps to recover Gallery photos with Stellar Photo Recovery:
 
 - Download and Launch Stellar Photo Recovery software on your PC or Mac
 - Connect the Android phone SD card to computer via a card reader
 - Select your SD card from the location window. Click **Scan**.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-1.png) 
 - Once the scan is completed. A list of found photos appears. Preview, recover and save at the desired location.
   ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Screenshot-2.png) 
@@ -100,6 +112,9 @@ You can root the Android phone with the help of a rooting software. However, roo
 
 **Caution**: Rooting makes your Tecno Spark 10C phone’s warranty null and void.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to recover deleted Gallery photos from Android internal storage:
 
 - Download any secure Android recovery software on Windows or Mac computer.
@@ -122,8 +137,14 @@ For example,
 
 If you had turned on the device backup service, restore the deleted Gallery pictures from these backup files.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 6: Recover Gallery photos by deleting ‘.nomedia’ files
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/stellar/stellar-photo-recovery/how-to-recover-deleted-photos-from-android-gallery-app/Nomedia-file-android-768x469.webp)
 
 Did you create a .nomedia file on your Tecno Spark 10C to hide photos and later forgot? Your photos might not be visible in Gallery due to .nomedia files you created on your phone to hide the phone’s pictures. The .nomedia files don’t let your device to load the photos in the Gallery app and the folder’s content remain hidden.
@@ -147,6 +168,9 @@ The benefit of cloud backup is that you can recover deleted smartphone photos fr
 
 Further, Android manufacturers like Xiaomi, Google Pixel, Samsung, Huawei, etc., include their own cloud backup services in their new models. Check for the feature in the settings of your Android phone and restore the deleted Gallery app photos.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Tips to Protect Photos from Loss on Android
 
 1. Back up Android photos on cloud.
@@ -180,14 +204,23 @@ You can recover deleted Gallery pictures from the Google Photos app’s Trash or
 
 Yes, you can recover permanently deleted photos from Android with the help of a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery without backup?
 
 You can recover deleted photos from Android Gallery without backup using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after factory reset?
 
 You can recover deleted photos from Android Gallery after factory reset using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q. How to recover deleted photos from Android Gallery after format?
 
 You can recover deleted photos from Android Gallery after format using a photo recovery software. The software scans the Android device and retrieves the deleted photos from the internal memory or SD card.
@@ -215,3 +248,43 @@ You can recover deleted photos from Android Gallery after software update using 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevating-income-with-mobile-video-monetization-techniques-for-youtubers/"><u>[Updated] 2024 Approved  Elevating Income with Mobile Video Monetization Techniques for YouTubers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-channels-templates-at-no-charge-for-2024/"><u>[Updated] Elevate Your Channels - Templates at No Charge for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-a-professionals-primer-to-perfecting-picture-colors/"><u>2024 Approved  A Professional's Primer to Perfecting Picture Colors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-redmi-a2plus-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Redmi A2+?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-samsung-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-samsung-galaxy-m14-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy M14 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy XCover 6 Pro Tactical Edition?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-sony-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Sony ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-xiaomi-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi Redmi 12?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-xiaomi-redmi-k70-pro-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi Redmi K70 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-xiaomi-redmi-note-12t-pro-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi Redmi Note 12T Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-13t-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on 13T Pro ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-14-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on 14 ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-civi-3-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Civi 3 ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-defy-2-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Defy 2 ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-edge-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Edge 2023 ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-edge-40-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Edge 40 ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-galaxy-a15-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Galaxy A15 4G ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-galaxy-a25-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Galaxy A25 5G ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-galaxy-m34-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Galaxy M34 ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-galaxy-m54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Galaxy M54 5G ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-galaxy-s24-ultra-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Galaxy S24 Ultra ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-huawei-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Huawei  ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-moto-g-5g-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Moto G 5G (2023) ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-moto-g14-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Moto G14 ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-moto-g24-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Moto G24 ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-moto-g34-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Moto G34 5G ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-moto-g73-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Moto G73 5G ?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y100-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y100 Phone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chorus-chronicles-storytelling-with-musical-themes/"><u>In 2024, Chorus Chronicles  Storytelling with Musical Themes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-video-synchronization-with-obs/"><u>Mastering Video Synchronization with OBS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ming-showdown-best-channels-for-your-audience/"><u>Streaming Showdown  Best Channels for Your Audience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/zoom-makeover-effortless-background-softening/"><u>Zoom Makeover  Effortless Background Softening</u></a></li>
+</ul></div>

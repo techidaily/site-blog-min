@@ -1,6 +1,6 @@
 ---
 title: How to identify missing hardware drivers with Windows Device Manager in Windows 7
-date: 2024-05-19T18:32:12.894Z
+date: 2024-07-17T10:13:26.849Z
 tags: 
   - driver
   - device driver
@@ -19,6 +19,9 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
@@ -32,6 +35,9 @@ To see which of your devices have a missing or malfunctioning driver:
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What happens if a driver is missing or outdated?
 
 Every now and then, Microsoft will change the commands Windows sends to one of your devices (e.g. your network card). When this happens, the manufacturer of that device need to change the device driver too. They need to teach it the new Windows commands. Otherwise the drivers won’t be able to translate those commands for your devices, and your devices won’t work properly.
@@ -40,6 +46,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 ## Try Driver Easy for free
@@ -50,6 +59,9 @@ If you want the certainty of knowing your device drivers are always up to date (
 
 The free version will identify all your outdated drivers, and allow you to download them all. But only one at a time and, once they’re downloaded, you have to manually install them using the standard Windows process. (To automatically update all your drivers with 1 click, you’ll need [the Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/). Don’t worry, it comes with a 30-day, no-questions-asked, money back satisfaction guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What are drivers?
 
 Drivers are like interpreters between Windows and your devices. For example, when Windows needs to display something on your monitor, it sends a command to your graphics card, and your graphics card then displays what Windows wants on your monitor.
@@ -62,8 +74,14 @@ In this example, what we’re talking about is a video driver, but your computer
 
 And without all these drivers, none of your devices will work.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What are drivers?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Download Driver Easy FREE
 
 If you’re having computer issues, the first thing you should do is see if it has outdated drivers. If it does, updating them will very often fix things.
@@ -109,3 +127,50 @@ To understand why, you first have to understand what drivers actually are…
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-vocal-transformations-high-ranked-app-options/"><u>[New] Mastering Vocal Transformations  High-Ranked App Options</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-optimizing-podcasts-on-googles-platform-for-2024/"><u>[Updated] Optimizing Podcasts on Google's Platform for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tarted-with-youtube-video-ad-building-without-spending/"><u>Get Started with YouTube Video Ad Building Without Spending</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/guide-downloading-twitters-videos-on-android-devices/"><u>Guide  Downloading Twitters Videos on Android Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-galaxy-m34-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Galaxy M34 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-google-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Google ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-google-pixel-8-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Google Pixel 8?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-google-pixel-fold-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Google Pixel Fold?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-90-gt-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor 90 GT?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-90-lite-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor 90 Lite?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-90-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor 90 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-magic-6-lite-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor Magic 6 Lite?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-magic-6-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor Magic 6 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-magic-6-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor Magic 6?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-magic-v2-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor Magic V2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-magic-vs-2-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor Magic Vs 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-play-40c-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor Play 40C?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-play-7t-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor Play 7T?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-x50-gt-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor X50 GT?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-honor-x8b-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Honor X8b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-htc-u23-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on HTC U23 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-htc-u23-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on HTC U23?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-huawei-nova-y71-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Huawei Nova Y71?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-infinix-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Infinix ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-infinix-gt-10-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Infinix GT 10 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-infinix-hot-30-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Infinix Hot 30 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-infinix-hot-40-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Infinix Hot 40 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-infinix-hot-40i-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Infinix Hot 40i?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-infinix-note-30-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Infinix Note 30 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-infinix-note-30-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Infinix Note 30?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-itel-p40-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Itel P40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-lava-agni-2-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Lava Agni 2 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-lava-blaze-2-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Lava Blaze 2 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-lava-blaze-2-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Lava Blaze 2?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-curated-windows-video-editors-guide/"><u>In 2024, Expertly Curated Windows Video Editors Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-platforms-for-amplifying-youtube-content/"><u>In 2024, Top Platforms for Amplifying YouTube Content</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-magic-5-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor Magic 5 Pro FRP Bypass</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/time-taming-learn-youtube-video-length-cuts-for-2024/"><u>Time Taming  Learn YouTube Video Length Cuts for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-in-class-text-tracking-and-animation-software-2023/"><u>Updated 2024 Approved Best in Class Text Tracking and Animation Software 2023</u></a></li>
+</ul></div>

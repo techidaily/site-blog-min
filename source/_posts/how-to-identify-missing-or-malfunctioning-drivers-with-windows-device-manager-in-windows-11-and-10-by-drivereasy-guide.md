@@ -1,6 +1,6 @@
 ---
 title: How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11 & 10
-date: 2024-05-19T18:32:12.909Z
+date: 2024-07-17T10:13:43.664Z
 tags: 
   - driver
   - device driver
@@ -19,12 +19,27 @@ To see which of your devices have a missing or malfunctioning driver:
 - **Step1**: On your keyboard, press the `Windows logo key`  and `R` at the same time to invoke the Run box.
 - **Step2**: Type `devmgmt.msc` and click `OK`.
   
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![devmgmt.msc](https://tools.techidaily.com/images/apps/drivereasy/device-manager/1.jpg) 
 > (There are other ways to open Device Manager; it changes depending on your version of Windows. But the above method works for all versions of Windows, including Windows 11, 10 and 7.)
 >
 
 - **Step3**: Expand a category (e.g. Display Adapters) to see the devices in that category. If you see a yellow triangle or question mark next to a device, Windows has detected that it has a missing or malfunctioning driver.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Device Manager](https://tools.techidaily.com/images/apps/drivereasy/device-manager/2.jpg)
 
 - **Step4**: If you see this yellow mark, you can try to `update` or `reinstall` the driver.
@@ -41,6 +56,9 @@ So if your computer has slowed down, you should update your drivers. If it’s c
 To understand why, you first have to understand what drivers actually are…
 
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Driver Easy for free
 
 If you want the certainty of knowing your device drivers are always up to date (and not just sometimes up to date, which is all you get from Windows Device Manager), and you don’t have the time, patience or computer skills to continually update them manually, give the free version of [Driver Easy](https://tools.techidaily.com/drivereasy/download/) a try.
@@ -51,10 +69,16 @@ The free version will identify all your outdated drivers, and allow you to downl
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## All our drivers are certified
 
 We use only genuine drivers, straight from your hardware manufacturer. And we employ a strict testing process to ensure they’re safe, stable, robust, up-to-date, and compatible with Windows and all the most popular combinations of hardware and software.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Microsoft WHQL Testing
 
 Most hardware manufacturers put their drivers through Microsoft’s rigorous Windows Hardware Quality Labs (WHQL) testing process. If they pass, they’re officially certified stable and compatible with Windows.
@@ -63,12 +87,18 @@ If your manufacturer has a ‘Certified for Windows’ driver, that’s the one 
 
 But we don’t stop there. We also perform our own tests to ensure the stability of our drivers…
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Certified by Driver Easy
 
 We employ a strict testing regime to ensure our drivers are safe, secure and stable.
 
 This is critical because not all manufacturers get their drivers certified by Microsoft – particularly for older hardware. (It’s a very rigorous and time-consuming process, and for manufacturers with a lot of devices and drivers, it can become quite expensive.)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## We test on all the most popular combinations of hardware & software
 
 Our tests are a lot more hands-on and practical than Microsoft’s tests. Because drivers behave differently on different computers, different versions of Windows, and even in the presence of different software applications, the only way to really tell if a driver will be stable, compatible and safe for everyone is to physically test it on all the popular hardware / operating system / software combinations. So that’s what we do:
@@ -199,6 +229,9 @@ The same thing needs to happen when your device manufacturer changes the way you
 
 Now when we say “your device won’t work properly”, sometimes this means simply that you miss out on new functionality or minor bug fixes. But it’s often a lot more serious than that. Your computer may even hang, crash or stop working completely. Remember, there’s a driver that controls your hard drive, for instance. If Windows can’t talk to your hard drive, it can’t access any of the data on your drive. Similarly, if Windows can’t talk to your network card, you won’t be able to access the internet, and if it can’t talk to your graphics card, you won’t be able to see anything on your monitor. These are just a few of the more serious issues outdated drivers can cause.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![What happens if a driver is missing or outdated?](https://tools.techidaily.com/images/apps/drivereasy/pages/why_3.jpg)
 
 <ins class="adsbygoogle"
@@ -216,3 +249,58 @@ Now when we say “your device won’t work properly”, sometimes this means si
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-crafting-engaging-voiceovers-for-powerpoint-slides/"><u>[New] 2024 Approved  Crafting Engaging Voiceovers for PowerPoint Slides</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-budget-pc-screen-capture-apps/"><u>[New] Budget PC Screen Capture Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-spectacle-independent-effect-innovation/"><u>[New] In 2024, From Script to Spectacle  Independent Effect Innovation</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-art-of-editing-crafting-tiktok-success-stories-on-mac/"><u>[New] The Art of Editing  Crafting TikTok Success Stories on Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-strategies-for-livestream-and-archiving-sports-action-for-2024/"><u>[New] Top Strategies for Livestream & Archiving Sports Action for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-capture-the-moment-no-cost-cross-platform-screen-recorders-for-pcmac/"><u>[Updated] Capture the Moment - No-Cost, Cross-Platform Screen Recorders for PC/Mac</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-smooth-sailing-screen-record-across-pcs-mac-and-mobile-for-2024/"><u>[Updated] Smooth Sailing  Screen Record Across PCs, Mac & Mobile for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-windows-phone-video-players-essential-app-selections/"><u>[Updated] Top Windows Phone Video Players  Essential App Selections</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-youtubes-view-threshold-for-money/"><u>[Updated] Understanding Youtube’s View Threshold for Money</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-assessment-of-various-camera-types-for-videos/"><u>2024 Approved  Assessment of Various Camera Types for Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-speed-up-pc-games-the-ultimate-speed-controller-selection/"><u>2024 Approved  Speed Up PC Games  The Ultimate Speed Controller Selection</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-avi-video-editing-on-a-budget-top-5-free-options/"><u>2024 Approved AVI Video Editing on a Budget Top 5 Free Options</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-silencing-the-unwanted-soundtrack-a-methodical-approach-to-muting-unseen-music/"><u>2024 Approved Silencing the Unwanted Soundtrack A Methodical Approach to Muting Unseen Music</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capture-and-store-screen-content-free-for-2024/"><u>Capture and Store Screen Content, FREE for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-lava-blaze-pro-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Lava Blaze Pro 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-s23plus-by-fonelab-android-recover-video/"><u>How to restore wiped videos on S23+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-samsung-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Samsung</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-samsung-galaxy-a05-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Samsung Galaxy A05</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-samsung-galaxy-a34-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-samsung-galaxy-a54-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-samsung-galaxy-s23-fe-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-samsung-galaxy-s24-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Samsung Galaxy S24</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-samsung-galaxy-s24-ultra-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-tecno-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Tecno</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-tecno-phantom-v-flip-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Tecno Phantom V Flip</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-tecno-phantom-v-fold-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Tecno Phantom V Fold</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-tecno-pop-8-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Tecno Pop 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-tecno-pova-5-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Tecno Pova 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-tecno-pova-5-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-tecno-spark-10-4g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Tecno Spark 10 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-v27e-by-fonelab-android-recover-video/"><u>How to restore wiped videos on V27e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-v29e-by-fonelab-android-recover-video/"><u>How to restore wiped videos on V29e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-v30t-by-fonelab-android-recover-video/"><u>How to restore wiped videos on V30T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-v29-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo V29</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-v29e-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo V29e</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-x100-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo X100 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-y02t-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo Y02T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-y100a-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo Y100A</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-y100t-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo Y100t</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-y200-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo Y200</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-y27-4g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo Y27 4G</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-expand-your-audience-with-vimeo-links/"><u>In 2024, Expand Your Audience with Vimeo Links</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-hot-30-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Infinix Hot 30 5G Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-revolutionize-your-visuals-8-best-photo-animation-tools/"><u>New 2024 Approved Revolutionize Your Visuals 8 Best Photo Animation Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pinnacle-portability-ideal-devices-for-4k-media-artists/"><u>Pinnacle Portability  Ideal Devices for 4K Media Artists</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-online-gif-to-image-pngjpg-converter/"><u>Updated 2024 Approved Best Online GIF to Image (PNG/JPG) Converter</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-a-detailed-review-of-murfai-ai-text-to-speech-tool-for-2024/"><u>Updated A Detailed Review of Murf.ai AI Text-to-Speech Tool for 2024</u></a></li>
+</ul></div>

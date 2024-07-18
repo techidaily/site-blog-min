@@ -1,7 +1,7 @@
 ---
 title: How to sign Excel 2019 by digital signature
-date: 2024-03-11 16:41:34
-updated: 2024-03-12 17:13:50
+date: 2024-07-17T12:53:02.596Z
+updated: 2024-07-18T12:53:02.596Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to sign Excel 2019 by digital signature
 excerpt: This article describes How to sign Excel 2019 by digital signature
 keywords: free sign .xlsx,.xlsx signature free,excel signature app,excel signer online
-thumbnail: https://www.lifewire.com/thmb/wAMAGSxPA1Fx2QobaiyABiSggJ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-753288077-5bb0f9b2cff47e00261aa8fc.jpg
+thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a5594338591ba06831ec971383.jpg
 ---
 
 ## 1. How to sign Excel 2019 by digital signature
@@ -23,6 +23,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -49,6 +52,9 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
@@ -65,16 +71,25 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -95,6 +110,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -108,6 +126,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -122,6 +143,9 @@ To implement each of the ways to install a digital signature in Excel, you need 
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -161,3 +185,54 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-who-likes-what-deciphering-instagram-stats-and-screenshots/"><u>[New] 2024 Approved  Who Likes What? Deciphering Instagram Stats & Screenshots</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-eliminate-cacophony-perfecting-sound-quality-for-youtube/"><u>[New] Eliminate Cacophony  Perfecting Sound Quality for YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-enhancing-facebook-traffic-with-innovative-video-techniques/"><u>[New] Enhancing Facebook Traffic with Innovative Video Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-classic-fanfare-fix/"><u>[New] In 2024, Classic Fanfare Fix</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flex-your-viewing-muscles-handling-multiple-youtube-videos/"><u>[New] In 2024, Flex Your Viewing Muscles  Handling Multiple YouTube Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-streamline-video-sharing-between-twitter-and-tumblr/"><u>[New] In 2024, Streamline Video Sharing Between Twitter and Tumblr</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-projector-vs-tv-which-is-best-for-your-4k-experience/"><u>[New] Projector vs TV  Which Is Best for Your 4K Experience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweetturnstile-how-video-trends-surge-online-for-2024/"><u>[New] TweetTurnstile  How Video Trends Surge Online for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-maximize-your-earnings-with-youtube-short-tips/"><u>[Updated] 2024 Approved  Maximize Your Earnings with Youtube Short Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-does-spending-on-youtube-followers-really-amplify-your-presence/"><u>[Updated] Does Spending on YouTube Followers Really Amplify Your Presence?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-phone-ideas-to-online-presence-simple-youtube-channel-creation-tips/"><u>[Updated] From Phone Ideas to Online Presence  Simple YouTube Channel Creation Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-prime-zero-dollar-webcam-recorder-app-for-2024/"><u>[Updated] Prime Zero-Dollar Webcam Recorder App for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-evaluating-vlc-for-screen-recordings/"><u>2024 Approved  Evaluating VLC for Screen Recordings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-a1x-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo A1x 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-a38-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo A38</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-a58-4g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo A58 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-a59-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo A59 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-f23-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo F23 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-find-x7-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo Find X7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-k11-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo K11 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-k11x-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo K11x</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-reno-10-proplus-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-reno-11-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo Reno 11 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oppo-reno-11-pro-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-poco-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Poco</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-poco-x6-pro-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Poco X6 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-pova-5-pro-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Pova 5 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-razr-40-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Razr 40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-c55-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme C55</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-c67-4g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme C67 4G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-c67-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme C67 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-gt-5-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme GT 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-narzo-n55-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme Narzo N55</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-realme-v30-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Realme V30</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-red-magic-9-proplus-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Red Magic 9 Pro+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-redmi-13c-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Redmi 13C</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nubia-red-magic-8s-proplus-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Nubia Red Magic 8S Pro+ Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-activities-for-the-modern-podcaster/"><u>In 2024, Innovative Activities for the Modern Podcaster</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unleash-creativity-with-iphones-top-10-free-aesthetic-photo-composer-tools/"><u>In 2024, Unleash Creativity with iPhone’s Top 10 Free, Aesthetic Photo Composer Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/instaphoto-tips-for-seamless-sharing-for-2024/"><u>InstaPhoto Tips for Seamless Sharing for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-navigating-to-upcoming-somber-soundscape-collections/"><u>New In 2024, Navigating to Upcoming Somber Soundscape Collections</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-ultimate-list-of-no-cost-web-based-digital-audio-workstations-daws-updated/"><u>New In 2024, Ultimate List of No-Cost, Web-Based Digital Audio Workstations (DAWs) - Updated</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/transform-your-live-streaming-best-practices-in-obs-studio-for-2024/"><u>Transform Your Live Streaming  Best Practices in OBS Studio for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-finding-high-quality-wolf-howl-noises-for-projects/"><u>Updated 2024 Approved Finding High-Quality Wolf Howl Noises for Projects</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-to-ai-denoise-for-2024/"><u>Updated How to AI DeNoise for 2024</u></a></li>
+</ul></div>
