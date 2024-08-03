@@ -1,6 +1,6 @@
 ---
 title: How to fix videos not playing with my Infinix Smart 8?
-date: 2024-07-17T08:44:53.895Z
+date: 2024-08-02T14:03:07.176Z
 tags: 
   - repair
 categories: 
@@ -173,3 +173,61 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comprehensive-tutorial-adding-timer-functionality-to-obs/"><u>[New] 2024 Approved  Comprehensive Tutorial  Adding Timer Functionality to OBS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-step-by-step-guide-for-capturing-fb-streams/"><u>[New] 2024 Approved  Step-by-Step Guide for Capturing FB Streams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-fx-library-to-enhance-youtube-productions-for-2024/"><u>[New] Free FX Library to Enhance YouTube Productions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-earn-online-via-youtube-how-reaching-500-subscribers-pays-off/"><u>[New] In 2024, Earn Online via YouTube  How Reaching 500 Subscribers Pays Off</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-sharing-your-privacy-guarded-yt-clip-via-gmail-pro/"><u>[New] Mastering  Sharing Your Privacy-Guarded YT Clip via Gmail Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-nostruggle-livecast-how-to-simplify-your-podcast-broadcast/"><u>[New] NoStruggle Livecast  How to Simplify Your Podcast Broadcast</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-phone-footage-to-channel-fame-a-seamless-setup-for-your-businesspersonal-brand-for-2024/"><u>[Updated] From Phone Footage to Channel Fame  A Seamless Setup for Your Business/Personal Brand for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-overcoming-absence-of-color-in-game-recordings/"><u>[Updated] Overcoming Absence of Color in Game Recordings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-v27-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo V27 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-10plus-best-free-video-editing-programs-of-2023/"><u>2024 Approved  10+ Best Free Video Editing Programs of 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exhaustive-explanation-whats-behind-google-podcast/"><u>2024 Approved  Exhaustive Explanation  What's Behind Google Podcast?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-stealth-in-social-media-going-unseen-with-live-feeds/"><u>2024 Approved  Stealth in Social Media  Going Unseen with Live Feeds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-gt-10-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix GT 10 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-poco-m6-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Poco M6 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/achieving-audiovisual-consistency-in-premiers/"><u>Achieving Audiovisual Consistency in Premiers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/boost-your-visuals-video-enhance-pro-22-guide/"><u>Boost Your Visuals - Video Enhance Pro 2.2 Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-concept-to-reality-the-vr-story/"><u>From Concept to Reality  The VR Story</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-poco-x6-by-fonelab-android-recover-contacts/"><u>How To  Restore Missing Contacts Files from Poco X6.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-honor-magic-6-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Honor Magic 6</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-achieve-collaborative-efficiency-using-skypes-screen-share-feature/"><u>How to Achieve Collaborative Efficiency Using Skype’s Screen-Share Feature</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-6-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-poco-c65-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Poco C65 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-samsung-galaxy-m34-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Samsung Galaxy M34 using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-in-windows-11107-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually in Windows 11/10/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-realme-c55-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Realme C55 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-x9a-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from X9a.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-itel-s23-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Itel S23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-x90s-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on X90S</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-redmi-note-12-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-11-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-6s-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 6s After iOS Update? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-x50-by-fonelab-android-recover-messages/"><u>How to recover old messages from your X50</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-nokia-c300-by-fonelab-android-recover-video/"><u>How to recover old videos from your Nokia C300</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-13-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-vivo-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Vivo using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-nokia-150-2023-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Nokia 150 (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-hot-40-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Hot 40 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Xiaomi Redmi K70 Pro?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-agni-2-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Agni 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-realme-gt-5-240w-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Realme GT 5 (240W)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 14 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-m6-pro-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Poco M6 Pro 5G Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-xiaomi-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Xiaomi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-moto-g-5g-2023-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-simulations-in-medical-schools-for-2024/"><u>Immersive Simulations in Medical Schools for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-poco-m6-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Poco M6 5G?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-maximizing-hd-playback-on-social-media-fb/"><u>In 2024, Maximizing HD Playback on Social Media (FB)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-tecno-spark-20c-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Tecno Spark 20C FRP Bypass</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-tiktok-watermark-remover-software-online-options-compared/"><u>New 2024 Approved TikTok Watermark Remover Software Online Options Compared</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-6-darth-vader-ai-generators-for-all-platforms-for-2024/"><u>New Top 6 Darth Vader AI Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-vivo-y200e-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo Y200e 5G? Tips, Tricks and Helpful Advice</u></a></li>
+</ul></div>
