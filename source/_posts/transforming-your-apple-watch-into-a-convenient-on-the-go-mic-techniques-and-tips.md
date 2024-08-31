@@ -1,7 +1,7 @@
 ---
 title: "Transforming Your Apple Watch Into a Convenient On-the-Go Mic: Techniques and Tips"
-date: 2024-08-26 19:18:12
-updated: 2024-08-29 12:20:46
+date: 2024-08-30T01:09:27.438Z
+updated: 2024-08-31T01:09:27.438Z
 tags:
   - mobile
 categories:
@@ -45,6 +45,9 @@ Tim Brookes / How-To Geek
 
  Once you’ve finished recording, your audio will transfer automatically to your iPhone and sync via iCloud to your Mac if you have enabled the feature.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Use Voice Memos to Record Audio
 
  This technique depends on using the Voice Memos app on your Apple Watch to record audio separately to your camera. You’ll then need to sync the audio to your video, something you can do manually or automatically (for free) depending on what you’re using to edit the video.
@@ -53,12 +56,22 @@ Tim Brookes / How-To Geek
 
 ![Shallow depth of field in Cinematic mode on an iPhone camera.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cinematic_mode_video-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  You can now conduct your interview or record your piece-to-camera. When you’re done, stop recording on both devices. If you mess up, it’s a good idea to either keep both devices rolling (and edit out the bad take) so that you don’t end up with too many separate files which can make things more complicated later.
 
  Once you stop your audio recording, you’ll find the audio on your iPhone and possibly your Mac too.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ##  Sync the Audio to Your Video
 
  Use the “Share” feature in Voice Memos for iPhone to add the M4A file to your iCloud Drive, other cloud storage provider, email, or wherever you’re planning to edit. On a Mac, you can simply drag the recording to a folder of your choice.
@@ -69,8 +82,14 @@ Tim Brookes / How-To Geek
 
 ![DaVinci Resolve Auto Align Clips tool in the Edit interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-17-at-13-52-00.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
  If you need to do this manually, use an editor that lets you see the waveform view and zoom in. You should see a big spike near the start of your audio where you clapped. Use this to help align your clips. Lots of video editors have auto-align tools built in, like [Premiere Pro](https://www.youtube.com/watch?v=7GN6scDjgsc). Have a look through the support documents to figure out how to the tools.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Doing Lots of Recording? Get a Real Microphone
 
  I used this technique when helping my partner with a remote learning course, where simple video production was necessary for tutors to gauge progress. In-camera microphones on an iPhone and Sony mirrorless camera were a letdown. The Apple Watch provided far more usable results.
@@ -93,3 +112,43 @@ Tim Brookes / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/inancial-flourishing-in-youtube-content-markets/"><u>[New] Financial Flourishing in YouTube Content Markets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-10-powerful-igtv-video-tips-for-amplified-brand-impact-for-2024/"><u>[Updated] 10 Powerful IGTV Video Tips for Amplified Brand Impact for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-9-cross-platform-communication-apps-iphone-vs-android-comparison/"><u>[Updated] 2024 Approved  Top 9 Cross-Platform Communication Apps  IPhone vs Android Comparison</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-setting-up-your-vlog-fb-preferred-dimensions/"><u>[Updated] In 2024, Setting Up Your Vlog  FB Preferred Dimensions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-magix-video-mastery/"><u>[Updated] Unveiling MAGIX Video Mastery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-your-creativity-in-full-rotation-best-practices-for-vr-video/"><u>2024 Approved  Unleash Your Creativity in Full Rotation  Best Practices for VR Video</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-y100-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo Y100 without App | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-samsung-galaxy-f04-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Samsung Galaxy F04 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-gionee-f3-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Gionee F3 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-note-12t-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Xiaomi Redmi Note 12T Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-tecno-phantom-v-flip-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Tecno Phantom V Flip via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-poco-f5-pro-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Poco F5 Pro 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-s23-ultra-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy S23 Ultra Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-poco-c51-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Poco C51 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-y100i-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo Y100i To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oneplus-ace-2-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from OnePlus Ace 2 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-nokia-c02-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Nokia C02 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-tecno-pova-5-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Tecno Pova 5 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-xiaomi-redmi-k70-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Xiaomi Redmi K70 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-xiaomi-redmi-k70e-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Xiaomi Redmi K70E to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-xiaomi-redmi-note-12-proplus-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Xiaomi Redmi Note 12 Pro+ 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-7-plus-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone 7 Plus</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-hot-30-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Hot 30 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-razr-40-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Razr 40 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-ace-2-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Ace 2 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-c55-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco C55 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a15-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A15 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-10-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark 10 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Teleport Your GPS Location On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/invest-in-ig-success-the-top-6-secure-money-methods/"><u>Invest in IG Success  The Top 6 Secure Money Methods</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-tone-generation-made-simple-5-online-tools-for-2024/"><u>New Tone Generation Made Simple 5 Online Tools for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-google-pixel-fold-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Google Pixel Fold Screen | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-expert-insights-into-computer-components/"><u>Tom's Tech Review: Expert Insights Into Computer Components</u></a></li>
+</ul></div>

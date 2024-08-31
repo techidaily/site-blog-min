@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Onyx Boox Note Air3 C E-Ink Tablet: A Revolutionary Way to Jot Down Notes in Color"
-date: 2024-08-26 11:45:55
-updated: 2024-08-29 11:50:38
+date: 2024-08-30T01:07:23.084Z
+updated: 2024-08-31T01:07:23.084Z
 tags:
   - product-reviews
 categories:
@@ -115,6 +115,9 @@ Close
 
  The power button is at the top edge, while the USB-C port for charging is on the device's left edge. This side also contains the speakers and a microSD card slot. The back features more of the sleek matte black, which does prevent some fingerprint marks from appearing as obvious, and a thin orange stripe with the Boox "Note Air3 C" logo.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  Performance: A UI Interface That's Simple Enough but Has Limitations
 
 ![Settings page open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/settings-page-open-on-the-boox-note-air3-c_53567555564_o.jpg) 
@@ -135,6 +138,9 @@ Jerome Thomas / How-To Geek
 
 ![The notepad open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-notepad-open-on-the-boox-note-air3-c_53567432378_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Although I'm a proponent of that pen-to-paper feeling, that isn't something I've found on electronic devices, but the Boox Note Air3 C replicated it as well as a tablet can. The tablet came with a large magnetic stylus that easily attached to the side of the device and looped well through the tab of the included cover, which is well-made but nothing to write home about. The lightweight pen was comfortable to grip, and it required no charging—I started writing straight out of the box. The writing pressure needed to use the stylus was similar to using a pencil or smooth-gliding ballpoint pen (not too soft, not too heavy), while the textured feel of the stylus to the screen felt satisfying, and even made a nice noise, if that sort of thing thrills you as it does me.
@@ -149,6 +155,9 @@ Jerome Thomas / How-To Geek
 
 ![The text recognition on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-text-recognition-on-the-boox-note-air3-c_53567432338_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  And exporting my notepads (or single pages) was a game-changer, since I could convert them to PDFs and send them to my computer or Google Drive. I also synced a notebook to the Kindle app (which I downloaded via Google Play) and used Quick Share and Bluetooth to transfer files from the device.
@@ -161,6 +170,9 @@ Jerome Thomas / How-To Geek
 
 ![A book open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/a-book-open-on-the-boox-note-air3-c_53567676895_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Most people may come to the Boox Note Air3 C for reading, and the device does well here. I read a few titles I downloaded from the Boox Store, but the inventory in the store was small and seemed only to feature titles available through Project Gutenberg. One such title I picked for a quick meander was Henry David Thoreau's "Walden," which I've read before.
@@ -179,12 +191,18 @@ Jerome Thomas / How-To Geek
 
 ![The app page on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-app-page-on-the-boox-note-air3-c_53567555549_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  I used the Note Air3 C moderately, and the battery life lasted about a week. I also had settings for the screen to stay on for 30 minutes without switching to the screensaver. This was more convenient for work purposes, when I would go some time between note-taking, but didn't want to wake the Note Air3 C from sleep every time I needed to write something down. The average drain percentage (including times when it wasn't in use and left on sleep) was about 5 to 10% per day. On days when I used it more heavily, I needed to charge it closer to every four to five days.
 
  The charging time was not long. On average, the battery gained about 0.34% per minute, or 20% per hour. Consistently, it took about 3 to 4 hours to charge.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Boox Air3 C Tablet?
 
  The [Onyx Boox Note Air3 C](https://www.amazon.com/BOOX-Tablet-Note-Air-ePaper/dp/B0CHF423CP/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002777&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fonyx-boox-note-air3-c-review%2F&asc%5Fcampaign=Authority) is one of the most interesting options for someone who wants an eReader that allows for note-taking, importing and exporting notebooks and files, and annotating ebooks. With other helpful features, like a built-in recorder tool, a colorful display, and a lightweight, sturdy build, it makes a brilliant work companion for students and professionals who need to keep track of passages in books or create notes that stay in one place.
@@ -217,3 +235,56 @@ The Onyx Boox Note Air3 C features a 10.3-inch display with a gorgeous blend of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-flipboard-celebs-snapchat-reels/"><u>[New] 2024 Approved  Flipboard Celebs' Snapchat Reels</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-incorited-visuals-in-text-without-cost/"><u>[New] 2024 Approved  Guide to Incorited Visuals in Text Without Cost</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elevate-your-broadcast-impact-with-these-5-tips-for-twitch-streamers/"><u>[New] Elevate Your Broadcast Impact with These 5 Tips for Twitch Streamers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-art-of-decreasing-audio-intensity-in-logic-pro/"><u>[New] In 2024, The Art of Decreasing Audio Intensity in Logic Pro</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-interface-feedback-for-screen-players-choice/"><u>[New] Interface Feedback for Screen Players' Choice</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlock-social-media-secrets-with-instagram-insights-for-2024/"><u>[New] Unlock Social Media Secrets with Instagram Insights for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-build-haha-images/"><u>[Updated] 2024 Approved  Build Haha Images</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-instagram-magic-with-professional-edits/"><u>[Updated] Crafting Instagram Magic with Professional Edits</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-best-mac-screen-clips-roundup-under-156-chars/"><u>2024 Approved  Best Mac Screen Clips Roundup (Under 156 Chars)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-elite-suites-3d-modeling-and-animation-synergy/"><u>2024 Approved  Elite Suites  3D Modeling & Animation Synergy</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-automatically-resize-videos-for-instagram-on-mac/"><u>2024 Approved  How to Automatically Resize Videos for Instagram on Mac?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-selecting-perfect-google-pixel-ringers-a-guide/"><u>2024 Approved  Selecting Perfect Google Pixel Ringers  A Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-find-x6-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-vivo-y100i-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Vivo Y100i to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-y56-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo Y56 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-f34-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy F34 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-methods-for-a-dominant-presence-on-spotify/"><u>Cutting-Edge Methods for a Dominant Presence on Spotify</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-motorola-razr-40-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Motorola Razr 40 Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-guide-accessing-the-control-panel-on-windows-11-7-and-8/"><u>Easy Guide: Accessing the Control Panel on Windows 11, 7 & 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-recovery-with-windows-nx-how-to-establish-and-use-system-restore-points/"><u>Effortless Recovery with Windows nX: How to Establish and Use System Restore Points</u></a></li>
+<li><a href="https://blog-min.techidaily.com/essential-tips-for-generating-a-windows-10-system-restore-point/"><u>Essential Tips for Generating a Windows 10 System Restore Point</u></a></li>
+<li><a href="https://blog-min.techidaily.com/essential-tips-for-using-the-ping-utility-to-verify-your-internet-connection-status/"><u>Essential Tips for Using the Ping Utility to Verify Your Internet Connection Status</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-future-how-machine-learning-is-shaping-gaming/"><u>Exploring the Future: How Machine Learning Is Shaping Gaming</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-s23-tactical-edition-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy S23 Tactical Edition to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-activate-safe-mode-for-windows-881-in-no-time-simple-methods-unveiled/"><u>How to Activate Safe Mode for Windows 8/8.1 in No Time - Simple Methods Unveiled!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-download-andupdate-drivers-for-hp-envy-20-pc-series/"><u>How to Download &Update Drivers for HP ENVY 20 PC Series</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-enable-and-create-restore-points-in-windows-11/"><u>How to Enable and Create Restore Points in Windows 11?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-make-a-web-note-in-microsoft-edge/"><u>How to Make a Web Note in Microsoft Edge</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-overcome-iphone-synchronization-issues-with-itunes-error-code-54-after-upgrading-to-windows-10/"><u>How to Overcome iPhone Synchronization Issues with iTunes Error Code '-54' After Upgrading to Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-perform-a-clean-boot-in-windows-10/"><u>How to Perform a Clean Boot in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-asus-rog-phone-8-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Asus ROG Phone 8 to Another | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-iphone-8-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From iPhone 8 Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-y27-4g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo Y27 4G to iPod | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-leading-marketplaces-for-bespoke-wrapping-marvels/"><u>In 2024, Leading Marketplaces for Bespoke Wrapping Marvels</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-driver-installation-on-the-hp-envy/"><u>Mastering Driver Installation on the HP ENVY</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-multi-image-compositions-photo-montages-guide-for-2024/"><u>Mastering Multi-Image Compositions  Photo Montages Guide for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-network-diagnostics-how-to-employ-ping-command-for-assessing-internet-links/"><u>Mastering Network Diagnostics: How to Employ Ping Command for Assessing Internet Links</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-skies-a-guide-to-using-syma-x8c/"><u>Mastering the Skies  A Guide to Using Syma X8C</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/optimal-video-sizing-for-an-instagram-standout/"><u>Optimal Video Sizing for an Instagram Standout</u></a></li>
+<li><a href="https://blog-min.techidaily.com/remote-access-setup-with-rdc-for-windows-11-users-essential-tips-and-tricks/"><u>Remote Access Setup with RDC for Windows 11 Users: Essential Tips and Tricks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/resolve-access-denied-error-during-temp-folder-file-execution-setup-interrupted/"><u>Resolve 'Access Denied' Error During Temp Folder File Execution - Setup Interrupted</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-infinix-hot-40-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-installing-brother-printer-drivers-on-windows-8-and-newer-versions/"><u>Step-by-Step Guide: Installing Brother Printer Drivers on Windows 8 and Newer Versions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/taking-a-screenshot-in-windows-10/"><u>Taking a Screenshot in Windows 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unsupported-platform-alert-troubleshooting-intel-serial-io-driver-installation/"><u>Unsupported Platform Alert: Troubleshooting Intel Serial IO Driver Installation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/windows-10-insider-preview-build-15031-download-stuck-at-initializing-solved/"><u>Windows 10 Insider Preview Build 15031 Download Stuck at Initializing [Solved]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/windows-11-calculator-not-working-solved/"><u>Windows 11 Calculator Not Working [Solved]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/windows-11-lock-screen-timeout-change-and-adjust/"><u>Windows 11 Lock Screen Timeout: Change and Adjust</u></a></li>
+</ul></div>

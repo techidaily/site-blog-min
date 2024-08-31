@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to the New Generation of Lenovo's ThinkPad X1 Carbon Pro Review: Unmatched Performance for Executives"
-date: 2024-08-27 11:16:32
-updated: 2024-08-29 12:21:57
+date: 2024-08-30T01:08:28.396Z
+updated: 2024-08-31T01:08:28.396Z
 tags:
   - product-reviews
 categories:
@@ -154,6 +154,9 @@ Close
 
 ![The keyboard, trackpad, and TrackPoint of the Lenovo X1 Carbon Gen 12.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-keyboard-trackpad-and-trackpoint-of-the-lenovo-x1-carbon-gen-12-1jpg_53527431074_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  While the X1 Carbon Gen 12 has a comfortable keyboard, at times it felt a little too loose for my liking, since it didn't have a ton of spring-back. The keyboard required fairly light typing force, but not so light that I was making a ton of typos. Compared to a springier keyboard, like the one on my [Lenovo Legion Pro 5i laptop](https://facebook-video-content.techidaily.com/new-conquer-the-social-networking-landscape-and-grow-your-followers/), the looseness of the X1 Carbon's keys did feel a bit jarring and a little less satisfying for someone who does a lot of typing. Nonetheless, the keyboard gets the job done, and some of this is personal preference.
@@ -184,10 +187,17 @@ Close
 
  Gaming graphics were also great when they were, well, great. When they were bad, due to performance requirements and turned-down graphics quality settings, they were not as enjoyable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ##  The Performance: Pro Computing for Every Day
 
 ![ThinkPad X1 logo on the Lenovo X1 Carbon Gen 12.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/thinkpad-x1-logo-on-the-lenovo-x1-carbon-gen-12jpg_53526215937_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  My laptop is my livelihood. If I didn't have a reliable workhorse, I wouldn't have a way to make money. If you're in the same boat as me, I can confidently say the X1 Carbon Gen 12 is an excellent choice for everyday computing and large workloads. I consistently left 25 browser tabs open while completing various tasks, but I also had apps like Spotify running in the background, as well as the Xbox app running downloads. Between word processing, browsing the internet for research, editing photos, and other tasks, the Carbon Gen 12 didn't let me down.
@@ -220,16 +230,25 @@ Close
 
  The 360-degree mics were perfect for video chatting in noisy spaces, since they featured AI-based noise cancelation with Dolby Voice. While I could still hear Queen's "Crazy Little Thing Called Love" playing in the background, my voice was still audible. In other noisy scenarios, like next to a thumping dryer or outside with children screaming, the microphone tuned out a lot of these distractions well. In quiet spaces, the mics shine with the utmost clarity.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### 
 
 ### 
 
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ##  Battery Life and Charging: Excellent Battery Life
 
 ![The Lenovo X1 Carbon Gen 12 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-lenovo-x1-carbon-gen-12-with-its-charger-1jpg_53527547290_o.jpg) 
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  I was able to eke out about five to eight hours of battery life on a single charge of the X1 Carbon Gen 12\. Of course, when used more heavily (such as while gaming or editing photos), there was a drop-off in this average. All in all, though, the average battery drain I experienced, including times I left it on sleep, was about 0.21% per minute, or about 12.8% per hour.
@@ -238,6 +257,9 @@ Sergio Rodriguez / How-To Geek
 
  Charging didn't yield quite as impressive results as the battery depletion rate, but the rate was average—about 0.58% per minute (34.8% per hour).
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo ThinkPad X1 Carbon Gen 12 Laptop?
 
  While I wouldn't suggest the [Lenovo Thinkpad X1 Carbon Gen 12](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-carbon-gen-12-%2814-inch-intel%29%2Flen101t0083) if you want to play a lot of PC games, its high-powered performance in other computing areas makes it a strong option for anyone looking for an everyday laptop with some guts. Throw in the other pluses, like the anti-glare coated OLED display and the excellent battery life, and it's easy to see why professionals come to slim ThinkPads like this one. Not only has the X1 Carbon Gen 12 earned the ThinkPad name, but it has carved out a nice space of its own for lightweight, powerful computing.
@@ -248,6 +270,9 @@ Sergio Rodriguez / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 #####  Lenovo ThinkPad X1 Carbon Gen 12
 
 8/ 10 
@@ -270,3 +295,60 @@ The Lenovo ThinkPad X1 Carbon Gen 12 laptop offers features like an OLED screen 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-craft-your-storyline-three-ways-to-border-instagram-videos-for-2024/"><u>[New] Craft Your Storyline  Three Ways to Border Instagram Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-to-zoom-in-on-your-favorite-roblox-locales/"><u>[New] Expert Tips to Zoom In on Your Favorite Roblox Locales</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-enhancing-iphone-7-screen-record-capabilities/"><u>[Updated] 2024 Approved  Enhancing iPhone 7 Screen Record Capabilities</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-strategies-to-rectify-non-displayed-thumbnails-on-shorts-videos/"><u>[Updated] 2024 Approved  Strategies to Rectify Non-Displayed Thumbnails on Shorts Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-dynamic-youtube-content-as-animated-gifs-without-downloads/"><u>[Updated] Crafting Dynamic YouTube Content as Animated GIFs Without Downloads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-how-to-record-screen-and-video-on-android/"><u>[Updated] In 2024, How to Record Screen and Video on Android?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-insta-velocity-strategic-use-of-likes-and-videos-for-growth/"><u>[Updated] Insta Velocity  Strategic Use of Likes & Videos for Growth</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-premier-mp4-broadcast-suite/"><u>[Updated] Premier MP4 Broadcast Suite</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-camcorder-tech-for-shooting-sports/"><u>2024 Approved  Best Camcorder Tech for Shooting Sports</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-itel-p40plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Itel P40+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-infinix-note-30-vip-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Infinix Note 30 VIP to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-oppo-reno-10-proplus-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Oppo Reno 10 Pro+ 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-tecno-phantom-v-flip-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Tecno Phantom V Flip to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-meizu-21-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Meizu 21 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-oppo-a79-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Oppo A79 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/boost-your-business-through-smart-monetization-techniques/"><u>Boost Your Business Through Smart Monetization Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-infinix-hot-40-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Infinix Hot 40 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-f04-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy F04 Phone? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevate-your-social-media-presence-with-personalized-instagram-icons-for-2024/"><u>Elevate Your Social Media Presence with Personalized Instagram Icons for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-freeze-expert-advice-for-iphones-stuck-on-startup-icon/"><u>Fixing the Freeze: Expert Advice for iPhones Stuck on Startup Icon</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-infinix-hot-40i-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Infinix Hot 40i To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-nokia-g22-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Nokia G22 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-t2-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo T2 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-x-flip-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo X Flip To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oppo-find-x6-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Oppo Find X6 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-realme-11-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Realme 11 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-realme-c51-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Realme C51 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-tecno-pova-6-pro-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Tecno Pova 6 Pro 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-y100i-power-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo Y100i Power 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-nubia-z50-ultra-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Nubia Z50 Ultra to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-y28-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo Y28 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-x9b-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor X9b to PC? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-infinix-hot-40-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Infinix Hot 40 Pro to Another | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-note-30-vip-racing-edition-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Note 30 VIP Racing Edition to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-g54-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola G54 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g13-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G13 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oneplus-nord-n30-se-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from OnePlus Nord N30 SE to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-12-pro-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 12 Pro 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-m14-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy M14 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s23-tactical-edition-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S23 Tactical Edition to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-pova-5-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Pova 5 To Phone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nokia-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Nokia online without jailbreak</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-best-in-class-mkv-player-for-pc-users/"><u>In 2024, Best-in-Class MKV Player for PC Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Teleport Your GPS Location On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-spotifys-advertising-mechanisms-for-2024/"><u>Leveraging Spotify's Advertising Mechanisms for 2024</u></a></li>
+</ul></div>

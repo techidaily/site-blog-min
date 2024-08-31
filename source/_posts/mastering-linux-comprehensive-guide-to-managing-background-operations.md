@@ -1,7 +1,7 @@
 ---
 title: "Mastering Linux: Comprehensive Guide to Managing Background Operations"
-date: 2024-08-27 10:17:37
-updated: 2024-08-29 10:17:52
+date: 2024-08-30T01:09:46.814Z
+updated: 2024-08-31T01:09:46.814Z
 tags:
   - desktop
 categories:
@@ -39,12 +39,19 @@ ping www.howtogeek.com
 
 ![ping www.howtogeek.com in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/1-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We get the expected results, scrolling down the terminal window. We can't do anything else in the terminal window while ping is running. To terminate the command hit Ctrl+C.
 
 Ctrl+C
 
 ![ping trace output in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/2-9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
  The visible effect of the Ctrl+C is highlighted in the screenshot. ping gives a short summary and then stops.
 
  Let's repeat that. But this time we'll hit Ctrl+Z instead of Ctrl+C. The task won't be terminated. It will become a background task. We get control of the terminal window returned to us.
@@ -55,6 +62,9 @@ Ctrl+Z
 
 ![effect of Ctrl+Z on a command running in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/3-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
  The visible effect of hitting Ctrl+Z is highlighted in the screenshot.
 
  This time we are told the process is stopped. Stopped doesn't mean terminated. It's like a car at a stop sign. We haven't scrapped it and thrown it away. It's still on the road, stationary, waiting to go. The process is now a background job.
@@ -106,6 +116,9 @@ ps T
 
  The ps T command has a state of R, which stands for running. The + indicates that this process is a member of the foreground group. So the ps T command is running in the foreground.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The bg Command
 
  The bg command is used to resume a background process. It can be used with or without a job number. If you use it without a job number the default job is brought to the foreground. The process still runs in the background. You cannot send any input to it.
@@ -116,6 +129,9 @@ bg
 
 ![bg in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/5-5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
  The ping command resumes and we see the scrolling output in the terminal window once more. The name of the command that has been restarted is displayed for you. This is highlighted in the screenshot.
 
 ![resumed ping background process with output in a terminal widow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/6-5.png) 
@@ -138,12 +154,18 @@ fg
 
 ![fg command mixed in with the output from ping in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/8-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  And now that we have the ping command running in the foreground once more, we can use Ctrl+C to kill it.
 
 Ctrl+C
 
 ![Ctrl+C stopping the ping command in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/9-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ##  We Need to Send the Right Signals
 
  That wasn't exactly pretty. Evidently running a process in the background works best when the process doesn't produce output and doesn't require input.
@@ -186,6 +208,9 @@ Ctrl+C
 
 ![output of the background loop process interspersed with output from other commands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/11-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To stop our process we can use jobs to remind ourselves what the job number is, and then use kill.
 
  jobs reports that our process is job number 1\. To use that number with kill we must precede it with a percent sign %.
@@ -200,6 +225,9 @@ kill %1
 
 kill 9 %1
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Things We've Covered
 
 * Ctrl+C: Sends SIGINT, signal 2, to the process---if it is accepting input---and tells it to terminate.
@@ -232,3 +260,64 @@ kill 9 %1
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-ultimate-path-for-influencers-in-advertising-and-sponsorships/"><u>[New] 2024 Approved  The Ultimate Path for Influencers in Advertising & Sponsorships</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-simple-to-stunning-infusing-life-into-text-on-instagram/"><u>[New] From Simple to Stunning  Infusing Life Into Text on Instagram</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-unlocking-your-phones-potential-with-custom-android-audio-alerts/"><u>[New] In 2024, Unlocking Your Phone's Potential with Custom Android Audio Alerts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-webinar-technology-hacks-with-no-financial-cost/"><u>[New] Webinar Technology Hacks with No Financial Cost</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-elite-annual-showcases-post-vidcon/"><u>[New] YouTube's Elite Annual Showcases (Post-VidCon)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-googles-augmented-reality-stickers-in-spotlight-a-comparative-analysis/"><u>2024 Approved  Google’s Augmented Reality Stickers in Spotlight - A Comparative Analysis</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oppo-reno-8t-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Oppo Reno 8T to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-xiaomi-redmi-a2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Xiaomi Redmi A2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-nubia-z50s-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Nubia Z50S Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-oppo-a38-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Oppo A38 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-v30-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo V30 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-y27s-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo Y27s to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-a24-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy A24 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-xiaomi-civi-3-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Xiaomi Civi 3 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-samsung-galaxy-f14-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Samsung Galaxy F14 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-a2-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Xiaomi Redmi A2 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-magic-6-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor Magic 6 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-realme-note-50-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Realme Note 50 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-removing-every-single-message-on-your-gmail-account/"><u>Complete Guide: Removing Every Single Message on Your Gmail Account</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-oppo-find-x6-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Oppo Find X6 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-visuals-no-cost-with-some-color-correction-tools/"><u>Elevate Visuals  No Cost with Some Color Correction Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-epson-ds-530-ready-on-windows-11-64-bit-driver-installation-guide-and-download-links/"><u>Get Your Epson DS-530 Ready on Windows 11 (64-Bit): Driver Installation Guide and Download Links</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-itel-a60-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Itel A60 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-poco-x5-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Poco X5 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-xiaomi-redmi-note-12r-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Xiaomi Redmi Note 12R To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-infinix-hot-40i-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Infinix Hot 40i to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-nokia-130-music-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Nokia 130 Music to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-13c-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-tecno-camon-20-pro-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Tecno Camon 20 Pro 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-tecno-spark-20-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Tecno Spark 20 Pro to Another | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-xiaomi-redmi-note-12-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Xiaomi Redmi Note 12 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-magic-6-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Magic 6 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-v-purse-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor V Purse to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-p55t-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel P55T to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g34-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G34 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-c22-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia C22 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a25-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A25 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s23-fe-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S23 FE to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-s17t-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo S17t to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y28-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y28 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-13-pro-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 13 Pro 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-y17s-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo Y17s Without PUK Codes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-elite-arena-showdown-best-of-the-royales/"><u>In 2024, Elite Arena Showdown  Best of the Royales</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-6s-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 6s Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Life360 on Windows PC For Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-maze-to-find-your-ideal-4k-screen/"><u>In 2024, Navigating the Maze to Find Your Ideal 4K Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-sony-xperia-10-v-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Sony Xperia 10 V Phone Now with These Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-complete-newcomers-guide-to-conducting-zoom-webinars/"><u>In 2024, The Complete Newcomer's Guide to Conducting Zoom Webinars</u></a></li>
+<li><a href="https://driver-download.techidaily.com/probabilistic-methods-in-advanced-seismic-analysis-account-for-uncertainties-and-provide-a-comprehensive-risk-assessment-of-structural-behavior-during-earth285/"><u>Probabilistic Methods in Advanced Seismic Analysis Account for Uncertainties and Provide a Comprehensive Risk Assessment of Structural Behavior During Earthquakes.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-file-transfer-tool-revolutionizes-organized-data-handling-with-copernic/"><u>Smart File Transfer Tool Revolutionizes Organized Data Handling with Copernic</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/snapdragon-x-qualcomm-demonstrates-its-capability-to-match-apples-powerful-silicon/"><u>Snapdragon X: Qualcomm Demonstrates Its Capability to Match Apple's Powerful Silicon</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-fitbit-versa-lite-unveiled-high-quality-health-monitoring-at-wallet-friendly-prices/"><u>The Fitbit Versa Lite Unveiled: High-Quality Health Monitoring at Wallet-Friendly Prices.</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-a-curated-selection-of-websites-for-obtaining-quality-whoosh-sound-experience/"><u>Updated A Curated Selection of Websites for Obtaining Quality Whoosh Sound Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-movie-maker-a-beginner-friendly-video-editing-companion-for-2024/"><u>YouTube Movie Maker  A Beginner-Friendly Video Editing Companion for 2024</u></a></li>
+</ul></div>

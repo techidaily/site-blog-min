@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Onyx Boox Note Air3 C Reader Review: Vibrant Colors and Enhanced Writing Capabilities"
-date: 2024-08-26 17:37:31
-updated: 2024-08-29 10:25:56
+date: 2024-08-30T01:07:40.140Z
+updated: 2024-08-31T01:07:40.140Z
 tags:
   - product-reviews
 categories:
@@ -115,6 +115,9 @@ Close
 
  The power button is at the top edge, while the USB-C port for charging is on the device's left edge. This side also contains the speakers and a microSD card slot. The back features more of the sleek matte black, which does prevent some fingerprint marks from appearing as obvious, and a thin orange stripe with the Boox "Note Air3 C" logo.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Performance: A UI Interface That's Simple Enough but Has Limitations
 
 ![Settings page open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/settings-page-open-on-the-boox-note-air3-c_53567555564_o.jpg) 
@@ -135,6 +138,9 @@ Jerome Thomas / How-To Geek
 
 ![The notepad open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-notepad-open-on-the-boox-note-air3-c_53567432378_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Although I'm a proponent of that pen-to-paper feeling, that isn't something I've found on electronic devices, but the Boox Note Air3 C replicated it as well as a tablet can. The tablet came with a large magnetic stylus that easily attached to the side of the device and looped well through the tab of the included cover, which is well-made but nothing to write home about. The lightweight pen was comfortable to grip, and it required no charging—I started writing straight out of the box. The writing pressure needed to use the stylus was similar to using a pencil or smooth-gliding ballpoint pen (not too soft, not too heavy), while the textured feel of the stylus to the screen felt satisfying, and even made a nice noise, if that sort of thing thrills you as it does me.
@@ -149,6 +155,9 @@ Jerome Thomas / How-To Geek
 
 ![The text recognition on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-text-recognition-on-the-boox-note-air3-c_53567432338_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  And exporting my notepads (or single pages) was a game-changer, since I could convert them to PDFs and send them to my computer or Google Drive. I also synced a notebook to the Kindle app (which I downloaded via Google Play) and used Quick Share and Bluetooth to transfer files from the device.
@@ -157,6 +166,9 @@ Jerome Thomas / How-To Geek
 
  But I digress. The speaker system's sound was not only quiet (even at full volume), but it also sounded quite compressed. The volume was unsatisfying for me. I chose, instead, to listen to those recordings via my Bluetooth headphones, which was far easier than craning to hear the low-volume speaker.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ##  Reading With The Boox Note Air3 C
 
 ![A book open on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/a-book-open-on-the-boox-note-air3-c_53567676895_o.jpg) 
@@ -169,6 +181,9 @@ Jerome Thomas / How-To Geek
 
 ![The book store on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-book-store-on-the-boox-note-air3-c_53567234536_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Despite the low stock in the Boox Book Store, I downloaded other eReader apps through the Google Play App, including the Kindle app and Play Books, plus Audible for audiobook listening. All of these apps performed well on the Note Air3 C, whether I was reading H.G. Wells' "The Invisible Man" via Play Books, looking for recipes in one of my cookbook ebooks on Kindle, or listening to one of my in-progress audiobooks. As noted before, however, audiobook listening (or any listening) works best on the Note Air3 C if you use [wireless earbuds](https://ios-unlock.techidaily.com/locked-out-of-apple-iphone-xs-max-5-ways-to-get-into-a-locked-apple-iphone-xs-max-by-drfone-ios/) or a pair of wired earbuds plugged into the USB-C port—otherwise, the speaker system is too low and squashy.
@@ -179,6 +194,9 @@ Jerome Thomas / How-To Geek
 
 ![The app page on the Boox Note Air3 C.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-app-page-on-the-boox-note-air3-c_53567555549_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  I used the Note Air3 C moderately, and the battery life lasted about a week. I also had settings for the screen to stay on for 30 minutes without switching to the screensaver. This was more convenient for work purposes, when I would go some time between note-taking, but didn't want to wake the Note Air3 C from sleep every time I needed to write something down. The average drain percentage (including times when it wasn't in use and left on sleep) was about 5 to 10% per day. On days when I used it more heavily, I needed to charge it closer to every four to five days.
@@ -217,3 +235,49 @@ The Onyx Boox Note Air3 C features a 10.3-inch display with a gorgeous blend of 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-miniscreen-tape-snapshot-assessment-and-substitutes/"><u>[New] In 2024, MiniScreen Tape Snapshot Assessment & Substitutes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-peeling-the-onion-understanding-instagram-story-audiences/"><u>[New] In 2024, Peeling the Onion  Understanding Instagram Story Audiences</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-subtitle-extraction-from-youtube-videos-a-threefold-approach-guide/"><u>[New] Mastering the Art of Subtitle Extraction From YouTube Videos  A Threefold Approach Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-why-av1-matters-enabling-it-for-youtube-videos/"><u>[Updated] 2024 Approved  Why AV1 Matters  Enabling It for YouTube Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-charting-the-course-for-your-niche-in-the-youtube-world/"><u>[Updated] In 2024, Charting the Course for Your Niche in the YouTube World</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-premier-edit-suites-linux-compatible-tools/"><u>[Updated] Premier Edit Suites  Linux-Compatible Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-asus-rog-phone-7-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Asus ROG Phone 7 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-motorola-edge-40-neo-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Motorola Edge 40 Neo to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-v29-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo V29 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-y100a-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo Y100A to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-z-flip-5-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy Z Flip 5 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-xiaomi-mix-fold-3-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Xiaomi Mix Fold 3 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-oppo-reno-9a-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Oppo Reno 9A to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-xiaomi-redmi-note-13-proplus-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Xiaomi Redmi Note 13 Pro+ 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-100-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor 100 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-realme-c67-4g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Realme C67 4G Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-setup-seamless-windows-driver-management-at-a-glance/"><u>Easy Setup: Seamless Windows Driver Management at a Glance</u></a></li>
+<li><a href="https://fox-access.techidaily.com/essential-low-light-techniques-for-iphone/"><u>Essential Low-Light Techniques for iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-freezing-issues-in-modern-warfare-for-pc-gamers/"><u>Fixing Freezing Issues in Modern Warfare for PC Gamers</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-nokia-g42-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Nokia G42 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-a14-4g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy A14 4G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-12-pro-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 12 Pro without Apple ID?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-nokia-c32-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Nokia C32 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-honor-90-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Honor 90 to Another | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-infinix-note-30i-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Infinix Note 30i to Another | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-oppo-k11x-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Oppo K11x to Another | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-xiaomi-redmi-k70-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Xiaomi Redmi K70 to Another | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-meizu-21-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Meizu 21 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g84-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G84 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-a38-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo A38 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-c55-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme C55 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-20-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark 20 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-k70-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi K70 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-4g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 4G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-zte-axon-40-lite-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from ZTE Axon 40 Lite to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-your-systems-audio-problems-fixing-windows-117-sound-disruptions-now/"><u>Resolve Your System's Audio Problems - Fixing Windows 11/7 Sound Disruptions Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-civi-3-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Civi 3 Device</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/vocal-ensemble-in-the-digital-age-tiktok-edition-for-2024/"><u>Vocal Ensemble in the Digital Age  TikTok Edition for 2024</u></a></li>
+</ul></div>

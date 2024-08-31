@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Review of the NuPhy Air75 V2: A Perfect Blend of Quality and Performance for Apple Users"
-date: 2024-08-28 22:13:20
-updated: 2024-08-29 12:17:54
+date: 2024-08-30T01:07:49.215Z
+updated: 2024-08-31T01:07:49.215Z
 tags:
   - product-reviews
 categories:
@@ -153,6 +153,9 @@ Expand
 
 ![A closeup shot of the NuPhy Air75 V2 PBT keycaps.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/closeup2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  V2 also has a greater choice of Nuphy x Gateron switches, is available in two more colors, has brighter RGB backlighting, and offers improved acoustics thanks to new sound dampening inside the keyboard.
@@ -179,12 +182,23 @@ Tim Brookes / How-To Geek
 
 ![A set of spare keys received with the NuPhy Air75 V2 mechanical keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/spare_keys.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  Some of the more interesting keys (from a Mac perspective) include a dedicated screenshot key which works on both Mac and Windows, the aforementioned “Del” key that is usually missing on the reduced Mac keyboard, and an Fn key that doesn’t trigger the macOS language or emoji picker like its Apple counterpart. Instead, the Fn key is used to change keyboard settings like lighting, auto-sleep mode, and so on.
 
  In terms of size, 75% feels perfect for someone who appreciates the tidy look of a small keyboard that doesn’t skimp on the essentials.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  Typing Speed Isn’t Everything
 
  For me, the most striking thing about this keyboard (and likely any decent mechanical keyboard) is how satisfying the experience is. This isn’t the most premium-sounding keyboard, but it still sounds better than the tinny Apple experience I’m used to. The Moss switches require slightly less pressure than I’m used to on a Magic Keyboard, but travel significantly further.
@@ -195,6 +209,9 @@ Tim Brookes / How-To Geek
 
 ![The rear of the NuPhy Air75 V2 with its extendable feet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/rearshot1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  This is hard to gauge as an objective metric, so I’m not going to bother. I've made way more mistakes on this keyboard compared to the Magic Keyboard, mostly on the right side of the keyboard. The right “Shift” key is smaller than I’m used to, and the “Backslash” is a lot bigger. Navigating text with a slightly adjusted arrow key layout also threw me.
@@ -203,6 +220,9 @@ Tim Brookes / How-To Geek
 
  Switching to a keyboard like the Air75 V2 also means making do without Touch ID. This doesn’t bother me as I’ve switched to authenticating with my Apple Watch instead (I’ve since disabled Touch ID altogether, even when I’m not using the Air75 V2).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  A Fully Customizable Keyboard, In Theory
 
  There’s more to a keyboard like the Air75 V2 than simply the typing experience. The Magic Keyboard is boring by comparison when it comes to the many ways you can customize the Nuphy. This starts on the board itself, with its removable low-profile keycaps and hot-swappable switches.
@@ -219,6 +239,9 @@ Tim Brookes / How-To Geek
 
  For what it’s worth, the standalone Magic Keyboard doesn’t include any lighting at all.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ##  Battery Life is Great (Without RGB)
 
  Speaking of lighting, if you’re really after the best possible battery life then you’ll want to disable these effects altogether. The Air75 V2 has a 4,000mAh battery that is rated for up to 220 hours of usage over Bluetooth with the backlight disabled.
@@ -269,3 +292,67 @@ The NuPhy Air75 V2 is the second revision of the company's 75% low-profile mecha
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-download.techidaily.com/free-download-official-creative-studio-sound-blaster-audigy-driver-set/"><u>[Free Download] Official Creative Studio Sound Blaster Audigy Driver Set</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-a-beginners-guide-to-gameye-win10-for-2024/"><u>[New] A Beginner's Guide to GamEye Win10 for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-guide-to-lenovos-screen-recording-process/"><u>[New] Guide to Lenovo's Screen Recording Process</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-elevate-your-creative-process-mastering-the-use-of-luts-in-pscc/"><u>[New] In 2024, Elevate Your Creative Process  Mastering the Use of LUTs in PSCC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-snapchat-posts-top-15-game-changers/"><u>[New] In 2024, Mastering Snapchat Posts  Top 15 Game-Changers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premier-biking-game-showcase/"><u>[New] In 2024, Premier Biking Game Showcase</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-jestjunction-tap-into-the-world-of-meme-magic/"><u>[New] JestJunction  Tap Into the World of Meme Magic</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-10-economical-pc-screen-recorders-compared/"><u>[Updated] 2024 Approved  Top 10 Economical PC Screen Recorders Compared</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-outsmart-youtube-sanctions-for-2024/"><u>[Updated] How to Outsmart Youtube Sanctions for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-w10-ultimate-screen-replay-suite-for-2024/"><u>[Updated] W10 Ultimate Screen Replay Suite for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-boost-your-photo-skills-with-these-top-pixlr-tricks/"><u>2024 Approved  Boost Your Photo Skills with These Top Pixlr Tricks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-deciphering-digital-self-identity-the-insta-selfie-guide/"><u>2024 Approved  Deciphering Digital Self-Identity  The Insta Selfie Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-design-freedom-no-cost-logos-crafted-with-user-friendly-templates/"><u>2024 Approved  Design Freedom  No-Cost Logos Crafted with User-Friendly Templates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-every-moment-top-tasks-to-master-while-listening-to-your-favorite-podcasts/"><u>2024 Approved  Transform Every Moment  Top Tasks to Master While Listening to Your Favorite Podcasts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-tecno-pop-7-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Tecno Pop 7 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-vivo-g2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Vivo G2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-vivo-y27-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Vivo Y27 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-xiaomi-14-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Xiaomi 14 Ultra to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-oppo-reno-10-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Oppo Reno 10 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-a25-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy A25 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/9-tips-you-must-know-when-shooting-a-360-degree-video-for-2024/"><u>9 Tips You Must Know when Shooting a 360 Degree Video for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-itel-a05s-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Itel A05s to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-tecno-spark-20-proplus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Tecno Spark 20 Pro+ to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-magic-vs-2-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor Magic Vs 2 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-oppo-reno-11f-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Oppo Reno 11F 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-s23-tactical-edition-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy S23 Tactical Edition Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhanced-color-and-contrast-why-hdr-outshines-sdr/"><u>Enhanced Color and Contrast  Why HDR Outshines SDR</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-xiaomi-redmi-note-12-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Xiaomi Redmi Note 12 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-honor-x50-gt-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Honor X50 GT to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-m54-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy M54 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-t2x-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo T2x 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-v30-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo V30 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-samsung-galaxy-a25-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Samsung Galaxy A25 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-magic-vs-2-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Magic Vs 2 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-a05s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel A05s to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-reno-11-pro-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Reno 11 Pro 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-reno-11f-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Reno 11F 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-x5-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco X5 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-note-50-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme Note 50 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-s18e-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo S18e to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-v27-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo V27 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y55s-5g-2023-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y55s 5G (2023) to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masterclass-in-capturing-conversations-for-later-review/"><u>In 2024, Masterclass in Capturing Conversations for Later Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-taming-soundscapes-mastering-gradual-volume-increase-with-audition/"><u>In 2024, Taming Soundscapes  Mastering Gradual Volume Increase with Audition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tune-into-visuals-embedding-music-in-powerpoint/"><u>In 2024, Tune Into Visuals  Embedding Music in PowerPoint</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/nvidia-shield-tv-pro-review-a-powerful-streaming-device-for-gamers/"><u>Nvidia Shield TV Pro Review: A Powerful Streaming Device for Gamers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/songs-of-yore-face-off-with-ai-shepherds-and-alpaca-companions/"><u>Songs of Yore Face-Off with AI Shepherds & Alpaca Companions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tapered-music-transitions-an-intuitive-premiere-pro-tutorial-for-2024/"><u>Tapered Music Transitions  An Intuitive Premiere Pro Tutorial for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-walkthrough-for-using-the-battery-report-on-your-windows-10-device/"><u>The Definitive Walkthrough for Using the Battery Report on Your Windows 10 Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac59c-yamahaaturbosound-ii-sound-module-based-on-the-ymf7a3ymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-ro33/"><u>YAC59C - Yamaha'aturboSound II Sound Module Based on the YMF7A3/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+</ul></div>

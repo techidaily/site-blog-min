@@ -1,7 +1,7 @@
 ---
 title: "JBL Authentics 300 Comprehensive Overview: Vintage Charm Meets Modern Multimedia Performance"
-date: 2024-08-26 16:21:34
-updated: 2024-08-29 12:51:23
+date: 2024-08-30T01:08:09.159Z
+updated: 2024-08-31T01:08:09.159Z
 tags:
   - product-reviews
 categories:
@@ -114,6 +114,9 @@ The light under the heart button is the volume indicator. Can you tell how loud 
 
 ![back of the JBL Authentics 300](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-jbl-authentics-300.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
 The switch on the back, at the top, is for turning the listening microphones on and off.
@@ -152,14 +155,23 @@ Close
 
  I liked using the JBL One app. It was neat that it showed how many hours I had listened to music. Unfortunately, it was lackluster in a bunch of ways, too. The battery level didn’t update for me in real-time. Often, I would have to quit the app and re-launch it for it to display the current battery level. Also, the battery level only displayed 10-percent increments—what’s up with that? That means you'll see a 40% battery level, for example, until suddenly it drops to 30%. That can be jarring and cause issues with how and when you plan to charge the unit.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Authentics 300 Price and Availability
 
  The JBL Authentics 300 is the middle speaker in the Authentics lineup and retails for $449.99\. The [Authentics 200](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fjbl-authentics-200-smart-home-speaker-black%2F6554781.p%3FskuId%3D6554781) starts at $349.99, and the [Authentics 500](https://www.amazon.com/JBL-Authentics-500-Bluetooth-Assistant/dp/B0CCK36RSY?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000836&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fjbl-authentics-300-review%2F&asc%5Fcampaign=Affiliate) comes in at $699.99\. The 300 is the only speaker of the three with a built-in battery.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the JBL Authentics 300?
 
 ![JBL Authentics 300 inside on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/jbl-authentics-300-inside-on-a-table.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The story of the [JBL Authentics 300](https://www.amazon.com/JBL-Authentics-300-Streaming-Built/dp/B0CCK2TFQB?tag=hotoge-20&ascsubtag=UUhtgUeUpU2000836&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fjbl-authentics-300-review%2F&asc%5Fcampaign=Affiliate) speaker is one of a lot of little misses that are thankfully overshadowed by a few huge wins. Most importantly, it looks and sounds amazing—key for a speaker. The less-than-precise knob indicators, the mediocre battery life, and the poor app functions weren't great, but they also didn't stop the speaker from doing what it’s good at.
@@ -172,8 +184,14 @@ Tyler Hayes / How-To Geek
 
 ![JBL_AUTHENTICS_300](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/jbl_authentics_300_front_42821_x5-removebg-preview.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/htg-rec-3x.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 #####  JBL Authentics 300
 
 8/ 10 
@@ -228,3 +246,40 @@ Expand
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-shoppers-insight-making-an-informed-choice-on-your-next-360camera/"><u>[New] Shopper's Insight  Making an Informed Choice on Your Next 360Camera</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-diving-into-viral-video-dialogues/"><u>[Updated] Diving Into Viral Video Dialogues</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-expert-tips-streaming-success-using-zoom-and-fb-live/"><u>[Updated] In 2024, Expert Tips  Streaming Success Using ZOOM & FB Live</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-curated-selection-best-stop-motion-movies-ever-made/"><u>2024 Approved  A Curated Selection  Best Stop-Motion Movies Ever Made</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prove-your-prowess-with-swift-video-edits-on-windows-11-photos/"><u>2024 Approved  Prove Your Prowess with Swift Video Edits on Windows 11 Photos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-asus-rog-phone-8-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Asus ROG Phone 8 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-oppo-find-n3-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Oppo Find N3 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-realme-gt-3-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Realme GT 3 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-f14-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Samsung Galaxy F14 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/dancefloor-dynamics-free-pristine-dj-template-videos/"><u>Dancefloor Dynamics  Free, Pristine DJ Template Videos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-seamless-usb-connectivity-download-and-install-drivers-on-windows/"><u>Ensure Seamless USB Connectivity: Download & Install Drivers on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-tecno-camon-30-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Tecno Camon 30 Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-xiaomi-redmi-k70e-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Xiaomi Redmi K70E To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oppo-a18-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Oppo A18 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-s24-ultra-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy S24 Ultra to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-infinix-hot-40-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Infinix Hot 40 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-motorola-defy-2-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Motorola Defy 2 to Another | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-a14-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy A14 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-100-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor 100 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-90-lite-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor 90 Lite to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-magic-5-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Magic 5 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-p55plus-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel P55+ to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-yuva-2-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Yuva 2 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-g24-power-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola G24 Power to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-v29-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo V29 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-v30-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme V30 Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-path-to-get-your-questions-answered-by-snapchat-support-team/"><u>Navigating the Path to Get Your Questions Answered by Snapchat Support Team</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-note-30-vip-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Note 30 VIP</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-driver-update-for-lenovo-t430s-notebook-quick-and-simple-methods-for-windows-enthusiasts/"><u>Seamless Driver Update for Lenovo T430s Notebook: Quick & Simple Methods for Windows Enthusiasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smart-shopping-for-cloud-storages-best-price-secrets-revealed-for-2024/"><u>Smart Shopping for Cloud Storages  Best Price Secrets Revealed for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-solution-to-starting-problems-reviving-your-unresponsive-pc/"><u>The Solution to Starting Problems: Reviving Your Unresponsive PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-xiaomi-redmi-k70e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Xiaomi Redmi K70E without Them Knowing | Dr.fone</u></a></li>
+</ul></div>

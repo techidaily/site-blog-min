@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Rayne Neo Air 2S Glasses Evaluation: A Compact Portable Screen on Your Face"
-date: 2024-08-26 12:58:16
-updated: 2024-08-29 10:30:46
+date: 2024-08-30T01:08:05.646Z
+updated: 2024-08-31T01:08:05.646Z
 tags:
   - product-reviews
 categories:
@@ -106,6 +106,9 @@ Expand
 
 ![RayNeo Air 2S sitting upside down showing bridge of RayNeo Air 2S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/rayneo-air-2s-sitting-upside-down-showing-bridge-of-rayneo-air-2s.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The RayNeo Air 2S glasses are new, but they’re only a slight revision from the RayNeo Air 2 model released not too long ago. The S in this new product means upgraded linear speakers (four in total) and a higher resolution (3,840 x 1,080) in 3D mode. That’s the meat of it. The new speakers sound great, but I wasn't craving an improvement in sound. (Bluetooth earbuds are an option too.)
@@ -118,10 +121,21 @@ Tyler Hayes / How-To Geek
 
  Instead of relying on a mobile app, all the controls can be accessed on the glasses, including changing the refresh rate from 60Hz to 120Hz, toggling the whisper mode to make the speakers quieter, color adjustment, and toggling between 2D and 3D. It didn't take long to figure out the buttons on each of the stems but save for the volume, I didn't access the other things much and had to re-remember them every couple of days.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ##  TV and Movies Are the Best Parts
 
 ![looking into the RayNeo Air 2S seeing content](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/looking-into-the-rayneo-air-2s-seeing-content.jpg) 
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The technical aspects are one thing, but what can these glasses really do? Well, if you connect the RayNeo Air 2S glasses to a USB-C iPhone you’ll see your phone inside the lenses. If you start a Netflix movie, it will become widescreen, consuming your entire field of view, kind of like sitting in a movie theater—because the exterior glossy lens blocks out most of the light.
@@ -140,6 +154,9 @@ Close
 
  I didn't get to use the glasses with a console because I didn't have the [Joydock](https://www.amazon.com/RAYNEO-Suitable-Included-Compatible-Rechargeable/dp/B0CNP65NTB?dib=eyJ2IjoiMSJ9.veMHATZjTgnm1ocD0HAPFEtpNSVUNZU6kvBZsVExlfLGjHj071QN20LucGBJIEps.yKiOkI-UhVFoTOc5Q%5FFSDlyMJMeqmw1UxKvnbi%5FEu4k&dib%5Ftag=se&keywords=rayneo+joydock&qid=1722467647&sr=8-1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2004553&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Frayneo-air-2s-glasses-review%2F&asc%5Fcampaign=Authority) ($99) for the Nintendo Switch, but I think that could have been a fun use. If you do have a portable gaming device like a Steam Deck, that should work directly without a need for an adapter.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ##  RayNeo Pocket TV Is (Probably) A Must-Have Accessory
 
 ![RayNeo Air 2S with the Pocket TV device](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/rayneo-air-2s-with-the-pocket-tv-device.jpg) 
@@ -154,6 +171,9 @@ Tyler Hayes / How-To Geek
 
  Even though the Pocket TV adds a roughly $180 additional cost, the accessory still felt essential during my use. I didn’t have to worry about the glasses draining my phone’s battery or if I had all the streaming apps available on my phone. Google TV is a good enough streaming interface, with an abundance of content, that it makes the glasses feel like an entertainment machine.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the RayNeo Air 2S XR Glasses?
 
 ![front cover on the RayNeo Air 2S glasses](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/front-cover-on-the-rayneo-air-2s-glasses.jpg) 
@@ -168,6 +188,9 @@ Tyler Hayes / How-To Geek
 
 ![RayNeo Air 2S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-31-pjkzu0dd-2x.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  RayNeo Air 2S
 
 6/ 10 
@@ -190,3 +213,47 @@ Smart projection glasses capable of producing a 201-inch equivalent screen. The 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-fast-snap-restoration-guide/"><u>[New] 2024 Approved  Fast Snap Restoration Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-turn-your-videos-into-money-with-vimeo-expertise-for-2024/"><u>[New] How to Turn Your Videos Into Money with Vimeo Expertise for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-expert-tips-for-embedding-time-stamp-data-on-youtube-videos-desktopmobile/"><u>[New] In 2024, Expert Tips for Embedding Time Stamp Data on YouTube Videos (Desktop/Mobile)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-building-authority-in-education-10-tips-for-youtube-channel-creation/"><u>[Updated] In 2024, Building Authority in Education  10 Tips for YouTube Channel Creation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-cutting-edge-top-11-list-of-soundscape-capturers/"><u>[Updated] In 2024, Cutting-Edge Top 11 List of Soundscape Capturers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pranksters-paradise-iphone-memes/"><u>[Updated] Pranksters' Paradise - iPhone Memes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-review-of-freewatch-webcam-recorder-app/"><u>2024 Approved  Review of Freewatch Webcam Recorder App</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-samsung-galaxy-m34-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Samsung Galaxy M34 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-xiaomi-14-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Xiaomi 14 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-nubia-red-magic-8s-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Nubia Red Magic 8S Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-samsung-galaxy-f04-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Samsung Galaxy F04 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dramatic-slump-for-intel-as-share-prices-nosedive-30-overnight-costing-39-billion-in-market-value-losses/"><u>Dramatic Slump for Intel as Share Prices Nosedive 30%% Overnight, Costing $39 Billion in Market Value Losses</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-realme-11-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Realme 11 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-infinix-hot-30-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Infinix Hot 30 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oppo-a59-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Oppo A59 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-honor-80-pro-straight-screen-edition-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Honor 80 Pro Straight Screen Edition to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-honor-90-gt-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Honor 90 GT to Another | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-lava-yuva-3-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Lava Yuva 3 to Another | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-asus-rog-phone-7-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Asus ROG Phone 7 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-google-pixel-8-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Google Pixel 8 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-hot-40-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Hot 40 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-reno-8t-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Reno 8T 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s23plus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S23+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y27-4g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y27 4G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-13c-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi 13C to Outlook | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-a2plus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi A2+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamline-your-experience-free-screen-capture-software-on-windowsmac/"><u>In 2024, Streamline Your Experience - Free Screen Capture Software on Windows/Mac</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-se-2020-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone SE (2020) With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-150-2023-music-recovery-recover-deleted-music-from-nokia-150-2023-by-fonelab-android-recover-music/"><u>Nokia 150 (2023) Music Recovery - Recover Deleted Music from Nokia 150 (2023)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719256266387-repairing-email-notification-shortcom-written-exercise/"><u>Repairing Email Notification Shortcom Written Exercise</u></a></li>
+<li><a href="https://facebook.techidaily.com/telegrams-data-trail-your-actions-secure-lifelinas/"><u>Telegram's Data Trail: Your Actions Secure Lifelinas</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-smartphone-photography-with-iphones-hdr-for-2024/"><u>Transform Your Smartphone Photography with iPhone’s HDR for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wifi-configuration-made-simple-in-windows-7-a-comprehensive-solution/"><u>WiFi Configuration Made Simple in Windows 7: A Comprehensive Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-developers-rejoice-unveiling-microsoft-copilot/"><u>Windows Developers Rejoice: Unveiling Microsoft Copilot</u></a></li>
+</ul></div>
