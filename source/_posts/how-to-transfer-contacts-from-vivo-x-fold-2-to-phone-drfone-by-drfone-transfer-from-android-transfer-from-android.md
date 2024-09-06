@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from Vivo X Fold 2 To Phone | Dr.fone
-date: 2024-09-01T23:16:00.026Z
-updated: 2024-09-02T23:16:00.026Z
+date: 2024-09-05T16:04:33.158Z
+updated: 2024-09-06T16:04:33.158Z
 tags: 
   - transfer
 categories:
@@ -12,6 +12,12 @@ keywords: transfer from android to mac,transfer from android to iphone,transfer 
 thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db8bd23e967a3613c122b6663.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Transfer Contacts from Vivo X Fold 2 To Phone
 
 When you get a new phone or switch between Android and iPhone, transferring contacts is essential. Moreover, to avoid losing your important contacts, you need some techniques to move them smoothly. The method you select has to transfer your contacts efficiently on a new device without losing information.
@@ -20,8 +26,20 @@ In this article, we will move you through various effective methods on **how to 
 
 ![transfer contacts phone to phone](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. One-Click Solution To Handle All Contacts Transfer Between iPhone and Android
 
 [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/) – Phone Transfer offers a one-click solution to transfer all contacts between your smartphones. The tool has advanced features to move your device’s content in a few minutes. This aspect of the software helps users increase their productivity and easily handle their tasks.
@@ -34,9 +52,6 @@ Also, besides contacts, you can transfer other content from your old device to a
 2. This software provides easy navigation so that even a layman can operate the software with a one-click solution.
 3. The transfer speed of Dr.Fone's Phone Transfer tool is the lowest among other transfer methods. Within 3 minutes, all of your content can be transferred to another device.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Guide To Move Contacts Between iPhone and Android Using Wondershare Dr.Fone
 
 This software will require a few steps to transfer your contacts to another device. Here is the answer in a step-wise manner to your "**how do I transfer contacts from phone to phone**" question. Moreover, this toolkit can work in all directions, such as from one iPhone to another or from an old Android smartphone to a new one.
@@ -62,7 +77,10 @@ Now, select the type of data you want to transfer, which, in your case, is “Co
 ![start transferring contacts](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - Step 4. Finalize the Contact Transfer Process
 
@@ -70,12 +88,27 @@ After you turn off iCloud syncing on your iOS device, a notification will indica
 
 ![data transfer process completed](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. 2 Methods To Transfer Contacts From iPhone to iPhone
 
 Although Wondershare Dr.Fone is the perfect solution to transfer your contacts, we'll consider various scenarios in which you can transfer contacts. Now, if you have an iPhone and want to know **how to copy contacts from phone to phone**, you can adopt the following two methods:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 1. Use NameDrop
 
@@ -93,12 +126,6 @@ Apple has introduced a new feature in the latest iPhones named NameDrop. The fea
 
 ![select fields to share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Method 2. iCloud Sync
 
 The alternate method to transfer your phone contacts is via iCloud synchronization. The technique involves your iCloud contacts option to be toggled on. You can sign in with the same iCloud account to transfer the contact list to your new iPhone. Here's how to transfer contacts from iPhone to iPhone using iCloud Sync:
@@ -107,6 +134,12 @@ The alternate method to transfer your phone contacts is via iCloud synchronizati
 
 ![choose contacts within icloud](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 2.** Next, you can see the "Contacts" option; toggle on the switch to synchronize them. When you sign in with your iCloud account on the new iPhone, contacts will be restored there.
 
 ![toggle switch for contacts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-10.jpg)
@@ -115,6 +148,18 @@ The alternate method to transfer your phone contacts is via iCloud synchronizati
 
 Let's discuss another scenario in which we will transfer the contact list from an Android to an iPhone. If you want to switch from Vivo X Fold 2 to a new iPhone, you will probably need an effective method to transfer your phone numbers. In this section, we will discuss two simple and quick ways to **how do I transfer contacts from phone to phone:**
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Sync Google Account
 
 Android users can back up their phone's data to Google Drive. Also, an Android phone's "Google Contacts" app saves the contact information to their linked Google account. The same account can be logged in a new iPhone, where they can be restored. Follow the simple guide to sync your Google account with the updated contact information:
@@ -123,10 +168,22 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 
 ![access contact settings](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 2.** Next, choose the "Also sync device contacts" option at the top of the screen and ensure that the "Automatically back up & sync device contacts" feature is turned on. Afterward, switch to your iPhone and open the "Settings" app.
 
 ![enable back up and sync option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 3.** Subsequently, navigate to the "Contacts" settings within your iPhone's "Settings" app. Here, find and select the "Accounts" option and proceed to the next step.
 
 ![explore connected accounts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-13.jpg)
@@ -136,10 +193,16 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 ![add new google account](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 2. Use the VCF File
 
@@ -149,19 +212,31 @@ This method simplifies transferring contacts from Vivo X Fold 2 to iPhone withou
 
 ![share contacts from contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-15.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 2.** Now, on your iPhone, you need to open the email containing the “Contacts VCF” file from your Vivo X Fold 2. Tap to open the attached file and choose the “arrow” icon on the top to select the "Share" option. Next, choose the "Contacts" app and tap the "Add All Contacts" option to save contacts on your iPhone.
 
 ![share vcf file to contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4. 2 Methods To Transfer Contacts from Vivo X Fold 2 to Other Android Devices
 
 This section will shed some light on the transfer process of contacts between one Android phone to another. Android devices offer various options to share content with another Android device. You can send contact lists and achieve **how to copy contacts from phone to phone** with these two methods:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 1. Nearby Share
 
@@ -180,19 +255,15 @@ Nearby Share is a feature available on Android devices that allows you to easily
 ![select contacts to export](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - **Step 3.** Continue by locating the saved contacts file, then tap on it, and choose the "Send" option. Next, from the available sharing options, select "Nearby Share.” Lastly, you have to locate and select the name of your target Android device when it becomes visible and tap to accept the file share on your destination device.
 
 ![select the Vivo X Fold 2 device in nearby share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Method 2. Use Google Account
 
 The Google account transfer method can also transfer between Android and Android devices. You just have to ensure that the contacts synchronization is turned on. You can follow these steps to handle your “**How do I transfer contacts from phone to phone**” question.
@@ -206,15 +277,27 @@ The Google account transfer method can also transfer between Android and Android
 ![sync contacts on new device](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-22.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 5. 2 Methods To Transfer Contacts From iPhone to Android
 
 This section will discuss two methods to transfer contacts from an iPhone to an Android. Similarly, in this iPhone-to-Android transfer case, the iPhone synchronization method and importing VCF file method can be used to move your contact list.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Enable iPhone Sync Feature
 
 You can enable the iPhone Sync feature to transfer contacts from an iPhone to an Android device. In this case, ensure the contacts option in the Gmail synchronization is toggled on. Later, the contacts are saved when you sign in with the same Google account on your Vivo X Fold 2. Let's learn **how to transfer from phone to phone using this feature**:
@@ -223,9 +306,6 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 
 ![sync contacts with your gmail account](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** You can select "Add Account,” tap “Google," and input your credentials if your account has not been added yet.
 
 - **Step 2.** Now, you have to install or access the “Google One” app on your Vivo X Fold 2. Sign in and configure your Google One settings. Then, navigate to the “Sync” section and tap the “View” option.
@@ -233,7 +313,16 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 ![view sync in google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-24.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - **Step 3.** There, you need to select the “Contacts" option and click "Set up Sync.” Next, proceed to the “Upload Contacts” option.Subsequently, contacts will sync to your Vivo X Fold 2.
 
@@ -247,9 +336,6 @@ Importing a VCF file is another simple method for transferring contacts. It incl
 
 ![locate contacts within icloud](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 2.** Now,on your Vivo X Fold 2, open “Chrome” browser and navigate to the "iCloud” site. Then, sign in to your iCloud account and tap the “Three Dots” icon in the browser. Afterward, select the "Desktop site" option among various other options.
 
 ![access icloud site on android](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-27.jpg)
@@ -258,24 +344,12 @@ Importing a VCF file is another simple method for transferring contacts. It incl
 
 ![export vcard via icloud site](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-28.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 We have discussed various scenarios on **how to copy contacts from phone to phone,** whether the Vivo X Fold 2 devices are Android or iPhone. Nonetheless, Wondershare Dr.Fone - Phone Transfer stands out as the perfect method. This software provides a one-click and swift solution to all your transfer processes, including the contacts. Moreover, Dr.Fone can deal with all types of phone transfers, such as iPhone to iPhone, Android to iPhone, iPhone to Android, and Android to Android.
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## How to Transfer Text Messages from Vivo X Fold 2 to New Phone
 
 _Hi, I have recently bought a new iPhone. Is there any way to transfer my text messages (Inbox and Sentbox) from my old Samsung phone to the new iPhone? I have used the Samsung Kies program to transfer my Contacts, Music, and Pictures, but there is no option within the program to transfer text messages. I would really appreciate any suggestions? How to transfer texts to a new phone? Thanks._
@@ -283,8 +357,10 @@ _Hi, I have recently bought a new iPhone. Is there any way to transfer my text m
 In this article, we are going to introduce a powerful tool to solve the problem above. This tool is MoibleTrans; it will help you to easily **transfer text messages to a new phone** in 1 click.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Best Way to Transfer Text Messages to New Phone
 
@@ -293,7 +369,10 @@ After getting a new phone, you may transfer text messages with important or sens
 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -311,17 +390,26 @@ Download this tool to try transferring text messages to the new phone. Here, I'd
 
 ## How to Transfer Text Messages to New Phone Step by Step
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Step 1. Run this phone transfer tool on the computer
 
 To begin with, install and run Dr.Fone on the computer. The primary window will be shown on the computer screen. Click "Switch". This brings up the phone transfer window.
 
 ![select device mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** To transfer data to or from iPhone (iPhone 8 Plus, iPhone X supported), iPad and iPod, you should install iTunes on the computer.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2. Connect your old and new phones to the computer
 
 As I mentioned above, Dr.Fone lets you export SMS on the old Nokia phone, Android phone and even iPhone, and then copy them to your new iPhone or Android phone. So, connect two phones to do the SMS transfer to the computer with USB cables. After detected, the old phone is shown on the left, named as the source phone, and the new Android phone or iPhone, the destination phone appears on the right.
@@ -331,7 +419,22 @@ Besides, "Flip" between two phones lets you change places of the two phones.
 ![connect devices to transfer text messages to new phone](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 3. Transfer text messages to new phone
 
@@ -340,7 +443,22 @@ Besides text messages, Dr.Fone - Phone Transfer empowers you to transfer other f
 ![transfer text messages to new phone](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Transfer Contacts from Vivo X Fold 2 to iPhone XS/11
 
@@ -357,7 +475,10 @@ If you want to import contacts to iPhone XS/11 from Android in a single click, t
 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -384,15 +505,18 @@ Step 3:  Once the Vivo X Fold 2 devices get detected, you need to select Androi
 
 ![import contacts to iPhone XS (Max) from android - specify source and target devices](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** _In case of a wrong selection, you can tap the ‘Flip’ button and change the selection._
 
 Step 4:  In this step, you have to select the data type you want to move from your Vivo X Fold 2 to the iPhone XS/11, i.e. ‘Contacts’. Now, push the ‘Start Transfer’ button consecutively to initiate the transfer.
 
 ![start to import contacts to iPhone XS (Max) from android with USB cable](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** _If it’s a used iPhone XS/11, then you can select the ‘Clear Data before Copy’ checkbox for erasing any existing data on it prior to transferring the data._
 
 Step 5: Allow some time to get the process completed. Your contacts are successfully transferred from the Android device to iPhone XS/11.
@@ -400,7 +524,16 @@ Step 5: Allow some time to get the process completed. Your contacts are successf
 [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to transfer contacts from Vivo X Fold 2 to iPhone XS/11 using Move to iOS
 
@@ -416,7 +549,10 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 ![import contacts to iPhone XS (Max) from android using move to ios](https://images.wondershare.com/drfone/article/2018/01/15150785955979.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 1. On your Vivo X Fold 2, click ‘Continue’ and then ‘Agree’. A prompt asking for a code will appear on your Android mobile.
 2. Get the iPhone and hit ‘Continue’ and note the displayed code. Enter this on your Vivo X Fold 2. When both the Android and iPhone are connected to the Wi-Fi, select ‘Contacts’ from the data types and tap ‘Next’.
@@ -428,15 +564,10 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 ![transfer contacts from Vivo X Fold 2 to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to transfer contacts from Vivo X Fold 2 to iPhone XS/11 using Google account
 
@@ -448,13 +579,16 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 
 ![import contacts to iPhone XS (Max) from gmail account - transfer using google service](https://images.wondershare.com/drfone/article/2018/01/15150786756577.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Now, you need to add the same Gmail account to your iPhone X, in order to sync back contacts from it. For this, head to ‘Settings’ > ‘Passwords & Accounts’ > ‘Add Account’ > ‘Google’. Then, you’re required to punch in the details of the same Gmail account used over Android to sync contacts.
 
 ![import contacts to iPhone XS (Max) - add gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-add.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Lastly, get into ‘Settings’, then ‘Passwords & Accounts’, tap on your Gmail account and ensure that the ‘Contacts’ switch is turned on. Turn it on if it is not already. Within a short span of time, you can find the Android contacts appearing on your iPhone XS/11 after that.
 
 ![imported contacts to iPhone XS (Max) from Android gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-contacts.jpg)

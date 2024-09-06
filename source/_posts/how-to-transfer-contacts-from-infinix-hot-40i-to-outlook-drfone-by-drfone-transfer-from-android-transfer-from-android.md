@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from Infinix Hot 40i to Outlook | Dr.fone
-date: 2024-09-01T23:13:03.992Z
-updated: 2024-09-02T23:13:03.992Z
+date: 2024-09-05T16:04:37.225Z
+updated: 2024-09-06T16:04:37.225Z
 tags: 
   - transfer
 categories:
@@ -12,6 +12,18 @@ keywords: transfer from android to iphone,transfer from android to android,trans
 thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8f5029c9276b28fff4f6f7be.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Transfer Contacts from Infinix Hot 40i to Outlook
 
 _I would like to export/edit my contacts that are on My Infinix Hot 40i and get them onto my computer for a back, to edit them, to input/import them into Outlook. Can this be done and how? Is there something I can download or a backup assistant?_
@@ -39,7 +51,10 @@ One Stop Solution to Transfer Contacts from Infinix Hot 40i to Outlook
 Now, I’d like to introduce you how to transfer Android contacts to Outlook. Download this free trial version on your computer. Then check out the easy steps below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 1. Connect Android phone with a computer and run Dr.Fone
 
@@ -48,11 +63,10 @@ To start with, connect your Infinix Hot 40i with a computer either via a USB cab
 ![android to outlook](https://images.wondershare.com/drfone/guide/transfer-files-quickly-to-android-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 2. Android to Outlook sync
 
@@ -63,13 +77,19 @@ As you see, apart from exporting Android contacts to Outlook, you can also copy 
 ![how to sync android with outlook](https://images.wondershare.com/drfone/drfone/android-transfer-export-contacts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Now, download Dr.Fone - Phone Manager (Android) to have a try!
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Copy Data from Samsung to Pixel 8 and Pixel 8 Pro
 
 Getting a new phone is incredibly exciting, but once you realize how much data you need to transfer, the experience can take a sudden turn for the worse. Fortunately, there are now multiple ways to transfer data from your old phone to a new device, and we’re here to help you with these.
@@ -101,15 +121,15 @@ Here’s how you can use Wondershare Dr.Fone to transfer data from a Samsung dev
 
     ![start the phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select the **Source**device (Samsung) and your **Destination** device (Pixel 8/Pixel 8 Pro). You can also use the **Flip** option to switch the file transfer’s direction if you ever need to.
 
     ![select source and destination devices](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. Select the types of data you want to transfer and hit the **Start Transfer**.
 
@@ -120,12 +140,21 @@ Here’s how you can use Wondershare Dr.Fone to transfer data from a Samsung dev
 ![data transfer progress bar](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 7. You’ll be notified when the process is complete. Tap **OK**.
 
     ![finishing the data transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Once you see that the file transfer between your Samsung and Pixel 8/8 Pro devices has been completed, you can disconnect your phones from the PC and start using your new Pixel phone. You should then check if all the data has been transferred.
 
 ## Transfer Data From Samsung to Google Pixel 8 and Pixel 8 Pro Using Wi-Fi
@@ -137,7 +166,10 @@ Users who want to avoid downloading apps can use the built-in file transfer app 
     ![transfer data to new pixel device](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 2. Connect the Infinix Hot 40i device to a Wi-Fi network.
 3. Choose the “**Can’t use old device**” option and sign in with your Google account.
@@ -145,23 +177,25 @@ Users who want to avoid downloading apps can use the built-in file transfer app 
     ![use the cloud restore option](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. Select which apps and types of data you want to transfer to it and tap **Restore**.
 
     ![restore specific file types](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Follow the file transfer instructions and watch as data copies from your old Samsung to your new Pixel 8/8 Pro device.
 
 Your new phone will notify you when the file transfer is complete, and you can continue using your brand-new device right where you left off with the Samsung one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Copy Data From Samsung to Pixel 8 and Pixel 8 Pro Using USB
 
 If you don’t want to transfer files over a Wi-Fi network, don’t want to waste your mobile data, or wish to complete the file transfer the old-fashioned way with a USB cable, you can follow these steps to transfer data from Samsung to Pixel:
@@ -181,6 +215,12 @@ If you don’t want to transfer files over a Wi-Fi network, don’t want to wast
 
 Give your phones a few minutes to transfer data from Samsung to Pixel, and remember that it can even take several hours, depending on your phone’s internal storage size and filled space. The built-in file transfer app will notify you once it completes everything.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Transfer Files to Pixel 8 and Pixel 8 Pro via PC
 
 Using a computer as an intermediary device for transferring files is another excellent idea, and it’ll even let you organize your old phone’s data before you copy it to your new device. You’ll need to follow these steps to transfer data from your old phone to your PC and from your PC to your new Pixel 8/8 Pro device:
@@ -192,9 +232,6 @@ Using a computer as an intermediary device for transferring files is another exc
 
     ![copy data to the pc](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Disconnect the old phone from the computer.
 6. Connect your new Pixel phone to the PC.
 7. Once again, click the phone’s notification and select the **File Transfer**
@@ -222,6 +259,12 @@ Here’s what you’ll need to do:
 
 Before you start the file transfer process using a Quick Switch, you should ensure both devices are fully charged. Furthermore, you should also update your Samsung device to the latest software version to avoid potential transfer issues, such as data corruption or incomplete transfers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Transfer Data From Samsung to Pixel Using Google Drive
 
 Being an Android user requires a Google account, granting you access to 15 GB of free storage space on Google Drive, making the app an excellent way to transfer files from your old phone to your new one. Here’s how you can use it:
@@ -230,6 +273,12 @@ Being an Android user requires a Google account, granting you access to 15 GB of
 
     ![back up google drive data](https://images.wondershare.com/drfone/article/2023/12/copy-data-from-samsung-to-pixel-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Change the **Backup details**and add the types of data you want to back up.
 3. Hit the **Back up now**button and give your phone time to upload everything to Google Drive. You can watch the progress at the top of your screen.
 4. Power on your new Pixel 8/8 Pro device and follow the on-screen setup instructions.
@@ -242,9 +291,6 @@ Being an Android user requires a Google account, granting you access to 15 GB of
 
 It’s worth noting that Google Drive users aren’t limited to 15 GB of storage space, as paid plans also include 100 GB and 200 GB options for a few dollars per month, making this type of transfer incredibly efficient.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Transfer Data From Samsung to Google Pixel 8, 8 Pro Using Email
 
 Although it’s not as effective as the abovementioned methods, email is also an option for transferring data between phones. Using it is as straightforward as sending emails, meaning that this method is effortless, and anyone can do it. Here’s how:
@@ -260,7 +306,10 @@ Although it’s not as effective as the abovementioned methods, email is also an
 Please note that while email providers like Gmail, Yahoo, or Hotmail might not have restrictions on the number of files you can send, they do restrict emails to 25MB in size. It essentially means that this method will work for smaller files but isn’t viable if you need to transfer large sets of data.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -280,12 +329,14 @@ In this article, we will move you through various effective methods on **how to 
 
 ![transfer contacts phone to phone](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-1.jpg)
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
 ## Part 1. One-Click Solution To Handle All Contacts Transfer Between iPhone and Android
 
 [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/) – Phone Transfer offers a one-click solution to transfer all contacts between your smartphones. The tool has advanced features to move your device’s content in a few minutes. This aspect of the software helps users increase their productivity and easily handle their tasks.
@@ -316,6 +367,12 @@ Here, you need to set “Source” and “Destination” devices. In either case
 
 ![set source and destination device](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Step 3. Select the “Contacts” Option for their Transfer
 
 Now, select the type of data you want to transfer, which, in your case, is “Contacts.” Checkmark the “Contacts” option, and click the “Start Transfer” button to begin the transfer. Now, you can monitor the progress of the contacts transfer in a new window.
@@ -323,7 +380,10 @@ Now, select the type of data you want to transfer, which, in your case, is “Co
 ![start transferring contacts](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503"><img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - Step 4. Finalize the Contact Transfer Process
 
@@ -332,7 +392,10 @@ After you turn off iCloud syncing on your iOS device, a notification will indica
 ![data transfer process completed](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2. 2 Methods To Transfer Contacts From iPhone to iPhone
 
@@ -347,19 +410,43 @@ Apple has introduced a new feature in the latest iPhones named NameDrop. The fea
 ![place iphone near each other](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - **Step 2.** Afterward,you have to select whether to “Share” your contact card and receive the contact of another person. Or tap “Receive Only” to receive another person's contact information.
 
 ![choose to share or receive contact](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - **Step 3.** If you want to share your contact card, tap the “ Downward Arrow” icon, choose the fields you wish to include, and then share it.
 
 ![select fields to share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2. iCloud Sync
 
 The alternate method to transfer your phone contacts is via iCloud synchronization. The technique involves your iCloud contacts option to be toggled on. You can sign in with the same iCloud account to transfer the contact list to your new iPhone. Here's how to transfer contacts from iPhone to iPhone using iCloud Sync:
@@ -368,25 +455,25 @@ The alternate method to transfer your phone contacts is via iCloud synchronizati
 
 ![choose contacts within icloud](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 - **Step 2.** Next, you can see the "Contacts" option; toggle on the switch to synchronize them. When you sign in with your iCloud account on the new iPhone, contacts will be restored there.
 
 ![toggle switch for contacts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3. 2 Methods To Transfer Contacts From Infinix Hot 40i to iPhone
 
 Let's discuss another scenario in which we will transfer the contact list from an Android to an iPhone. If you want to switch from Infinix Hot 40i to a new iPhone, you will probably need an effective method to transfer your phone numbers. In this section, we will discuss two simple and quick ways to **how do I transfer contacts from phone to phone:**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 1. Sync Google Account
 
@@ -396,9 +483,6 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 
 ![access contact settings](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 2.** Next, choose the "Also sync device contacts" option at the top of the screen and ensure that the "Automatically back up & sync device contacts" feature is turned on. Afterward, switch to your iPhone and open the "Settings" app.
 
 ![enable back up and sync option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-12.jpg)
@@ -407,15 +491,21 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 
 ![explore connected accounts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 4.** As you lead to the next window, tap the "Add Account" option. You have to sign in with your Google Account and ensure that the "Contacts" option is enabled.
 
 ![add new google account](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 2. Use the VCF File
 
@@ -425,6 +515,12 @@ This method simplifies transferring contacts from Infinix Hot 40i to iPhone with
 
 ![share contacts from contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 2.** Now, on your iPhone, you need to open the email containing the “Contacts VCF” file from your Infinix Hot 40i. Tap to open the attached file and choose the “arrow” icon on the top to select the "Share" option. Next, choose the "Contacts" app and tap the "Add All Contacts" option to save contacts on your iPhone.
 
 ![share vcf file to contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-16.jpg)
@@ -433,9 +529,6 @@ This method simplifies transferring contacts from Infinix Hot 40i to iPhone with
 
 This section will shed some light on the transfer process of contacts between one Android phone to another. Android devices offer various options to share content with another Android device. You can send contact lists and achieve **how to copy contacts from phone to phone** with these two methods:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1. Nearby Share
 
 Nearby Share is a feature available on Android devices that allows you to easily share various types of content, including contacts. You have to ensure that both devices have Bluetooth and Location Services turned on. That’s because Nearby Share uses these services to find nearby devices and establish a connection for sharing content.
@@ -444,6 +537,12 @@ Nearby Share is a feature available on Android devices that allows you to easily
 
 ![access nearby share option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 2.** As you proceed into the “Nearby Share” option, you have to turn on the “Device visibility” toggle. This will enable Nearby Share on your Android smartphone.
 
 ![enable nearby share on android](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-18.jpg)
@@ -452,6 +551,12 @@ Nearby Share is a feature available on Android devices that allows you to easily
 
 ![select contacts to export](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-19.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 3.** Continue by locating the saved contacts file, then tap on it, and choose the "Send" option. Next, from the available sharing options, select "Nearby Share.” Lastly, you have to locate and select the name of your target Android device when it becomes visible and tap to accept the file share on your destination device.
 
 ![select the Infinix Hot 40i device in nearby share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-20.jpg)
@@ -469,18 +574,27 @@ The Google account transfer method can also transfer between Android and Android
 ![sync contacts on new device](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-22.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 5. 2 Methods To Transfer Contacts From iPhone to Android
 
 This section will discuss two methods to transfer contacts from an iPhone to an Android. Similarly, in this iPhone-to-Android transfer case, the iPhone synchronization method and importing VCF file method can be used to move your contact list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Method 1. Enable iPhone Sync Feature
 
 You can enable the iPhone Sync feature to transfer contacts from an iPhone to an Android device. In this case, ensure the contacts option in the Gmail synchronization is toggled on. Later, the contacts are saved when you sign in with the same Google account on your Infinix Hot 40i. Let's learn **how to transfer from phone to phone using this feature**:
@@ -489,6 +603,12 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 
 ![sync contacts with your gmail account](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-23.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** You can select "Add Account,” tap “Google," and input your credentials if your account has not been added yet.
 
 - **Step 2.** Now, you have to install or access the “Google One” app on your Infinix Hot 40i. Sign in and configure your Google One settings. Then, navigate to the “Sync” section and tap the “View” option.
@@ -500,7 +620,10 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 ![upload contacts via google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-25.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 2. Import the VCF File
 
@@ -510,25 +633,37 @@ Importing a VCF file is another simple method for transferring contacts. It incl
 
 ![locate contacts within icloud](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-26.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 2.** Now,on your Infinix Hot 40i, open “Chrome” browser and navigate to the "iCloud” site. Then, sign in to your iCloud account and tap the “Three Dots” icon in the browser. Afterward, select the "Desktop site" option among various other options.
 
 ![access icloud site on android](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-27.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 3.** Now, choose "Contacts" on the iCloud website, tap the "Three Dots" icon, and proceed with the "Select All" option. After that, you can tap the "Share" icon to choose the "Export vCard" feature. Subsequently, you need to open the exported file and select your Google account to import the contacts to your Infinix Hot 40i.
 
 ![export vcard via icloud site](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-28.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 

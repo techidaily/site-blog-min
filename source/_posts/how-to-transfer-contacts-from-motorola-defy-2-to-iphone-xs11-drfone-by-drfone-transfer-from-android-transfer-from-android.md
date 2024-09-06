@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from Motorola Defy 2 to iPhone XS/11 | Dr.fone
-date: 2024-09-01T23:16:53.265Z
-updated: 2024-09-02T23:16:53.265Z
+date: 2024-09-05T16:04:31.846Z
+updated: 2024-09-06T16:04:31.846Z
 tags: 
   - transfer
 categories:
@@ -12,6 +12,18 @@ keywords: transfer from android to pc,transfer from android to iphone,transfer f
 thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Transfer Contacts from Motorola Defy 2 to iPhone XS/11
 
 When it comes to transferring contacts from Motorola Defy 2 to iPhone XS/11, we play enough care to not mess with the process.
@@ -20,12 +32,24 @@ Though, there are numerous ways to [switch to a new iPhone](https://drfone.wonde
 
 In this article, we are going to introduce 4 vital solutions to make your transition from Motorola Defy 2 to iPhone a smooth sail.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to transfer contacts from Motorola Defy 2 to iPhone XS/11 in one click
 
 If you want to import contacts to iPhone XS/11 from Android in a single click, there is no better solution than [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). Not only contacts but a wide range of device data can be transferred from your Android to an iPhone with this tool. Photos, music, text messages, videos, etc. are a few of them.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Easily transfer contacts from Motorola Defy 2 to iPhone XS/11
@@ -81,15 +105,27 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 
 ![transfer contacts from Motorola Defy 2 to iPhone XS (Max) - pair android and iPhone XS (Max)](https://images.wondershare.com/drfone/article/2018/01/15150786375935.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 1. On your Motorola Defy 2, click ‘Done’ as soon as the data transfer is complete. Let the iPhone XS/11 sync the contacts. You need to set up your iCloud account now. Once it is done, you can view the transferred contacts on the iOS device.
 
 ![transfer contacts from Motorola Defy 2 to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to transfer contacts from Motorola Defy 2 to iPhone XS/11 using Google account
 
@@ -101,13 +137,16 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 
 ![import contacts to iPhone XS (Max) from gmail account - transfer using google service](https://images.wondershare.com/drfone/article/2018/01/15150786756577.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Now, you need to add the same Gmail account to your iPhone X, in order to sync back contacts from it. For this, head to ‘Settings’ > ‘Passwords & Accounts’ > ‘Add Account’ > ‘Google’. Then, you’re required to punch in the details of the same Gmail account used over Android to sync contacts.
 
 ![import contacts to iPhone XS (Max) - add gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-add.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 1. Lastly, get into ‘Settings’, then ‘Passwords & Accounts’, tap on your Gmail account and ensure that the ‘Contacts’ switch is turned on. Turn it on if it is not already. Within a short span of time, you can find the Android contacts appearing on your iPhone XS/11 after that.
 
 ![imported contacts to iPhone XS (Max) from Android gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-contacts.jpg)
@@ -126,9 +165,6 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 
 **Note:** _Though, it’s rare nowadays. In case you happen to own a very old SIM card and your Motorola Defy 2 supported the size. You might need to cut it to fit the iPhone XS/11’s micro-SIM slot._
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Can You Transfer Files From Motorola Defy 2 To iPhone 15/14/13?
 
 Just got a shiny new iPhone 15/14/13 but don't want to lose all your file data from your old Android phone? **Transferring information from an Android device to an iPhone** can seem daunting, but it doesn't have to be. With the right tools and steps, you can seamlessly move your contacts, photos, videos, apps, and other important files from your **Android to your iPhone 15/14/13** in no time.
@@ -149,10 +185,6 @@ The easiest way for most people is to use the Move to iOS app that Apple created
 
 ![transfer information from iphone to android](https://images.wondershare.com/drfone/article/2024/02/how-can-you-transfer-data-from-android-to-iphone-13-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 **Step 3:** Open the Move to iOS app on your Motorola Defy 2 and tap Continue.
 
 **Step 4:** Wait for a 6 or 10-digit code to appear on your iPhone and enter it on your Motorola Defy 2.
@@ -165,6 +197,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 **Step 7:** Wait for the transfer process to finish, then tap Done on Android and Continue on iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Transfer Data From Motorola Defy 2 to iPhone 15/14/13 Using USB Cable
 
 You can also connect your Motorola Defy 2 directly to your new iPhone with the charging cable that came with your iPhone to transfer files:
@@ -183,12 +221,21 @@ You can also connect your Motorola Defy 2 directly to your new iPhone with the c
 
 And that's it! With these simple steps, you can easily move your important info, photos, videos, and other content from your old Android to your slick new iPhone 15/14/13.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How Can You Transfer Data From Motorola Defy 2 To iPhone 15/14/13 Using Google Drive?
 
 ![transfer information from iphone to android](https://images.wondershare.com/drfone/article/2024/02/how-can-you-transfer-data-from-android-to-iphone-13-7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 If you have files stored on Google Drive, you can easily access them on your new iPhone by:
 
@@ -201,14 +248,26 @@ If you have files stored on Google Drive, you can easily access them on your new
 **Step 4:** Your Google Drive content will now be available on your iPhone!
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part IV: How To Transfer Particular Data From Motorola Defy 2 To iPhone 15/14/13?
 
 Want to move all your precious data from your Motorola Defy 2 over to your new iPhone 15/14/13? With some simple steps, you can easily transfer your contacts, photos, messages, and other key data.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 1: Transfer Contacts Using Sim Card
 
@@ -227,7 +286,16 @@ If you stored all your contacts on your Motorola Defy 2’s SIM card, you’re i
 And it’s done! All your SIM contacts are now safely stored on your iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 2: Transfer Photos Using Google Photos App
 
@@ -241,15 +309,18 @@ The Google Photos app makes it a breeze to transfer all your Android photos and 
 
 **Step 4:** Give it some time, and all your media will **transfer automatically from Motorola Defy 2 to iPhone**!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Transfer Messages Using SendAnywhere
 
 If you use messages a lot, you'll surely want to move your messaging history from your Android. The SendAnywhere app handles this seamlessly:
 
 ![Send Anywhere working](https://images.wondershare.com/drfone/article/2024/02/how-to-transfer-data-from-android-to-iphone-13-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Step 1:** Download SendAnywhere on both your Android and iPhone.
 
 **Step 2:** Choose your Android as the Sender and, iPhone as the Receiver.
@@ -262,13 +333,16 @@ If you use messages a lot, you'll surely want to move your messaging history fro
 
 **Transferring from Motorola Defy 2 to the new iPhone 15/14/13** doesn’t have to be painful. With SIM contacts, Google Photos, SendAnywhere, and other clever tricks, you can make the switch smoothly and focus on enjoying your new phone!
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part V: Transfer Data From Motorola Defy 2 To iPhone 15/14/13 in One Click Using Dr.Fone
 
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If you’re shifting from an Android phone to an Apple device, then this is for you! As you get your brand new iPhone 15/14/13, you may wonder how you can transfer all your data in one go to your new phone. This includes all your contacts, photos, apps, and other vital data from your Motorola Defy 2. But don’t worry, for a hassle-free and easy way to transfer your data you can use the incredible [Dr.Fone Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)! You can quickly and seamlessly transfer all that important stuff to your slick new iPhone 15/14/13 in no time. So, let’s get right into it and see how you can **transfer data from Motorola Defy 2 to iphone 13**!
 
 First thing first, get your Motorola Defy 2 and new iPhone 15/14/13 ready them sufficiently charged during the transfer process.
@@ -277,6 +351,12 @@ Dr.Fone's phone transfer feature makes **switching data from Motorola Defy 2 to 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 1 Click to Transfer Data From Motorola Defy 2 To iPhone
@@ -301,7 +381,16 @@ Dr.Fone's phone transfer feature makes **switching data from Motorola Defy 2 to 
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 5:** Finally, hit the "Start Transfer" button and Dr.Fone will seamlessly shift the selected data from Motorola Defy 2 to iOS. The progress is displayed on screen.
 
@@ -312,13 +401,13 @@ And that's all it takes! In minutes, Dr.Fone securely transfers your essential d
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503"><img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 So go ahead – move your life to your terrific new iPhone 15/14/13 in minutes with the exceptional data transfer powers of Dr. Fone's Phone Transfer tool! Bid goodbye to manual processes or slow wireless transfers. For swift, simple, and safe **Android to iOS transfer**, Dr Fone is your go-to digital companion!
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Transferring your precious data to a new iPhone 15/14/13 doesn't have to be a headache. With smart use of your SIM card, cloud storage apps like Google Photos, file transfer apps like SendAnywhere, or sophisticated switchers like [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/), you can seamlessly move your contacts, photos, media files, chats, and more from **Android to iPhone**. Whether you want to transfer a few vital files or the whole data - music, movies, documents and all - you now have several failure-proof methods to choose from.
@@ -329,9 +418,6 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4 Ways to Transfer Music from Motorola Defy 2 to iPhone
 
 _You switch from an Android device to an iPhone but can’t find an ideal solution to transfer music from Motorola Defy 2 to iPhone._
@@ -345,7 +431,10 @@ Yes – you have read it right. You can learn how to send music from Motorola De
 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -370,6 +459,12 @@ A user-friendly tool is compatible with most Android and iOS devices. The deskto
 
     ![how to transfer music from android to iphone-your devices will be detected](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Choose the data that you would like to transfer. To move music from Motorola Defy 2 to iPhone, make sure the option of “Music” is enabled before clicking on the “Start Transfer” button.
 
     ![how to transfer music from android to iphone-Start Transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
@@ -378,11 +473,14 @@ A user-friendly tool is compatible with most Android and iOS devices. The deskto
 
 ![how to transfer music from android to iphone- move the selected data from Motorola Defy 2 to iPhone](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 That’s it! With just one click, you can now move music from Motorola Defy 2 to iPhone. After that, you can safely disconnect both of the Motorola Defy 2 devices.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to transfer music from Motorola Defy 2 to iPhone selectively?
 
 Another user-friendly way to learn how to send music from Motorola Defy 2 to iPhone is by using [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). A part of the Dr.Fone toolkit, it can be a complete Android device manager. You can transfer your data between Android and computer and from an Android to an iOS device. You can even move songs from your Motorola Defy 2 to iTunes without using iTunes itself.
@@ -390,7 +488,10 @@ Another user-friendly way to learn how to send music from Motorola Defy 2 to iPh
 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
 
@@ -415,16 +516,16 @@ Since it is a complete Android phone manager, you can use it to transfer all the
     ![how to transfer music from android to iphone-select your Motorola Defy 2 as a source device](https://images.wondershare.com/drfone/guide/transfer-files-quickly-to-android-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 3. To manage the music files stored on the Android device, go to the “Music” tab on the interface. Here, you can view all music files, podcasts, audiobooks, songs, etc., listed in different categories.
 4. Choose the files and then select the export button on the toolbar. From here, select the connected iPhone as a source.
 
     ![how to transfer music from android to iphone-click on the export icon](https://images.wondershare.com/drfone/drfone/android-transfer-export-music-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Wait a moment and let the application automatically transfer your selected music files from your Motorola Defy 2 to your iPhone.
 
     Besides performing a direct transfer of data from one smartphone to another, you can also use the application to transfer music from Motorola Defy 2 to iTunes as well. To do this, you need to select the “Transfer Device Media to iTunes” option from its home page. This will launch a pop-up window and let you move your music files from the Android device to iTunes directly.
@@ -432,7 +533,16 @@ Since it is a complete Android phone manager, you can use it to transfer all the
     ![how to transfer music from android to iphone-Transfer Device Media to iTunes](https://images.wondershare.com/drfone/drfone/mac-android-transfer-to-itunes-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 In this way, you can selectively transfer music from Motorola Defy 2 to iPhone in a hassle-free manner.
 
@@ -447,7 +557,10 @@ If you use a Mac, then you can use Android File Transfer to move your data from 
     ![how to transfer music from android to iPhone-Go to the Music folder](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-iphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. Great! You are halfway there. Launch iTunes on your Mac and add the newly transferred music to it. You can drag and drop it from the Finder to iTunes. Alternatively, you can also go to its options and click on “Add files to Library”. In this way, you can manually add new music to your iTunes library.
 
@@ -458,10 +571,19 @@ If you use a Mac, then you can use Android File Transfer to move your data from 
 
     ![how to transfer music from android to iphone-Select the playlists and songs](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Needless to say, the process is a bit complicated. Furthermore, you might face some compatibility issues between your devices and iTunes as well. To avoid all this unwanted hassle, you can simply take Dr.Fone applications' assistance and transfer music from Motorola Defy 2 to iPhone effortlessly. In this way, you can learn how to send music from Motorola Defy 2 to iPhone through iTunes and Android File Transfer.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4: How to transfer streaming music from Motorola Defy 2 to iPhone?
 
@@ -483,7 +605,10 @@ If you are moving from an Android to an iPhone, you can follow these steps to en
 ![how to transfer music from android to iphone-access all your saved playlists](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-iphone-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 The same drill can be followed for all the other streaming services as well. While you can sync your music using these streaming services, the songs you have made available offline will not be listed here. Therefore, you need to make sure that you have saved them in a playlist beforehand.
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Transfer Music from ZTE Nubia Z60 Ultra to Other Android Devices Easily | Dr.fone
-date: 2024-09-01T23:11:24.423Z
-updated: 2024-09-02T23:11:24.423Z
+date: 2024-09-05T16:04:39.508Z
+updated: 2024-09-06T16:04:39.508Z
 tags: 
   - transfer
 categories:
@@ -18,6 +18,12 @@ There can be many reasons to transfer music from ZTE Nubia Z60 Ultra to Other An
 
 So, keep reading to know about five different ways that will help you transfer your music files easily.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices in 1 click?
 
 The transfer of all music files from one Android phone to another with a single click of the mouse has never been easier. The switch feature on [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) program has made this action a lot simpler and even faster to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices. It can also transfer other file formats such as other multimedia files, contacts, text messages, call logs, including apps and app data files.
@@ -53,6 +59,12 @@ If you want the Source device to be the Destination device, click on the “Flip
 
 ![transfer music from android to android-click on “Start Transfer”](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You should now see your music files being transferred with the overall progress displayed on a dialogue box.
 
 There you go; within a few seconds, your music files will be transferred successfully.
@@ -60,7 +72,10 @@ There you go; within a few seconds, your music files will be transferred success
 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2. How to Transfer Music from ZTE Nubia Z60 Ultra to Other Android Devices Selectively?
 
@@ -69,7 +84,16 @@ Another way to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices 
 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
 
@@ -93,15 +117,18 @@ Here are a few easy steps to follow on how to transfer music from ZTE Nubia Z60 
 
 ![transfer music from android to android-select each file you wish to copy](https://images.wondershare.com/drfone/drfone/android-to-android-music-transfer-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 **Step 3.** After selecting the music files, you wish to copy, click on the “Export” button on the app and then select “Export to Device”. You will see the other device connected; there, click on the ZTE Nubia Z60 Ultra device's name to begin the transfer process.
 
 ![transfer music from android to android-click on the “Export” button](https://images.wondershare.com/drfone/drfone/android-to-android-music-transfer-02.jpg)
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. How to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices using Bluetooth?
 
 Bluetooth transfer is one of the oldest methods that can be used to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices, and it is a simple way to make use of it.
@@ -122,9 +149,6 @@ Mostly, you will be provided with a pair confirmation code that will be displaye
 
 ![transfer music from android to android-pair both devices](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3.** The final step is to head to the File Manager app on your phone or go to your Music Player, select the music file you wish to transfer, and then click on your device's Share button or logo.
 
 Here, scroll until you see the “Bluetooth” option. You will be immediately prompted to select the ZTE Nubia Z60 Ultra device to share with, click the earlier paired device name, and then click on “Accept” on the other device.
@@ -134,7 +158,10 @@ This is how you can transfer music files from ZTE Nubia Z60 Ultra to Other Andro
 ![transfer music from android to android-use Bluetooth](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4. How to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices using NFC?
 
@@ -150,10 +177,34 @@ NFC or Near Field Communication is another wireless means to transfer music from
 
 ![transfer music from android to android-start transferring your music files](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-12.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3.** After connecting both the ZTE Nubia Z60 Ultra devices, you will be provided with media options of files that can be transferred. In this case, select the Music files and then click on “Transfer” to send the music files via NFC.
 
 ![transfer music from android to android-send the music files via NFC](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-13.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5. How to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices using Google Play Music?
 
 Google Play Music is a free Music streaming service provided by Google and available for all users with a Google account. Follow these steps to transfer music files to an Android phone using Google play.
@@ -168,6 +219,12 @@ Note: You need a Google account to be able to make use of this service
 
 ![transfer music from android to android-Select From Your Computer](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3.** After the upload has been completed, download the “Google Play Music” app on your other Android phone and then log in to the app with the same Google credentials. You will see all the recently uploaded tracks on your Google Play account. You can now stream or download them easily.
 
 At last, we hope that you now know how to transfer music from ZTE Nubia Z60 Ultra to Other Android Devices devices safely and securely through the above article. In fact, you have got two very good options to perform the transfer in the form of [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) and [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). Well, choose the most convenient one for you and make sure that you proceed with the guided steps mentioned for each way.
@@ -175,15 +232,15 @@ At last, we hope that you now know how to transfer music from ZTE Nubia Z60 Ultr
 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Transfer Data from ZTE Nubia Z60 Ultra to BlackBerry
 
 Today’s world is full of technological benefits. Transferring data from one part of the world to another can be done in the blink of an eye. Transferring data from one phone to another should be that simple right? Well, it is if you are using devices with the same OS. But, what should you do if you want to transfer data from, let’s say, Android to BlackBerry? Don’t worry. It is possible, and we will guide you step by step through the entire process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Option 1: Issues about transferring data from ZTE Nubia Z60 Ultra to BlackBerry
 
 When transferring data from ZTE Nubia Z60 Ultra to BlackBerry, you can’t use Bluetooth or a third party software that will help you speed up the process. And unfortunately, you will sometimes wish that you can speed up this process. You can try to manually transfer data from ZTE Nubia Z60 Ultra to a computer, and then from a computer to BlackBerry, but this process can take hours. It is boring to transfer the files from one place to another, and the time it takes is a real pain in the neck. And also, it is impossible to transfer apps from ZTE Nubia Z60 Ultra to BlackBerry because of different operating systems. Sometimes, not even all photos, videos and music files will be compatible. But, luckily, the BlackBerry developers have thought of a one way, which is simpler than the manual transfer mentioned above, to transfer your data from ZTE Nubia Z60 Ultra to BlackBerry. It takes less time, but you still need to do some work.
@@ -197,61 +254,81 @@ From the Home screen of your BlackBerry tap the ‘BlackBerry World’.
 ![transfer data from ZTE Nubia Z60 Ultra to BlackBerry-01](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Then, tap the search box and enter ‘Device Switch’. After the ZTE Nubia Z60 Ultra device shows up, tap it.
 
 ![transfer data from ZTE Nubia Z60 Ultra to BlackBerry-02](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Then, you should be able to see the ‘Download’ button on the right side. Tap it, and wait for the app to download. You may be prompted to enter the login information for your BlackBerry ID account.
 
 ![transfer data from ZTE Nubia Z60 Ultra to BlackBerry-03](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Once the download is done, ‘Open’ button will appear. Tap it.
 
 ![transfer data from ZTE Nubia Z60 Ultra to BlackBerry-04](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You should read through the top half of the screen, and make sure that the preferred options are checked. Once you finish reading, click ‘OK’.
 
 ![transfer data from ZTE Nubia Z60 Ultra to BlackBerry-05](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After pressing OK, swipe left. A new screen will show up. You will have the option to choose the ZTE Nubia Z60 Ultra device you are switching data from. Make sure to click Android.
 
 ![transfer data from ZTE Nubia Z60 Ultra to BlackBerry-06](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Then, download the ZTE Nubia Z60 Ultra device Switch application from Google Play on your ZTE Nubia Z60 Ultra. When the application is installed, open it, tap next and then RIM BlackBerry Device. Note the PIN code and enter it on your BlackBerry when prompted.
 
 ![transfer data from ZTE Nubia Z60 Ultra to BlackBerry-07](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![transfer data from ZTE Nubia Z60 Ultra to BlackBerry-08](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry06.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Make sure that the preferred sync options are checked on the Android device and then tap ‘Next.’ These two devices will establish a connection using the same Wi-Fi network. Once that happens, the transfer process will begin. The process may take a while. It depends on the amount of data which is being moved.
 
 ![transfer data from ZTE Nubia Z60 Ultra to BlackBerry-09](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Once the transfer is done, tap finish. And that is it! The content from the Android device was successfully transferred to your BlackBerry device.
 
 ![transfer data from ZTE Nubia Z60 Ultra to BlackBerry-10](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The Device Switch app is very reliable. But, there is one downside. You cannot transfer all file types using it, and the process may take a lot of time sometimes. But, we have found an even easier way. It is software called Dr.Fone - Phone Transfer. Keep reading to find out more about it!
 
 ## Part 3: Transfer data from ZTE Nubia Z60 Ultra to Blackberry by Dr.Fone (Fast, easy and safe)

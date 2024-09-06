@@ -1,7 +1,7 @@
 ---
 title: How Can You Transfer Files From Realme Narzo N55 To iPhone 15/14/13? | Dr.fone
-date: 2024-09-01T23:12:15.322Z
-updated: 2024-09-02T23:12:15.322Z
+date: 2024-09-05T16:04:38.348Z
+updated: 2024-09-06T16:04:38.348Z
 tags: 
   - transfer
 categories:
@@ -12,6 +12,12 @@ keywords: transfer from Realme Narzo N55 to iphone,transfer from Realme Narzo N5
 thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc218886423e579644f1092e23638fe5.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Can You Transfer Files From Realme Narzo N55 To iPhone 15/14/13?
 
 Just got a shiny new iPhone 15/14/13 but don't want to lose all your file data from your old Android phone? **Transferring information from an Android device to an iPhone** can seem daunting, but it doesn't have to be. With the right tools and steps, you can seamlessly move your contacts, photos, videos, apps, and other important files from your **Android to your iPhone 15/14/13** in no time.
@@ -32,18 +38,42 @@ The easiest way for most people is to use the Move to iOS app that Apple created
 
 ![transfer information from iphone to android](https://images.wondershare.com/drfone/article/2024/02/how-can-you-transfer-data-from-android-to-iphone-13-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** Open the Move to iOS app on your Realme Narzo N55 and tap Continue.
 
 **Step 4:** Wait for a 6 or 10-digit code to appear on your iPhone and enter it on your Realme Narzo N55.
 
 ![transfer information from iphone to android](https://images.wondershare.com/drfone/article/2024/02/how-can-you-transfer-data-from-android-to-iphone-13-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 5:** Connect both phones to the same WiFi network that your iPhone created.
 
 **Step 6:** On Android, select the content you want to transfer like contacts, messages, photos, etc.
 
 **Step 7:** Wait for the transfer process to finish, then tap Done on Android and Continue on iPhone.
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Transfer Data From Realme Narzo N55 to iPhone 15/14/13 Using USB Cable
 
 You can also connect your Realme Narzo N55 directly to your new iPhone with the charging cable that came with your iPhone to transfer files:
@@ -62,12 +92,21 @@ You can also connect your Realme Narzo N55 directly to your new iPhone with the 
 
 And that's it! With these simple steps, you can easily move your important info, photos, videos, and other content from your old Android to your slick new iPhone 15/14/13.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How Can You Transfer Data From Realme Narzo N55 To iPhone 15/14/13 Using Google Drive?
 
 ![transfer information from iphone to android](https://images.wondershare.com/drfone/article/2024/02/how-can-you-transfer-data-from-android-to-iphone-13-7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 If you have files stored on Google Drive, you can easily access them on your new iPhone by:
 
@@ -80,16 +119,31 @@ If you have files stored on Google Drive, you can easily access them on your new
 **Step 4:** Your Google Drive content will now be available on your iPhone!
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part IV: How To Transfer Particular Data From Realme Narzo N55 To iPhone 15/14/13?
 
 Want to move all your precious data from your Realme Narzo N55 over to your new iPhone 15/14/13? With some simple steps, you can easily transfer your contacts, photos, messages, and other key data.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Transfer Contacts Using Sim Card
 
 ![transfer information from iphone to android](https://images.wondershare.com/drfone/article/2024/02/how-to-transfer-data-from-android-to-iphone-13-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If you stored all your contacts on your Realme Narzo N55’s SIM card, you’re in luck! This is the easiest way to move them to iPhone 15/14/13. Here’s how:
 
 **Step 1:** Remove the SIM card from your Realme Narzo N55 and insert it into your iPhone 15/14/13.
@@ -102,10 +156,6 @@ If you stored all your contacts on your Realme Narzo N55’s SIM card, you’re 
 
 And it’s done! All your SIM contacts are now safely stored on your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Method 2: Transfer Photos Using Google Photos App
 
 The Google Photos app makes it a breeze to transfer all your Android photos and videos over to your shiny new iPhone 15/14/13:
@@ -125,7 +175,10 @@ If you use messages a lot, you'll surely want to move your messaging history fro
 ![Send Anywhere working](https://images.wondershare.com/drfone/article/2024/02/how-to-transfer-data-from-android-to-iphone-13-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 1:** Download SendAnywhere on both your Android and iPhone.
 
@@ -139,13 +192,16 @@ If you use messages a lot, you'll surely want to move your messaging history fro
 
 **Transferring from Realme Narzo N55 to the new iPhone 15/14/13** doesn’t have to be painful. With SIM contacts, Google Photos, SendAnywhere, and other clever tricks, you can make the switch smoothly and focus on enjoying your new phone!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part V: Transfer Data From Realme Narzo N55 To iPhone 15/14/13 in One Click Using Dr.Fone
 
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you’re shifting from an Android phone to an Apple device, then this is for you! As you get your brand new iPhone 15/14/13, you may wonder how you can transfer all your data in one go to your new phone. This includes all your contacts, photos, apps, and other vital data from your Realme Narzo N55. But don’t worry, for a hassle-free and easy way to transfer your data you can use the incredible [Dr.Fone Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)! You can quickly and seamlessly transfer all that important stuff to your slick new iPhone 15/14/13 in no time. So, let’s get right into it and see how you can **transfer data from Realme Narzo N55 to iphone 13**!
 
 First thing first, get your Realme Narzo N55 and new iPhone 15/14/13 ready them sufficiently charged during the transfer process.
@@ -177,25 +233,22 @@ Dr.Fone's phone transfer feature makes **switching data from Realme Narzo N55 to
 
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 5:** Finally, hit the "Start Transfer" button and Dr.Fone will seamlessly shift the selected data from Realme Narzo N55 to iOS. The progress is displayed on screen.
 
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 And that's all it takes! In minutes, Dr.Fone securely transfers your essential data making your switch to the iPhone a breeze. Quick, hassle-free, safe - phone transfer doesn't get easier than this!
 
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 So go ahead – move your life to your terrific new iPhone 15/14/13 in minutes with the exceptional data transfer powers of Dr. Fone's Phone Transfer tool! Bid goodbye to manual processes or slow wireless transfers. For swift, simple, and safe **Android to iOS transfer**, Dr Fone is your go-to digital companion!
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Transferring your precious data to a new iPhone 15/14/13 doesn't have to be a headache. With smart use of your SIM card, cloud storage apps like Google Photos, file transfer apps like SendAnywhere, or sophisticated switchers like [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/), you can seamlessly move your contacts, photos, media files, chats, and more from **Android to iPhone**. Whether you want to transfer a few vital files or the whole data - music, movies, documents and all - you now have several failure-proof methods to choose from.
@@ -204,6 +257,18 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 
 
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 Ways to Move Contacts From Realme Narzo N55 to iPhone (13/14/15)
 
 Android smartphones certainly have a lot to offer when it comes to communication. Each device features functional messaging and phone call applications that keep you in touch with other people. The same thing goes for Apple devices, particularly the iPhone 13, 14, and 15. These models are equipped with almost everything you need to send text messages through traditional channels or the internet. It’s fair to say that both Android and iOS smartphones are great in this regard. But if you’re looking for a change, switching to the latter is definitely an excellent choice.
@@ -230,10 +295,6 @@ Another thing, you can certainly move contacts from Realme Narzo N55 to iPhone (
 
 As previously mentioned, it’s very simple to move your contacts from Realme Narzo N55 to iPhone (13/14/15). There are numerous ways to do that in easy steps. Five of them are enumerated below. Check each tutorial on how to share contacts from Realme Narzo N55 to iPhone and find the best one for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Method 1: Move contacts from Realme Narzo N55 to iPhone (13/14/15) via SIM card
 
 Do you store your contact list on your SIM card? If so, moving them to your new mobile device is indeed a walk in the park. Just insert the SIM card from your Realme Narzo N55 into your iPhone. After that, copy the contact information to the local storage of your new smartphone. Don’t sweat it. You can do it in easy steps. Here’s how to transfer contacts from Realme Narzo N55 to iPhone via SIM card.
@@ -243,10 +304,22 @@ Do you store your contact list on your SIM card? If so, moving them to your new 
 
 ![contacts settings](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 3:** From there, click Import SIM Contacts.
 
 ![import sim contacts](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Move contacts from Realme Narzo N55 to iPhone (13/14/15) using Move to iOS
 
 Move to iOS is an Android mobile application that aids in the data transfer between an Android and iOS device. It can absolutely help you migrate your contacts from your Realme Narzo N55 to your iPhone with little to no effort. Here’s a short guide on how to transfer contacts from Realme Narzo N55 to iPhone (13/14/15) using Move to iOS.
@@ -256,26 +329,29 @@ Move to iOS is an Android mobile application that aids in the data transfer betw
 
 ![move data from android](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 3:** Going back to your Android smartphone, click Continue.
 
 ![move to ios app](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 4:** Read the Terms and Conditions. After that, click Agree to proceed.
 - **Step 5:** On the Find Your Code page, click Continue.
 
 ![find your code](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - **Step 6:** Check the code on your iPhone and then enter it on your Realme Narzo N55. Right after, choose the data you want to transfer. Then, click Next to start the process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Move contacts from Realme Narzo N55 to iPhone (13/14/15) via Google
 
 Do you have a Gmail account? If so, you can use it to sync your Android contacts with your iPhone. Don’t worry. It’s a very easy procedure. In fact, you can do it even with one eye closed. Here’s how to transfer contacts from Realme Narzo N55 to iPhone (13/14/15) using your Gmail account.
@@ -286,23 +362,20 @@ Do you have a Gmail account? If so, you can use it to sync your Android contacts
 ![mail settings](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - **Step 3:** Click Accounts.
 - **Step 4:** Click Add Account. Then, choose Google.
 
 ![add gmail account](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 5:** Log in to the Gmail account that contains your contact backup. After that, toggle on the radio radio next to Contacts.
 
 ![sync contacts](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Move contacts from Realme Narzo N55 to iPhone (13/14/15) via iCloud
 
 You can use iCloud to move your contacts from Realme Narzo N55 to iPhone (13/14/15). All you need to do is export the vCard from your Realme Narzo N55 and then import it to iCloud. From there, you may sync your iPhone with iCloud to access and store the contacts in your local storage. Here’s how to transfer contacts from Realme Narzo N55 to iPhone via iCloud.
@@ -312,25 +385,40 @@ You can use iCloud to move your contacts from Realme Narzo N55 to iPhone (13/14/
 
 ![sign in to icloud](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 3:** Click the Contacts icon.
 
 ![icloud contacts icon](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503"><img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 4:** Click the + icon below the Profile button.
 - **Step 5:** Choose Import Contact. Then, select the vCard.
 
 ![import contacts](https://images.wondershare.com/drfone/article/2023/12/move-contacts-from-android-to-iphone-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - **Step 6:** Make sure your iPhone is syncing the contacts with iCloud. If so, check the newly imported files on the Contacts app.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 5: Move contacts from Realme Narzo N55 to iPhone (13/14/15) using Wondershare Dr.Fone
 
@@ -344,9 +432,6 @@ The first four data migration methods are very helpful. It provides an effective
 
 ![wondershare drfone phone transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 4:** Nominate your Android smartphone as the Source and your iPhone as Target. Alternatively, click Flip to modify the direction of the transfer according to your preference.
 
 ![source and target phones](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
@@ -359,10 +444,28 @@ The first four data migration methods are very helpful. It provides an effective
 
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 7:** After completing the process, click OK to wrap it up.
 
 ![phone transfer done](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## EXTRA TIP: How to Back Up Your Contacts?
 
 As a safety measure, it’s best to back up your contacts first before the transfer. Don’t worry. Wondershare Dr.Fone has made it simpler for everyone. Here’s a short guide on how to use it in easy steps.
@@ -387,7 +490,10 @@ As a safety measure, it’s best to back up your contacts first before the trans
 ![backup done](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -395,25 +501,20 @@ Truly, it’s now very easy to move contacts from Realme Narzo N55 to iPhone (13
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How I Transferred Messages from Realme Narzo N55 to iPhone 12/XS (Max) in Seconds
 
 Recently, I got a new iPhone 12/XS (Max) with so much excitement. But, the one thing that was driving me crazy was how to transfer messages from my old Android device to this iPhone 12/XS (Max), as I have always been an Android phone user till then. So, I was scared to [transfer anything to the new iPhone](https://drfone.wondershare.com/transfer-to-new-iphone.html) and ruin it. You can have numerous solutions to transfer text messages from Realme Narzo N55 to iPhone 12/XS (Max) after setup.
 
 Well! If you are in a similar situation as me, then I would recommend you go through this article. I have finally opted to import SMS to iPhone 12/XS (Max) from Android.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Apps to Transfer Messages from Realme Narzo N55 to iPhone 12/XS (Max) without Computer
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### How to transfer Android messages to iPhone 12/XS (Max) using Move to iOS app
 
 The first method to transfer text messages from Realme Narzo N55 to iPhone 12/XS (Max) is using the official Move to iOS app from Apple. Message history, call logs, contacts, web bookmarks, apps, etc. can be transferred from your Android to any iOS device. Though, I have noticed the app was acting strangely during data transfer. My Wi-Fi got some issues, and Move to iOS couldn’t properly complete the transfer.
@@ -426,16 +527,31 @@ The first method to transfer text messages from Realme Narzo N55 to iPhone 12/XS
     ![transfer messages from android to iPhone XS (Max) with move to ios](https://images.wondershare.com/drfone/article/2018/01/15150785955979.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 3. On your Realme Narzo N55, click ‘Continue’ and then press ‘Agree’. When prompted for a passcode, enter the one you got from iPhone 12/XS (Max).
 
     ![transfer SMS from android to iPhone XS (Max)](https://images.wondershare.com/drfone/article/2018/01/15150786375935.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Ensure that the Android phone is also connected to Wi-Fi. Now, click on ‘Messages’ from the ‘Data Transfer’ option. Click ‘Next’ and wait a while to finish the data transfer. Hit the ‘Done’ button afterward once the iPhone 12/XS (Max) gets synched with these messages, set up your iCloud account, and view the messages.
 
     ![messages from android phone to iPhone XS (Max) - sync messages](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to transfer Android messages to iPhone 12/XS (Max) using SMS Backup+
 
 You can learn how to transfer messages from Realme Narzo N55 to iPhone 12/XS (Max) without a computer using the SMS Backup+ app. It can automatically backup the SMS, call logs, MMS using a different label in Google Calendar and Gmail. Remember that MMS can’t be restored later.
@@ -447,9 +563,6 @@ You can learn how to transfer messages from Realme Narzo N55 to iPhone 12/XS (Ma
 
     ![transfer messages from android to iPhone XS (Max) using sms backup](https://images.wondershare.com/drfone/article/2018/08/sms-backup.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 3. Now, since you’ve backed up your messages to Gmail, you can simply access and view them from any device. Simply launch Gmail with the same account, and you’ll be able to get hold of all your messages right on your iPhone 12/XS (Max).
 
 **Note:** _The messages will be enclosed in an Email attachment. That implies you won’t be able to import your messages to your iMessage app. If you want to transfer SMS to the default messages app, try Dr.Fone - Phone Transfer. It's a one-click and reliable desktop software._
@@ -457,7 +570,10 @@ You can learn how to transfer messages from Realme Narzo N55 to iPhone 12/XS (Ma
 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2 Methods to Transfer Messages from Realme Narzo N55 to iPhone 12/XS (Max) with a PC
 
@@ -478,18 +594,15 @@ Note:    Selecting the ‘Clear Data before Copy’ option completely deletes
 ![transfer messages from android to iPhone 12/XS (Max) - source and target connected to pc](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 3:  In this section, tap on ‘Messages’ and select the ones you want to selectively transfer. Hit the ‘Start Transfer’ button and then wait a while. Click ‘OK’ once the transfer process is over.
 
 ![confirm to transfer messages from android to iPhone XS (Max)](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to transfer only selected messages iPhone 12/XS (Max)
 
 Alternatively, you can opt for [Dr.Fone - Phone Manager](https://drfone.wondershare.com/iphone-transfer.html) for selectively transferring messages from your Realme Narzo N55 to your iPhone. Managing your iPhone is easy with such an effective desktop tool.
@@ -518,14 +631,20 @@ Step 2: Use respective USB cables to connect your Android and iPhone 12/XS (Max)
 ![connect android and iPhone XS (Max) to pc for sms transfer](https://images.wondershare.com/drfone/article/2018/08/message-transfer-drfone1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 3:  From the list of messages, choose the desired text messages and hit the ‘Export’ button. Click the ‘Export to device’ button consecutively and complete the process with the onscreen guide.
 
 ![transfer messages from android to iPhone XS (Max) - choose device](https://images.wondershare.com/drfone/article/2018/08/message-transfer-drfone2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Conclusion
 

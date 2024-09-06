@@ -1,7 +1,7 @@
 ---
 title: How I Transferred Messages from Sony Xperia 1 V to iPhone 12/XS (Max) in Seconds | Dr.fone
-date: 2024-09-01T23:17:11.073Z
-updated: 2024-09-02T23:17:11.073Z
+date: 2024-09-05T16:04:31.377Z
+updated: 2024-09-06T16:04:31.377Z
 tags: 
   - transfer
 categories:
@@ -12,12 +12,30 @@ keywords: transfer from android to android,transfer from Sony Xperia 1 V to mac,
 thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How I Transferred Messages from Sony Xperia 1 V to iPhone 12/XS (Max) in Seconds
 
 Recently, I got a new iPhone 12/XS (Max) with so much excitement. But, the one thing that was driving me crazy was how to transfer messages from my old Android device to this iPhone 12/XS (Max), as I have always been an Android phone user till then. So, I was scared to [transfer anything to the new iPhone](https://drfone.wondershare.com/transfer-to-new-iphone.html) and ruin it. You can have numerous solutions to transfer text messages from Sony Xperia 1 V to iPhone 12/XS (Max) after setup.
 
 Well! If you are in a similar situation as me, then I would recommend you go through this article. I have finally opted to import SMS to iPhone 12/XS (Max) from Android.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Apps to Transfer Messages from Sony Xperia 1 V to iPhone 12/XS (Max) without Computer
 
 ### How to transfer Android messages to iPhone 12/XS (Max) using Move to iOS app
@@ -39,9 +57,6 @@ The first method to transfer text messages from Sony Xperia 1 V to iPhone 12/XS 
 
     ![messages from android phone to iPhone XS (Max) - sync messages](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to transfer Android messages to iPhone 12/XS (Max) using SMS Backup+
 
 You can learn how to transfer messages from Sony Xperia 1 V to iPhone 12/XS (Max) without a computer using the SMS Backup+ app. It can automatically backup the SMS, call logs, MMS using a different label in Google Calendar and Gmail. Remember that MMS can’t be restored later.
@@ -53,19 +68,31 @@ You can learn how to transfer messages from Sony Xperia 1 V to iPhone 12/XS (Max
 
     ![transfer messages from android to iPhone XS (Max) using sms backup](https://images.wondershare.com/drfone/article/2018/08/sms-backup.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Now, since you’ve backed up your messages to Gmail, you can simply access and view them from any device. Simply launch Gmail with the same account, and you’ll be able to get hold of all your messages right on your iPhone 12/XS (Max).
 
 **Note:** _The messages will be enclosed in an Email attachment. That implies you won’t be able to import your messages to your iMessage app. If you want to transfer SMS to the default messages app, try Dr.Fone - Phone Transfer. It's a one-click and reliable desktop software._
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2 Methods to Transfer Messages from Sony Xperia 1 V to iPhone 12/XS (Max) with a PC
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How to transfer all messages to iPhone 12/XS (Max) at a time
 
@@ -77,9 +104,6 @@ Step 1:  Download Dr.Fone - Phone Transfer on your PC and then install and laun
 
 ![export messages from android to iPhone 12/XS (Max) in one click](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 Step 2:  Hit the ‘Switch’ tab from the Dr.Fone window. Select the Android phone as the source and iPhone 12/XS (Max) as the destination over here. Use the ‘Flip’ button in case you have altered the selection.
 
 Note:    Selecting the ‘Clear Data before Copy’ option completely deletes everything from the target.
@@ -91,10 +115,16 @@ Step 3:  In this section, tap on ‘Messages’ and select the ones you want to
 ![confirm to transfer messages from android to iPhone XS (Max)](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How to transfer only selected messages iPhone 12/XS (Max)
 
@@ -102,10 +132,6 @@ Alternatively, you can opt for [Dr.Fone - Phone Manager](https://drfone.wondersh
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
 
 Quickly and Selectively Transfer Messages from Sony Xperia 1 V to iPhone 12/XS (Max)
@@ -123,9 +149,6 @@ Step 1:  Get Dr.Fone - Phone Manager installed and launched on your PC. Now, pr
 
 ![selectively import messages from android to iPhone 12/XS (Max)](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 Step 2: Use respective USB cables to connect your Android and iPhone 12/XS (Max) with the computer and then pick Android as the source device. Then, select the ‘Information’ tab displayed on the top.
 
 ![connect android and iPhone XS (Max) to pc for sms transfer](https://images.wondershare.com/drfone/article/2018/08/message-transfer-drfone1.jpg)
@@ -135,7 +158,10 @@ Step 3:  From the list of messages, choose the desired text messages and hit th
 ![transfer messages from android to iPhone XS (Max) - choose device](https://images.wondershare.com/drfone/article/2018/08/message-transfer-drfone2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Conclusion
 
@@ -143,6 +169,12 @@ I hope, this article brought you answers to your messages and data transfer quer
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Can You Transfer Files From Sony Xperia 1 V To iPhone 15/14/13?
 
 Just got a shiny new iPhone 15/14/13 but don't want to lose all your file data from your old Android phone? **Transferring information from an Android device to an iPhone** can seem daunting, but it doesn't have to be. With the right tools and steps, you can seamlessly move your contacts, photos, videos, apps, and other important files from your **Android to your iPhone 15/14/13** in no time.
@@ -151,6 +183,18 @@ In this guide, we'll walk you through the easiest ways to **transfer data from a
 
 Follow our simple step-by-step instructions below to get started **moving your file data from Sony Xperia 1 V to iOS** today!
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Transfer Data From Sony Xperia 1 V to iPhone 15/14/13 Using Move To iOS
 
 The easiest way for most people is to use the Move to iOS app that Apple created specifically for switching from Android. Here's how:
@@ -160,15 +204,15 @@ The easiest way for most people is to use the Move to iOS app that Apple created
 ![transfer information from iphone to android](https://images.wondershare.com/drfone/article/2024/02/how-can-you-transfer-data-from-android-to-iphone-13-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 2:** When setting up your new iPhone 15/14/13, select the option to transfer data from Android.
 
 ![transfer information from iphone to android](https://images.wondershare.com/drfone/article/2024/02/how-can-you-transfer-data-from-android-to-iphone-13-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 **Step 3:** Open the Move to iOS app on your Sony Xperia 1 V and tap Continue.
 
 **Step 4:** Wait for a 6 or 10-digit code to appear on your iPhone and enter it on your Sony Xperia 1 V.
@@ -181,9 +225,6 @@ The easiest way for most people is to use the Move to iOS app that Apple created
 
 **Step 7:** Wait for the transfer process to finish, then tap Done on Android and Continue on iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Transfer Data From Sony Xperia 1 V to iPhone 15/14/13 Using USB Cable
 
 You can also connect your Sony Xperia 1 V directly to your new iPhone with the charging cable that came with your iPhone to transfer files:
@@ -202,13 +243,16 @@ You can also connect your Sony Xperia 1 V directly to your new iPhone with the c
 
 And that's it! With these simple steps, you can easily move your important info, photos, videos, and other content from your old Android to your slick new iPhone 15/14/13.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How Can You Transfer Data From Sony Xperia 1 V To iPhone 15/14/13 Using Google Drive?
 
 ![transfer information from iphone to android](https://images.wondershare.com/drfone/article/2024/02/how-can-you-transfer-data-from-android-to-iphone-13-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If you have files stored on Google Drive, you can easily access them on your new iPhone by:
 
 **Step 1:** Make sure everything you want to transfer is uploaded to Google Drive on your Android.
@@ -219,6 +263,18 @@ If you have files stored on Google Drive, you can easily access them on your new
 
 **Step 4:** Your Google Drive content will now be available on your iPhone!
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part IV: How To Transfer Particular Data From Sony Xperia 1 V To iPhone 15/14/13?
 
 Want to move all your precious data from your Sony Xperia 1 V over to your new iPhone 15/14/13? With some simple steps, you can easily transfer your contacts, photos, messages, and other key data.
@@ -228,11 +284,10 @@ Want to move all your precious data from your Sony Xperia 1 V over to your new i
 ![transfer information from iphone to android](https://images.wondershare.com/drfone/article/2024/02/how-to-transfer-data-from-android-to-iphone-13-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 If you stored all your contacts on your Sony Xperia 1 V’s SIM card, you’re in luck! This is the easiest way to move them to iPhone 15/14/13. Here’s how:
 
@@ -259,7 +314,10 @@ The Google Photos app makes it a breeze to transfer all your Android photos and 
 **Step 4:** Give it some time, and all your media will **transfer automatically from Sony Xperia 1 V to iPhone**!
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 3: Transfer Messages Using SendAnywhere
 
@@ -279,6 +337,12 @@ If you use messages a lot, you'll surely want to move your messaging history fro
 
 **Transferring from Sony Xperia 1 V to the new iPhone 15/14/13** doesn’t have to be painful. With SIM contacts, Google Photos, SendAnywhere, and other clever tricks, you can make the switch smoothly and focus on enjoying your new phone!
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part V: Transfer Data From Sony Xperia 1 V To iPhone 15/14/13 in One Click Using Dr.Fone
 
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -291,9 +355,6 @@ Dr.Fone's phone transfer feature makes **switching data from Sony Xperia 1 V to 
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 1 Click to Transfer Data From Sony Xperia 1 V To iPhone
@@ -312,7 +373,10 @@ Dr.Fone's phone transfer feature makes **switching data from Sony Xperia 1 V to 
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 3:** Launch the Dr.Fone app on the computer and click on the "Phone Transfer" module. The user-friendly phone switch interface opens up, ready to shift your data.
 
@@ -320,6 +384,12 @@ Dr.Fone's phone transfer feature makes **switching data from Sony Xperia 1 V to 
 
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 5:** Finally, hit the "Start Transfer" button and Dr.Fone will seamlessly shift the selected data from Sony Xperia 1 V to iOS. The progress is displayed on screen.
 
 ![transfer data from android to iphone 13 using dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
@@ -338,15 +408,16 @@ So go ahead and make the switch to that new iPhone 15/14/13 without compromising
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## How to Transfer Data from Sony Xperia 1 V to BlackBerry
 
 Today’s world is full of technological benefits. Transferring data from one part of the world to another can be done in the blink of an eye. Transferring data from one phone to another should be that simple right? Well, it is if you are using devices with the same OS. But, what should you do if you want to transfer data from, let’s say, Android to BlackBerry? Don’t worry. It is possible, and we will guide you step by step through the entire process.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option 1: Issues about transferring data from Sony Xperia 1 V to BlackBerry
 
 When transferring data from Sony Xperia 1 V to BlackBerry, you can’t use Bluetooth or a third party software that will help you speed up the process. And unfortunately, you will sometimes wish that you can speed up this process. You can try to manually transfer data from Sony Xperia 1 V to a computer, and then from a computer to BlackBerry, but this process can take hours. It is boring to transfer the files from one place to another, and the time it takes is a real pain in the neck. And also, it is impossible to transfer apps from Sony Xperia 1 V to BlackBerry because of different operating systems. Sometimes, not even all photos, videos and music files will be compatible. But, luckily, the BlackBerry developers have thought of a one way, which is simpler than the manual transfer mentioned above, to transfer your data from Sony Xperia 1 V to BlackBerry. It takes less time, but you still need to do some work.
@@ -360,20 +431,25 @@ From the Home screen of your BlackBerry tap the ‘BlackBerry World’.
 ![transfer data from Sony Xperia 1 V to BlackBerry-01](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Then, tap the search box and enter ‘Device Switch’. After the Sony Xperia 1 V device shows up, tap it.
 
 ![transfer data from Sony Xperia 1 V to BlackBerry-02](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 Then, you should be able to see the ‘Download’ button on the right side. Tap it, and wait for the app to download. You may be prompted to enter the login information for your BlackBerry ID account.
 
 ![transfer data from Sony Xperia 1 V to BlackBerry-03](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Once the download is done, ‘Open’ button will appear. Tap it.
 
 ![transfer data from Sony Xperia 1 V to BlackBerry-04](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry09.jpg)
@@ -382,10 +458,22 @@ You should read through the top half of the screen, and make sure that the prefe
 
 ![transfer data from Sony Xperia 1 V to BlackBerry-05](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After pressing OK, swipe left. A new screen will show up. You will have the option to choose the Sony Xperia 1 V device you are switching data from. Make sure to click Android.
 
 ![transfer data from Sony Xperia 1 V to BlackBerry-06](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Then, download the Sony Xperia 1 V device Switch application from Google Play on your Sony Xperia 1 V. When the application is installed, open it, tap next and then RIM BlackBerry Device. Note the PIN code and enter it on your BlackBerry when prompted.
 
 ![transfer data from Sony Xperia 1 V to BlackBerry-07](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry06.jpg)
@@ -393,7 +481,10 @@ Then, download the Sony Xperia 1 V device Switch application from Google Play on
 ![transfer data from Sony Xperia 1 V to BlackBerry-08](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry06.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Make sure that the preferred sync options are checked on the Android device and then tap ‘Next.’ These two devices will establish a connection using the same Wi-Fi network. Once that happens, the transfer process will begin. The process may take a while. It depends on the amount of data which is being moved.
 
@@ -403,21 +494,32 @@ Once the transfer is done, tap finish. And that is it! The content from the Andr
 
 ![transfer data from Sony Xperia 1 V to BlackBerry-10](https://images.wondershare.com/drfone/others/how-to-transfer-data-from-android-to-blackberry08.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The Device Switch app is very reliable. But, there is one downside. You cannot transfer all file types using it, and the process may take a lot of time sometimes. But, we have found an even easier way. It is software called Dr.Fone - Phone Transfer. Keep reading to find out more about it!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Part 3: Transfer data from Sony Xperia 1 V to Blackberry by Dr.Fone (Fast, easy and safe)
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) can transfer all kinds of data including text messages, call logs, contacts, and of course, photos, videos and music. The software does not only enable transfer between Android, iOS and Symbian, but also restores data from iTunes, iCloud, kies and BlackBerry backup files. It supports more than 3000 phones currently, from all manufacturers.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 How to Transfer Data from Sony Xperia 1 V to BlackBerry With 1-Click
@@ -431,6 +533,12 @@ How to Transfer Data from Sony Xperia 1 V to BlackBerry With 1-Click
 
 **3,975,690** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to transfer data from Android phone to BlackBerry by Dr.Fone
 
 **Step 1:** In order to transfer data from Android phone to BlackBerry, you are supposed to download and install Dr.Fone fisrt. And then launch Mobiletrans and select the "Phone Transfer" mode.
@@ -438,21 +546,30 @@ How to Transfer Data from Sony Xperia 1 V to BlackBerry With 1-Click
 ![select device mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 2:** Connect both your Sony Xperia 1 V and BlackBerry phone to your computer. On the window below, you can click the "Flip" button on the program in order to switch the destination and source phones, please make sure that the BlackBerry phone is the destination. Then you can select the contents you'd like to transfer.
 
 ![connect devices to computer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** After you select the transfer contents, just click "Start Transfer". Then the program MobileTrans will start to transfer data from Sony Xperia 1 V to BlackBerry. After a few minutes, the process will finish.
 
 ![transfer from Windows phone to Android](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 

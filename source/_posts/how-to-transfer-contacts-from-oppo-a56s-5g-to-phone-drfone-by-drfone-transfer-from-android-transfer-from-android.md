@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from Oppo A56s 5G To Phone | Dr.fone
-date: 2024-09-01T23:15:40.909Z
-updated: 2024-09-02T23:15:40.909Z
+date: 2024-09-05T16:04:33.599Z
+updated: 2024-09-06T16:04:33.599Z
 tags: 
   - transfer
 categories:
@@ -12,6 +12,12 @@ keywords: transfer from android to pc,transfer from android to mac,transfer from
 thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Transfer Contacts from Oppo A56s 5G To Phone
 
 When you get a new phone or switch between Android and iPhone, transferring contacts is essential. Moreover, to avoid losing your important contacts, you need some techniques to move them smoothly. The method you select has to transfer your contacts efficiently on a new device without losing information.
@@ -20,8 +26,26 @@ In this article, we will move you through various effective methods on **how to 
 
 ![transfer contacts phone to phone](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. One-Click Solution To Handle All Contacts Transfer Between iPhone and Android
 
 [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/) – Phone Transfer offers a one-click solution to transfer all contacts between your smartphones. The tool has advanced features to move your device’s content in a few minutes. This aspect of the software helps users increase their productivity and easily handle their tasks.
@@ -35,7 +59,10 @@ Also, besides contacts, you can transfer other content from your old device to a
 3. The transfer speed of Dr.Fone's Phone Transfer tool is the lowest among other transfer methods. Within 3 minutes, all of your content can be transferred to another device.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Guide To Move Contacts Between iPhone and Android Using Wondershare Dr.Fone
 
@@ -55,27 +82,18 @@ Here, you need to set “Source” and “Destination” devices. In either case
 
 ![set source and destination device](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Step 3. Select the “Contacts” Option for their Transfer
 
 Now, select the type of data you want to transfer, which, in your case, is “Contacts.” Checkmark the “Contacts” option, and click the “Start Transfer” button to begin the transfer. Now, you can monitor the progress of the contacts transfer in a new window.
 
 ![start transferring contacts](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Step 4. Finalize the Contact Transfer Process
 
 After you turn off iCloud syncing on your iOS device, a notification will indicate the successful execution of the process once it is complete. Tap the “OK” button to close the window promptly.
 
 ![data transfer process completed](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Part 2. 2 Methods To Transfer Contacts From iPhone to iPhone
 
 Although Wondershare Dr.Fone is the perfect solution to transfer your contacts, we'll consider various scenarios in which you can transfer contacts. Now, if you have an iPhone and want to know **how to copy contacts from phone to phone**, you can adopt the following two methods:
@@ -88,19 +106,31 @@ Apple has introduced a new feature in the latest iPhones named NameDrop. The fea
 
 ![place iphone near each other](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 2.** Afterward,you have to select whether to “Share” your contact card and receive the contact of another person. Or tap “Receive Only” to receive another person's contact information.
 
 ![choose to share or receive contact](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 3.** If you want to share your contact card, tap the “ Downward Arrow” icon, choose the fields you wish to include, and then share it.
 
 ![select fields to share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 2. iCloud Sync
 
@@ -110,23 +140,20 @@ The alternate method to transfer your phone contacts is via iCloud synchronizati
 
 ![choose contacts within icloud](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 2.** Next, you can see the "Contacts" option; toggle on the switch to synchronize them. When you sign in with your iCloud account on the new iPhone, contacts will be restored there.
 
 ![toggle switch for contacts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. 2 Methods To Transfer Contacts From Oppo A56s 5G to iPhone
 
 Let's discuss another scenario in which we will transfer the contact list from an Android to an iPhone. If you want to switch from Oppo A56s 5G to a new iPhone, you will probably need an effective method to transfer your phone numbers. In this section, we will discuss two simple and quick ways to **how do I transfer contacts from phone to phone:**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Sync Google Account
 
 Android users can back up their phone's data to Google Drive. Also, an Android phone's "Google Contacts" app saves the contact information to their linked Google account. The same account can be logged in a new iPhone, where they can be restored. Follow the simple guide to sync your Google account with the updated contact information:
@@ -135,17 +162,32 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 
 ![access contact settings](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 2.** Next, choose the "Also sync device contacts" option at the top of the screen and ensure that the "Automatically back up & sync device contacts" feature is turned on. Afterward, switch to your iPhone and open the "Settings" app.
 
 ![enable back up and sync option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - **Step 3.** Subsequently, navigate to the "Contacts" settings within your iPhone's "Settings" app. Here, find and select the "Accounts" option and proceed to the next step.
 
 ![explore connected accounts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 4.** As you lead to the next window, tap the "Add Account" option. You have to sign in with your Google Account and ensure that the "Contacts" option is enabled.
 
 ![add new google account](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-14.jpg)
@@ -159,16 +201,31 @@ This method simplifies transferring contacts from Oppo A56s 5G to iPhone without
 ![share contacts from contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - **Step 2.** Now, on your iPhone, you need to open the email containing the “Contacts VCF” file from your Oppo A56s 5G. Tap to open the attached file and choose the “arrow” icon on the top to select the "Share" option. Next, choose the "Contacts" app and tap the "Add All Contacts" option to save contacts on your iPhone.
 
 ![share vcf file to contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. 2 Methods To Transfer Contacts from Oppo A56s 5G to Other Android Devices
 
 This section will shed some light on the transfer process of contacts between one Android phone to another. Android devices offer various options to share content with another Android device. You can send contact lists and achieve **how to copy contacts from phone to phone** with these two methods:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Nearby Share
 
 Nearby Share is a feature available on Android devices that allows you to easily share various types of content, including contacts. You have to ensure that both devices have Bluetooth and Location Services turned on. That’s because Nearby Share uses these services to find nearby devices and establish a connection for sharing content.
@@ -177,14 +234,22 @@ Nearby Share is a feature available on Android devices that allows you to easily
 
 ![access nearby share option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 - **Step 2.** As you proceed into the “Nearby Share” option, you have to turn on the “Device visibility” toggle. This will enable Nearby Share on your Android smartphone.
 
 ![enable nearby share on android](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-18.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 3.** Now, you have to open the "Google Contacts" app on your Oppo A56s 5G and access the "Fix & manage" tab. Choose the "Export to file" option and select the Oppo A56s 5G device and account from which you want to share contacts. After making the selection, hit the "Export" button and save the file within your device.
 
 ![select contacts to export](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-19.jpg)
@@ -193,9 +258,6 @@ The ultimate burning program for all your needs!</a>
 
 ![select the Oppo A56s 5G device in nearby share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2. Use Google Account
 
 The Google account transfer method can also transfer between Android and Android devices. You just have to ensure that the contacts synchronization is turned on. You can follow these steps to handle your “**How do I transfer contacts from phone to phone**” question.
@@ -204,12 +266,21 @@ The Google account transfer method can also transfer between Android and Android
 
 ![navigate to google account for sync](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-21.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - **Step 2.** In the next step, navigate to “Settings” of your new Android device and tap “Accounts & Sync.” Afterward, log in using your Google account credentials and select the "Sync Now” feature within the "More” option. This will import the synced contacts to your new Android device.
 
 ![sync contacts on new device](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-22.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 5. 2 Methods To Transfer Contacts From iPhone to Android
 
@@ -223,22 +294,27 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 
 ![sync contacts with your gmail account](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-23.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** You can select "Add Account,” tap “Google," and input your credentials if your account has not been added yet.
 
 - **Step 2.** Now, you have to install or access the “Google One” app on your Oppo A56s 5G. Sign in and configure your Google One settings. Then, navigate to the “Sync” section and tap the “View” option.
 
 ![view sync in google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-24.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 3.** There, you need to select the “Contacts" option and click "Set up Sync.” Next, proceed to the “Upload Contacts” option.Subsequently, contacts will sync to your Oppo A56s 5G.
 
 ![upload contacts via google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-25.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 2. Import the VCF File
 
@@ -257,7 +333,10 @@ Importing a VCF file is another simple method for transferring contacts. It incl
 ![export vcard via icloud site](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-28.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -265,12 +344,24 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Ways to Transfer Text Messages from Oppo A56s 5G to iPhone 15/14/13/12/11/X/8/
 
 The biggest dilemma that people face when they buy a new iPhone like iPhone 14/14 Pro (Max) is how to transfer data from the Android or old iPhone. Well, transferring images, audio, videos, etc. is easy as there are lots of apps available that allow doing so.
 
 Aside from this, it is also important that they can transfer messages and contacts to their new phone like iPhone 14/14 Pro (Max). But the process of how to transfer text messages from Oppo A56s 5G to iPhone can get a little more tricky than transferring other data. But don’t worry, as there are some ways available that allow easy transferring of messages from Oppo A56s 5G to iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: One-click solution to transfer text messages from Oppo A56s 5G to iPhone
 
 Buying a new iPhone like iPhone 14/14 Pro (Max) is a lot easier than setting it up. Media files like music, images, and video clips are a lot easier to transfer cross-platform. But the part of migrating contacts and text messages especially gets tricky cross-platform due to poor compatibility between Android and iPhone. Though is possible to transfer text messages from android to iPhone, the process can be slower and will need several workarounds than normal.
@@ -279,9 +370,6 @@ Want to transfer Android data to the new iPhone 14/13/12/11/X/8 faster and secur
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
 Transfer Text Messages from Oppo A56s 5G to iPhone like iPhone 15/14/14 Pro (Max)
@@ -291,21 +379,22 @@ Transfer Text Messages from Oppo A56s 5G to iPhone like iPhone 15/14/14 Pro (Max
 - Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - Supports over 8000+ Android devices.
 - Works for all models of iPhone, iPad, and iPod.
 
 **4,053,382** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### How to transfer SMS from Oppo A56s 5G to iPhone using Dr.Fone - Phone Transfer?
 
 Using Dr.Fone, it is possible to transfer SMS from Oppo A56s 5G to iPhone in a matter of seconds. This one-click method of transferring text messages is way faster and simple than other transfer methods. Follow the steps to learn how to transfer text messages from Oppo A56s 5G to iPhone with Dr.Fone - Phone Transfer:
@@ -316,9 +405,6 @@ Step 2: Then connect both the Oppo A56s 5G devices i.e. Android and iPhone to th
 
 ![launch the tool and connect devices](https://images.wondershare.com/drfone/guide/drfone-home.png "first screen of Dr.Fone")
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 3: Click on the Switch option on the Dr.Fone utility home screen and it will take you to Dr.Fone - Phone Transfer interface.
 
 Step 4: Both the Android and iPhone will be displayed on the next screen. Select the Android device as the Source and iPhone as the destination using the Flip button.
@@ -327,12 +413,24 @@ Step 5: Now, select the data that you want to transfer by checking the respectiv
 
 ![select text messages for transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png "transfer sms from android to iphone")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 6: Finally hit the “Start Transfer” button and it will begin to transfer text messages from Oppo A56s 5G to iPhone.
 
 Dr.Fone - Phone Transfer offers a safe and quick way to transfer messages from Oppo A56s 5G to iPhone like iPhone 14/14 Pro (Max). Moreover, it can work both on new and old target iPhone. Dr.Fone - Phone Transfer is also compatible with a variety of iOS devices and iOS versions, so it doesn’t have any restrictions for transferring data.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Transfer SMS from Oppo A56s 5G to iPhone using Move to iOS app
 
 Transferring text messages from Oppo A56s 5G to iPhone using Dr.Fone - Phone Transfer is the best and the fastest way. But it requires a computer and physically connecting the Oppo A56s 5G devices via USB cables. What if the person doesn’t have a computer? They won’t be able to transfer any data from their old Android to a new iPhone like iPhone 14/14 Pro (Max). If you want to find another way to transfer messages and other stuff from Oppo A56s 5G to iPhone, then Move to the iOS app can help in this task.
@@ -346,6 +444,12 @@ Move to iOS is an Android app developed to make it easier to transfer data from 
 - • Data doesn’t exceed the storage on iPhone
 - • Steady Wi-Fi network is available
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to transfer text messages from Android and iPhone using Move to iOS?
 
 Want to learn how to transfer messages from android to iPhone without USB cables and computers? With the below steps, you can easily transfer messages and other data from Oppo A56s 5G to iPhone like iPhone 14/14 Pro (Max) using Move to iOS -
@@ -365,12 +469,27 @@ Step 5: Enter the code generated on the iPhone in the “Enter Code” screen.
 ![enter code](https://images.wondershare.com/drfone/article/2018/02/enter-code.JPG "enter the code to verify")
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 6: On the Transfer Data screen, select the content to transfer and click “Next”. It will start the transfer process and will take some time to complete depending on the size of the data.
 
 ![process of transferring sms from android to iphone](https://images.wondershare.com/drfone/article/2018/02/move-to-ios.JPG "transfer to be complete in a while")
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 7: After transferring is complete, finish the iPhone device setup process.
 
 The disadvantage that this method has is that you can’t transfer messages from Oppo A56s 5G to iPhone on an already set up iPhone. It only works on a new device or has to erase the data on the target device. Moreover, as it only works with all versions of iOS, the older devices can’t transfer messages through this method. They can use [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) for the task.
@@ -379,18 +498,6 @@ The disadvantage that this method has is that you can’t transfer messages from
 
 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How I Transferred Messages from Oppo A56s 5G to iPhone 12/XS (Max) in Seconds
 
 Recently, I got a new iPhone 12/XS (Max) with so much excitement. But, the one thing that was driving me crazy was how to transfer messages from my old Android device to this iPhone 12/XS (Max), as I have always been an Android phone user till then. So, I was scared to [transfer anything to the new iPhone](https://drfone.wondershare.com/transfer-to-new-iphone.html) and ruin it. You can have numerous solutions to transfer text messages from Oppo A56s 5G to iPhone 12/XS (Max) after setup.
@@ -400,7 +507,10 @@ Well! If you are in a similar situation as me, then I would recommend you go thr
 ## 2 Apps to Transfer Messages from Oppo A56s 5G to iPhone 12/XS (Max) without Computer
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How to transfer Android messages to iPhone 12/XS (Max) using Move to iOS app
 
@@ -417,18 +527,15 @@ The first method to transfer text messages from Oppo A56s 5G to iPhone 12/XS (Ma
 
     ![transfer SMS from android to iPhone XS (Max)](https://images.wondershare.com/drfone/article/2018/01/15150786375935.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 4. Ensure that the Android phone is also connected to Wi-Fi. Now, click on ‘Messages’ from the ‘Data Transfer’ option. Click ‘Next’ and wait a while to finish the data transfer. Hit the ‘Done’ button afterward once the iPhone 12/XS (Max) gets synched with these messages, set up your iCloud account, and view the messages.
 
     ![messages from android phone to iPhone XS (Max) - sync messages](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How to transfer Android messages to iPhone 12/XS (Max) using SMS Backup+
 
@@ -441,20 +548,20 @@ You can learn how to transfer messages from Oppo A56s 5G to iPhone 12/XS (Max) w
 
     ![transfer messages from android to iPhone XS (Max) using sms backup](https://images.wondershare.com/drfone/article/2018/08/sms-backup.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 3. Now, since you’ve backed up your messages to Gmail, you can simply access and view them from any device. Simply launch Gmail with the same account, and you’ll be able to get hold of all your messages right on your iPhone 12/XS (Max).
 
 **Note:** _The messages will be enclosed in an Email attachment. That implies you won’t be able to import your messages to your iMessage app. If you want to transfer SMS to the default messages app, try Dr.Fone - Phone Transfer. It's a one-click and reliable desktop software._
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Methods to Transfer Messages from Oppo A56s 5G to iPhone 12/XS (Max) with a PC
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### How to transfer all messages to iPhone 12/XS (Max) at a time
 
 For transferring messages from your Oppo A56s 5G to iPhone 12/XS (Max), opting for [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is a great idea. Speak of transferring contacts, photos, music, text messages, etc. from Oppo A56s 5G to iOS devices or vice versa, it has a proven record of credibility.
@@ -465,9 +572,6 @@ Step 1:  Download Dr.Fone - Phone Transfer on your PC and then install and laun
 
 ![export messages from android to iPhone 12/XS (Max) in one click](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 Step 2:  Hit the ‘Switch’ tab from the Dr.Fone window. Select the Android phone as the source and iPhone 12/XS (Max) as the destination over here. Use the ‘Flip’ button in case you have altered the selection.
 
 Note:    Selecting the ‘Clear Data before Copy’ option completely deletes everything from the target.
@@ -475,15 +579,20 @@ Note:    Selecting the ‘Clear Data before Copy’ option completely deletes
 ![transfer messages from android to iPhone 12/XS (Max) - source and target connected to pc](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 3:  In this section, tap on ‘Messages’ and select the ones you want to selectively transfer. Hit the ‘Start Transfer’ button and then wait a while. Click ‘OK’ once the transfer process is over.
 
 ![confirm to transfer messages from android to iPhone XS (Max)](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How to transfer only selected messages iPhone 12/XS (Max)
 
@@ -491,6 +600,18 @@ Alternatively, you can opt for [Dr.Fone - Phone Manager](https://drfone.wondersh
 
 
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
 
 Quickly and Selectively Transfer Messages from Oppo A56s 5G to iPhone 12/XS (Max)
@@ -512,13 +633,16 @@ Step 2: Use respective USB cables to connect your Android and iPhone 12/XS (Max)
 
 ![connect android and iPhone XS (Max) to pc for sms transfer](https://images.wondershare.com/drfone/article/2018/08/message-transfer-drfone1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3:  From the list of messages, choose the desired text messages and hit the ‘Export’ button. Click the ‘Export to device’ button consecutively and complete the process with the onscreen guide.
 
 ![transfer messages from android to iPhone XS (Max) - choose device](https://images.wondershare.com/drfone/article/2018/08/message-transfer-drfone2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 I hope, this article brought you answers to your messages and data transfer queries. From my own experience, I found Dr.Fone Toolkit as the most viable option. If you are looking for a solution that leads to no data loss, then you can go for either [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) or [Dr.Fone - Phone Manager](https://drfone.wondershare.com/iphone-transfer.html).
