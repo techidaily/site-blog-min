@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from Samsung Galaxy Z Flip 5 to iPhone XS/11 | Dr.fone
-date: 2024-09-12T03:06:58.077Z
-updated: 2024-09-13T03:06:58.077Z
+date: 2024-09-16T19:50:03.352Z
+updated: 2024-09-18T16:02:18.879Z
 tags: 
   - transfer
 categories:
@@ -79,23 +79,9 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 
 ![transfer contacts from Samsung Galaxy Z Flip 5 to iPhone XS (Max) - pair android and iPhone XS (Max)](https://images.wondershare.com/drfone/article/2018/01/15150786375935.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. On your Samsung Galaxy Z Flip 5, click ‘Done’ as soon as the data transfer is complete. Let the iPhone XS/11 sync the contacts. You need to set up your iCloud account now. Once it is done, you can view the transferred contacts on the iOS device.
 
 ![transfer contacts from Samsung Galaxy Z Flip 5 to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to transfer contacts from Samsung Galaxy Z Flip 5 to iPhone XS/11 using Google account
 
@@ -112,28 +98,15 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 ![import contacts to iPhone XS (Max) - add gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-add.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Lastly, get into ‘Settings’, then ‘Passwords & Accounts’, tap on your Gmail account and ensure that the ‘Contacts’ switch is turned on. Turn it on if it is not already. Within a short span of time, you can find the Android contacts appearing on your iPhone XS/11 after that.
 
 ![imported contacts to iPhone XS (Max) from Android gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-contacts.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to transfer contacts from Samsung Galaxy Z Flip 5 to iPhone XS/11 using SIM card
 
@@ -143,13 +116,6 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 2. Click on ‘Export to SIM’ or ‘SIM card’ and then select the source of contacts i.e. ‘Phone’/’WhatsApp’/’Google’/’Messenger’.
 
 ![transfer contacts from Samsung Galaxy Z Flip 5 to iPhone XS (Max) via sim card](https://images.wondershare.com/drfone/article/2018/08/export-android-contacts-to-sim.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Then hit ‘Export’ and ‘Continue’ afterward.
 2. Now, open the SIM card slot of your Samsung Galaxy Z Flip 5 and unmount the SIM. Insert it on your iPhone XS/11 and turn it on. You can find the contacts on your iPhone.
@@ -192,13 +158,6 @@ Step 3. You can select the file type you want to transfer to the computer or sel
 
 ![select files for Android USB file transfer](https://images.wondershare.com/drfone/guide/export-data-from-android-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Video Guide: How to Achieve Android USB File Transfer with PC?
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ydG4-iQS9Ek" id="video-iframe-t"></iframe>
@@ -230,10 +189,10 @@ Download Mobogenie and run it, and connect your Samsung Galaxy Z Flip 5 to the c
 ![bluetooth android file transfer](https://images.wondershare.com/drfone/article/2018/03/moborobo-home.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As with other data management software, you can download and install apps onto your Samsung Galaxy Z Flip 5 from your PC. The advantage of this is that apps can be downloaded quickly, and also without costing you in terms of data roaming charges.
@@ -241,39 +200,19 @@ As with other data management software, you can download and install apps onto y
 ![usb android file transfer](https://images.wondershare.com/drfone/article/2018/03/download-app-with-mobogenie.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 A neat feature is the ability to uninstall apps that came preloaded on the phone as often we find ourselves with apps that we never use that we cannot delete.
 
 ![use transfer android file](https://images.wondershare.com/drfone/article/2018/03/uninstall-app-with-mobogenie.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The transfer of photo files is straightforward, and several photos can be selected from your computer to import onto your device at once, or vice versa.
 
 ![usb to android file transfer](https://images.wondershare.com/drfone/article/2018/03/transfer-photos-with-mobogenie.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Features:**
 
@@ -291,23 +230,9 @@ Once connected, you will be brought to this home page, notice the options to use
 
 ![USB android file transfer](https://images.wondershare.com/drfone/article/2018/03/mobogenie-home.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As with Mobogenie, once you are on the software, it is fairly easy to navigate around, and you can do everything from sending SMS from your PC to transferring apps and contacts. However, a drawback is that the management of your music requires you to have all your MP3 files on your PC and move them on to the software- not extremely inconvenient, but as we will see much easier solutions exist.
 
 We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides a simple user-friendly interface that allows you to manage your Samsung Galaxy Z Flip 5 with ease. You can also transfer files between Android and Mac easily.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Transfer Contacts from Samsung Galaxy Z Flip 5 to Outlook
 
@@ -330,48 +255,21 @@ One Stop Solution to Transfer Contacts from Samsung Galaxy Z Flip 5 to Outlook
 **4,858,377** people have downloaded it
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to sync Android with Outlook?
 
 Now, I’d like to introduce you how to transfer Android contacts to Outlook. Download this free trial version on your computer. Then check out the easy steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1. Connect Android phone with a computer and run Dr.Fone
 
 To start with, connect your Samsung Galaxy Z Flip 5 with a computer either via a USB cable. Run Dr.Fone on your computer and choose Transfer fron the main window Then, your Samsung Galaxy Z Flip 5 will be detected instantly. After that, the primary window will appears like the screenshot shows below.
 
 ![android to outlook](https://images.wondershare.com/drfone/guide/transfer-files-quickly-to-android-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2. Android to Outlook sync
 
@@ -380,6 +278,13 @@ Then, click "Contacts" under "Information" panel on the top. In the contact mana
 As you see, apart from exporting Android contacts to Outlook, you can also copy contacts from Samsung Galaxy Z Flip 5 to vCard, Windows Live Mail and Windows Address Book. If you have a Gmail account, you’re able to export Android contacts to your computer, and then backup these Android contacts to your Gmail account too.
 
 ![how to sync android with outlook](https://images.wondershare.com/drfone/drfone/android-transfer-export-contacts.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now, download Dr.Fone - Phone Manager (Android) to have a try!
 
@@ -397,14 +302,20 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-journey-through-time-with-these-top-10-historical-youtube-sources/"><u>[New] 2024 Approved Journey Through Time with These Top 10 Historical YouTube Sources</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-essential-steps-to-producing-a-youtube-hit-music-reaction-video-guide-for-2024/"><u>[New] Essential Steps to Producing a YouTube Hit Music Reaction Video Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/hacks-averted-restore-your-facebook-account-safely-for-2024/"><u>Hacks Averted! Restore Your Facebook Account Safely for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-gionee-f3-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Gionee F3 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-6-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 6 Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-motorola-moto-g34-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Motorola Moto G34 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-105-classic-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia 105 Classic to Outlook | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-105-classic-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia 105 Classic To Phone | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-artisans-guide-harnessing-chatgpt-for-visual-ai/"><u>The Artisan's Guide: Harnessing ChatGPT for Visual AI</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-close-up-views-on-web-conferencing/"><u>[Updated] Mastering Close-Up Views on Web Conferencing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-video-marketing-titles-and-tags-on-youtube-for-2024/"><u>[Updated] The Art of Video Marketing Titles & Tags on YouTube for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-transform-your-android-footage-with-stunning-time-lapse-videos/"><u>[Updated] Transform Your Android Footage with Stunning Time-Lapse Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unveiling-instagram-reels-10-surprising-insights/"><u>2024 Approved Unveiling Instagram Reels 10 Surprising Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726030087111-pc/"><u>簡単かつ最適なPCでのスポーツ放送記録方法</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726030272162-m4a/"><u>音声形式変換ガイド：M4Aから他の形式へと理解しよう</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversione-online-gratuita-da-mka-a-flac-con-alta-qualita-audio-utilizzando-movavi/"><u>Conversione Online Gratuita: Da MKA a FLAC Con Alta Qualità Audio Utilizzando Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-personalized-chatgpt-a-step-by-step-guide-to-integrate-your-unique-dataset/"><u>Creating Personalized ChatGPT: A Step-by-Step Guide to Integrate Your Unique Dataset</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-edgeplus-2023-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Edge+ (2023) Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726030640599-mp4m4a3/"><u>MP4・M4A形式を融合するためのユニークな解決策3つ</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/saving-game-moments-with-fbx-recorder/"><u>Saving Game Moments with FBX Recorder</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726027861015-windows-10-dvd/"><u>Windows 10向け DVDプレイヤー用コーデックの設定方法</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029721705-ogg/"><u>ウェブムビデオから音声抽出とOGG変換の具体的方法</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726027907048-gif/"><u>キャンバスから生まれるポップなビジュアル - GIFの効果的活用術</u></a></li>
 </ul></div>
 

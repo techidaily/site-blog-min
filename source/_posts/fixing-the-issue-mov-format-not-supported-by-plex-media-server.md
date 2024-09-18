@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: MOV Format Not Supported by Plex Media Server"
-date: 2024-09-12T03:01:39.199Z
-updated: 2024-09-13T03:01:39.199Z
+date: 2024-09-11T19:09:29.712Z
+updated: 2024-09-18T17:06:18.879Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d93382b937c3fa171ed251d1.jpg
@@ -14,13 +14,6 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
  Bigo Live is a popular live streaming app and platform that allows users worldwide to go live, watch live streams, chat with others online, and more. If you want to save the live content, the best way you can try is to record BIGO Live. This post is here to show you **how to record Bigo Live without a black screen on PC, Android, and iOS devices**. Read on!.
 
 ![Carina](https://www.videoconverterfactory.com/tips/imgs-self/avatar/carina.png) [Carina](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | Updated on May 31, 2024
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [Part 1\. How to Record BIGO Live Without Black Screen on PC](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 * [Part 2\. How to Record BIGO Live Without Black Screen on Android](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
@@ -39,13 +32,6 @@ To capture BIGO Live streams on a PC, there is one application you cannot miss �
 
 _**Must Read**: The following guide on screen recording BIGO Live is for personal fair use only. WonderFox does not approve of copyright infringement in any way. Do not record any live streams for commercial purposes._
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Start the Recording with HD Video Converter Factory Pro
 
 _\* Before starting recording, please locate the live streaming content you want to record._
@@ -53,13 +39,6 @@ _\* Before starting recording, please locate the live streaming content you want
 **Step 1.** Run HD Video Converter Factory Pro after you install it on your PC. Then click “**Recorder**” on the initial interface to open the **Screen Recorder**.
 
 ![Open Screen Recorder](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-1.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2.** Now choose a recording mode from **Custom**, **Full-screen**, **Game recording**, or **Audio-only recording**. Then drag the four border lines to adjust the recording region if you choose the "**Custom**" mode. Click “**OK**” to confirm the recording area.
 
@@ -76,16 +55,10 @@ _\* Before starting recording, please locate the live streaming content you want
 If you want to trim or [merge the recorded video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), just close the **Screen Recorder** and enter the “**Converter**” module. Add the source files and start editing.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### More Than Just Capture BIGO LIVE
@@ -120,29 +93,16 @@ Then, you can find the recorded video in the AZ screen recording's "**Video**" t
 ![Record Bigo on Android](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-6.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Record BIGO Live Without Black Screen on iOS Devices
 
   
 For iOS users who want to capture live streams on BIGO, you can use the device's built-in screen recorder. It is handy to use, and there is no need to download any other applications. After finishing recording, you can also edit the recorded files in the Photo app.
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Record BIGO Video on iOS Devices?
 
@@ -159,10 +119,10 @@ Then, you can find the recorded video in the Photos app.
 Tips: If you cannot find the “**Screen Recording**” feature in the “**Control Center**”, enter the “**Settings**” window, go to “**Control Center**” > “**Customize Controls**”, and scroll down to tap “**Screen Recording**” > “**+**” to add the recording feature to the Control Center.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Wrap-up
@@ -174,33 +134,19 @@ Thanks for your reading. Have a nice day!
 ## FAQs about BIGO Screen Recording
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Why can't I screen record Bigo Live?
 
 Most of the time, this is because your device does not have enough capacity or you did not grant permission to the tool you used to record. Check the storage space on your device (phone or computer) to solve this problem. Check to see if you have allowed the screen recorder to record a video. If everything appears to be in order, but you still cannot begin recording, try restarting your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Is it illegal to screen record protected videos?
 
 It all depends. Screen capturing protected videos for personal use typically falls into a legal gray area. But if you distribute or use such recordings for commercial purposes, then it is prohibited and breaches copyright rules.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Does BIGO allow screen recording?
 
@@ -222,6 +168,13 @@ _\* Please DO NOT use it to rip any copy-protected DVDs for commercial purposes.
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -237,20 +190,20 @@ _\* Please DO NOT use it to rip any copy-protected DVDs for commercial purposes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-travel-film-kit-the-necessary-arsenal/"><u>[New] Travel Film Kit The Necessary Arsenal</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-visual-storytelling-mastery-the-quintessential-5-tips/"><u>2024 Approved Visual Storytelling Mastery The Quintessential 5 Tips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dji-aerial-innovation-packs-starter-pro-upgrade-high-definition-ultra/"><u>DJI Aerial Innovation Packs Starter, Pro Upgrade, High-Definition Ultra</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g-stylus-2023-phone-without-google-account-by-drfone-android/"><u>How to Unlock Motorola Moto G Stylus (2023) Phone without Google Account?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy F04?</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-embrace-these-hits-top-10-viral-tiktok-challenges/"><u>In 2024, Embrace These Hits Top 10 Viral TikTok Challenges</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/leading-green-visual-effects-recorders-operating-guide-for-2024/"><u>Leading Green Visual Effects Recorders Operating Guide for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-made-easy-with-manycam-professional-virtual-webcam-solutions/"><u>Live Streaming Made Easy with ManyCam: Professional Virtual Webcam Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-made-simple-with-manycam-top-virtual-camera-app/"><u>Live Streaming Made Simple with ManyCam: Top Virtual Camera App</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-mastery-discover-how-manycam-transforms-your-camera-experience/"><u>Live Streaming Mastery: Discover How ManyCam Transforms Your Camera Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-mastery-ultimate-guide-to-using-manycam-features/"><u>Live Streaming Mastery: Ultimate Guide to Using ManyCam Features</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-pro-discover-the-versatility-of-manycam-as-your-digital-camera-solution/"><u>Live Streaming Pro: Discover the Versatility of ManyCam as Your Digital Camera Solution</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-ultimate-guide-discover-manycam-and-top-virtual-camera-solutions/"><u>Live Streaming Ultimate Guide: Discover ManyCam and Top Virtual Camera Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-with-manycam-professional-virtual-camera-and-screen-recording-solution/"><u>Live Streaming with ManyCam: Professional Virtual Camera & Screen Recording Solution</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-networking-for-singles-deciphering-new-facebook-features/"><u>Social Networking for Singles: Deciphering New Facebook Features</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-innovative-ways-to-capture-online-discussions/"><u>[New] 2024 Approved Innovative Ways to Capture Online Discussions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elite-6-software-for-audiovisual-translation/"><u>[Updated] Elite 6 Software for Audio/Visual Translation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-explore-these-6-powerful-instagram-reel-tools/"><u>[Updated] In 2024, Explore These 6 Powerful Instagram Reel Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/showroom/"><u>投稿中のSHOWROOM配信をスムーズに記録する詳しいガイド</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/breaking-down-the-behemoth-an-in-depth-analysis-of-apples-dominant-arm-based-mac-mini-m1-2020/"><u>Breaking Down the Behemoth: An In-Depth Analysis of Apple's Dominant ARM-Based Mac Mini (M1, 2020)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-how-to-update-or-download-the-epson-wf-3520-driver-for-windows-systems/"><u>Easy Installation: How to Update or Download the Epson WF 3520 Driver for Windows Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/educational-tech-audit-4-precision-checkpoints-for-gpt-devices/"><u>Educational Tech Audit: 4 Precision Checkpoints for GPT Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-c53-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Realme C53 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlocking-fb-video-content-with-1-5-downloaders/"><u>In 2024, Unlocking FB Video Content with #1-5 Downloaders</u></a></li>
+<li><a href="https://blog-min.techidaily.com/overcoming-challenges-in-dvd-conversion-using-handbrake-for-windows-10-users/"><u>Overcoming Challenges in DVD Conversion Using Handbrake for Windows 10 Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/professional-audio-blending-mastering-the-art-of-combining-tracks-using-top-rated-no-cost-music-mixers/"><u>Professional Audio Blending: Mastering the Art of Combining Tracks Using Top-Rated, No-Cost Music Mixers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/seamless-cinema-experience-ultimate-guide-to-streamlining-dvd-viewing-on-an-ipad/"><u>Seamless Cinema Experience: Ultimate Guide to Streamlining DVD Viewing on an iPad</u></a></li>
+<li><a href="https://blog-min.techidaily.com/simplified-tutorial-for-hassle-free-audio-extraction-from-dvd-media/"><u>Simplified Tutorial for Hassle-Free Audio Extraction From DVD Media</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-converting-high-efficiency-video-coding-hevc-files-into-matroska-mkv-format/"><u>Step-by-Step Guide: Converting High Efficiency Video Coding (HEVC) Files Into Matroska (MKV) Format</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-m54-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy M54 5G Phone Hassle-Free</u></a></li>
 </ul></div>
 
