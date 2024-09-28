@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from Xiaomi Redmi 12 5G to iPhone XS/11 | Dr.fone
-date: 2024-09-14T19:44:23.661Z
-updated: 2024-09-18T18:20:01.889Z
+date: 2024-09-22T01:15:10.345Z
+updated: 2024-09-23T17:25:00.430Z
 tags: 
   - transfer
 categories:
@@ -93,13 +93,6 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 
 ![import contacts to iPhone XS (Max) from gmail account - transfer using google service](https://images.wondershare.com/drfone/article/2018/01/15150786756577.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Now, you need to add the same Gmail account to your iPhone X, in order to sync back contacts from it. For this, head to ‘Settings’ > ‘Passwords & Accounts’ > ‘Add Account’ > ‘Google’. Then, you’re required to punch in the details of the same Gmail account used over Android to sync contacts.
 
 ![import contacts to iPhone XS (Max) - add gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-add.jpg)
@@ -107,6 +100,13 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 1. Lastly, get into ‘Settings’, then ‘Passwords & Accounts’, tap on your Gmail account and ensure that the ‘Contacts’ switch is turned on. Turn it on if it is not already. Within a short span of time, you can find the Android contacts appearing on your iPhone XS/11 after that.
 
 ![imported contacts to iPhone XS (Max) from Android gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-contacts.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to transfer contacts from Xiaomi Redmi 12 5G to iPhone XS/11 using SIM card
 
@@ -188,16 +188,22 @@ Nearby Share is a method developed by Google to ****share files between Android 
 
 Using Nearby Share is recommended when you don't have access to a computer or the internet, and you need to share large files.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Transfer Files Between Android by USB Cable
 
 If you have access to a computer, you can use it to ****transfer files from Xiaomi Redmi 12 5G to Other Android Devices****. All you need is a USB cable, and you are set. In this method, you will first copy data from the old phone to the computer and then copy it to the new phone from the computer. It works by default on Windows, but for Mac, you need Android File Transfer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Instructions To Transfer Files by USB Cable
 
@@ -258,6 +264,13 @@ Want to find the best and ****fast way to transfer files from Xiaomi Redmi 12 5
 - If you have lost your phone data, you can recover it back using the Dr.Fone app safely and quickly.
 - With this tool, you can also repair system issues in your device in a secure environment.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps To Transfer Files from Xiaomi Redmi 12 5G to Other Android Devices With Dr.Fone
 
 Aside from being the fastest way to transfer files between Android phones, it also has the simplest transfer process. You only need Dr.Fone installed on your system and a couple of USB cables to use this method. Here is how you can ****transfer files from phone to phone**** via Dr.Fone:
@@ -279,6 +292,13 @@ For transferring data from the old Android device to the new one, the old device
 Now select the data you want to transfer and click “Start Transfer” to begin the transfer process. In case you want to delete data on the new device, select “Clear Data before Copy” before pressing “Start Transfer.”
 
 ![start the transfer process](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pros and Cons
 
@@ -334,13 +354,6 @@ Here’s how to move data from Xiaomi Redmi 12 5G to Samsung S23 with Wondershar
 
 ![data transfer with wondershare dr.fone](https://images.wondershare.com/drfone/guide/transfer-android-to-android-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Wondershare Dr.Fone Phone Transfer lets you move apps, contacts, photos, videos, music, ringtones, text messages, voice memos, call logs, bookmarks, and calendar data between Android devices.
 
 ### 2\. Move Data From Xiaomi Redmi 12 5G to Samsung Using Smart Switch
@@ -380,6 +393,19 @@ Here’s how to transfer data to Samsung Galaxy S23 using Google Account synchro
 
 ![transferring google account data](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. On your Samsung S23, go to **Settings > Google**and log into your backed-up Google Account.
 
 Everything you’ve previously backed up will automatically sync once you log into your Google Account.
@@ -410,6 +436,13 @@ Transferring data from Xiaomi Redmi 12 5G to Samsung S23 is seamless with Google
 1. Launch Google Drive on your old Android and tap **New > Upload**. The **New**button features only a **plus sign** on some devices.
 
 ![uploading data to google drive](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2. Add all folders or files you wish to transfer to your new phone.
 3. Open Google Drive on your Samsung S23 and sign into the correct account.
@@ -443,6 +476,13 @@ It’s almost like Samsung’s Smart Switch, except you don’t need to download
 
 ![accessing android data](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Choose folders or files to transfer, tap the **kebab menu**for more options, and select **Copy to**.
 
 ![choosing data to transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-16.jpg)
@@ -452,10 +492,16 @@ It’s almost like Samsung’s Smart Switch, except you don’t need to download
 ![transferring data to samsung s23](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Moving data between phones using a USB cable is faster than Bluetooth but offers the same functionality. However, charge your devices beforehand because the data transfer may take a while (if you have many sizable files).
@@ -476,13 +522,6 @@ It may not be as straightforward as the methods above, but it’s ideal for keep
 3. Tap **USB for file transfer**in the **Notification panel** and select **Transferring files / Android Auto**.
 
 ![choosing a usb for file transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-android-to-samsung-s23-19.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Go to **This PC**in **File Explorer** and open your phone under **Devices and drives**.
 5. Right-click the folders or files you wish to move, select **Copy**, and paste them to any location on your computer.
@@ -512,18 +551,5 @@ However, Wondershare Dr.Fone Phone Transfer might be your best option. Besides t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-drone-design-changes-experiment-for-free-subscribe-for-paid-access/"><u>[New] In 2024, Drone Design Changes - Experiment for Free, Subscribe for Paid Access</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-meticulous-study-of-magix-photo-controls/"><u>[New] Meticulous Study of MAGIX Photo Controls</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-history-enthusiasts-guide-to-inspiring-youtube-channels/"><u>[Updated] 2024 Approved History Enthusiasts' Guide to Inspiring YouTube Channels</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-rescuing-muted-voices-during-obs-sessions/"><u>[Updated] Rescuing Muted Voices During OBS Sessions</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-googlefrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your GoogleFRP Lock</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-nokia-xr21-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Nokia XR21 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mastering-the-art-of-sound-capture-using-adobe-audition-for-windows-users/"><u>Mastering the Art of Sound Capture: Using Adobe Audition for Windows Users</u></a></li>
-<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/seamless-conversion-transforming-dvds-into-m4v-files-with-ease/"><u>Seamless Conversion: Transforming DVDs Into M4V Files with Ease</u></a></li>
-<li><a href="https://blog-min.techidaily.com/simple-steps-for-converting-wmv-videos-to-mp4-top-solutions-for-pc-users-mac-enthusiasts-and-online-services/"><u>Simple Steps for Converting WMV Videos to MP4: Top Solutions for PC Users, Mac Enthusiasts, and Online Services</u></a></li>
-<li><a href="https://blog-min.techidaily.com/simple-steps-to-bulk-convert-your-wmv-videos-to-high-quality-mov-files/"><u>Simple Steps to Bulk-Convert Your WMV Videos to High-Quality MOV Files</u></a></li>
-</ul></div>
+
 

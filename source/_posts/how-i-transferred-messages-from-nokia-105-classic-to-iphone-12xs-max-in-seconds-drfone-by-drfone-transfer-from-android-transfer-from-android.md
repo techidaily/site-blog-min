@@ -1,7 +1,7 @@
 ---
 title: How I Transferred Messages from Nokia 105 Classic to iPhone 12/XS (Max) in Seconds | Dr.fone
-date: 2024-09-11T21:28:23.875Z
-updated: 2024-09-18T21:52:28.761Z
+date: 2024-09-18T17:26:34.879Z
+updated: 2024-09-24T04:18:08.022Z
 tags: 
   - transfer
 categories:
@@ -54,14 +54,14 @@ You can learn how to transfer messages from Nokia 105 Classic to iPhone 12/XS (M
 
 **Note:** _The messages will be enclosed in an Email attachment. That implies you won’t be able to import your messages to your iMessage app. If you want to transfer SMS to the default messages app, try Dr.Fone - Phone Transfer. It's a one-click and reliable desktop software._
 
-## 2 Methods to Transfer Messages from Nokia 105 Classic to iPhone 12/XS (Max) with a PC
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## 2 Methods to Transfer Messages from Nokia 105 Classic to iPhone 12/XS (Max) with a PC
 
 ### How to transfer all messages to iPhone 12/XS (Max) at a time
 
@@ -82,6 +82,13 @@ Note:    Selecting the ‘Clear Data before Copy’ option completely deletes
 Step 3:  In this section, tap on ‘Messages’ and select the ones you want to selectively transfer. Hit the ‘Start Transfer’ button and then wait a while. Click ‘OK’ once the transfer process is over.
 
 ![confirm to transfer messages from android to iPhone XS (Max)](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to transfer only selected messages iPhone 12/XS (Max)
 
@@ -108,16 +115,22 @@ Step 2: Use respective USB cables to connect your Android and iPhone 12/XS (Max)
 
 ![connect android and iPhone XS (Max) to pc for sms transfer](https://images.wondershare.com/drfone/article/2018/08/message-transfer-drfone1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3:  From the list of messages, choose the desired text messages and hit the ‘Export’ button. Click the ‘Export to device’ button consecutively and complete the process with the onscreen guide.
 
 ![transfer messages from android to iPhone XS (Max) - choose device](https://images.wondershare.com/drfone/article/2018/08/message-transfer-drfone2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -134,6 +147,13 @@ Changing Android phones is no longer a tedious job. By using an Android clone ap
 ## Part 1: How to clone Android phone using Dr.Fone - Phone Transfer?
 
 To clone an Android phone in a fast and secure manner, simply take the assistance of [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It is a part of the Dr.Fone toolkit and can be used to transfer all sorts of data directly from one device to another. For instance, you can transfer your photos, videos, music, messages, contacts, notes, and multiple accounts to Android detail as well. It is compatible with all the leading Android devices manufactured by brands like Samsung, HTC, Lenovo, Huawei, LG, Motorola, and more. Having an intuitive process, it will let you Android clone in no time. To learn how to clone Android phone using Dr.Fone Switch, follow these steps:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -171,6 +191,13 @@ Transfer Photo from Nokia 105 Classic to iPhone in 1 Click Directly!
 
 In this way, you can easily learn how to clone Android phone in a few seconds. Later, you can disconnect the Nokia 105 Classic devices and use them readily. Besides Android, you can also use Dr.Fone - Phone Transfer to transfer data between different platforms as well.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Clone Android phone using SHAREit
 
 SHAREit is a popular cross-platform device-sharing app that over 600 million users use. The app can be used to perform a wireless transfer of data at a fast speed. This is done without utilizing your data usage or via Bluetooth. The app uses Wifi directly to clone Android phone. While changing Android phones, use SHAREit the following way:
@@ -189,25 +216,11 @@ Download SHAREit: <https://play.google.com/store/apps/details?id=com.lenovo.anys
 
 ![select receiving device](https://images.wondershare.com/drfone/article/2017/11/15115449135128.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5\. This will make the phone automatically detect the sending device. Select the Wi-Fi hotspot that is associated with the sending device to form a secure connection.
 
 6\. As the connection is made, you can select the receiving device on the source phone. This will initiate the cloning of your data.
 
 ![clone android phone with shareit](https://images.wondershare.com/drfone/article/2017/11/15115449339643.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Clone Android phone using CLONEit
 
@@ -269,6 +282,13 @@ Google Drive is ideally used to store data on the cloud. However, it can also be
 
 ![backup android with google drive](https://images.wondershare.com/drfone/article/2017/11/15115452026138.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. After taking a complete backup of your data, turn on your brand-new Android to perform its setup.
 
 4\. Log in using the credentials of your Google Account. Make sure that the account should be linked to your previous device.
@@ -291,6 +311,19 @@ Using Bluetooth for cloning an Android phone is not the most efficient method. I
 
 ![use the bluetooth feature](https://images.wondershare.com/drfone/article/2023/10/clone-android-phone-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### 1\. Is Android phone clone safe?
@@ -311,6 +344,13 @@ This precautionary step guarantees the safety of your data should any issues ari
 
 Now, when you know six different ways to clone Android phone, you can easily move from one device to another without experiencing any data loss. This guide will certainly help every individual who is changing Android phones. Feel free to share it with your friends and family and let us know about your feedback regarding these solutions as well.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Transfer Contacts from Nokia 105 Classic to Outlook
 
 _I would like to export/edit my contacts that are on My Nokia 105 Classic and get them onto my computer for a back, to edit them, to input/import them into Outlook. Can this be done and how? Is there something I can download or a backup assistant?_
@@ -318,13 +358,6 @@ _I would like to export/edit my contacts that are on My Nokia 105 Classic and ge
 With lots of contacts on your Nokia 105 Classic, you may want to transfer these contacts from Nokia 105 Classic to Outlook for backup. This way, when you get a new Android phone or when you lose contacts by accident, you can quickly get them back.
 
 To sync Android to Outlook, I highly recommend an Android manager: [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). This program empowers you to transfer contacts on your Nokia 105 Classic to Outlook 2003/2007/2010/2013 easily and effortlessly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
 
@@ -370,21 +403,5 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-beginners-guide-to-video-equipment-selection/"><u>[New] 2024 Approved The Beginner's Guide to Video Equipment Selection</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-aesthetic-clarity-the-ultimate-guide-to-the-top-15-gopro-luts-for-2024/"><u>[Updated] Aesthetic Clarity The Ultimate Guide to the Top 15 GOPRO LUTs for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-flight-dynamics-unveiling-bebops-parrot-capabilities/"><u>2024 Approved Flight Dynamics Unveiling Bebop’s Parrot Capabilities</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-itel-a60-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-free-english-dubbed-taiwanese-drama-sites-top-picks-for-binge-worthy-entertainment/"><u>Best Free English Dubbed Taiwanese Drama Sites: Top Picks for Binge-Worthy Entertainment</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/brother-mfc-l2690dw-printer-update-and-download-drivers-here/"><u>Brother MFC-L2690DW Printer: Update and Download Drivers Here!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comprehensive-guide-transforming-heavyweight-documents-into-mp4-video-streams/"><u>Comprehensive Guide: Transforming Heavyweight Documents Into MP4 Video Streams</u></a></li>
-<li><a href="https://blog-min.techidaily.com/convert-videos-to-compatible-android-formats-seamless-conversion-guide/"><u>Convert Videos to Compatible Android Formats – Seamless Conversion Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/download-and-enjoy-the-thrilling-film-brick-mansions-in-hd-after-dvd-ripping-start-now/"><u>Download & Enjoy the Thrilling Film, Brick Mansions in HD After DVD Ripping - Start Now!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/download-high-quality-hd-films-secrets-to-easily-grab-and-save-movies-up-to-100mb-for-free/"><u>Download High-Quality HD Films - Secrets to Easily Grab & Save Movies Up to 100MB for Free!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-tecno-pova-6-pro-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Tecno Pova 6 Pro 5G Phone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-smile-sourcebook-event-specific-memetic-delights/"><u>In 2024, Smile Sourcebook Event-Specific Memetic Delights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-spectacular-4k-tvs-nine-picks-for-exceptional-color-fidelity/"><u>In 2024, Spectacular 4K TVs Nine Picks for Exceptional Color Fidelity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/western-digital-unveils-the-powerful-4tb-wd-blue-sn5000-a-mainstream-ssd-revolutionary-reviewed/"><u>Western Digital Unveils the Powerful 4TB WD Blue SN5000: A Mainstream SSD Revolutionary Reviewed</u></a></li>
-</ul></div>
+
 
