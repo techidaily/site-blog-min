@@ -1,7 +1,7 @@
 ---
 title: "Les Logiciels Libres Preferences Pour La Conception Graphique De Logos : Les 8 Incontournables"
-date: 2024-09-10 13:18:34
-updated: 2024-09-13 12:41:58
+date: 2024-10-03T19:00:41.331Z
+updated: 2024-10-08T08:58:24.608Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/ecd5393b4b11cd27ce9b151fec19432ec4c563d2b818d2405502179fc7ce1c3d.jpg
@@ -157,6 +157,13 @@ Movavi 的首要目標是就是為您提供經過驗證的資訊。為了確保�
 
 ![](https://cdn.staticont.net/default/0023/55/0a43aca722d72a76f5dadbc9d81350a623b7681e.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Windows Photo Viewer 圖片瀏覽器的最佳替代方案
 
 接著我們就來介紹一下 Windows 10 的 7 大桌面式相片檢視器。各個軟體都有不同程度的編輯功能，包括可以新增外掛程式，使軟體更適合專業任務，如批次編輯、製作電影或動畫等等。無論您是要快速處理大型圖像、簡單的使用者介面還是打開各類檔案格式的能力，都請您繼續閱讀，以便找到最適合自己的相片檢查器。
@@ -205,6 +212,13 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 
 * GUI 看起來很舊，簡直像 XP，而且功能有限
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**FastStone Image Viewer**](https://www.faststone.org/)
@@ -243,6 +257,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 ![](https://cdn.staticont.net/page_type/0013/40/9462b44dd7787a9d521c67727a9d947cbc74b9ef.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 與 FastStone 的圖片檢視器類似，XnView 的介面易於瀏覽，可以清晰顯示所有圖像，並為使用者提供所選照片的大型視圖。該軟體支援所有標準的圖像檔案類型，如 JPEG、PNG 和 TIFF，甚至還支援其他一些編解碼器，如相機的 RAW 檔等等。甚至還能當作多媒體瀏覽平台來使用，讓您開啟並檢查影音檔。雖然在新增動畫和轉換檔案方面沒有 Windows Photo Viewer 那麼全面，但仍不失為 XnView Classic 的推薦替代品，或者只需支付少量費用就能獲得強化的 MP 版本。
 
 優點：
@@ -259,6 +280,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 ![](https://cdn.staticont.net/page_type/0013/45/3c872b24e843d2a8619d1d110f90c6a4aef905b7.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 除了 Windows 10 相片檢視器的標準檢視選項外，Nomacs 還多了一個整潔的備註方塊。該放塊可供您放入評論，以供日後使用。無論您是需要匯出圖像以便日後在更複雜的軟體中進行編輯，還是僅僅是為了提醒自己相片中的人事物，這項功能都十分有用。在「調整」索引標籤中，也有些既實用又有趣的工具。其中一個叫做「Tiny Planet」，可以將您的圖像轉換為酷似地球儀的正方形裁剪照片，非常適合將風景照製作成 360 度的全景。更棒的是，無論您是要私下使用，還是有商業用途，Nomacs 都可以免費下載。
 
 優點：
@@ -268,6 +296,19 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 缺點：
 
 * 佈局過於簡單，可能會使初學者困惑
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -299,6 +340,20 @@ Movavi Photo Editor
 
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 常見問題集
 
 ### 最好的 Windows 相片檢視器是什麼？
@@ -311,6 +366,13 @@ Movavi Photo Editor
 * XnView
 * Nomacs
 * Google Photos
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 那一個是用於觀賞照片的最佳軟體?
 
@@ -393,11 +455,28 @@ Movavi Photo Editor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-social-presence-the-art-of-uploading-many-images-and-videos-to-instagram-for-2024/"><u>[New] Elevate Your Social Presence The Art of Uploading Many Images and Videos to Instagram for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-ultimate-streamers-dilemma-obs-or-twitch-studio/"><u>[New] In 2024, The Ultimate Streamer's Dilemma OBS or Twitch Studio?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-prime-platforms-crafting-3d-animation-art/"><u>[New] Prime Platforms Crafting 3D Animation Art</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-xiaomi-14-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Xiaomi 14 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6s-plus-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6s Plus to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2019-formulas-not-working-properly-step-by-step-guide-by-stellar-guide/"><u>How to Fix Excel 2019 Formulas Not Working Properly | Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-infinix-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Infinix ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-honor-90-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Honor 90?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-galaxy-s23-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Galaxy S23 on Windows??</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-a1x-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo A1x 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-tecno-spark-20-easily-by-drfone-android/"><u>How To Unlock a Tecno Spark 20 Easily?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-x50-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor X50 Device</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ating-monetization-on-content-platforms/"><u>Validating Monetization on Content Platforms</u></a></li>
+</ul></div>
+
