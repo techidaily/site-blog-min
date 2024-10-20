@@ -1,7 +1,7 @@
 ---
 title: "Captura De Pantalla Perfecta: Cómo Usar El Grabador De Escritorio De Movavi Sin Problemas"
-date: 2024-09-30T18:40:11.454Z
-updated: 2024-10-07T20:21:55.793Z
+date: 2024-10-15T22:25:07.293Z
+updated: 2024-10-19T20:50:03.975Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721f41a9cf0edd89a122f69cd4.jpg
@@ -162,6 +162,13 @@ Afficher plus
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
@@ -175,19 +182,6 @@ Le PC surpasse les consoles à cet égard, car il est toujours possible d'accél
 Cet article vous présente les réglages de performance pour les jeux que vous pouvez effectuer sur Windows 10 pour améliorer votre expérience de jeu.
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 
 
@@ -254,10 +248,10 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
@@ -298,13 +292,6 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -326,10 +313,10 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 6. Optimisation Threaded : Passez à **Auto**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
@@ -339,13 +326,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -371,16 +351,16 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -391,6 +371,13 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -451,20 +438,27 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -510,16 +504,16 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -607,22 +601,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unveiling-top-8-premium-marriage-videos-on-video-platforms/"><u>[Updated] 2024 Approved Unveiling Top 8 Premium Marriage Videos on Video Platforms</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-video-entrance-with-these-tools-for-2024/"><u>[Updated] Elevate Your Video Entrance with These Tools for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oneplus-ace-2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from OnePlus Ace 2 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-list-the-top-10-websites-buying-mystery-boxes-cheaply-for-2024/"><u>Exclusive List The Top 10 Websites Buying Mystery Boxes Cheaply for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-8-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 8 Plus Apple ID and Apple Pay</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-note-30-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Note 30 Pro</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-oppo-reno-10-proplus-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Oppo Reno 10 Pro+ 5G?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-xiaomi-redmi-note-12-pro-4g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Xiaomi Redmi Note 12 Pro 4G? </u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-xiaomi-redmi-13c-5g-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Xiaomi Redmi 13C 5G</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-infinix-gt-10-pro-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Infinix GT 10 Pro?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-poco-f5-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Poco F5 5G</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/quick-guide-to-brother-wireless-mfc-9330c/"><u>Quick Guide to Brother Wireless MFC-9330C</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-upgrading-your-playstation-5-with-a-solid-state-drive/"><u>Step-by-Step Guide: Upgrading Your PlayStation 5 with a Solid State Drive</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi Redmi Note 13 Pro 5G</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unseen-glimpse-of-fb-stories/"><u>Unseen Glimpse of FB Stories</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-getting-started-with-action-cams-the-beginners-primer/"><u>[New] Getting Started with Action Cams - The Beginner's Primer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-quality-making-videos-on-the-go/"><u>[New] High-Quality Making Videos on the Go</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-elevating-your-youtube-content-selecting-professional-gear/"><u>[Updated] Elevating Your YouTube Content Selecting Professional Gear</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensible-list-best-games-music-found-online/"><u>2024 Approved Comprehensible List Best Games’ Music Found Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-users-handbook-mastering-interaction-with-openais-chatgpt/"><u>A User's Handbook: Mastering Interaction with OpenAI's ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-powerhouse-rode-x-xcm-50-microphone-unveiled-a-detailed-examination-of-its-miniaturized-yet-robust-performance/"><u>Compact Powerhouse: Rode X XCM-50 Microphone Unveiled - A Detailed Examination of Its Miniaturized Yet Robust Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-there-was-an-error-resetting-your-pc-in-widows-10/"><u>How to Resolve 'There Was an Error Resetting Your PC' In Widows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-nokia-c12-plus-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Nokia C12 Plus to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/silence-no-more-essential-tips-for-addressing-audio-problems-in-minecraft-on-desktop-systems/"><u>Silence No More! Essential Tips for Addressing Audio Problems in Minecraft on Desktop Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-on-how-to-create-a-personalized-login-code/"><u>Step-by-Step Guide on How to Create a Personalized Login Code</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-to-bypassing-drm-on-first-16-chapters-of-your-ebook/"><u>Step-by-Step Guide to Bypassing DRM on First 16 Chapters of Your eBook</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-to-changing-epub-books-into-pdf-documents-with-calibre-software/"><u>Step-by-Step Guide to Changing EPUB Books Into PDF Documents with Calibre Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-converting-audible-books-while-keeping-chapters-intact/"><u>Step-by-Step Guide: Converting Audible Books While Keeping Chapters Intact</u></a></li>
+<li><a href="https://blog-min.techidaily.com/steps-to-bypass-drm-restrictions-in-ebooks-chapter-2/"><u>Steps to Bypass DRM Restrictions in eBooks - Chapter 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-guide-to-moving-content-from-mobi-books-to-your-kindle-device/"><u>The Ultimate Guide to Moving Content From MOBI Books to Your Kindle Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-selection-of-6-manga-reader-apps-for-your-android-device/"><u>The Ultimate Selection of 6 Manga Reader Apps for Your Android Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-5-recommended-manga-readers-on-the-iphone-and-ipad/"><u>Top 5 Recommended Manga Readers on the iPhone & iPad</u></a></li>
 </ul></div>
 
