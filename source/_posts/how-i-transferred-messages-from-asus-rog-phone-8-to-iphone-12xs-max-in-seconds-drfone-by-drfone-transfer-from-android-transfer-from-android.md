@@ -1,7 +1,7 @@
 ---
 title: How I Transferred Messages from Asus ROG Phone 8 to iPhone 12/XS (Max) in Seconds | Dr.fone
-date: 2024-09-18T00:27:39.341Z
-updated: 2024-09-24T01:22:51.367Z
+date: 2024-11-28T21:45:28.287Z
+updated: 2024-12-05T19:23:50.358Z
 tags: 
   - transfer
 categories:
@@ -20,13 +20,6 @@ Well! If you are in a similar situation as me, then I would recommend you go thr
 
 ## 2 Apps to Transfer Messages from Asus ROG Phone 8 to iPhone 12/XS (Max) without Computer
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to transfer Android messages to iPhone 12/XS (Max) using Move to iOS app
 
 The first method to transfer text messages from Asus ROG Phone 8 to iPhone 12/XS (Max) is using the official Move to iOS app from Apple. Message history, call logs, contacts, web bookmarks, apps, etc. can be transferred from your Android to any iOS device. Though, I have noticed the app was acting strangely during data transfer. My Wi-Fi got some issues, and Move to iOS couldn’t properly complete the transfer.
@@ -38,6 +31,10 @@ The first method to transfer text messages from Asus ROG Phone 8 to iPhone 12/XS
 
     ![transfer messages from android to iPhone XS (Max) with move to ios](https://images.wondershare.com/drfone/article/2018/01/15150785955979.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. On your Asus ROG Phone 8, click ‘Continue’ and then press ‘Agree’. When prompted for a passcode, enter the one you got from iPhone 12/XS (Max).
 
     ![transfer SMS from android to iPhone XS (Max)](https://images.wondershare.com/drfone/article/2018/01/15150786375935.jpg)
@@ -45,6 +42,14 @@ The first method to transfer text messages from Asus ROG Phone 8 to iPhone 12/XS
 4. Ensure that the Android phone is also connected to Wi-Fi. Now, click on ‘Messages’ from the ‘Data Transfer’ option. Click ‘Next’ and wait a while to finish the data transfer. Hit the ‘Done’ button afterward once the iPhone 12/XS (Max) gets synched with these messages, set up your iCloud account, and view the messages.
 
     ![messages from android phone to iPhone XS (Max) - sync messages](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to transfer Android messages to iPhone 12/XS (Max) using SMS Backup+
 
@@ -57,16 +62,13 @@ You can learn how to transfer messages from Asus ROG Phone 8 to iPhone 12/XS (Ma
 
     ![transfer messages from android to iPhone XS (Max) using sms backup](https://images.wondershare.com/drfone/article/2018/08/sms-backup.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Now, since you’ve backed up your messages to Gmail, you can simply access and view them from any device. Simply launch Gmail with the same account, and you’ll be able to get hold of all your messages right on your iPhone 12/XS (Max).
 
 **Note:** _The messages will be enclosed in an Email attachment. That implies you won’t be able to import your messages to your iMessage app. If you want to transfer SMS to the default messages app, try Dr.Fone - Phone Transfer. It's a one-click and reliable desktop software._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 Methods to Transfer Messages from Asus ROG Phone 8 to iPhone 12/XS (Max) with a PC
 
@@ -81,10 +83,7 @@ Step 1:  Download Dr.Fone - Phone Transfer on your PC and then install and laun
 ![export messages from android to iPhone 12/XS (Max) in one click](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2:  Hit the ‘Switch’ tab from the Dr.Fone window. Select the Android phone as the source and iPhone 12/XS (Max) as the destination over here. Use the ‘Flip’ button in case you have altered the selection.
@@ -136,13 +135,6 @@ Samsung is one of the leading brands in the technology market, and Samsung Galax
 
 In this article, we will talk about the Samsung Galaxy S21 Ultra price and all its details with proper dissection that will help you determine whether this device is worth the value. Also, you'll definitely get to learn how to transfer photos to Samsung Galaxy S21 Ultra with advanced software that surely does the job well. So let's get to the details without wasting any time!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Samsung Galaxy S21 Ultra Introduction
 
 Samsung Galaxy S21 Ultra is the new model of the Samsung Galaxy series. This amazing device has so many features, the best quality camera, and 5G connectivity. This model of the Samsung Galaxy series has a pro-grade camera. Using its camera, you can take the best shots of anything. You can record video like a professional by using the camera. The camera has multi-lens with zoom-in features. You cannot take a perfect zoomed shot using another device because they don't have these zoom-in features.
@@ -171,6 +163,10 @@ As mentioned, the difference of screen measurements. Besides this, there are som
 
 ![samsung galaxy s21 ultra vs s20 display](https://images.wondershare.com/drfone/article/2021/06/samsung-display-vs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Camera:**
 
 Galaxy S21 and S21 Plus have three cameras: a 12MP main camera and a 12MP ultra-wide camera with a 64MP telephoto camera. The front camera comes in 10MP. On the other side, Galaxy S21 Ultra comes with a 108MP main camera, 12MP ultra-wide, and two 10MP telephoto cameras. Among these two telephoto cameras, one has 3x zoom capacity, and the other has 10X zoom capacity. S21 Ultra has a laser autofocus sensor that will track the subject and take the perfect shot. For video recording, three of these models have great video features. However, S21 Ultra is offering you the bright night sensor so you can record and take pictures in low light.
@@ -183,16 +179,13 @@ Regarding the battery performance and charging system, there are many difference
 
 In these three models, you will get 5G. So, there is no argument about this. However, Galaxy S21 Plus and S21 Ultra have been manufactured with Ultra-Wide Band (UWB) chips. It is a new feature that will provide hands-free control. Using these features, you can unlock your car or find the SmartTag tracker. Among these, S21 Ultra offers you more. It has Wi-Fi 6E compatibility, which is the fastest and lowest latency for Wi-Fi connection.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pro tips: How to Transfer Photos to S21 Ultra?
 
 Most of the time, after purchasing a new phone, we cannot transfer photos or other data to that device easily. At that moment, if you can use amazing data recovery software to transfer all your photos to the new Samsung Galaxy S21 Ultra, that would be a great solution. Well, we have the best solution for you. We are going to introduce you to an amazing software: [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It is a brilliant data recovery software that you can use for both iOS and Android systems. It has many amazing features. You can recover your data, transfer your photos and files, unlock Apple's ID and lock screen, repair the Android or iOS system, switch data from one phone to another phone, keep backup, restore data and erase data permanently from a device. Using this amazing software, you can transfer your photos to Samsung Galaxy S21 Ultra within one single click. Let's follow the guideline to know how to do this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Download & Install Program
 
@@ -211,13 +204,6 @@ Next, you can connect your Samsung Galaxy S21 Ultra and an iOS device to the com
 After choosing the desired file types (Photos for this case), click on the "Start Transfer" button to start the transfer process. Keep patience until the process ends and make sure both Android and iOS devices stay connected properly during the process.
 
 ![start to transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 4: Finish Transfer and Check
 
@@ -242,13 +228,6 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
 The biggest dilemma that people face when they buy a new iPhone like iPhone 14/14 Pro (Max) is how to transfer data from the Android or old iPhone. Well, transferring images, audio, videos, etc. is easy as there are lots of apps available that allow doing so.
 
 Aside from this, it is also important that they can transfer messages and contacts to their new phone like iPhone 14/14 Pro (Max). But the process of how to transfer text messages from Asus ROG Phone 8 to iPhone can get a little more tricky than transferring other data. But don’t worry, as there are some ways available that allow easy transferring of messages from Asus ROG Phone 8 to iPhone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: One-click solution to transfer text messages from Asus ROG Phone 8 to iPhone
 
@@ -281,10 +260,7 @@ Step 2: Then connect both the Asus ROG Phone 8 devices i.e. Android and iPhone t
 ![launch the tool and connect devices](https://images.wondershare.com/drfone/guide/drfone-home.png "first screen of Dr.Fone")
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Click on the Switch option on the Dr.Fone utility home screen and it will take you to Dr.Fone - Phone Transfer interface.
@@ -320,6 +296,10 @@ Step 1: Click on the “Move Data from Android” button on the “Apps and Data
 
 ![transfer messages from android to iphone](https://images.wondershare.com/drfone/article/2018/02/move-data-from-android.JPG "Apps and data screen")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: On the iPhone, click “Continue” on the Move from Android screen. It will generate the 6-digit or 10-digit code.
 
 Step 3: Now on the Android device, download and install the Move to iOS app and open it.
@@ -329,6 +309,10 @@ Step 4: Tap on “Continue” and then “Agree” on the terms and conditions s
 Step 5: Enter the code generated on the iPhone in the “Enter Code” screen.
 
 ![enter code](https://images.wondershare.com/drfone/article/2018/02/enter-code.JPG "enter the code to verify")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 6: On the Transfer Data screen, select the content to transfer and click “Next”. It will start the transfer process and will take some time to complete depending on the size of the data.
 
@@ -350,5 +334,20 @@ The disadvantage that this method has is that you can’t transfer messages from
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-kinemaster-a-comprehensive-guide-and-top-online-platforms/"><u>[Updated] Mastering KineMaster A Comprehensive Guide & Top Online Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-navigating-the-nuances-of-using-switch-pro-controller-on-steam-for-2024/"><u>[Updated] Navigating the Nuances of Using Switch Pro Controller on Steam for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tips-for-shaping-images-with-photoshop-curves/"><u>[Updated] Tips for Shaping Images with Photoshop Curves</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevating-your-instagram-presence-a-guide-to-smart-hashtag-use/"><u>2024 Approved Elevating Your Instagram Presence A Guide to Smart Hashtag Use</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-s24plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy S24+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-oneplus-11-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from OnePlus 11 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-honor-80-pro-straight-screen-edition-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Honor 80 Pro Straight Screen Edition to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/clonezillawindows-os-windows-111ve/"><u>Clonezillaを活用してWindows OSを複製する究極の手引き - Windows 11/1Veから始めよう</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-apple-iphone-14-pro-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from Apple iPhone 14 Pro Safe and Legal</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-tecno-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Tecno</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oneplus-nord-n30-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost OnePlus Nord N30 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-samsung-galaxy-s23-ultra-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-dependency-risks-why-governments-must-reduce-big-tech-reliance-a-look-at-microsoft-outages/"><u>Navigating Dependency Risks: Why Governments Must Reduce Big Tech Reliance - A Look at Microsoft Outages</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from OnePlus 12 to iPhone XS/11 | Dr.fone
-date: 2024-09-17T21:01:17.930Z
-updated: 2024-09-18T20:14:45.521Z
+date: 2024-11-30T23:47:30.109Z
+updated: 2024-12-05T20:55:44.054Z
 tags: 
   - transfer
 categories:
@@ -23,6 +23,10 @@ In this article, we are going to introduce 4 vital solutions to make your transi
 ## How to transfer contacts from OnePlus 12 to iPhone XS/11 in one click
 
 If you want to import contacts to iPhone XS/11 from Android in a single click, there is no better solution than [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). Not only contacts but a wide range of device data can be transferred from your Android to an iPhone with this tool. Photos, music, text messages, videos, etc. are a few of them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -55,11 +59,19 @@ Step 4:  In this step, you have to select the data type you want to move from y
 
 ![start to import contacts to iPhone XS (Max) from android with USB cable](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** _If it’s a used iPhone XS/11, then you can select the ‘Clear Data before Copy’ checkbox for erasing any existing data on it prior to transferring the data._
 
 Step 5: Allow some time to get the process completed. Your contacts are successfully transferred from the Android device to iPhone XS/11.
 
 [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to transfer contacts from OnePlus 12 to iPhone XS/11 using Move to iOS
 
@@ -93,9 +105,17 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 
 ![import contacts to iPhone XS (Max) from gmail account - transfer using google service](https://images.wondershare.com/drfone/article/2018/01/15150786756577.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Now, you need to add the same Gmail account to your iPhone X, in order to sync back contacts from it. For this, head to ‘Settings’ > ‘Passwords & Accounts’ > ‘Add Account’ > ‘Google’. Then, you’re required to punch in the details of the same Gmail account used over Android to sync contacts.
 
 ![import contacts to iPhone XS (Max) - add gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-add.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Lastly, get into ‘Settings’, then ‘Passwords & Accounts’, tap on your Gmail account and ensure that the ‘Contacts’ switch is turned on. Turn it on if it is not already. Within a short span of time, you can find the Android contacts appearing on your iPhone XS/11 after that.
 
@@ -153,6 +173,10 @@ To use this safe and reliable way to synchronize contacts with Gmail on Android,
 
 ![sync contacts from android to gmail-export to vcard file](https://images.wondershare.com/drfone/drfone/android-transfer-export-contacts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - 8\. You will be taken to a page to select where you want the file to be saved on your PC, select the location, and click on OK to start exporting your contacts.
 
 Once your contacts have been successfully saved to your PC as a vCard or in.VCF format can be easily imported into your Gmail account right from your computer by following these steps.
@@ -162,13 +186,6 @@ Once your contacts have been successfully saved to your PC as a vCard or in.VCF 
 - 3.Tap on the "More" button and select "Import" from the list. Gmail will open a pop-up for you to select the location of the previously saved.VCF or vCard file.
 
 ![sync contacts from android to gmail-select Import](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - 4\. Select the vCard and then hit the "Import" button. Your contacts will be imported into your Gmail account in no time.
 
@@ -334,6 +351,10 @@ Download SHAREit: <https://play.google.com/store/apps/details?id=com.lenovo.anys
 
 ![clone android phone with shareit](https://images.wondershare.com/drfone/article/2017/11/15115449339643.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Clone Android phone using CLONEit
 
 While changing Android phones, users often look for alternatives. Therefore, you can also take the assistance of CLONEit to transfer your files in a batch. The app can also be used to migrate multiple accounts Android without much trouble. To learn how to clone Android phone using CLONEit, follow these steps:
@@ -361,10 +382,11 @@ Download CLONEit: <https://play.google.com/store/apps/details?id=com.lenovo.anys
 ![clone android phone with cloneit](https://images.wondershare.com/drfone/article/2017/11/15115451102601.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Clone Android phone using Phone Clone
@@ -391,6 +413,10 @@ Download Phone Clone: <https://play.google.com/store/apps/details?id=com.hicloud
 
 ![clone android phone with phone clone app](https://images.wondershare.com/drfone/article/2017/11/15115448476323.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Clone Android phone using Google Drive
 
 Google Drive is ideally used to store data on the cloud. However, it can also be used to back up and restore your data. Even though Google Drive transfers the data wirelessly, it consumes a substantial amount of data usage. Also, the process is not as fast or smooth as other options. Nevertheless, you can learn how to clone Android phone using Google Drive by following these steps:
@@ -400,13 +426,6 @@ Google Drive is ideally used to store data on the cloud. However, it can also be
 2\. Furthermore, you can verify the account on which you are taking the backup of your data and turn on the option of “Automatic Restore”.  This will be of great help if you are managing multiple accounts Android.
 
 ![backup android with google drive](https://images.wondershare.com/drfone/article/2017/11/15115452026138.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. After taking a complete backup of your data, turn on your brand-new Android to perform its setup.
 
@@ -420,13 +439,6 @@ Google Drive is ideally used to store data on the cloud. However, it can also be
 
 ![restore from google drive](https://images.wondershare.com/drfone/article/2017/11/15115452575873.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 6: Clone OnePlus 12 Phone Using Bluetooth
 
 Using Bluetooth for cloning an Android phone is not the most efficient method. It is more suitable for transferring specific files than creating a comprehensive clone. Moreover, it's a slow and manual process that requires you to select and transfer files one by one. Here's how you can use Bluetooth for this purpose:
@@ -436,13 +448,6 @@ Using Bluetooth for cloning an Android phone is not the most efficient method. I
 2\. Now, choose the targeted device to send the file. Move to the other device and "Accept" the incoming file transfer.
 
 ![use the bluetooth feature](https://images.wondershare.com/drfone/article/2023/10/clone-android-phone-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -476,5 +481,22 @@ Now, when you know six different ways to clone Android phone, you can easily mov
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-youtube-clips-captured-a-no-cost-screencasting-tutorial/"><u>[New] In 2024, YouTube Clips, Captured A No-Cost Screencasting Tutorial</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-capture-every-click-with-spring-screen-recorder/"><u>[Updated] Capture Every Click with Spring Screen Recorder</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-archive-snaps-from-android-plus-mac-systems-for-2024/"><u>[Updated] How to Archive Snaps From Android + Mac Systems for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-most-valuable-maps-top-treasures-in-terraria-for-2024/"><u>[Updated] Most Valuable Maps Top Treasures in Terraria for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-m34-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy M34 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/causing-resentment-among-colonists-who-felt-that-these-acts-infringed-upon-their-economic-freedom-and-benefited-british-interests-at-the-expense-of-colonial101/"><u>Causing Resentment Among Colonists Who Felt that These Acts Infringed upon Their Economic Freedom and Benefited British Interests at the Expense of Colonial Development.</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-interactions-upsides-top-9-positive-aspects-explained/"><u>Digital Interaction's Upsides: Top 9 Positive Aspects Explained</u></a></li>
+<li><a href="https://article-posts.techidaily.com/from-novice-to-pro-expert-tips-for-spotifys-advertisers/"><u>From Novice to Pro Expert Tips for Spotify's Advertisers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-vivo-t2-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Vivo T2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-motorola-edgeplus-2023-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Motorola Edge+ (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-v30-lite-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted V30 Lite 5G Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-itel-p40-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Itel P40</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-tecno-spark-10c-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Tecno Spark 10C</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-s23-fe-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy S23 FE Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unleash-your-stories-gratis-facebook-enhancers-online-and-on-the-go-for-2024/"><u>Unleash Your Stories Gratis, Facebook Enhancers Online & On-The-Go for 2024</u></a></li>
+</ul></div>
 

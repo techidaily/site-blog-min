@@ -1,7 +1,7 @@
 ---
 title: 8 Ways to Transfer Photos from Motorola Edge 40 to iPhone Easily | Dr.fone
-date: 2024-09-13T16:39:18.714Z
-updated: 2024-09-18T16:11:13.436Z
+date: 2024-12-04T21:46:30.986Z
+updated: 2024-12-06T01:41:30.994Z
 tags: 
   - transfer
 categories:
@@ -60,6 +60,10 @@ Let us see the steps on how to transfer photos from Motorola Edge 40 to iPhone u
 
 Another way that can assist you in **moving photos from Motorola Edge 40 to iPhone** is the [Wondershare Dr.Fone](https://drfone.wondershare.com/android-transfer.html). What is incredibly convenient about Dr.Fone is its ability to transfer photos selectively. You can also use it to transfer contacts, videos, messages, podcasts, and anything else stored on your Android in minutes. Wondershare Dr.Fone is a secure, trustworthy program. Hence you can be reassured that your information will be safe while transferring from one device to another.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Wondershare Dr.Fone](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
 All in one Solution to Transfer Photos from Motorola Edge 40 to iPhone
@@ -94,13 +98,6 @@ The next step is to take your Motorola Edge 40 to complete the transfer process 
 
 ![how to transfer photos from android to iphone-move from android to ios](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 5:** On your Motorola Edge 40, enter the 12-digit code of the iPhone. This is so that the ‘Move to iOS’ app knows which iOS device it has to transfer the data to.
 
 ![how to transfer photos from android to iphone-enrer the code](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-9.jpg)
@@ -126,6 +123,10 @@ Bluetooth is an excellent option to transfer photos and videos across both Andro
 
 ![how to transfer photos from android to iphone-via bluetooth](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It is important to note that the rate of data transfer on Bluetooth is heavily dependent on the version of Bluetooth you use. For example, if you use Bluetooth 2.x data transfer happens at 0.25 MB/s, whereas Bluetooth 5.x transfers data at 6 MB/s.
 
 ## Part 4: How to Transfer Photos from Motorola Edge 40 to iPhone Using Google Drive?
@@ -149,6 +150,10 @@ Now, move to your iPhone.
 **Step 3:** Open the Drive (you must log in with the same Google ID). There you will see all the uploaded media files (Photos). Now, select ‘Save Image’ or ‘Save Video’ depending on your file type.
 
 This way takes some manual steps. If you want a one-click solution, try [Dr.Fone - Phone Transfer (iOS&Android)](https://tools.techidaily.com/wondershare/drfone/phone-switch/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. How to Transfer Photos from Motorola Edge 40 to iPhone Via Email?
 
@@ -192,7 +197,15 @@ The best part of Shareit is the freedom allowed to users because you can transfe
 
 ![how to transfer photos from android to iphone-Shareit](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Thus, after going through the article, we are sure that you have a wide range of options to choose from to transfer your Motorola Edge 40 photos to the iPhone. Well, every method is excellent in itself; however, we would like to say that one of the best options for you would be the Dr.Fone tool without a doubt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 Ways to Transfer Text Messages from Motorola Edge 40 to iPhone 15/14/13/12/11/X/8/
 
@@ -214,19 +227,6 @@ Transfer Text Messages from Motorola Edge 40 to iPhone like iPhone 15/14/14 Pro 
 - Move data between devices with different operating systems, i.e iOS to Android.
 - Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Supports over 8000+ Android devices.
 - Works for all models of iPhone, iPad, and iPod.
@@ -254,13 +254,6 @@ Step 5: Now, select the data that you want to transfer by checking the respectiv
 Step 6: Finally hit the “Start Transfer” button and it will begin to transfer text messages from Motorola Edge 40 to iPhone.
 
 Dr.Fone - Phone Transfer offers a safe and quick way to transfer messages from Motorola Edge 40 to iPhone like iPhone 14/14 Pro (Max). Moreover, it can work both on new and old target iPhone. Dr.Fone - Phone Transfer is also compatible with a variety of iOS devices and iOS versions, so it doesn’t have any restrictions for transferring data.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Transfer SMS from Motorola Edge 40 to iPhone using Move to iOS app
 
@@ -297,16 +290,13 @@ Step 6: On the Transfer Data screen, select the content to transfer and click �
 
 ![process of transferring sms from android to iphone](https://images.wondershare.com/drfone/article/2018/02/move-to-ios.JPG "transfer to be complete in a while")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 7: After transferring is complete, finish the iPhone device setup process.
 
 The disadvantage that this method has is that you can’t transfer messages from Motorola Edge 40 to iPhone on an already set up iPhone. It only works on a new device or has to erase the data on the target device. Moreover, as it only works with all versions of iOS, the older devices can’t transfer messages through this method. They can use [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) for the task.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Transfer Contacts from Motorola Edge 40 to iPhone XS/11
 
@@ -375,16 +365,13 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 
 ![transfer contacts from Motorola Edge 40 to iPhone XS (Max) - pair android and iPhone XS (Max)](https://images.wondershare.com/drfone/article/2018/01/15150786375935.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. On your Motorola Edge 40, click ‘Done’ as soon as the data transfer is complete. Let the iPhone XS/11 sync the contacts. You need to set up your iCloud account now. Once it is done, you can view the transferred contacts on the iOS device.
 
 ![transfer contacts from Motorola Edge 40 to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to transfer contacts from Motorola Edge 40 to iPhone XS/11 using Google account
 
@@ -396,9 +383,17 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 
 ![import contacts to iPhone XS (Max) from gmail account - transfer using google service](https://images.wondershare.com/drfone/article/2018/01/15150786756577.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Now, you need to add the same Gmail account to your iPhone X, in order to sync back contacts from it. For this, head to ‘Settings’ > ‘Passwords & Accounts’ > ‘Add Account’ > ‘Google’. Then, you’re required to punch in the details of the same Gmail account used over Android to sync contacts.
 
 ![import contacts to iPhone XS (Max) - add gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-add.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Lastly, get into ‘Settings’, then ‘Passwords & Accounts’, tap on your Gmail account and ensure that the ‘Contacts’ switch is turned on. Turn it on if it is not already. Within a short span of time, you can find the Android contacts appearing on your iPhone XS/11 after that.
 
@@ -412,6 +407,10 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 2. Click on ‘Export to SIM’ or ‘SIM card’ and then select the source of contacts i.e. ‘Phone’/’WhatsApp’/’Google’/’Messenger’.
 
 ![transfer contacts from Motorola Edge 40 to iPhone XS (Max) via sim card](https://images.wondershare.com/drfone/article/2018/08/export-android-contacts-to-sim.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Then hit ‘Export’ and ‘Continue’ afterward.
 2. Now, open the SIM card slot of your Motorola Edge 40 and unmount the SIM. Insert it on your iPhone XS/11 and turn it on. You can find the contacts on your iPhone.
@@ -430,5 +429,24 @@ As you know the SIM card itself can hold a certain number of contacts, depending
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-fusing-imagery-montage-mastery-essentials/"><u>[New] Fusing Imagery Montage Mastery Essentials</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-link-up-in-the-world-of-instagram/"><u>[New] In 2024, How-To Link Up in the World of Instagram</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-integrating-textual-descriptions-into-videos-on-photos-windows-11-for-2024/"><u>[Updated] Integrating Textual Descriptions Into Videos on Photos (Windows 11) for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715859711362-2024-approved-best-free-android-capture-app-zero-ads/"><u>2024 Approved Best Free Android Capture App, Zero Ads!</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/advanced-ai-powered-music-creation-with-copilot-enhancements-whats-new-on-zdnet/"><u>Advanced AI-Powered Music Creation with Copilot Enhancements - What's New on ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breaking-ground-in-editing-an-examination-of-the-vida-app/"><u>Breaking Ground in Editing An Examination of the Vida App</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-infinix-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Infinix ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-hardware-device-drivers-manually-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to install hardware device drivers manually on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-nubia-red-magic-9-proplus-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Nubia Red Magic 9 Pro+ using Video Repair Utility on Windows? </u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-edge-40-neo-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Edge 40 Neo Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-xiaomi-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Xiaomi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-google-pixel-fold-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Google Pixel Fold.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-realme-narzo-60-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-conferencing-using-zoom-to-extend-skype-capabilities-for-2024/"><u>Streamlining Conferencing Using Zoom to Extend Skype Capabilities for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-troubleshooting-checklist-for-powerless-computers-and-tablets/"><u>The Ultimate Troubleshooting Checklist for Powerless Computers and Tablets</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-to-weigh-up-before-permanently-saying-goodbye-online/"><u>What to Weigh Up Before Permanently Saying Goodbye Online</u></a></li>
+</ul></div>
 

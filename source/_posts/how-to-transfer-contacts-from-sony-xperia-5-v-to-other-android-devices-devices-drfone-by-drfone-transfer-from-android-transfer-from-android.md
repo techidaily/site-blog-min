@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from Sony Xperia 5 V to Other Android Devices Devices? | Dr.fone
-date: 2024-09-12T21:02:22.262Z
-updated: 2024-09-18T20:24:42.770Z
+date: 2024-11-29T20:38:39.618Z
+updated: 2024-12-05T17:11:31.176Z
 tags: 
   - transfer
 categories:
@@ -21,6 +21,10 @@ So for all those who want to know how to transfer contacts from Sony Xperia 5 V 
 ## Part 1: How to transfer contacts from Sony Xperia 5 V to Other Android Devices using Dr.Fone toolkit?
 
 One of the most popular toolkit to transfer contacts from Sony Xperia 5 V to Other Android Devices is the [Dr.Fone toolkit - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). This is a revolutionary application for your entire backup and restores solutions. This application supports over 8000+ Android devices worldwide and with its advanced features, the application allows the user to take backup and restore by selecting their needs and requirements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
@@ -53,6 +57,10 @@ Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to t
 ![How to Transfer Photos from Sony Xperia 5 V to Other Android Devices-transfer process](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3O1hKeyNmsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How to Transfer Photos from Old Android to New Android Using NFC
 
@@ -117,10 +125,7 @@ Advantages: This process is easy to use and can be done without any PC.
 Disadvantage: It can only transfer the contacts up to the SIM capacity that is 200 to 250 in one time. If you have lots of contacts, it is impossible to transfer by this method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to transfer contacts from Sony Xperia 5 V to Other Android Devices using Bluetooth or Wi-Fi Direct?
@@ -165,13 +170,6 @@ To transfer contacts from Sony Xperia 5 V to Other Android Devices via this app,
 
 ![select receiving device](https://images.wondershare.com/drfone/article/2017/05/14945046092554.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4\. Now connect with your old device by opening the app on your old Android mobile. This will prompt to enter the pin number as displayed. Enter the same and hit “Connect” to start the process.
 
 5\. Now, select “Contact” on your old device and tap “Send”.
@@ -185,10 +183,7 @@ Disadvantages: This app is not supported on all the Android devices.  Also, the
 Thus, these were the four best options that you can use to transfer contacts from Sony Xperia 5 V to Other Android Devices. However, in our experience, the first method, the Dr.Fone toolkit- Android data backup and restore is by far the best and most secured among all solutions for transferring contacts from Sony Xperia 5 V to Other Android Devices. So, if you do not want to lose any data while transfer or worry about the security, use the Dr.Fone toolkit for the best result.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Two Ways to Sync Contacts from Sony Xperia 5 V to Gmail
@@ -239,9 +234,17 @@ Once your contacts have been successfully saved to your PC as a vCard or in.VCF 
 
 ![sync contacts from android to gmail-select Import](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - 4\. Select the vCard and then hit the "Import" button. Your contacts will be imported into your Gmail account in no time.
 
 ![sync contacts from android to gmail-imported contacts into your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you followed these steps, you would not only have synced your contacts with your computer, and you would also have synchronized them with your Gmail account.
 
@@ -371,10 +374,7 @@ If you want the Source device to be the Destination device, click on the “Flip
 ![transfer music from android to android-click on “Start Transfer”](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You should now see your music files being transferred with the overall progress displayed on a dialogue box.
@@ -425,6 +425,10 @@ Bluetooth transfer is one of the oldest methods that can be used to transfer mus
 
 ![transfer music from android to android-Go to “Connection”](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Now, switch on the Bluetooth for the destination device as well. Once done, search for your device’s Bluetooth name on the phone and click to pair both Bluetooth devices together.
 
 Mostly, you will be provided with a pair confirmation code that will be displayed on both devices. Click OK to pair both devices successfully.
@@ -440,10 +444,7 @@ This is how you can transfer music files from Sony Xperia 5 V to Other Android D
 ![transfer music from android to android-use Bluetooth](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4. How to transfer music from Sony Xperia 5 V to Other Android Devices using NFC?
@@ -463,6 +464,10 @@ NFC or Near Field Communication is another wireless means to transfer music from
 **Step 3.** After connecting both the Sony Xperia 5 V devices, you will be provided with media options of files that can be transferred. In this case, select the Music files and then click on “Transfer” to send the music files via NFC.
 
 ![transfer music from android to android-send the music files via NFC](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. How to transfer music from Sony Xperia 5 V to Other Android Devices using Google Play Music?
 
@@ -494,5 +499,20 @@ At last, we hope that you now know how to transfer music from Sony Xperia 5 V to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-capture-natural-motion-blur-for-pics/"><u>[Updated] Capture Natural Motion Blur for Pics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-clear-image-purchases-no-more-watermarks/"><u>[Updated] Clear Image Purchases No More Watermarks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-in-depth-look-at-screenrec-your-laptops-best-friend/"><u>[Updated] In 2024, In-Depth Look at ScreenRec Your Laptop's Best Friend</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-transforming-imovie-projects-into-youtube-shows/"><u>[Updated] In 2024, Transforming iMovie Projects Into YouTube Shows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-social-media-marketing-essential-24-trend-alerts/"><u>2024 Approved Mastering Social Media Marketing Essential '24 Trend Alerts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-infinix-note-30-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Infinix Note 30 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-data-management-in-excel-achieved-via-smart-chatgpt-use/"><u>Advanced Data Management in Excel Achieved via Smart ChatGPT Use</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-motorola-defy-2-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Motorola Defy 2?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-se-2020-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone SE (2020) without Apple ID?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-tecno-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Tecno ?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-best-iphone-selfie-boosters-all-free-and-upgraded/"><u>In 2024, Explore Best iPhone Selfie Boosters - All Free and Upgraded</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-videography-on-fb-horizontal-or-vertical-placement/"><u>In 2024, Videography on FB Horizontal or Vertical Placement?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/overcoming-samsung-printer-driver-errors-expert-solutions-for-windows-devices/"><u>Overcoming Samsung Printer Driver Errors: Expert Solutions for Windows Devices</u></a></li>
+</ul></div>
 

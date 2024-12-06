@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from Samsung Galaxy Z Flip 5 to iPhone XS/11 | Dr.fone
-date: 2024-09-16T19:50:03.352Z
-updated: 2024-09-18T16:02:18.879Z
+date: 2024-11-29T02:37:31.739Z
+updated: 2024-12-05T16:33:33.819Z
 tags: 
   - transfer
 categories:
@@ -49,6 +49,10 @@ Step 3:  Once the Samsung Galaxy Z Flip 5 devices get detected, you need to sel
 
 ![import contacts to iPhone XS (Max) from android - specify source and target devices](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** _In case of a wrong selection, you can tap the ‘Flip’ button and change the selection._
 
 Step 4:  In this step, you have to select the data type you want to move from your Samsung Galaxy Z Flip 5 to the iPhone XS/11, i.e. ‘Contacts’. Now, push the ‘Start Transfer’ button consecutively to initiate the transfer.
@@ -79,9 +83,17 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 
 ![transfer contacts from Samsung Galaxy Z Flip 5 to iPhone XS (Max) - pair android and iPhone XS (Max)](https://images.wondershare.com/drfone/article/2018/01/15150786375935.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. On your Samsung Galaxy Z Flip 5, click ‘Done’ as soon as the data transfer is complete. Let the iPhone XS/11 sync the contacts. You need to set up your iCloud account now. Once it is done, you can view the transferred contacts on the iOS device.
 
 ![transfer contacts from Samsung Galaxy Z Flip 5 to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to transfer contacts from Samsung Galaxy Z Flip 5 to iPhone XS/11 using Google account
 
@@ -93,16 +105,13 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 
 ![import contacts to iPhone XS (Max) from gmail account - transfer using google service](https://images.wondershare.com/drfone/article/2018/01/15150786756577.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Now, you need to add the same Gmail account to your iPhone X, in order to sync back contacts from it. For this, head to ‘Settings’ > ‘Passwords & Accounts’ > ‘Add Account’ > ‘Google’. Then, you’re required to punch in the details of the same Gmail account used over Android to sync contacts.
 
 ![import contacts to iPhone XS (Max) - add gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-add.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Lastly, get into ‘Settings’, then ‘Passwords & Accounts’, tap on your Gmail account and ensure that the ‘Contacts’ switch is turned on. Turn it on if it is not already. Within a short span of time, you can find the Android contacts appearing on your iPhone XS/11 after that.
 
@@ -116,6 +125,10 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 2. Click on ‘Export to SIM’ or ‘SIM card’ and then select the source of contacts i.e. ‘Phone’/’WhatsApp’/’Google’/’Messenger’.
 
 ![transfer contacts from Samsung Galaxy Z Flip 5 to iPhone XS (Max) via sim card](https://images.wondershare.com/drfone/article/2018/08/export-android-contacts-to-sim.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Then hit ‘Export’ and ‘Continue’ afterward.
 2. Now, open the SIM card slot of your Samsung Galaxy Z Flip 5 and unmount the SIM. Insert it on your iPhone XS/11 and turn it on. You can find the contacts on your iPhone.
@@ -188,22 +201,12 @@ Download Mobogenie and run it, and connect your Samsung Galaxy Z Flip 5 to the c
 
 ![bluetooth android file transfer](https://images.wondershare.com/drfone/article/2018/03/moborobo-home.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As with other data management software, you can download and install apps onto your Samsung Galaxy Z Flip 5 from your PC. The advantage of this is that apps can be downloaded quickly, and also without costing you in terms of data roaming charges.
 
 ![usb android file transfer](https://images.wondershare.com/drfone/article/2018/03/download-app-with-mobogenie.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A neat feature is the ability to uninstall apps that came preloaded on the phone as often we find ourselves with apps that we never use that we cannot delete.
@@ -213,6 +216,10 @@ A neat feature is the ability to uninstall apps that came preloaded on the phone
 The transfer of photo files is straightforward, and several photos can be selected from your computer to import onto your device at once, or vice versa.
 
 ![usb to android file transfer](https://images.wondershare.com/drfone/article/2018/03/transfer-photos-with-mobogenie.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features:**
 
@@ -230,9 +237,17 @@ Once connected, you will be brought to this home page, notice the options to use
 
 ![USB android file transfer](https://images.wondershare.com/drfone/article/2018/03/mobogenie-home.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As with Mobogenie, once you are on the software, it is fairly easy to navigate around, and you can do everything from sending SMS from your PC to transferring apps and contacts. However, a drawback is that the management of your music requires you to have all your MP3 files on your PC and move them on to the software- not extremely inconvenient, but as we will see much easier solutions exist.
 
 We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides a simple user-friendly interface that allows you to manage your Samsung Galaxy Z Flip 5 with ease. You can also transfer files between Android and Mac easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Transfer Contacts from Samsung Galaxy Z Flip 5 to Outlook
 
@@ -254,13 +269,6 @@ One Stop Solution to Transfer Contacts from Samsung Galaxy Z Flip 5 to Outlook
 
 **4,858,377** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to sync Android with Outlook?
 
 Now, I’d like to introduce you how to transfer Android contacts to Outlook. Download this free trial version on your computer. Then check out the easy steps below.
@@ -271,6 +279,10 @@ To start with, connect your Samsung Galaxy Z Flip 5 with a computer either via a
 
 ![android to outlook](https://images.wondershare.com/drfone/guide/transfer-files-quickly-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2. Android to Outlook sync
 
 Then, click "Contacts" under "Information" panel on the top. In the contact management window, choose the contacts that you want to export. Click "Export" button. When the drop-down menu pops up, you can either click "Export selected contacts to computer" or "Export all contacts to computer". After that, click "to Outlook Express" or "to Outlook 2003/2007/2010/2013". Then, the contract transferring begins. Be sure your Samsung Galaxy Z Flip 5 is connected all the time.
@@ -278,13 +290,6 @@ Then, click "Contacts" under "Information" panel on the top. In the contact mana
 As you see, apart from exporting Android contacts to Outlook, you can also copy contacts from Samsung Galaxy Z Flip 5 to vCard, Windows Live Mail and Windows Address Book. If you have a Gmail account, you’re able to export Android contacts to your computer, and then backup these Android contacts to your Gmail account too.
 
 ![how to sync android with outlook](https://images.wondershare.com/drfone/drfone/android-transfer-export-contacts.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now, download Dr.Fone - Phone Manager (Android) to have a try!
 
@@ -300,5 +305,22 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-channel-growth-blueprint-selecting-between-studio-and-latest-beta/"><u>[New] Channel Growth Blueprint Selecting Between Studio and Latest Beta</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-efficient-techniques-for-editing-account-numbers-on-tiktok-for-2024/"><u>[Updated] Efficient Techniques for Editing Account Numbers on TikTok for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-ultimate-guide-vimeo-video-grabs/"><u>[Updated] Ultimate Guide Vimeo Video Grabs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/build-diy-virtual-reality-google-cardboard-hack/"><u>Build DIY Virtual Reality Google Cardboard Hack</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-gionee-f3-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Gionee F3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-samsung-galaxy-f14-5g-by-fonelab-android-recover-music/"><u>How to recover old music from your Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-15-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 15 iOS System? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-g54-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from G54 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-nokia-c110-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Nokia C110</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2019-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2019 free</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-12-miniipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from Apple iPhone 12 mini/iPad/iPod</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-loom-fabricate-crafting-your-video-threads/"><u>In 2024, Loom Fabricate Crafting Your Video Threads</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-pro-stream-picks-expertly-chosen-hardware-and-software-combo/"><u>In 2024, Pro Stream Picks Expertly Chosen Hardware & Software Combo</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-pros-picks-the-5-ultimate-gaming-stream-cams-uncovered/"><u>In 2024, Pro's Picks The 5 Ultimate Gaming Stream Cams Uncovered</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-computer-components-with-toms-gear-guides/"><u>Unveiling Computer Components with Tom's Gear Guides</u></a></li>
+</ul></div>
 

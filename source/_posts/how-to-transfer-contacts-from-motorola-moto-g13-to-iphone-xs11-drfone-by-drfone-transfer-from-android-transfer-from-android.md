@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from Motorola Moto G13 to iPhone XS/11 | Dr.fone
-date: 2024-09-11T17:10:24.109Z
-updated: 2024-09-18T20:21:21.588Z
+date: 2024-11-29T23:59:09.392Z
+updated: 2024-12-05T17:20:59.026Z
 tags: 
   - transfer
 categories:
@@ -83,6 +83,10 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 
 ![transfer contacts from Motorola Moto G13 to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to transfer contacts from Motorola Moto G13 to iPhone XS/11 using Google account
 
 Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Android mobile, as well. to do that, you need to get your Gmail and Android device contacts to get synced first.
@@ -100,6 +104,10 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 1. Lastly, get into ‘Settings’, then ‘Passwords & Accounts’, tap on your Gmail account and ensure that the ‘Contacts’ switch is turned on. Turn it on if it is not already. Within a short span of time, you can find the Android contacts appearing on your iPhone XS/11 after that.
 
 ![imported contacts to iPhone XS (Max) from Android gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-contacts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to transfer contacts from Motorola Moto G13 to iPhone XS/11 using SIM card
 
@@ -136,13 +144,6 @@ Migrate all data from Motorola to Samsung quickly
 
 **4,919,791** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps to Transfer Data from Motorola to Samsung
 
 To transfer data from your Motorola to your Samsung phone, you will require:
@@ -158,13 +159,6 @@ To transfer data from your Motorola to your Samsung phone, you will require:
 
 ![Motorola to samsung-select device mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3.** There will be several modes listed on the screen. Select the “Phone Transfer” mode. Dr.Fone - Phone Transfer will display both of your devices after detecting them.
 
 ![Motorola to samsung-connect devices to computer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
@@ -174,10 +168,7 @@ To transfer data from your Motorola to your Samsung phone, you will require:
 ![Motorola to samsung-transfer from Motorola to Samsung](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5.** You can cancel the transferring process at any time by hitting the “Cancel” button however, make sure that neither of the Motorola Moto G13 devices gets detached while the transferring process is still underway.
@@ -187,6 +178,10 @@ To transfer data from your Motorola to your Samsung phone, you will require:
 Looking for a hassle-free way to transfer your WhatsApp data from Motorola to Samsung? If yes, your best bet to complete the transfer without a hitch is [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/). This solution facilitates the smooth transfer of WhatsApp chats, ensuring all attachments are included. Not only can you transfer chats, but you can also effortlessly backup and restore your WhatsApp data,
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/)
 
@@ -208,13 +203,6 @@ Begin by opening Wondershare Dr.Fone on your computer and proceed to link your M
 
 ![choose the whatsapp transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Assign Correct Positions to Motorola and Samsung Devices**
 
 Now, you need to assign the Motorola and Samsung devices to their respective positions. Here, the Motorola phone should be in the "Source" position. In the same way, the Samsung device needs to be in the "Destination" position. Use the "Flip" button in case the assigned positions are incorrect.
@@ -235,6 +223,10 @@ Samsung Smart Switch is an official tool developed by Samsung. This tool is desi
 
 ![motorola to samsung data transfer](https://images.wondershare.com/drfone/article/2023/11/transfer-data-from-motorola-to-samsung-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** On the Motorola device, tap "Send Data" and follow it by pressing "Wireless." Now move to Samsung and tap "Receive Data," then press "Galaxy/Android," and finally tap "Wireless."
 
 ![receive data on samsung](https://images.wondershare.com/drfone/article/2023/11/transfer-data-from-motorola-to-samsung-5.jpg)
@@ -253,13 +245,25 @@ Moreover, it enables easy transfer of media files between iTunes and Android. Dr
 
 To cater for the above mentioned problems and many other, Dr.Fone - Phone Transfer was developed. [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is an easy to use tool. It has been designed to assist you to in transferring data from your old phone to your new phone, including transferring contacts from Motorola to Samsung.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 6 Ways to Transfer Text Messages from Motorola Moto G13 to Other Android Devices
 
 With the advancement in technology, your expectations have also increased. You have made technology as your magic stick. It makes your life easy and smooth. Isn’t it? However, at the same moment, it is very painful when you don’t get know the ways to transfer text messages from Motorola Moto G13 to another Android. We understand that it might be little tricky on how to get the task done. For this reason, we have collated top 6 ways to transfer messages from Motorola Moto G13 to Other Android Devices. And made sure to get you the step by step details of all the entire procedure you need to go through to transfer text messages from Motorola Moto G13 to Other Android Devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Best free apps to transfer text messages from Motorola Moto G13 to Other Android Devices
 
 When you are planning to upgrade your phone from one Android version to another, and you want to transfer all your existing SMS’s from one phone to another, then there are several free applications that are available on the Play Store that can make your life easy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. SMS Backup and Restore App
 
@@ -272,6 +276,10 @@ One of the best and easiest ways to transfer text messages from your old Android
 **Step 3 -** Select Messages from the options you receive on the next tab and click on “Next”.
 
 ![messages transfer by sms backup restore 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-sms-backup-restore-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4 -** Select where you want to create your backup. And click on “Next”.
 
@@ -315,13 +323,6 @@ Another and a simpler way to transfer text messages from one Android to another 
 
 ![messages transfer by super backup restore 3](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 6 -** It will start restoring all your SMS’s.
 
 ![messages transfer by super backup restore 4](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-super-backup-restore-4.jpg)
@@ -335,6 +336,10 @@ Whether you are switching from iPhone or from any Android phone to Samsung Galax
 **Step 2 -** Click on “Send” data on your old smartphone and click on “Receive” data on your new Galaxy phone.
 
 ![messages transfer by smart switch 1](https://images.wondershare.com/drfone/article/2019/11/messages-transfer-by-smart-switch-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3 -** Connect with the “Wireless” connection on both the Motorola Moto G13 devices.
 
@@ -418,5 +423,24 @@ We hope we have answered all your queries regarding phone to phone transfer in d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-cyberspace-enhancer-facebook-story-backup-tool/"><u>[New] In 2024, Cyberspace Enhancer Facebook Story Backup Tool</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-tallying-up-mr-beasts-earnings/"><u>[Updated] 2024 Approved Tallying Up Mr. Beast's Earnings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-honor-play-8t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Honor Play 8T to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-strategies-for-chapter-insertion-in-youtube-videos-for-2024/"><u>Advanced Strategies for Chapter Insertion in YouTube Videos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-honor-magic-6-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Honor Magic 6 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-redmi-a2plus-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi Redmi A2+ to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-magic-5-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Magic 5 Pro To Phone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-reno-8t-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Reno 8T 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-t2-pro-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo T2 Pro 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y100i-power-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y100i Power 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-z-fold-5-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy Z Fold 5 Without PUK Codes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-smartwatch-selection-for-2e24-in-depth-analysis-by-tech-specialists/"><u>Leading Smartwatch Selection for 2E24: In-Depth Analysis by Tech Specialists</u></a></li>
+<li><a href="https://common-error.techidaily.com/league-of-legends-lag-no-more-speedy-download-fixes-unveiled/"><u>League of Legends Lag No More: Speedy Download Fixes Unveiled</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-imovie-alternatives-for-windows-10-free-and-premium-options/"><u>New Top iMovie Alternatives for Windows 10 Free and Premium Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-creme-de-la-cream-of-online-tv-services/"><u>The Crème De La Cream of Online TV Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-upcoming-transformation-7-key-ways-generative-ai-will-reshape-careers/"><u>The Upcoming Transformation: 7 Key Ways Generative AI Will Reshape Careers</u></a></li>
+</ul></div>
 

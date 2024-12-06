@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from Infinix Note 30i to Outlook | Dr.fone
-date: 2024-09-15T21:43:21.842Z
-updated: 2024-09-18T18:29:52.392Z
+date: 2024-11-29T22:18:00.816Z
+updated: 2024-12-05T21:10:41.083Z
 tags: 
   - transfer
 categories:
@@ -41,6 +41,14 @@ Now, I’d like to introduce you how to transfer Android contacts to Outlook. Do
 To start with, connect your Infinix Note 30i with a computer either via a USB cable. Run Dr.Fone on your computer and choose Transfer fron the main window Then, your Infinix Note 30i will be detected instantly. After that, the primary window will appears like the screenshot shows below.
 
 ![android to outlook](https://images.wondershare.com/drfone/guide/transfer-files-quickly-to-android-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2. Android to Outlook sync
 
@@ -133,13 +141,6 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 
 ![import contacts to iPhone XS (Max) from gmail account - transfer using google service](https://images.wondershare.com/drfone/article/2018/01/15150786756577.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Now, you need to add the same Gmail account to your iPhone X, in order to sync back contacts from it. For this, head to ‘Settings’ > ‘Passwords & Accounts’ > ‘Add Account’ > ‘Google’. Then, you’re required to punch in the details of the same Gmail account used over Android to sync contacts.
 
 ![import contacts to iPhone XS (Max) - add gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-add.jpg)
@@ -147,13 +148,6 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 1. Lastly, get into ‘Settings’, then ‘Passwords & Accounts’, tap on your Gmail account and ensure that the ‘Contacts’ switch is turned on. Turn it on if it is not already. Within a short span of time, you can find the Android contacts appearing on your iPhone XS/11 after that.
 
 ![imported contacts to iPhone XS (Max) from Android gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-contacts.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to transfer contacts from Infinix Note 30i to iPhone XS/11 using SIM card
 
@@ -169,13 +163,6 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 
 **Note:** _Though, it’s rare nowadays. In case you happen to own a very old SIM card and your Infinix Note 30i supported the size. You might need to cut it to fit the iPhone XS/11’s micro-SIM slot._
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Solved] Move from Infinix Note 30i to iOS not Working Problems
 
 You might be wondering, what is the Move to iOS? If you are an android user and have decided to shift to the iPhone, you will need the Move to iOS tool. The app is developed to help transfer data from an android device to iOS devices. Google play store has the app, and it's free.
@@ -189,6 +176,10 @@ Move to iOS app works on android version 4.0 or higher. You can transfer data to
 Besides knowing what the content that Moves to iOS tool can transfer, you might be wondering how long the process can take. Depending on the content you want to transfer, the process generally takes around 10 – 30 minutes. However, other factors can determine the time the app will take to move content to iOS. They include the speed of the network, patency of the transmission process, and Wi-Fi stability.
 
 ![android move to ios](https://images.wondershare.com/drfone/phone-transfer/move-to-ios-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Move to iOS not working problem lists
 
@@ -253,6 +244,10 @@ Most of the 'move to iOS' problems are related to Wi-Fi connection issues, andro
 
 Restarting your devices is the essential thing to do when troubleshooting the Move to iOS problems. It is a great way o eliminate minor issues during data transfer from android to iOS devices. The process can resolve the Move to iOS stuck on connecting to iPhone issues. A simple restart will eliminate the bugs and any cached error in the Infinix Note 30i devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 2: Clear all running apps
 
 It is recommended to avoid using the android device o run applications when using the Move to iOS app. Since the app runs in the foreground, you should ensure all other apps in the android are disabled before starting the data transfer process. Notifications and incoming calls are likely to interfere with the process; therefore, users must ensure such distraction is not happening by disabling such apps.
@@ -279,6 +274,10 @@ Before you begin transferring android data to iOS devices, check the size of all
 
 Android devices with connection optimizers will switch between different connections for better connectivity. Since the Move to iOS app utilizes the iPhones private network, the connection optimizer might start using mobile data or switch to another Wi-Fi connection when the current connection drops. The circumstance can break the connection between the android ad iOS device hence interfering with the data transfer process. Be sure to turn off the feature from settings before running the Move to iOS app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 8: Check the compatibility of your devices
 
 You need to check whether your android device meets the minimum requirements to be compatible with the Move to iOS app, much like other apps found on the App Store and Google play store. Generally, the app runs on Android 4.0 and above while transferring data to iOS 9.0 or later devices.
@@ -292,6 +291,10 @@ Turning off the battery optimization on both your Android and iOS device is a re
 An alternative solution to Move to iOS not working problem is to use [Dr. Fone – Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html). The software can transfer all types of data from android to iOS devices quickly. Here, you will select the type of data you need and begin moving in a single click.
 
 Most importantly, the programs transfer data at a very high speed compared to other alternatives. You can also use the software to [transfer social apps](https://drfone.wondershare.com/whatsapp/transfer-whatsapp-messages-from-android-to-iphone.html) and retain the important history of apps like WhatsApp, Wechat, Viber, Line, or Kik.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
 
@@ -311,6 +314,10 @@ You need to login to your iCloud account on android to download data, or you can
 
 ![ios-to-android adapter](https://images.wondershare.com/drfone/drfone/drfone-switch-app-migrate-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Use the following simple steps.**
 
 - Install Dr. Fone- Phone Transfer app on your android device and click on the 'Import From iCloud' option.
@@ -327,6 +334,10 @@ Dr. Fone – Phone Transfer will begin to scan data on your iPhone. The time wil
 
 Tap on 'start importing' once all data has been detected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: \[Alternative\] Move to iOS not working solved with a PC
 
 The following steps will help you transfer data from android to an iOS device using a PC.
@@ -336,34 +347,12 @@ The following steps will help you transfer data from android to an iOS device us
 
 ![connect your Infinix Note 30is](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Select the types of data you want to transfer, then click on the 'start transfer' option to continue. Be careful not to disconnect the Infinix Note 30i devices until the process is complete.
 
 ![select the data](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - If you want to clear the destination phone's data before transferring data, ensure you check the 'clear data before copy' box.
@@ -372,6 +361,10 @@ The following steps will help you transfer data from android to an iOS device us
 ![wait a few minutes](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -389,5 +382,22 @@ Transferring data from android to iOS device has been made easier with the Move 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-create-brand-symbols-from-templates-at-no-cost-for-2024/"><u>[New] Create Brand Symbols From Templates at No Cost for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-steps-for-clear-ipad-recording/"><u>[New] Essential Steps for Clear iPad Recording</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-pioneers-in-digital-avengers-landscapes/"><u>[New] Pioneers in Digital Avengers Landscapes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-samsung-galaxy-a15-4g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Samsung Galaxy A15 4G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-moto-g23-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Moto G23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-samsung-galaxy-a54-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Samsung Galaxy A54 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-xs-max-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone XS Max without Apple ID?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-oppo-reno-8t-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Oppo Reno 8T 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-honor-magic-vs-2-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Honor Magic Vs 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-itel-p55-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Itel P55 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v16-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.6 document with digital signature service</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-lava-yuva-3-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Lava Yuva 3 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-tecno-spark-10-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Tecno Spark 10 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-directx-issues-in-battlefield-2042-a-comprehensive-guide/"><u>Solving DirectX Issues in Battlefield 2042: A Comprehensive Guide</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-top-5-best-websites-to-add-emojis-to-photo-online/"><u>Updated In 2024, Top 5 Best Websites to Add Emojis to Photo Online</u></a></li>
+</ul></div>
 

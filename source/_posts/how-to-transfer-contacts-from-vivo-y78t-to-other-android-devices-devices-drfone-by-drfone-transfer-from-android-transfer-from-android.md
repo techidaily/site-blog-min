@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from Vivo Y78t to Other Android Devices Devices? | Dr.fone
-date: 2024-09-17T20:09:17.224Z
-updated: 2024-09-18T21:38:05.556Z
+date: 2024-11-30T19:29:25.959Z
+updated: 2024-12-05T18:41:21.130Z
 tags: 
   - transfer
 categories:
@@ -46,6 +46,10 @@ Using a good USB cable, connect both old and new devices to your PC. When that i
 
 ![Transfer Photos from Vivo Y78t to Other Android Devices using Dr.Fone - Phone Transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 3. Click "Start Transfer"
 
 Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to transfer photos. Go to view transferred photos on the destination phone until it completes.
@@ -53,6 +57,10 @@ Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to t
 ![How to Transfer Photos from Vivo Y78t to Other Android Devices-transfer process](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3O1hKeyNmsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How to Transfer Photos from Old Android to New Android Using NFC
 
@@ -69,6 +77,10 @@ NFC can be found in almost every android device. In the past, it was easy to ide
 - This would take you to a screen where you should find the NFC and android beam options as depicted in the image below. At this stage enable both options if any or both have been disabled. If the NFC option doesn’t appear, it then means your device does not have Near Field Communication (NFC) functionality.
 
 ![Transfer data from Vivo Y78t to Other Android Devices by NFC-enable NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Another method of checking is by opening the settings menu and tapping on the search icon. Type in “NFC”. If your phone is capable, it will show up. The NFC function works hand-in-hand with the android beam. NFC may not work at optimal levels if the android beam is “off”.
 
@@ -105,6 +117,10 @@ Here are the steps which will help you.
 - Now click on “Export to SIM card” option. On choosing this step, all your contacts will be copied to the SIM card in a few minutes. This depending upon the capacity of the SIM card.
 
 ![export to sim card](https://images.wondershare.com/drfone/article/2017/05/14945039336575.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, pull the SIM card out and insert in on your new device.
 
@@ -154,6 +170,10 @@ To transfer contacts from Vivo Y78t to Other Android Devices via this app, follo
 
 ![select old device](https://images.wondershare.com/drfone/article/2017/05/14945045848700.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Now, Select the new device as ‘Receiving device”
 
 ![select receiving device](https://images.wondershare.com/drfone/article/2017/05/14945046092554.jpg)
@@ -169,6 +189,10 @@ Advantages: The process is very fast and can transfer all the contacts at once.
 Disadvantages: This app is not supported on all the Android devices.  Also, the process is lengthy and needs some technical knowledge.
 
 Thus, these were the four best options that you can use to transfer contacts from Vivo Y78t to Other Android Devices. However, in our experience, the first method, the Dr.Fone toolkit- Android data backup and restore is by far the best and most secured among all solutions for transferring contacts from Vivo Y78t to Other Android Devices. So, if you do not want to lose any data while transfer or worry about the security, use the Dr.Fone toolkit for the best result.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Ways To Transfer Contacts From Vivo Y78t to iPhone
 
@@ -201,10 +225,7 @@ On your computer, download and install the latest version of Wondershare Dr.Fone
 ![choose phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 2: Connect Devices and Complete Contacts Transfer**
@@ -233,6 +254,10 @@ Syncing contacts to a Google account serves as a convenient method. It can autom
 
 ![choose google contacts sync settings](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Next, you need to select "Also sync device contacts." On the following screen, ensure "Automatically back up & sync device contacts" is toggled on. Now, move to your iPhone and access the Settings app.
 
 ![enable automatically backup and sync option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-7.jpg)
@@ -248,6 +273,10 @@ Transferring contacts using a SIM card provides a basic yet effective method. Th
 - **Step 1.** Open the Samsung Contacts app on your Android and tap the “Three Lines” icon to select "Manage Contacts." Here, tap "Export Contacts," choose the "SIM Card" as the export location, and select "All" contacts to be exported.
 
 ![export contacts to sim](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** After it is done, insert the SIM card into the iPhone and open Settings. Move to "Contacts" and press "Import SIM Contacts" on the next screen to complete the process of moving contacts from a SIM card on an iPhone or email.
 
@@ -266,10 +295,7 @@ Syncing contacts from an Android device to an iPhone using iTunes or Finder is a
 ![enable sync contacts with option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 6: Import the VCF File
@@ -279,13 +305,6 @@ Importing a VCF file directly to your iPhone allows for a simple and direct tran
 - **Step 1.** Access the Contacts app on your Vivo Y78t and hold on to a contact to select. Among the options displayed, opt for "Select All" and proceed by tapping the "Share" option. Now, you need to select a way to share these contacts. Here, we are choosing Gmail as it is the simplest, but you can select any feasible method.
 
 ![email the vcf file](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Now move to your iPhone and open the mail with Contacts from the Android device. Press the attached file, choose "Share," select the "Contacts" app and tap "Add All Contacts."
 
@@ -308,13 +327,6 @@ It simplifies the transfer process with its intuitive interface and dependable p
 In conclusion, transitioning from an Android device to an iPhone doesn't have to be a daunting task. It is especially not the case when it comes to **how to transfer contacts from Vivo Y78t to iPhone**. Throughout this guide, we've explored various effective methods. Each one offered its unique approach to simplify the transfer process.
 
 You can opt for the user-friendly interface of Wondershare Dr.Fone, the official Move to iOS app, or sync via Google accounts. Other options include utilizing the SIM card, syncing through iTunes/Finder, or the direct import of a VCF file. Selecting the ideal method often depends on personal preferences. Wondershare Dr.Fone emerges as a standout recommendation due to its versatility, reliability, and ease of use.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Two Ways to Sync Contacts from Vivo Y78t to Gmail
 
@@ -347,13 +359,6 @@ To use this safe and reliable way to synchronize contacts with Gmail on Android,
 - 4\. Now click on the "Information" tab at the top of the interface of the software.
 
 ![sync contacts from android to gmail-launch Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - 5\. On the left side pane, click on the "Contacts" option to view the contacts available on your device.
 - 6\. You can select the contacts you wish to transfer to your PC or just simply select all and uncheck unwanted contacts.
@@ -475,5 +480,21 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-bringing-text-to-life-a-guide-to-dynamic-animation-methods-for-2024/"><u>[Updated] Bringing Text to Life A Guide to Dynamic Animation Methods for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-leveraging-dual-screen-capabilities-to-boost-your-facebook-presence/"><u>[Updated] Leveraging Dual-Screen Capabilities to Boost Your Facebook Presence</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-a-professionals-approach-to-video-editing-on-youtube/"><u>2024 Approved A Professional's Approach to Video Editing on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-places-to-get-free-online-book-downloads-top-17-picks/"><u>Discover the Best Places to Get Free Online Book Downloads (Top 17 Picks)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-pro-max-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 Pro Max to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>How to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-a15-4g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy A15 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-11-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 11 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-u23-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from U23.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g73-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G73 5G Phone without Google Account?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-search-of-clarity-tracing-back-to-what-sparked-the-significant-2024-upheaval-between-crowdstrike-and-windows/"><u>In Search of Clarity: Tracing Back to What Sparked the Significant 2024 Upheaval Between CrowdStrike and Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/pleasurable-stream-capture-evaluation-for-2024/"><u>Pleasurable Stream Capture Evaluation for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-17-solutions-for-removing-picture-outlines/"><u>Prime 17 Solutions for Removing Picture Outlines</u></a></li>
+</ul></div>
 

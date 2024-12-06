@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from Xiaomi Redmi 12 5G to Other Android Devices Devices? | Dr.fone
-date: 2024-09-19T04:58:39.206Z
-updated: 2024-09-23T22:00:54.655Z
+date: 2024-12-03T21:07:13.968Z
+updated: 2024-12-05T23:25:37.020Z
 tags: 
   - transfer
 categories:
@@ -40,6 +40,10 @@ Ensure you have a good PC where you would download and install the Dr.Fone softw
 
 ![How to Transfer Photos from Xiaomi Redmi 12 5G to Other Android Devices-select solution](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2. Connect both phones to PC and select "Photos"
 
 Using a good USB cable, connect both old and new devices to your PC. When that is done, a list of data that can be transferred will appear. Choose "Photos" and this will move your photos from the source device to the destination device. You can also change both devices between “source” and “Destination” by using the “Flip” button.
@@ -54,16 +58,13 @@ Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3O1hKeyNmsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2. How to Transfer Photos from Old Android to New Android Using NFC
 
 ![Transfer Photos from Xiaomi Redmi 12 5G to Other Android Devices-by NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Near Field Communication(NFC) is a technology that supports Android Beam and is ideal for transferring data between android devices by just pressing their backs together. It is a fast and simple program that requires both devices to NFC-capable. This means they are able to communicate with each other when their fields are near. This communication is made possible through radio frequencies. Most devices have NFC hardware integrated underneath their panel.
 
@@ -76,13 +77,6 @@ NFC can be found in almost every android device. In the past, it was easy to ide
 - This would take you to a screen where you should find the NFC and android beam options as depicted in the image below. At this stage enable both options if any or both have been disabled. If the NFC option doesn’t appear, it then means your device does not have Near Field Communication (NFC) functionality.
 
 ![Transfer data from Xiaomi Redmi 12 5G to Other Android Devices by NFC-enable NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Another method of checking is by opening the settings menu and tapping on the search icon. Type in “NFC”. If your phone is capable, it will show up. The NFC function works hand-in-hand with the android beam. NFC may not work at optimal levels if the android beam is “off”.
 
@@ -99,6 +93,10 @@ At this stage, both an audio sound and visual message will appear, acting as con
 Now, on your old android device, the screen will reduce to a thumbnail and a “Touch to beam” message will pop up at the top.
 
 ![Transfer Photos from Xiaomi Redmi 12 5G to Other Android Devices by NFC-“Touch to beam”](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To begin beaming, you must touch the screen on your old android device from where the photos are been sent. A sound will alert you that beaming has started.
 
@@ -120,6 +118,10 @@ Here are the steps which will help you.
 
 ![export to sim card](https://images.wondershare.com/drfone/article/2017/05/14945039336575.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, pull the SIM card out and insert in on your new device.
 
 • Here follow the same steps above and on “Import / Export” option, choose “Import”. Then it will ask for the option to import from. Choose “SIM Card” here. Now, all your contacts will be imported to your phone memory from the SIM card.
@@ -127,22 +129,12 @@ Now, pull the SIM card out and insert in on your new device.
 ![import from sim card](https://images.wondershare.com/drfone/article/2017/05/14945040941310.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Advantages: This process is easy to use and can be done without any PC.
 
 Disadvantage: It can only transfer the contacts up to the SIM capacity that is 200 to 250 in one time. If you have lots of contacts, it is impossible to transfer by this method.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to transfer contacts from Xiaomi Redmi 12 5G to Other Android Devices using Bluetooth or Wi-Fi Direct?
 
@@ -161,6 +153,10 @@ The steps:
 5\. After successful connection, all the contacts from old Android devices will be transferred to your new Android device.
 
 ![wifi direct](https://images.wondershare.com/drfone/article/2017/05/14945041942239.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This method is simple and easy to use.
 
@@ -185,13 +181,6 @@ To transfer contacts from Xiaomi Redmi 12 5G to Other Android Devices via this a
 3\. Now, Select the new device as ‘Receiving device”
 
 ![select receiving device](https://images.wondershare.com/drfone/article/2017/05/14945046092554.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Now connect with your old device by opening the app on your old Android mobile. This will prompt to enter the pin number as displayed. Enter the same and hit “Connect” to start the process.
 
@@ -219,6 +208,10 @@ Samsung Galaxy S21 Ultra is the new model of the Samsung Galaxy series. This ama
 
 Record your life's best moment with the Samsung Galaxy S21 Ultra 8k video feature. With this camera, you can also make GIFs, record short videos, slow-motion videos, etc. Galaxy S21 Ultra has a 108MP resolution. When it comes to the battery, you should know it has one lithium battery. Once you charge the Xiaomi Redmi 12 5G device, it's ready to go for a long day. Now share your life moment on social media and enjoy your favorite game with Galaxy Ultra 5G. This device is available in multiple colors, including Phantom Black, Phantom Silver, Phantom Titanium, Phantom Navy, and Phantom Brown.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: The Differences among S21, S21+, and S21 Ultra
 
 We all know how amazing the Samsung Galaxy S21 series is. Their features and quality make us fall in love with these devices. Though Samsung Galaxy S21, S21+, and S21 Ultra have many common features, there are still many differences among these. So, let's find out what those are:
@@ -239,6 +232,10 @@ As mentioned, the difference of screen measurements. Besides this, there are som
 
 ![samsung galaxy s21 ultra vs s20 display](https://images.wondershare.com/drfone/article/2021/06/samsung-display-vs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Camera:**
 
 Galaxy S21 and S21 Plus have three cameras: a 12MP main camera and a 12MP ultra-wide camera with a 64MP telephoto camera. The front camera comes in 10MP. On the other side, Galaxy S21 Ultra comes with a 108MP main camera, 12MP ultra-wide, and two 10MP telephoto cameras. Among these two telephoto cameras, one has 3x zoom capacity, and the other has 10X zoom capacity. S21 Ultra has a laser autofocus sensor that will track the subject and take the perfect shot. For video recording, three of these models have great video features. However, S21 Ultra is offering you the bright night sensor so you can record and take pictures in low light.
@@ -255,37 +252,21 @@ In these three models, you will get 5G. So, there is no argument about this. How
 
 Most of the time, after purchasing a new phone, we cannot transfer photos or other data to that device easily. At that moment, if you can use amazing data recovery software to transfer all your photos to the new Samsung Galaxy S21 Ultra, that would be a great solution. Well, we have the best solution for you. We are going to introduce you to an amazing software: [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It is a brilliant data recovery software that you can use for both iOS and Android systems. It has many amazing features. You can recover your data, transfer your photos and files, unlock Apple's ID and lock screen, repair the Android or iOS system, switch data from one phone to another phone, keep backup, restore data and erase data permanently from a device. Using this amazing software, you can transfer your photos to Samsung Galaxy S21 Ultra within one single click. Let's follow the guideline to know how to do this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Download & Install Program
 
 Download and install the software on your computer. Then start the Dr.Fone - Phone Transfer, and you'll get the program's home page. Now click on the "Switch" option to proceed forward.
 
 ![start dr.fone switch](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Connect Android and iOS Device
 
 Next, you can connect your Samsung Galaxy S21 Ultra and an iOS device to the computer (you can also use an Android device here). Use a USB cable for the Android device and a lightning cable for the iOS device. You'll get an interface like below when the program detects both devices. You can use the "Flip" button to change devices as the target device and the sender device. You can also choose the file types here to transfer.
 
 ![start dr.fone switch app](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Start Transfer Process
 
@@ -311,13 +292,6 @@ Within a short time, all your selected photos will be transferred to the Samsung
 
 Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more updated than other models. It has the best quality camera, better battery capacity, and other new features. The design and the display are way better than the other models. After purchasing the Samsung Galaxy S21 Ultra, if you get stuck transferring your photos to the Xiaomi Redmi 12 5G device, then you don't have to worry. We have introduced you to Dr.Fone - Phone Transfer in this article. Using this software, you can recover any files and keep data backup and restore them later. To transfer your photos to Galaxy S21 Ultra, you can use Dr.Fone Switch app by following the steps we provided. It's definitely better software than Smart Switch.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Two Ways to Sync Contacts from Xiaomi Redmi 12 5G to Gmail
 
 If you have ever lost your phone, you will agree that getting all the information that used to be on your misplaced device back can be a very trouble-laden venture, which can sometimes end in heartbreak.
@@ -325,6 +299,10 @@ If you have ever lost your phone, you will agree that getting all the informatio
 One of the most important stuff you can keep on your phone is your contacts, the information about the people in your life, as well as their phone numbers. This can prove to be the most difficult data to get back after a phone is lost. Therefore, this article will tell you ways to keep your contacts updated by synchronizing contacts from Xiaomi Redmi 12 5G to Google mail account. As with almost everything in the tech world, there is more than one way to skin a cat, and this is especially true about synchronizing contacts on Android phones.
 
 There are two major ways to transfer contacts from Android phone to Gmail. So, shall we begin to discuss this?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Sync Contacts from Xiaomi Redmi 12 5G to Gmail? (Easier way)
 
@@ -470,5 +448,19 @@ Lastly, you can also use [Dr.Fone - Phone Manager (Android)](https://drfone.wond
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-essentials-for-optimal-zoom-use-on-win10/"><u>[Updated] In 2024, Essentials for Optimal Zoom Use on WIN10</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-influencers-insight-quick-pathways-to-instagram-fame-with-our-ultimate-list-of-15-tips/"><u>2024 Approved Influencer's Insight Quick Pathways to Instagram Fame with Our Ultimate List of 15 Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-in-windows-11-and-10-by-drivereasy-guide/"><u>How to install device drivers manually in Windows 11 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-realme-narzo-n53-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Realme Narzo N53.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-honor-magic-6-lite-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Honor Magic 6 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-jpg-online-with-digisigner-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to Sign JPG Online with DigiSigner</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-uncover-exquisite-vr-trails-for-bikers/"><u>In 2024, Uncover Exquisite VR Trails for Bikers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/salvaging-corrupt-mov-files-in-mac/"><u>Salvaging Corrupt MOV Files in Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-exciting-action-packed-movie-brick-mansions-ripped-from-the-original-dvd-watch-free/"><u>The Exciting Action-Packed Movie 'Brick Mansions' Ripped From the Original DVD - Watch Free</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-garmin-forerunner-745-top-gear-in-advanced-multisport-tracking/"><u>Ultimate Guide to the Garmin Forerunner 745: Top Gear in Advanced Multisport Tracking</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-civic-software-update-errors-avoiding-access-issues-s-civ-version-6/"><u>Understanding Civic Software Update Errors - Avoiding Access Issues 'S Civ Version 6</u></a></li>
+</ul></div>
 

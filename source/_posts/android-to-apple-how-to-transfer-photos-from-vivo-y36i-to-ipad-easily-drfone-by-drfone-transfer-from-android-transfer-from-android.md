@@ -1,7 +1,7 @@
 ---
 title: Android to Apple How To Transfer Photos From Vivo Y36i to iPad Easily | Dr.fone
-date: 2024-09-17T21:54:51.289Z
-updated: 2024-09-18T16:46:20.479Z
+date: 2024-11-29T19:11:41.673Z
+updated: 2024-12-05T21:25:02.684Z
 tags: 
   - transfer
 categories:
@@ -70,6 +70,10 @@ Locate the uploaded photos in Google Drive on your iPad. Tap on each photo or se
 
 ![Transfer photos with Google Drive.](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-android-to-ipad-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How to Share Pics From iPhone to Android with Dr.Fone
 
 In addition to transferring photos from Vivo Y36i to iPad, you might also be interested in sharing pictures from iPhone to Android. Although both iPad and iPhone belong to the same Apple ecosystem, they function on slightly distinct operating systems— iPads utilize iPadOS, whereas iPhones operate on iOS.
@@ -98,13 +102,6 @@ Make a connection between your iPhone and your Vivo Y36i on your computer. Launc
 
 ![Photo data transfer with Dr.Fone.](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Specify the source and destination devices
 
 After connecting them, the platform will identify the connected devices and load their data. Choose iPhone as the source and Android as the destination device to set the transfer path. Use the Flip button to alter the transfer direction.
@@ -112,16 +109,7 @@ After connecting them, the platform will identify the connected devices and load
 ![Specify the source and target devices.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Choose photos for the transfer
@@ -135,6 +123,10 @@ Proceed to select the types of data you wish to transfer. Checkmark photos and c
 Now, Dr. Fone's Phone Transfer tool should prompt you to disable iCloud syncing. Follow the instructions.
 
 ![Disable iCloud syncing.](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** Monitor data transfer progress
 
@@ -170,13 +162,6 @@ When you use apps to transfer files, they usually ask for permission to access y
 
 Although they work in different operating systems, transferring photos between Android and Apple devices, including iPad and iPhone, can be accomplished through various methods. Apps like Move to iOS and [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) provide straightforward solutions, while cloud services like Google Drive offer convenient alternatives.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Two Ways to Sync Contacts from Vivo Y36i to Gmail
 
 If you have ever lost your phone, you will agree that getting all the information that used to be on your misplaced device back can be a very trouble-laden venture, which can sometimes end in heartbreak.
@@ -188,6 +173,10 @@ There are two major ways to transfer contacts from Android phone to Gmail. So, s
 ## Part 1: How to Sync Contacts from Vivo Y36i to Gmail? (Easier way)
 
 One of the best ways to synchronize contacts from the phone to Gmail is to use a handy tool known as [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). It is one of the widely used and accepted tools for managing and transferring your Vivo Y36i contact details to another platform.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
@@ -244,12 +233,20 @@ There is also a way whereby you can sync your contacts to your Gmail account on 
 
 ![sync contacts from android to gmail-Choose your Gmail account](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - 5\. Enable the "Sync Contacts" option.
 - 6\. Tap on the Options tab and then on the "Sync Now" button and wait until your Contacts have been successfully synchronized with your Google mail account. You will know that the Contacts have successfully completed synchronization when the "Sync" icon disappears.
 
 ![sync contacts from android to gmail-Sync Now](https://images.wondershare.com/drfone/article/2018/06/sync-contacts-from-android-to-gmail-7.jpg)
 
 And that's it! You have successfully transferred your contact from the phone to your Gmail account. Also, when you initially add and set up a Gmail account on your mobile device, the "Automatically Sync" option should be switched on by default. If this does not occur for some reason, there are ways by which the error can be dealt with. These methods of fixing the error shall be addressed in the latter portion of this article.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Other Ways to Backup Android Contacts
 
@@ -380,13 +377,6 @@ Google Photos is simply the iCloud’s substitute for Android smartphone. Like i
 
 ![google photos backup](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** Launch the **Browser** on your computer. Go to google.com.
 - **Step 3:** Click the **Nine-dotted** menu icon next to your profile. Make sure that you’re logged in to the same Gmail account you’re currently using on your smartphone.
 - **Step 4:** Choose **Photos.**
@@ -398,6 +388,10 @@ Google Photos is simply the iCloud’s substitute for Android smartphone. Like i
 ![download google photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-6.jpg)
 
 **NOTE:** How to transfer videos from your phone to your laptop without USB? This data migration technique also works in this regard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Transfer photos from phone to laptop using Bluetooth
 
@@ -413,6 +407,10 @@ Does your laptop have a Bluetooth connectivity feature? If so, try to use it for
 
 ![bluetooth photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Email the photos from the phone to the laptop
 
 If you’re only sending a few photos to your laptop, emailing them from your smartphone will certainly work great. Here’s how to transfer photos from your phone to your laptop without USB via email.
@@ -426,14 +424,11 @@ If you’re only sending a few photos to your laptop, emailing them from your sm
 
 ![download email photos](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-9.jpg)
 
-**NOTE:** How to copy files from your phone to your laptop without USB? This data migration technique also works in this regard.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**NOTE:** How to copy files from your phone to your laptop without USB? This data migration technique also works in this regard.
 
 ### Method 5: Transfer photos from phone to laptop using AirDrop
 
@@ -445,6 +440,10 @@ Are you using an iPhone and a Macbook? No problem. You may use AirDrop to move y
 - **Step 4:** Choose **AirDrop.**
 
 ![airdrop transfer](https://images.wondershare.com/drfone/article/2023/12/transfer-photos-from-phone-to-laptop-without-usb-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Select your Macbook as the recipient.
 - **Step 6:** On your Macbook, click **Accept.**
@@ -493,5 +492,24 @@ Navigating the digital landscape of photo organization and transfer has become i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-digital-deliberation-for-better-treatment-outcomes/"><u>[New] Digital Deliberation for Better Treatment Outcomes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-realms-rhythms-top-sites-ranked-for-game-of-thrones-audio-calls/"><u>[New] The Realm's Rhythms Top Sites Ranked for Game of Thrones Audio Calls</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-100-secure-and-ethical-actions-for-tiktok-success/"><u>[Updated] 2024 Approved 100% Secure & Ethical Actions for TikTok Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leading-10-sound-intensification-apps-for-multiple-systems/"><u>[Updated] Leading 10 Sound Intensification Apps for Multiple Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-spectacular-shot-choices-top-7-4k-action-camera-selections-for-2024/"><u>[Updated] Spectacular Shot Choices Top 7 4K Action Camera Selections for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-dotx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to make a digital signature for .dotx file</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-zte-blade-a73-5g-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from ZTE Blade A73 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-google-pixel-8-by-fonelab-android-recover-video/"><u>How to recover old videos from your Google Pixel 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-z-flip-5-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy Z Flip 5 on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-itel-p55-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Itel P55 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-reno-8t-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Reno 8T 5G Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-x9b-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Honor X9b.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-x8b-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor X8b</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-xs-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone XS Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-timepieces-for-your-dream-wedding-on-smartphones/"><u>In 2024, Premium Timepieces for Your Dream Wedding on Smartphones</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-quick-switch-a-guide-to-restoring-alt-tab-command-functionality/"><u>Reviving Your Quick Switch: A Guide to Restoring Alt Tab Command Functionality</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-stop-motion-made-easy-top-5-online-tools-free-and-paid-for-2024/"><u>Updated Stop Motion Made Easy Top 5 Online Tools (Free and Paid) for 2024</u></a></li>
+</ul></div>
 
