@@ -1,7 +1,7 @@
 ---
 title: 8 Ways to Transfer Photos from Itel A60s to iPhone Easily | Dr.fone
-date: 2024-09-05T16:13:53.794Z
-updated: 2024-09-06T16:13:53.794Z
+date: 2024-12-08T22:51:36.040Z
+updated: 2024-12-11T18:07:37.965Z
 tags: 
   - transfer
 categories:
@@ -12,12 +12,6 @@ keywords: transfer from android to android,transfer from android to iphone,trans
 thumbnail: https://thmb.techidaily.com/fff656b551e024a92bec77f08e34169fdbb7972daf3e003aecf76e9fd40fed20.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8 Ways to Transfer Photos from Itel A60s to iPhone Easily
 
 Transferring photos from an Android device to an iPhone might seem daunting, given the differences in their operating systems. However, it doesn't have to be a complicated process. In this guide, we'll explore easy and efficient methods to transfer your cherished photos smoothly, ensuring that your memories remain intact during the transition from the Android to the iOS ecosystem. Whether you're switching to an iPhone, sharing photos with a friend, or simply looking to create a backup, we've got you covered with practical solutions.
@@ -35,8 +29,6 @@ Dr.Fone is perfect because you can transfer across multiple devices regardless o
 ### Method 1.1 One-click to Transfer Photos from Itel A60s to iPhone using Dr.Fone - Phone Transfer
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is a software package that facilitates cross-device transactions, such as transferring photos from Itel A60s to iPhone. If you are in the process of replacing your Android with a new iPhone, then use Dr.Fone to transfer all contents to the new phone. The content can include photos, contacts, videos, and social media messages.
-
-
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -64,20 +56,10 @@ Let us see the steps on how to transfer photos from Itel A60s to iPhone using Dr
 
 ![transfer photos from android to iphone-start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
-
-
 ### Method 1.2 Selectively Transfer photos from Itel A60s to iPhone using Dr.Fone's Phone Manager Feature
 
 Another way that can assist you in **moving photos from Itel A60s to iPhone** is the [Wondershare Dr.Fone](https://drfone.wondershare.com/android-transfer.html). What is incredibly convenient about Dr.Fone is its ability to transfer photos selectively. You can also use it to transfer contacts, videos, messages, podcasts, and anything else stored on your Android in minutes. Wondershare Dr.Fone is a secure, trustworthy program. Hence you can be reassured that your information will be safe while transferring from one device to another.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Wondershare Dr.Fone](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
 All in one Solution to Transfer Photos from Itel A60s to iPhone
@@ -95,19 +77,9 @@ Here, either you can select the photos that you wish to transfer selectively or 
 ![transfer photos from android to iphone-export to device](https://images.wondershare.com/drfone/guide/manage-android-photos-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Transfer Photos from Itel A60s to iPhone Using Move to iOS App
 
 Now, to answer **how to transfer photos from Itel A60s to iPhone**, there is another simple solution that you can make use of. It is called the “Move to iOS app,” which you can download freely from the Google Play store.
@@ -118,12 +90,6 @@ Now to proceed, first of all, you need to do some settings on your iPhone device
 
 ![how to transfer photos from android to iphone-app and data](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-6.jpg) ![how to transfer photos from android to iphone-move data from android](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The next step is to take your Itel A60s to complete the transfer process with the “Move to iOS” app.
 
 - **Step 2:** Switch to your Itel A60s, open the Google Play Store, and search for the ‘Move to iOS’ app.
@@ -142,14 +108,6 @@ The above process to **transfer pictures from Itel A60s to iPhone** is suitable 
 
 **Note:** This solution only works when you set up the iPhone. If the iPhone is already set up, you need to factory reset it and set it up to restore photos with this App. If you'd like to save existing data after transferring, [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is a good solution.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Transfer Photos from Itel A60s to iPhone via Bluetooth
 
 Bluetooth is an excellent option to transfer photos and videos across both Android and iPhone devices. This is because Bluetooth is available on both Android and iOS devices, making it widely useful. Furthermore, you don’t have to download a third-party app to transfer pictures via Bluetooth. The process can also be completed quickly with just a few taps on the screen.
@@ -164,6 +122,10 @@ Bluetooth is an excellent option to transfer photos and videos across both Andro
 - **7.** There will be a list of Bluetooth devices visible to your Android. Select your iPhone to start the data exchange. A file transfer window will signify the transaction, and the files will be downloaded one at a time.
 
 ![how to transfer photos from android to iphone-via bluetooth](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It is important to note that the rate of data transfer on Bluetooth is heavily dependent on the version of Bluetooth you use. For example, if you use Bluetooth 2.x data transfer happens at 0.25 MB/s, whereas Bluetooth 5.x transfers data at 6 MB/s.
 
@@ -189,20 +151,6 @@ Now, move to your iPhone.
 
 This way takes some manual steps. If you want a one-click solution, try [Dr.Fone - Phone Transfer (iOS&Android)](https://tools.techidaily.com/wondershare/drfone/phone-switch/).
 
-
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5. How to Transfer Photos from Itel A60s to iPhone Via Email?
 
 Employing email represents a simple technique for sending a restricted set of photos from an Android device to an iPhone. Nevertheless, it might not be the optimal option for transferring a large assortment of high-resolution images. Still, it acts as a swift solution for exchanging a few pictures. Here is a comprehensive guide illustrating the process of sending photos from an Android device to an iPhone via email:
@@ -215,25 +163,25 @@ Employing email represents a simple technique for sending a restricted set of ph
 
 ![select photos to transfer](https://images.wondershare.com/drfone/article/2023/10/transfer-photos-from-android-to-iphone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** Then log in using the same email account on your iPhone. After logging in, access the email with your photos and download the attachments to complete the photo transfer.
 
 ![receive on other end and download](https://images.wondershare.com/drfone/article/2023/10/transfer-photos-from-android-to-iphone-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: Top 3 Android to iPhone Photo Transfer Apps
 
 Several apps are specifically designed for storing and transferring images from an Android device to an iPhone. We have found the three best apps based on ease of use and accessibility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### PhotoSync
 
@@ -243,30 +191,12 @@ You can extract videos and photos directly from the camera and transfer them to 
 
 ![how to transfer photos from android to iphone-PhotoSync](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Photo Transfer
 
 The photo transfer app is incredibly popular and with a good reason. You can perform Android to iPhone photo transfer without any cables. You can access Photo Transfer on different platforms, including desktop computers. It allows you to access your photos stored on the app via a web browser. You can easily download multiple images for storage and exchange these photos across various platforms. If you need an intuitive, easy-to-use app to **send photos from Itel A60s to iPhone** then consider using the Photo Transfer app.
 
 ![how to transfer photos from android to iphone-Photo Transfer](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Shareit
 
 Shareit is a specialized application developed to transfer files between two devices. You can use Shareit to **transfer pictures from Itel A60s to iPhone** in seconds. The software is free and completely secure, so you do not have to worry about how to transfer photos from one device to another. You can share individual photos or entire folders on Shareit. However, it should be noted that sharing folders can make slow down the process.
@@ -275,15 +205,7 @@ The best part of Shareit is the freedom allowed to users because you can transfe
 
 ![how to transfer photos from android to iphone-Shareit](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Thus, after going through the article, we are sure that you have a wide range of options to choose from to transfer your Itel A60s photos to the iPhone. Well, every method is excellent in itself; however, we would like to say that one of the best options for you would be the Dr.Fone tool without a doubt.
-
-
 
 ## [Easiest Guide] How to Clone Itel A60s Phone? 6 Ways In 2024
 
@@ -293,32 +215,14 @@ Changing Android phones is no longer a tedious job. By using an Android clone ap
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/1dgz-ufJWKw"></iframe>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to clone Android phone using Dr.Fone - Phone Transfer?
 
 To clone an Android phone in a fast and secure manner, simply take the assistance of [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It is a part of the Dr.Fone toolkit and can be used to transfer all sorts of data directly from one device to another. For instance, you can transfer your photos, videos, music, messages, contacts, notes, and multiple accounts to Android detail as well. It is compatible with all the leading Android devices manufactured by brands like Samsung, HTC, Lenovo, Huawei, LG, Motorola, and more. Having an intuitive process, it will let you Android clone in no time. To learn how to clone Android phone using Dr.Fone Switch, follow these steps:
 
-
-
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer Photo from Itel A60s to iPhone in 1 Click Directly!
@@ -349,26 +253,12 @@ Transfer Photo from Itel A60s to iPhone in 1 Click Directly!
 
 ![transfer data from android to android](https://images.wondershare.com/drfone/guide/transfer-android-to-android-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7\. Sit back and wait for a while as the application will transfer the selected content from one device to another. Make sure that both devices stay connected to the computer.
 
 8\. Once the cloning process is completed, you will be notified.
 
 In this way, you can easily learn how to clone Android phone in a few seconds. Later, you can disconnect the Itel A60s devices and use them readily. Besides Android, you can also use Dr.Fone - Phone Transfer to transfer data between different platforms as well.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Clone Android phone using SHAREit
 
 SHAREit is a popular cross-platform device-sharing app that over 600 million users use. The app can be used to perform a wireless transfer of data at a fast speed. This is done without utilizing your data usage or via Bluetooth. The app uses Wifi directly to clone Android phone. While changing Android phones, use SHAREit the following way:
@@ -382,11 +272,9 @@ Download SHAREit: <https://play.google.com/store/apps/details?id=com.lenovo.anys
 ![launch shareit app](https://images.wondershare.com/drfone/article/2017/11/15115448962938.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3\. This will further let you select the data files that you wish to transfer. Click on the “Next” option after selecting your content.
 
 4\. Bring the target device in close proximity to the sender and launch the app. Mark it as a receiving device.
@@ -411,12 +299,6 @@ Download CLONEit: <https://play.google.com/store/apps/details?id=com.lenovo.anys
 
 ![connect source and target devices](https://images.wondershare.com/drfone/article/2017/11/15115449859674.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3\. In this way, the target device will automatically start looking for the sender. You can view the Wifi hotspot the sender has created to verify the connection.
 
 4\. You need to confirm the connection request by tapping on the “Ok” button of the prompt.
@@ -432,11 +314,9 @@ Download CLONEit: <https://play.google.com/store/apps/details?id=com.lenovo.anys
 ![clone android phone with cloneit](https://images.wondershare.com/drfone/article/2017/11/15115451102601.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: Clone Android phone using Phone Clone
 
 Huawei has also developed a dedicated app – Phone Clone to transfer the data from one Android device to another wirelessly. In this way, you don’t have to set up multiple accounts Android for every phone you buy. The app supports a fast and extensive cloning option with a user-friendly interface. To make your new device an Android clone, follow these steps:
@@ -449,12 +329,6 @@ Download Phone Clone: <https://play.google.com/store/apps/details?id=com.hicloud
 
 ![launch phone clone app](https://images.wondershare.com/drfone/article/2017/11/15115448054431.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3\. Go to the app on the source device and mark it as a sender. It will start looking for the available Wifi networks.
 
 4\. Connect it to the hotspot you have recently created and verified the password.
@@ -468,17 +342,9 @@ Download Phone Clone: <https://play.google.com/store/apps/details?id=com.hicloud
 ![clone android phone with phone clone app](https://images.wondershare.com/drfone/article/2017/11/15115448476323.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Part 5: Clone Android phone using Google Drive
 
 Google Drive is ideally used to store data on the cloud. However, it can also be used to back up and restore your data. Even though Google Drive transfers the data wirelessly, it consumes a substantial amount of data usage. Also, the process is not as fast or smooth as other options. Nevertheless, you can learn how to clone Android phone using Google Drive by following these steps:
@@ -495,18 +361,6 @@ Google Drive is ideally used to store data on the cloud. However, it can also be
 
 ![log in google account on target phone](https://images.wondershare.com/drfone/article/2017/11/15115452302774.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5\. After signing in, the Itel A60s device will automatically sync to the account and identify the backup files. Simply select the most recent backup file.
 
 6\. Also, you can select the apps and app data that you wish to transfer. Click on the “Restore” button at the end to make your target device an Android clone of your previous phone.
@@ -533,12 +387,6 @@ Cloning an Android phone using reputable and trusted methods, apps, or tools is 
 
 The ability to clone between different Android phone models or brands depends on the specific method or tool you are using. Dedicated phone transfer apps like Wondershare Dr.Fone - Phone Transfer or Phone Clone are often designed to work across various Android models and brands.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. What should I do before cloning my Android phone to ensure a smooth process?
 
 Before commencing the cloning procedure for your Itel A60s, creating a backup of your device's data is crucial. It can be accomplished by using either the integrated backup feature or a trustworthy third-party app.
@@ -549,46 +397,20 @@ This precautionary step guarantees the safety of your data should any issues ari
 
 Now, when you know six different ways to clone Android phone, you can easily move from one device to another without experiencing any data loss. This guide will certainly help every individual who is changing Android phones. Feel free to share it with your friends and family and let us know about your feedback regarding these solutions as well.
 
-
-
 ## How to Transfer Photos From Itel A60s to Samsung Galaxy S21 Ultra
 
 Samsung is one of the leading brands in the technology market, and Samsung Galaxy S21 Ultra is the latest device released by them. Among all the gadgets and smartphones released by Samsung, S21 Ultra is really a remarkable creation that is amazingly filled with all the latest technology. If you are thinking about getting a brand new Samsung S21 Ultra, you are in the right place.
 
 In this article, we will talk about the Samsung Galaxy S21 Ultra price and all its details with proper dissection that will help you determine whether this device is worth the value. Also, you'll definitely get to learn how to transfer photos to Samsung Galaxy S21 Ultra with advanced software that surely does the job well. So let's get to the details without wasting any time!
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Samsung Galaxy S21 Ultra Introduction
 
 Samsung Galaxy S21 Ultra is the new model of the Samsung Galaxy series. This amazing device has so many features, the best quality camera, and 5G connectivity. This model of the Samsung Galaxy series has a pro-grade camera. Using its camera, you can take the best shots of anything. You can record video like a professional by using the camera. The camera has multi-lens with zoom-in features. You cannot take a perfect zoomed shot using another device because they don't have these zoom-in features.
 
 ![samsung galaxy s21 ultra](https://images.wondershare.com/drfone/article/2021/06/samsung-galaxy-s21-ultra.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Record your life's best moment with the Samsung Galaxy S21 Ultra 8k video feature. With this camera, you can also make GIFs, record short videos, slow-motion videos, etc. Galaxy S21 Ultra has a 108MP resolution. When it comes to the battery, you should know it has one lithium battery. Once you charge the Itel A60s device, it's ready to go for a long day. Now share your life moment on social media and enjoy your favorite game with Galaxy Ultra 5G. This device is available in multiple colors, including Phantom Black, Phantom Silver, Phantom Titanium, Phantom Navy, and Phantom Brown.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: The Differences among S21, S21+, and S21 Ultra
 
 We all know how amazing the Samsung Galaxy S21 series is. Their features and quality make us fall in love with these devices. Though Samsung Galaxy S21, S21+, and S21 Ultra have many common features, there are still many differences among these. So, let's find out what those are:
@@ -609,12 +431,6 @@ As mentioned, the difference of screen measurements. Besides this, there are som
 
 ![samsung galaxy s21 ultra vs s20 display](https://images.wondershare.com/drfone/article/2021/06/samsung-display-vs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Camera:**
 
 Galaxy S21 and S21 Plus have three cameras: a 12MP main camera and a 12MP ultra-wide camera with a 64MP telephoto camera. The front camera comes in 10MP. On the other side, Galaxy S21 Ultra comes with a 108MP main camera, 12MP ultra-wide, and two 10MP telephoto cameras. Among these two telephoto cameras, one has 3x zoom capacity, and the other has 10X zoom capacity. S21 Ultra has a laser autofocus sensor that will track the subject and take the perfect shot. For video recording, three of these models have great video features. However, S21 Ultra is offering you the bright night sensor so you can record and take pictures in low light.
@@ -627,18 +443,6 @@ Regarding the battery performance and charging system, there are many difference
 
 In these three models, you will get 5G. So, there is no argument about this. However, Galaxy S21 Plus and S21 Ultra have been manufactured with Ultra-Wide Band (UWB) chips. It is a new feature that will provide hands-free control. Using these features, you can unlock your car or find the SmartTag tracker. Among these, S21 Ultra offers you more. It has Wi-Fi 6E compatibility, which is the fastest and lowest latency for Wi-Fi connection.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pro tips: How to Transfer Photos to S21 Ultra?
 
 Most of the time, after purchasing a new phone, we cannot transfer photos or other data to that device easily. At that moment, if you can use amazing data recovery software to transfer all your photos to the new Samsung Galaxy S21 Ultra, that would be a great solution. Well, we have the best solution for you. We are going to introduce you to an amazing software: [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It is a brilliant data recovery software that you can use for both iOS and Android systems. It has many amazing features. You can recover your data, transfer your photos and files, unlock Apple's ID and lock screen, repair the Android or iOS system, switch data from one phone to another phone, keep backup, restore data and erase data permanently from a device. Using this amazing software, you can transfer your photos to Samsung Galaxy S21 Ultra within one single click. Let's follow the guideline to know how to do this.
@@ -649,18 +453,6 @@ Download and install the software on your computer. Then start the Dr.Fone - Pho
 
 ![start dr.fone switch](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Connect Android and iOS Device
 
 Next, you can connect your Samsung Galaxy S21 Ultra and an iOS device to the computer (you can also use an Android device here). Use a USB cable for the Android device and a lightning cable for the iOS device. You'll get an interface like below when the program detects both devices. You can use the "Flip" button to change devices as the target device and the sender device. You can also choose the file types here to transfer.
@@ -668,35 +460,15 @@ Next, you can connect your Samsung Galaxy S21 Ultra and an iOS device to the com
 ![start dr.fone switch app](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3: Start Transfer Process
 
 After choosing the desired file types (Photos for this case), click on the "Start Transfer" button to start the transfer process. Keep patience until the process ends and make sure both Android and iOS devices stay connected properly during the process.
 
 ![start to transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 4: Finish Transfer and Check
 
 Within a short time, all your selected photos will be transferred to the Samsung Galaxy S21 Ultra. Then disconnect the Itel A60s devices and check if everything is okay.
@@ -715,9 +487,6 @@ Within a short time, all your selected photos will be transferred to the Samsung
 
 Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more updated than other models. It has the best quality camera, better battery capacity, and other new features. The design and the display are way better than the other models. After purchasing the Samsung Galaxy S21 Ultra, if you get stuck transferring your photos to the Itel A60s device, then you don't have to worry. We have introduced you to Dr.Fone - Phone Transfer in this article. Using this software, you can recover any files and keep data backup and restore them later. To transfer your photos to Galaxy S21 Ultra, you can use Dr.Fone Switch app by following the steps we provided. It's definitely better software than Smart Switch.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -730,5 +499,21 @@ Samsung Galaxy S21 Ultra has amazing features for the bottom line and is more up
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-quick-quota-video-plus-voice-mix-for-2024/"><u>[New] Quick Quota Video + Voice Mix for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-hidden-sound-scribes-unveiling-ios-and-android-stealth-recorders/"><u>[Updated] 2024 Approved Hidden Sound Scribes Unveiling iOS & Android Stealth Recorders</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-add-dynamic-blur-to-images-a-photoshop-journey-for-2024/"><u>[Updated] Add Dynamic Blur to Images – A Photoshop Journey for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-dominate-online-chatter-secrets-to-buzz-creating/"><u>[Updated] Dominate Online Chatter Secrets to Buzz-Creating</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-all-inclusive-screen-recorder-azs-app-analysis/"><u>[Updated] In 2024, All-Inclusive Screen Recorder - AZ's App Analysis</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-gt-10-pro-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix GT 10 Pro Device</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-get-animated-top-7-drawing-software-for-bringing-your-ideas-to-life/"><u>New In 2024, Get Animated! Top 7 Drawing Software for Bringing Your Ideas to Life</u></a></li>
+<li><a href="https://blog-min.techidaily.com/revolutionary-skies-with-jsxs-starlink-wireless-connectivity-experience-high-speed-internet-above-the-clouds/"><u>Revolutionary Skies with JSX's Starlink Wireless Connectivity: Experience High-Speed Internet Above the Clouds</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-implemented-eliminating-audio-issues-within-firefox-web-browser/"><u>Solution Implemented: Eliminating Audio Issues Within Firefox Web Browser</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-pricey-charm-of-the-new-ipad-pro-m4-my-obsession-despite-its-expense/"><u>The Pricey Charm of the New iPad Pro (M4) – My Obsession Despite Its Expense</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-guide-to-choosing-a-game-enhancing-light-strip-spotlight-on-govee-g1/"><u>The Ultimate Guide to Choosing a Game Enhancing Light Strip: Spotlight on Govee G1</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-why-1more-sonoflow-wireless-earbuds-offer-unbeatable-value/"><u>Ultimate Guide: Why 1MORE SonoFlow Wireless Earbuds Offer Unbeatable Value</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-how-generative-ai-functions-and-identifying-key-industry-players/"><u>Unraveling How Generative AI Functions and Identifying Key Industry Players</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unraveling-the-dyson-360-vis-navs-quirks-a-comprehensive-review-on-its-idiosyncratic-pathfinding-and-battery-consumption/"><u>Unraveling the Dyson 360 Vis Nav's Quirks: A Comprehensive Review on Its Idiosyncratic Pathfinding and Battery Consumption</u></a></li>
+</ul></div>
 
