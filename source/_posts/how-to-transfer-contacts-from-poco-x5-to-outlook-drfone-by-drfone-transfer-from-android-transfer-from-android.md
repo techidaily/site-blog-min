@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from Poco X5 to Outlook | Dr.fone
-date: 2024-09-05T16:06:19.967Z
-updated: 2024-09-06T16:06:19.967Z
+date: 2024-12-17T09:05:20.269Z
+updated: 2024-12-18T02:50:21.089Z
 tags: 
   - transfer
 categories:
@@ -12,12 +12,6 @@ keywords: transfer from android to pc,transfer from Poco X5 to android,transfer 
 thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d7c87ab230819ca4dc98d6d3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Transfer Contacts from Poco X5 to Outlook
 
 _I would like to export/edit my contacts that are on My Poco X5 and get them onto my computer for a back, to edit them, to input/import them into Outlook. Can this be done and how? Is there something I can download or a backup assistant?_
@@ -25,8 +19,6 @@ _I would like to export/edit my contacts that are on My Poco X5 and get them ont
 With lots of contacts on your Poco X5, you may want to transfer these contacts from Poco X5 to Outlook for backup. This way, when you get a new Android phone or when you lose contacts by accident, you can quickly get them back.
 
 To sync Android to Outlook, I highly recommend an Android manager: [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). This program empowers you to transfer contacts on your Poco X5 to Outlook 2003/2007/2010/2013 easily and effortlessly.
-
-
 
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
 
@@ -51,11 +43,9 @@ To start with, connect your Poco X5 with a computer either via a USB cable. Run 
 ![android to outlook](https://images.wondershare.com/drfone/guide/transfer-files-quickly-to-android-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2. Android to Outlook sync
 
 Then, click "Contacts" under "Information" panel on the top. In the contact management window, choose the contacts that you want to export. Click "Export" button. When the drop-down menu pops up, you can either click "Export selected contacts to computer" or "Export all contacts to computer". After that, click "to Outlook Express" or "to Outlook 2003/2007/2010/2013". Then, the contract transferring begins. Be sure your Poco X5 is connected all the time.
@@ -70,22 +60,14 @@ Now, download Dr.Fone - Phone Manager (Android) to have a try!
 
 One of the first and the most important things people care about while upgrading their phones today is how to transfer contacts from one phone to another phone. 2022 has just begun, new devices from smartphone companies are coming in and one of the most anticipated of them is Samsung Galaxy S22 series that is rumored to launch just this February. For some, the upgrade fever is coming on! And, it pays to be prepared in advance. If you are going to be upgrading your old Android to one of the fancy new Android smartphones soon, you are in the right place. You will learn how to transfer contacts from the old device to the new one easily and smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part I: How to Transfer Contacts from Poco X5 to Other Android Devices via Bluetooth?
 
 This method works if you are not trading in your old smartphone to offset the cost of the new, as to transfer contacts from one Android smartphone to another using Bluetooth you will require both devices present and in close proximity, a few feet away at best. There are advantages to transferring contacts using Bluetooth, such as no need for using the internet, going through any other hoops, or opening special apps! Everything you need to share contacts from one Android phone to another is built right into your phone! Now, to transfer contacts from one Android smartphone to another using Bluetooth, you must first pair the two devices together so as to allow for seamless contacts transfer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### I.I: Pairing Two Android Devices Together
 
 Here’s how to pair your old and new phone together via Bluetooth:
@@ -99,27 +81,17 @@ Step 3: If everything is done correctly, both devices will show themselves to ea
 ![enable bluetooth](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Step 4: Tap the other device on either of them. Here, the Moto G4 Play was tapped on OnePlus Nord 2:
 
 ![initiate pairing process on either device](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Step 5: A prompt to pair with the new phone will come on the other device as well. For your device, make sure that the PIN is the same on both devices to ensure the security of the connection. This PIN is generated afresh and is unique, so the PIN in the image is not the PIN you will see on your devices. Tap Pair on your old device to pair the two devices together using Bluetooth.
 
 Step 6: After pairing is complete, both devices will show under paired devices on each other:
@@ -127,11 +99,9 @@ Step 6: After pairing is complete, both devices will show under paired devices o
 ![old device showing paired android](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 And that’s how simple it is to pair devices to each other using Bluetooth!
 
 ### I.II: Transfer Contacts from One Android Smartphone to Another Using Bluetooth
@@ -144,12 +114,6 @@ Step 2: Tap the vertical ellipses and select Import/ Export.
 
 ![export contacts from old android to new](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This particular option can vary by your phone model and Android flavor, this is on Android 7 running on Motorola G4 Play. If you are unable to find a way to select contacts or share contacts in the Phone app on your phone, use the Contacts app on your phone for the same effect.
 
 Step 3: A popup will emerge:
@@ -157,63 +121,31 @@ Step 3: A popup will emerge:
 ![select share all contacts to transfer contacts](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Select Share All Contacts.
 
 Step 4: When you do that, this will come up:
 
 ![select bluetooth as the method to share with](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Select Bluetooth in the Share With menu. You may select Always or Just Once and proceed.
 
 Step 5: Choose the paired handset, in this case, the OnePlus Nord 2:
 
 ![select paired device to transfer to](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 6: The VCF file will be exported to Nord 2 and you can accept it on the Nord 2 (new device).
 
 ![receive contacts on new device](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-8.jpg)
 
 And that is how to transfer contacts from an Android smartphone to another using Bluetooth!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part II: Other Methods to Transfer Contacts from Poco X5 to Other Android Devices
 
 What are other ways to transfer contacts from one Android smartphone to another? Glad you asked. Because there are other ways to transfer contacts from an Android smartphone to another that do not use Bluetooth and can be both seamless and more powerful than the Bluetooth method, depending on your tastes and needs.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### II.I: Sync Contacts Using Google Account
 
 This is another method to transfer your contacts on one Android device and restore them on another Android device. Here’s how to transfer contacts from one Android smartphone to another using Google Sync:
@@ -264,12 +196,6 @@ In that regard, using a third-party solution such as Dr.Fone allows you complete
 
 ### II.III: Transfer Contacts from Poco X5 to Other Android Devices Using Dr.Fone - Phone Transfer
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Video Tutorial: How to Transfer Data from Poco X5 to Other Android Devices
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/_Fhd5Vugoek" id="video-iframe-t"></iframe>
@@ -292,15 +218,13 @@ Step 3: Select the Phone Transfer module and connect your Poco X5s to the comput
 
 ![phone transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 4: When the Poco X5 devices are connected, select the Contacts category to transfer and click Start Transfer. Within seconds, your contacts will be transferred to the new device.
 
 ![transfer complete](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That’s it! It is that easy. Connect your devices, select what to transfer, click Start Transfer, and boom! You’re good to go. If you are thinking about WhatsApp chats, that is handled easily, too, using the [WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/) module. You’re going to have a wide smile plastered all over your face when you try this and experience how seamless and easy this is, everything integrated into one easy-to-use app called Dr.Fone.
 
@@ -316,13 +240,15 @@ The phone industry, for years, has constantly improved on the design and develop
 
 Most of these photos would need to be shared with other people who are either a part of the photo or you would want to transfer them to your new android device. Most users are at a loss about how to transfer their photos from one android device to another. There are several ways to do that successfully without the risk of losing your priced photos. And in this article we have outlined several ways through which you can transfer your photos from your Poco X5 to your new android device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Transfer Photos from Poco X5 to New Android with a File Transfer Software
 
 One way of moving your photos between android devices is through the use of file transfer software. This software enables you to connect both android devices together.
 
 Using file transfer software to move your photos from one android device to another android device provides a secure and sure transfer window, ensuring your files won’t be lost. Reliable software you can use for this purpose is the [**Dr.Fone - Phone Transfer**](https://tools.techidaily.com/wondershare/drfone/phone-switch/) software. Dr.Fone - Phone Transfer file transfer software is topnotch and user friendly. This article will carefully lead you through the process of using this software.
-
-
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
@@ -342,24 +268,12 @@ Ensure you have a good PC where you would download and install the Dr.Fone softw
 
 ![How to Transfer Photos from Poco X5 to Other Android Devices-select solution](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 2. Connect both phones to PC and select "Photos"
 
 Using a good USB cable, connect both old and new devices to your PC. When that is done, a list of data that can be transferred will appear. Choose "Photos" and this will move your photos from the source device to the destination device. You can also change both device between “source” and “Destination” by using the “Flip” button.
 
 ![Transfer Photos from Poco X5 to Other Android Devices using Dr.Fone - Phone Transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 3. Click "Start Transfer"
 
 Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to transfer photos. Go to view trabsferred photos on the destination phone until it completes.
@@ -382,12 +296,6 @@ This would take you to a screen where you should find the NFC and android beam o
 
 ![Transfer data from Poco X5 to Other Android Devices by NFC-enable NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2\. Another method of checking is by opening settings menu and tapping on the search icon. Type in “NFC”. If your phone is capable, it will show up. The NFC function works hand-in-hand with the android beam. NFC may not work at optimal levels if android beam is “off”.
 
 To Transfer Photos from your Poco X5 to a new android device, ensure both devices support NFC using the method explained above. Once this is confirmed, use Android beam to access the photos you want to transfer to your new android device.
@@ -404,12 +312,6 @@ To Transfer Photos from your Poco X5 to a new android device, ensure both device
 
 ![Transfer Photos from Poco X5 to Other Android Devices by NFC-“Touch to beam”](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To begin beaming, you must touch the screen on your Poco X5 from where the photos are been sent. A sound will alert you that beaming has started.
 
 To ensure a successful transfer, make sure devices are not locked neither should the screen be turned off. Also both devices should be kept back-to-back throughout the duration of the transfer.
@@ -428,12 +330,6 @@ The purpose of this article is to guide you through the process of successfully 
 
 ![How to Transfer Photos from Poco X5 to Other Android Devices by Bluetooth-Pair Devices](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-bluetooth-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 A message will pop up on your new android device, requesting permission to pair with your Poco X5. Click "Accept “to establish connection.
 
 3\. After both devices have successfully been paired to each other, go to the folder containing the Photos your want to send to your new Android device. Select the photo or if they are more than one, long press on a photo. This will create a thumbnail. Select the photos you want to transfer and choose the share button normally depicted by this icon
@@ -442,24 +338,6 @@ A message will pop up on your new android device, requesting permission to pair 
 
 ![How to Transfer Photos from Poco X5 to Other Android Devices by Bluetooth](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-bluetooth-01.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. Transfer Photos from Old to New Android Phones via Device-Specific App
 
 **Samsung Smart Switch**
@@ -470,11 +348,19 @@ The Samsung smart switch software helps to Transfer Photos either by cable or wi
 
 ![How to Transfer Photos from Poco X5 to Other Android Devices by Smart Switch-set Sending Device and Receiving Device](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-smart-switch-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Now, choose either the Cable option using an OTG adapter or wireless transfer option.
 
 3\. On the old Samsung device, select the data to be transferred to the new Samsung device. When you are done with this, your phone will notify the size and time length of the transfer.
 
 ![How to Transfer Photos from Poco X5 to Other Android Devices by Smart Switc-Start Transfer by Smart Switch](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-smart-switch-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. Thereafter, click on “Send” to begin the transfer of data from on device to the other.
 
@@ -498,11 +384,6 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
 
 ![How to Transfer Photos from Poco X5 to Other Android Devices by Huawei Suite](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-huaweisuite.jpg)
 
-
-
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -515,5 +396,21 @@ Huawei devices have HiSuite, an inbuilt manager tool. This app helps users to ma
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-efficient-entry-powerpoint-recordings/"><u>[New] 2024 Approved Efficient Entry PowerPoint Recordings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-webcam-tech-unveiled-best-recording-practices/"><u>[New] In 2024, WebCam Tech Unveiled Best Recording Practices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ptimizing-your-content-performance-premier-video-rank-tools/"><u>[New] Optimizing Your Content' Performance Premier Video Rank Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-high-end-video-resizer-unparalleled-definition/"><u>[Updated] High-End Video Resizer Unparalleled Definition</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-secrets-of-successfully-posting-imovie-videos-on-vimeo/"><u>[Updated] The Secrets of Successfully Posting iMovie Videos on Vimeo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725289189910-ai/"><u>AIを活用した高解像度アップコンバート - 小さな画像も美しく巨大化可能！</u></a></li>
+<li><a href="https://blog-min.techidaily.com/drmappledrm/"><u>DRM保護をクリアし、Apple音楽/動画/電子書籍を完全解放する上位DRM解除ツール</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ng-power-through-engagement-ajays-success-on-youtube-monetization-for-2024/"><u>Earning Power Through Engagement Ajay’s Success on YouTube Monetization for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-macs-2023-update-youtube-audio-to-mp3-step-by-step/"><u>In 2024, Mac's 2023 Update YouTube Audio to MP3 Step-by-Step</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-gionee-f3-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Gionee F3 Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/rotazione-video-in-alta-qualita-senza-perdite-per-mp4-opzioni-di-rotazione-a-90-180-e-270-gradi/"><u>Rotazione Video in Alta Qualità Senza Perdite per MP4: Opzioni Di Rotazione a 90, 180 E 270 Gradi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/topos-gratuites-video-sur-youtube-comment-choisir-le-format-ideal-en-2020/"><u>Topos Gratuites Vidéo Sur YouTube : Comment Choisir Le Format Idéal en 2020 ?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/troubleshooting-and-correcting-backup-issues-in-windows-1011-setups-for-a-smooth-installation-process/"><u>Troubleshooting and Correcting Backup Issues in Windows 10/11 Setups for a Smooth Installation Process</u></a></li>
+</ul></div>
 
