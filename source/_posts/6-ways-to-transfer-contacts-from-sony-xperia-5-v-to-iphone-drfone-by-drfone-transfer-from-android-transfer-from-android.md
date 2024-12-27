@@ -1,7 +1,7 @@
 ---
 title: 6 Ways To Transfer Contacts From Sony Xperia 5 V to iPhone | Dr.fone
-date: 2024-09-01T23:07:53.878Z
-updated: 2024-09-02T23:07:53.878Z
+date: 2024-12-21T18:26:38.270Z
+updated: 2024-12-26T16:38:30.672Z
 tags: 
   - transfer
 categories:
@@ -22,13 +22,9 @@ This article will delve into 6 effective ways to effortlessly migrate your conta
 
 **Author Recommendation. The Best Method to Transfer Contacts from Sony Xperia 5 V to iPhone**
 
-
-
 ## Way 1: Wondershare Dr.Fone
 
 [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is a powerful and user-friendly tool. It simplifies the process of transferring contacts from an Android device to an iPhone. Dr.Fone offers a robust phone transfer feature that can transfer your contacts and other data in minutes. With its user-friendly interface, the process involves straightforward clicks. This powerful tool efficiently moves data between devices operating on different systems, such as iOS and Android.
-
-
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -36,9 +32,6 @@ This article will delve into 6 effective ways to effortlessly migrate your conta
 2. The Phone Transfer of Wondershare Dr.Fone is fully compatible with over 8000 devices from all major brands.
 3. Wondershare Dr.Fone enables the transfer of up to 15 different file types between phones.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Steps To Transfer Contacts From Sony Xperia 5 V to iPhone via Wondershare Dr.Fone
 
 Follow these simplified steps for **how to transfer contacts from Sony Xperia 5 V to iPhone** using Wondershare Dr.Fone:
@@ -55,6 +48,10 @@ Once devices are detected by Wondershare Dr.Fone, ensure that they are correctly
 
 ![press the start transfer button](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 2: Utilize Move to iOS App
 
 The Move to iOS app is a dedicated solution provided by Apple. It is specifically designed to help the migration of data, including contacts, from an Android device to an iPhone. This official app aims to simplify the transition process. Nevertheless, its utilization is limited to setting up an iPhone for the initial time or following a factory reset. Here is how to **transfer contacts from Sony Xperia 5 V to iPhone** using Move to iOS app:
@@ -63,17 +60,10 @@ The Move to iOS app is a dedicated solution provided by Apple. It is specificall
 
 ![tap move data from android](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 - **Step 2.** Proceed by tapping “Continue” on both your devices and consenting to the terms and conditions. Follow it by tapping “Next” and insert the code from the iPhone to the Move to iOS app to establish a connection. From the available data transfer options, ensure to choose "Contacts." Now, follow the on-screen prompts to complete the transfer process.
 
 ![transfer contacts using move to ios](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 3: Sync Contacts to Google Account
 
 Syncing contacts to a Google account serves as a convenient method. It can automatically transfer contacts from an Android device to an iPhone. Moreover, it is an excellent choice if your Android contacts are stored in a Google account. This method operates for both new and already set-up iPhones. Follow these instructions to sync your contacts to your Google account and subsequently access them on your iPhone:
@@ -90,9 +80,6 @@ Syncing contacts to a Google account serves as a convenient method. It can autom
 
 ![enable the contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 4: Using the SIM Card
 
 Transferring contacts using a SIM card provides a basic yet effective method. This method might be the least convenient option. The reason is it involves physically exchanging SIM cards between the phones. Moreover, you can't use this method if you use the Google Contacts app. However, some Android brands like Samsung still allow it. Follow these steps for **how to move contacts from Sony Xperia 5 V to iPhone** via SIM card:
@@ -101,20 +88,10 @@ Transferring contacts using a SIM card provides a basic yet effective method. Th
 
 ![export contacts to sim](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 2.** After it is done, insert the SIM card into the iPhone and open Settings. Move to "Contacts" and press "Import SIM Contacts" on the next screen to complete the process of moving contacts from a SIM card on an iPhone or email.
 
 ![tap import sim contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Way 5: Sync Using iTunes/Finder
 
 Syncing contacts from an Android device to an iPhone using iTunes or Finder is another method. It is an indirect transfer by syncing Google contacts from your account to your iPhone. This method enables you to consolidate your contacts from your Google account onto your iPhone. Here is **how to send contacts from Sony Xperia 5 V to iPhone** via iTunes/Finder:
@@ -123,14 +100,14 @@ Syncing contacts from an Android device to an iPhone using iTunes or Finder is a
 
 ![tap import sim contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Ensure the box beside "Sync Contacts with" is checked, then pick "Google Contacts" from the drop-down menu. Log in to your Google account and designate the contacts for synchronization. Tap "Apply" in the bottom right to initiate syncing your iPhone with your Google contacts.
 
 ![enable sync contacts with option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Way 6: Import the VCF File
 
 Importing a VCF file directly to your iPhone allows for a simple and direct transfer of contacts. It happens without the need for additional software or complex procedures. This method retains contact details and ensures a smooth transition. Follow these steps to import a VCF file containing your contacts while answering **how to move contacts from Sony Xperia 5 V to iPhone**:
@@ -140,15 +117,13 @@ Importing a VCF file directly to your iPhone allows for a simple and direct tran
 ![email the vcf file](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 - **Step 2.** Now move to your iPhone and open the mail with Contacts from the Android device. Press the attached file, choose "Share," select the "Contacts" app and tap "Add All Contacts."
 
 ![tap add all 3 contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Author Recommendation: The Best Method To Transfer Contacts From Sony Xperia 5 V to iPhone
 
 When considering the most efficient and reliable method to **transfer contacts from Sony Xperia 5 V to iPhone**, our recommendation leans toward using Wondershare Dr.Fone. Among various available methods, Wondershare Dr.Fone offers a comprehensive, user-friendly experience.
@@ -162,23 +137,19 @@ It simplifies the transfer process with its intuitive interface and dependable p
 5. **Efficiency and Speed:** The software streamlines the transfer process to an excellent measure. It saves valuable time by swiftly migrating contacts and other data without data loss or errors.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, transitioning from an Android device to an iPhone doesn't have to be a daunting task. It is especially not the case when it comes to **how to transfer contacts from Sony Xperia 5 V to iPhone**. Throughout this guide, we've explored various effective methods. Each one offered its unique approach to simplify the transfer process.
 
 You can opt for the user-friendly interface of Wondershare Dr.Fone, the official Move to iOS app, or sync via Google accounts. Other options include utilizing the SIM card, syncing through iTunes/Finder, or the direct import of a VCF file. Selecting the ideal method often depends on personal preferences. Wondershare Dr.Fone emerges as a standout recommendation due to its versatility, reliability, and ease of use.
 
-
-
 ## How to Transfer Data from Sony Xperia 5 V to Any iOS Devices
 
 [![Alice MJ](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you are a proud owner of smartphones running on two different operating systems such as Windows and iOS, you might face the challenging task of transferring the data from your **Windows phone to iPhone**. Transferring the data between the two devices running the OS of the different platforms is not as easy as it is when you have devices with a common platform. This article aims to guide you through two simple routes that you can follow to transfer the data stored in your Windows phone such as **Sony Xperia 5 V to iPhone** or other iOS devices. You don't need to worry about how to transfer from Sony Xperia 5 V to iPhone or How to transfer contacts from Sony Xperia 5 V to iPhone anymore after reading this article. Read them on.
 
 - 1\. You can rely on some program/online service/website such as Outlook, CSV file format, Google Contacts, etc.
@@ -255,14 +226,6 @@ Cons:
 1. It is a time-consuming process.
 2. You cannot transfer photos and media files by following this method.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Part 2: Transfer Data Using PhoneCopy
 
 With PhoneCopy you can easily export data from your Sony Xperia 5 V to the PhoneCopy server, and then import the data from the PhoneCopy server to your new iOS device. It is easy to **transfer contacts from Sony Xperia 5 V to iPhone** with PhoneCopy. What you need is PhoneCopy iPhone Sony Xperia 5 V.
@@ -339,16 +302,14 @@ Only up to 500 contacts, SMS, tasks, and notes can be synched while using the Ba
 
 The archived data is auto-deleted from the PhoneCopy server after one month when using the Basic version, and after 1 year when using the Premium version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tip: Best Way to Transfer data between Android and iPhone
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) lets you transfer data from Sony Xperia 5 V to iPhone or iPhone to Android in 1 Click. It supports almost all mobiles, including iPhone, Android Samsung, LG, Sony, HTC, etc. Dr.Fone - Phone Transfer can transfer music, videos, contacts, messages, call logs, and apps between mobiles. If you want to transfer data between Android and iPhone, it must be the best solution for you. Try it free. Follow the steps below to know **how to transfer data between Android and iPhone**.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer Data between Android and iPhone in One Click.
@@ -380,13 +341,6 @@ Connect your Android and iPhone. Dr.Fone will detect it soon. Then select the fi
 
 Regardless of the fact that many free solutions are there that can help you **transfer data from your Sony Xperia 5 V to iPhone**. If you also have an Android device, the Dr.Fone - Phone Transfer always has an upper hand when it comes to providing hassle-free migration between iPhone and Android devices.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Transfer Contacts from Sony Xperia 5 V to Other Android Devices Using Bluetooth?
 
 One of the first and the most important things people care about while upgrading their phones today is how to transfer contacts from one phone to another phone. 2022 has just begun, new devices from smartphone companies are coming in and one of the most anticipated of them is Samsung Galaxy S22 series that is rumored to launch just this February. For some, the upgrade fever is coming on! And, it pays to be prepared in advance. If you are going to be upgrading your old Android to one of the fancy new Android smartphones soon, you are in the right place. You will learn how to transfer contacts from the old device to the new one easily and smoothly.
@@ -396,8 +350,9 @@ One of the first and the most important things people care about while upgrading
 This method works if you are not trading in your old smartphone to offset the cost of the new, as to transfer contacts from one Android smartphone to another using Bluetooth you will require both devices present and in close proximity, a few feet away at best. There are advantages to transferring contacts using Bluetooth, such as no need for using the internet, going through any other hoops, or opening special apps! Everything you need to share contacts from one Android phone to another is built right into your phone! Now, to transfer contacts from one Android smartphone to another using Bluetooth, you must first pair the two devices together so as to allow for seamless contacts transfer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### I.I: Pairing Two Android Devices Together
 
 Here’s how to pair your old and new phone together via Bluetooth:
@@ -410,9 +365,6 @@ Step 3: If everything is done correctly, both devices will show themselves to ea
 
 ![enable bluetooth](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Step 4: Tap the other device on either of them. Here, the Moto G4 Play was tapped on OnePlus Nord 2:
 
 ![initiate pairing process on either device](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-2.jpg)
@@ -426,8 +378,9 @@ Step 6: After pairing is complete, both devices will show under paired devices o
 And that’s how simple it is to pair devices to each other using Bluetooth!
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### I.II: Transfer Contacts from One Android Smartphone to Another Using Bluetooth
 
 Here is how to transfer contacts from one Android to another, easily, using Bluetooth:
@@ -456,35 +409,16 @@ Step 5: Choose the paired handset, in this case, the OnePlus Nord 2:
 
 ![select paired device to transfer to](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 6: The VCF file will be exported to Nord 2 and you can accept it on the Nord 2 (new device).
 
 ![receive contacts on new device](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-8.jpg)
 
 And that is how to transfer contacts from an Android smartphone to another using Bluetooth!
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Part II: Other Methods to Transfer Contacts from Sony Xperia 5 V to Other Android Devices
 
 What are other ways to transfer contacts from one Android smartphone to another? Glad you asked. Because there are other ways to transfer contacts from an Android smartphone to another that do not use Bluetooth and can be both seamless and more powerful than the Bluetooth method, depending on your tastes and needs.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### II.I: Sync Contacts Using Google Account
 
 This is another method to transfer your contacts on one Android device and restore them on another Android device. Here’s how to transfer contacts from one Android smartphone to another using Google Sync:
@@ -499,11 +433,12 @@ Step 4: Make sure that there is a checkmark next to Contacts, or, in other words
 
 ![enable contacts sync in google account settings](https://images.wondershare.com/drfone/article/2022/01/transfer-contacts-android-to-android-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, Google will sync your contacts from the Sony Xperia 5 V device onto the cloud, and your new device signed into the same Google Account will automatically download the contacts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### II.II: Transfer Contacts from An Android Smartphone To Another Using Manufacturer Apps
 
 Now, if you have an LG phone, you might be more willing to use LG apps than, say, Xiaomi apps. Same for Xiaomi users who would probably scoff at using Samsung apps on their beloved Xiaomi devices. Manufacturers provide apps on Google Play Store that make transferring content from another device to their devices easy because that suits them to make the processes as seamless and easy for their customers. Even Apple is no different in that regard, they have an app to make it easy for people to switch from Sony Xperia 5 V to iOS.
@@ -556,25 +491,27 @@ Step 2: Launch Dr.Fone
 
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Select the Phone Transfer module and connect your Sony Xperia 5 Vs to the computer
 
 ![phone transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 Step 4: When the Sony Xperia 5 V devices are connected, select the Contacts category to transfer and click Start Transfer. Within seconds, your contacts will be transferred to the new device.
 
 ![transfer complete](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That’s it! It is that easy. Connect your devices, select what to transfer, click Start Transfer, and boom! You’re good to go. If you are thinking about WhatsApp chats, that is handled easily, too, using the [WhatsApp Transfer](https://tools.techidaily.com/wondershare/drfone/whatsapp-transfer/) module. You’re going to have a wide smile plastered all over your face when you try this and experience how seamless and easy this is, everything integrated into one easy-to-use app called Dr.Fone.
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 Transferring contacts from one Android to another Android can be done in two broad ways. One is to transfer contacts from an Android smartphone to another using Bluetooth, which means you can transfer between any smartphone easily and whenever you wish to, without limitations such as which manufacturer the smartphone belongs to. But, how about some more control over what you transfer? If you do not want to use Bluetooth, there is the other way to simply enable Sync in your Google Account, post which your contacts will be uploaded to your Google Account and downloaded to your other device. Or, when you want to do more than transfer, or when you want to have the convenience of doing things from your computer, you have a third way, where you can use Dr.Fone with the Phone Transfer module that lets you select what to transfer, and importantly, lets you transfer between manufacturers easily. So you want to transfer from Sony Xperia 5 V to iPhone, you can do that. You want to transfer from an Android smartphone to another, you can do that. You want to transfer contacts and other data from one manufacturer to another, you can do that. All in just three steps - connect, select, click.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -588,5 +525,24 @@ Transferring contacts from one Android to another Android can be done in two bro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-navigating-premieres-export-woes-to-fix-srt-files/"><u>[New] Navigating Premiere's Export Woes to Fix SRT Files</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tep-by-step-guide-to-elevating-your-channel-brand-growth-in-viewers/"><u>[New] Step-by-Step Guide to Elevating Your Channel Brand, Growth in Viewers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-jest-jamboree-utilizing-comic-tools-for-free/"><u>[Updated] Jest Jamboree Utilizing Comic Tools for Free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-motorola-defy-2-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Motorola Defy 2 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-siri-with-apples-ai-anticipate-major-revamps-by-2025-says-zdnet/"><u>Enhancing Siri with Apple's AI: Anticipate Major Revamps by 2025, Says ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-8-plus-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 8 Plus to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2013-formulas-not-working-properly-step-by-step-guide-by-stellar-guide/"><u>How to Fix Excel 2013 Formulas Not Working Properly | Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-lava-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Lava Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-tecno-spark-10-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone 14 Plus | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-sony-xperia-5-v-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Sony Xperia 5 V using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-xiaomi-redmi-a2plus-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Xiaomi Redmi A2+ for Free? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/microsofts-official-guide-updating-and-downloading-bluetooth-drivers-for-windows-operating-systems/"><u>Microsoft's Official Guide: Updating and Downloading Bluetooth Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-choosing-a-wireless-modem-spotlight-on-the-mighty-netgear-nighthawk-c7000/"><u>The Ultimate Guide to Choosing a Wireless Modem: Spotlight on the Mighty Netgear Nighthawk C7000</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/thriving-financially-with-youtube-advertising-techniques-for-2024/"><u>Thriving Financially with YouTube Advertising Techniques for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-top-5-elite-slow-camera-systems/"><u>Unveiling the Top 5 Elite Slow Camera Systems</u></a></li>
+</ul></div>
 
