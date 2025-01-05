@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Contacts from Realme 12 Pro+ 5G to iPhone XS/11 | Dr.fone
-date: 2024-09-01T23:05:53.288Z
-updated: 2024-09-02T23:05:53.288Z
+date: 2024-12-29T08:43:58.324Z
+updated: 2025-01-05T02:10:35.584Z
 tags: 
   - transfer
 categories:
@@ -24,7 +24,9 @@ In this article, we are going to introduce 4 vital solutions to make your transi
 
 If you want to import contacts to iPhone XS/11 from Android in a single click, there is no better solution than [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). Not only contacts but a wide range of device data can be transferred from your Android to an iPhone with this tool. Photos, music, text messages, videos, etc. are a few of them.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -81,19 +83,10 @@ It involves quick steps to automatically moving data. Apart from contacts, it su
 
 ![transfer contacts from Realme 12 Pro+ 5G to iPhone XS (Max) - pair android and iPhone XS (Max)](https://images.wondershare.com/drfone/article/2018/01/15150786375935.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 1. On your Realme 12 Pro+ 5G, click ‘Done’ as soon as the data transfer is complete. Let the iPhone XS/11 sync the contacts. You need to set up your iCloud account now. Once it is done, you can view the transferred contacts on the iOS device.
 
 ![transfer contacts from Realme 12 Pro+ 5G to iPhone XS (Max) - contacts transferred](https://images.wondershare.com/drfone/article/2018/01/15150786533707.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to transfer contacts from Realme 12 Pro+ 5G to iPhone XS/11 using Google account
 
 Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Android mobile, as well. to do that, you need to get your Gmail and Android device contacts to get synced first.
@@ -104,24 +97,14 @@ Alternatively, you can import contacts to iPhone XS/11 from Gmail from your Andr
 
 ![import contacts to iPhone XS (Max) from gmail account - transfer using google service](https://images.wondershare.com/drfone/article/2018/01/15150786756577.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Now, you need to add the same Gmail account to your iPhone X, in order to sync back contacts from it. For this, head to ‘Settings’ > ‘Passwords & Accounts’ > ‘Add Account’ > ‘Google’. Then, you’re required to punch in the details of the same Gmail account used over Android to sync contacts.
 
 ![import contacts to iPhone XS (Max) - add gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-add.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 1. Lastly, get into ‘Settings’, then ‘Passwords & Accounts’, tap on your Gmail account and ensure that the ‘Contacts’ switch is turned on. Turn it on if it is not already. Within a short span of time, you can find the Android contacts appearing on your iPhone XS/11 after that.
 
 ![imported contacts to iPhone XS (Max) from Android gmail account](https://images.wondershare.com/drfone/article/2018/09/ios-12-gmail-contacts.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## How to transfer contacts from Realme 12 Pro+ 5G to iPhone XS/11 using SIM card
 
 As you know the SIM card itself can hold a certain number of contacts, depending on the carrier and phone make and model.
@@ -136,9 +119,6 @@ As you know the SIM card itself can hold a certain number of contacts, depending
 
 **Note:** _Though, it’s rare nowadays. In case you happen to own a very old SIM card and your Realme 12 Pro+ 5G supported the size. You might need to cut it to fit the iPhone XS/11’s micro-SIM slot._
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Transfer Contacts from Realme 12 Pro+ 5G to Other Android Devices Devices?
 
 Android, which is developed by the Google, has a very strong mobile operating system. It is totally based on the Linux kernel and specially designed for touch screen mobile devices such as smartphones and tablets. And these Android mobiles are used by millions of people. Some of the users might feel the need to transfer their contacts from one Android device to another due to up gradation or changing of the mobile. There are many methods which can help transfer contacts from Realme 12 Pro+ 5G to Other Android Devices.
@@ -148,8 +128,6 @@ So for all those who want to know how to transfer contacts from Realme 12 Pro+ 5
 ## Part 1: How to transfer contacts from Realme 12 Pro+ 5G to Other Android Devices using Dr.Fone toolkit?
 
 One of the most popular toolkit to transfer contacts from Realme 12 Pro+ 5G to Other Android Devices is the [Dr.Fone toolkit - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). This is a revolutionary application for your entire backup and restores solutions. This application supports over 8000+ Android devices worldwide and with its advanced features, the application allows the user to take backup and restore by selecting their needs and requirements.
-
-
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
 
@@ -183,16 +161,10 @@ Click on the button "Start Transfer". Keep phones connected. Dr.Fone starts to t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3O1hKeyNmsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2. How to Transfer Photos from Old Android to New Android Using NFC
 
 ![Transfer Photos from Realme 12 Pro+ 5G to Other Android Devices-by NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 Near Field Communication(NFC) is a technology that supports Android Beam and is ideal for transferring data between android devices by just pressing their backs together. It is a fast and simple program that requires both devices to NFC-capable. This means they are able to communicate with each other when their fields are near. This communication is made possible through radio frequencies. Most devices have NFC hardware integrated underneath their panel.
 
 NFC can be found in almost every android device. In the past, it was easy to identify devices with NFC as such devices usually had NFC printed somewhere in the back of the Realme 12 Pro+ 5G devices, most tines on the battery pack. But since most android devices don’t have a removable back, there is an alternative to checking if your device is NFC enabled.
@@ -205,9 +177,6 @@ NFC can be found in almost every android device. In the past, it was easy to ide
 
 ![Transfer data from Realme 12 Pro+ 5G to Other Android Devices by NFC-enable NFC](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Another method of checking is by opening the settings menu and tapping on the search icon. Type in “NFC”. If your phone is capable, it will show up. The NFC function works hand-in-hand with the android beam. NFC may not work at optimal levels if the android beam is “off”.
 
 To Transfer Photos from your old android device to a new android device, ensure both devices support NFC using the method explained above. Once this is confirmed, use the Android beam to access the photos you want to transfer to your new android device.
@@ -224,9 +193,6 @@ Now, on your old android device, the screen will reduce to a thumbnail and a “
 
 ![Transfer Photos from Realme 12 Pro+ 5G to Other Android Devices by NFC-“Touch to beam”](https://images.wondershare.com/drfone/article/2019/11/transfer-old-android-to-new-android-by-nfc-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 To begin beaming, you must touch the screen on your old android device from where the photos are been sent. A sound will alert you that beaming has started.
 
 To ensure a successful transfer, make sure devices are not locked neither should the screen be turned off. Also, both devices should be kept back-to-back throughout the duration of the transfer.
@@ -253,16 +219,10 @@ Now, pull the SIM card out and insert in on your new device.
 
 ![import from sim card](https://images.wondershare.com/drfone/article/2017/05/14945040941310.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 Advantages: This process is easy to use and can be done without any PC.
 
 Disadvantage: It can only transfer the contacts up to the SIM capacity that is 200 to 250 in one time. If you have lots of contacts, it is impossible to transfer by this method.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Part 3: How to transfer contacts from Realme 12 Pro+ 5G to Other Android Devices using Bluetooth or Wi-Fi Direct?
 
 To transfer contacts from Realme 12 Pro+ 5G to Other Android Devices using Bluetooth or Wi-Fi Direct is one of the easiest methods. For this method, make sure that you should enable “Bluetooth” or “Wi-Fi Direct” on both the Android devices.
@@ -289,9 +249,6 @@ Advantage: This is a very fast process.
 
 Disadvantage : Sometimes the contacts are not saved automatically. You have to open the name card file one by one to save them. If you have a lot of contacts, this process is very hectic and lengthy.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: How to transfer contacts from Realme 12 Pro+ 5G to Other Android Devices using Samsung Smart Switch?
 
 Samsung launched a new app called “Smart Switch” to allow transfer of content between Android devices. Although, it does not support allAndroid devices.
@@ -308,9 +265,6 @@ To transfer contacts from Realme 12 Pro+ 5G to Other Android Devices via this ap
 
 ![select receiving device](https://images.wondershare.com/drfone/article/2017/05/14945046092554.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 4\. Now connect with your old device by opening the app on your old Android mobile. This will prompt to enter the pin number as displayed. Enter the same and hit “Connect” to start the process.
 
 5\. Now, select “Contact” on your old device and tap “Send”.
@@ -323,9 +277,6 @@ Disadvantages: This app is not supported on all the Android devices.  Also, the
 
 Thus, these were the four best options that you can use to transfer contacts from Realme 12 Pro+ 5G to Other Android Devices. However, in our experience, the first method, the Dr.Fone toolkit- Android data backup and restore is by far the best and most secured among all solutions for transferring contacts from Realme 12 Pro+ 5G to Other Android Devices. So, if you do not want to lose any data while transfer or worry about the security, use the Dr.Fone toolkit for the best result.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Transfer Contacts from Realme 12 Pro+ 5G To Phone
 
 When you get a new phone or switch between Android and iPhone, transferring contacts is essential. Moreover, to avoid losing your important contacts, you need some techniques to move them smoothly. The method you select has to transfer your contacts efficiently on a new device without losing information.
@@ -333,8 +284,6 @@ When you get a new phone or switch between Android and iPhone, transferring cont
 In this article, we will move you through various effective methods on **how to copy contacts from phone to phone**. Also, we have provided the best software that will assist you in transferring contacts securely. After that, you can seamlessly continue communication with your family, friends, and colleagues.
 
 ![transfer contacts phone to phone](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-1.jpg)
-
-
 
 ## Part 1. One-Click Solution To Handle All Contacts Transfer Between iPhone and Android
 
@@ -349,13 +298,12 @@ Also, besides contacts, you can transfer other content from your old device to a
 3. The transfer speed of Dr.Fone's Phone Transfer tool is the lowest among other transfer methods. Within 3 minutes, all of your content can be transferred to another device.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Guide To Move Contacts Between iPhone and Android Using Wondershare Dr.Fone
 
 This software will require a few steps to transfer your contacts to another device. Here is the answer in a step-wise manner to your "**how do I transfer contacts from phone to phone**" question. Moreover, this toolkit can work in all directions, such as from one iPhone to another or from an old Android smartphone to a new one.
-
-
 
 - Step 1. Open Dr.Fone to Transfer Your Contacts
 
@@ -363,18 +311,12 @@ First, you have to activate Wondershare Dr.Fone on your computer and navigate to
 
 ![choose phone transfer in toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 - Step 2. Designate the “Source” and “Destination” Devices
 
 Here, you need to set “Source” and “Destination” devices. In either case, you must set the Realme 12 Pro+ 5G device as a source from which you want to transfer the contacts. Moreover, you can also use the “Flip” button to change the transfer direction between the Realme 12 Pro+ 5G devices.
 
 ![set source and destination device](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 - Step 3. Select the “Contacts” Option for their Transfer
 
 Now, select the type of data you want to transfer, which, in your case, is “Contacts.” Checkmark the “Contacts” option, and click the “Start Transfer” button to begin the transfer. Now, you can monitor the progress of the contacts transfer in a new window.
@@ -388,15 +330,13 @@ After you turn off iCloud syncing on your iOS device, a notification will indica
 ![data transfer process completed](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2. 2 Methods To Transfer Contacts From iPhone to iPhone
 
 Although Wondershare Dr.Fone is the perfect solution to transfer your contacts, we'll consider various scenarios in which you can transfer contacts. Now, if you have an iPhone and want to know **how to copy contacts from phone to phone**, you can adopt the following two methods:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Method 1. Use NameDrop
 
 Apple has introduced a new feature in the latest iPhones named NameDrop. The feature allows you to share your contact card with another person by tapping the two iPhones together. The step-by-step guide to move contacts between iPhone and iPhone using “NameDrop" is below.
@@ -409,19 +349,14 @@ Apple has introduced a new feature in the latest iPhones named NameDrop. The fea
 
 ![choose to share or receive contact](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 3.** If you want to share your contact card, tap the “ Downward Arrow” icon, choose the fields you wish to include, and then share it.
 
 ![select fields to share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
+
 ### Method 2. iCloud Sync
 
 The alternate method to transfer your phone contacts is via iCloud synchronization. The technique involves your iCloud contacts option to be toggled on. You can sign in with the same iCloud account to transfer the contact list to your new iPhone. Here's how to transfer contacts from iPhone to iPhone using iCloud Sync:
@@ -430,12 +365,13 @@ The alternate method to transfer your phone contacts is via iCloud synchronizati
 
 ![choose contacts within icloud](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 2.** Next, you can see the "Contacts" option; toggle on the switch to synchronize them. When you sign in with your iCloud account on the new iPhone, contacts will be restored there.
 
 ![toggle switch for contacts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. 2 Methods To Transfer Contacts From Realme 12 Pro+ 5G to iPhone
 
@@ -453,6 +389,10 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 
 ![enable back up and sync option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Subsequently, navigate to the "Contacts" settings within your iPhone's "Settings" app. Here, find and select the "Accounts" option and proceed to the next step.
 
 ![explore connected accounts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-13.jpg)
@@ -460,6 +400,10 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 - **Step 4.** As you lead to the next window, tap the "Add Account" option. You have to sign in with your Google Account and ensure that the "Contacts" option is enabled.
 
 ![add new google account](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2. Use the VCF File
 
@@ -473,12 +417,6 @@ This method simplifies transferring contacts from Realme 12 Pro+ 5G to iPhone wi
 
 ![share vcf file to contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. 2 Methods To Transfer Contacts from Realme 12 Pro+ 5G to Other Android Devices
 
 This section will shed some light on the transfer process of contacts between one Android phone to another. Android devices offer various options to share content with another Android device. You can send contact lists and achieve **how to copy contacts from phone to phone** with these two methods:
@@ -491,9 +429,6 @@ Nearby Share is a feature available on Android devices that allows you to easily
 
 ![access nearby share option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 2.** As you proceed into the “Nearby Share” option, you have to turn on the “Device visibility” toggle. This will enable Nearby Share on your Android smartphone.
 
 ![enable nearby share on android](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-18.jpg)
@@ -507,8 +442,9 @@ Nearby Share is a feature available on Android devices that allows you to easily
 ![select the Realme 12 Pro+ 5G device in nearby share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-20.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2. Use Google Account
 
 The Google account transfer method can also transfer between Android and Android devices. You just have to ensure that the contacts synchronization is turned on. You can follow these steps to handle your “**How do I transfer contacts from phone to phone**” question.
@@ -521,15 +457,13 @@ The Google account transfer method can also transfer between Android and Android
 
 ![sync contacts on new device](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-22.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5. 2 Methods To Transfer Contacts From iPhone to Android
 
 This section will discuss two methods to transfer contacts from an iPhone to an Android. Similarly, in this iPhone-to-Android transfer case, the iPhone synchronization method and importing VCF file method can be used to move your contact list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1. Enable iPhone Sync Feature
 
@@ -549,9 +483,6 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 
 ![upload contacts via google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2. Import the VCF File
 
 Importing a VCF file is another simple method for transferring contacts. It includes a vCard creation, in which contacts are saved. Then, this card can be downloaded from an iCloud account and imported to your Realme 12 Pro+ 5G. Moreover, this simple process does not involve any complicated steps to implement it. You can import a VCF file by following these simple steps.
@@ -564,24 +495,17 @@ Importing a VCF file is another simple method for transferring contacts. It incl
 
 ![access icloud site on android](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-27.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 - **Step 3.** Now, choose "Contacts" on the iCloud website, tap the "Three Dots" icon, and proceed with the "Select All" option. After that, you can tap the "Share" icon to choose the "Export vCard" feature. Subsequently, you need to open the exported file and select your Google account to import the contacts to your Realme 12 Pro+ 5G.
 
 ![export vcard via icloud site](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-28.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We have discussed various scenarios on **how to copy contacts from phone to phone,** whether the Realme 12 Pro+ 5G devices are Android or iPhone. Nonetheless, Wondershare Dr.Fone - Phone Transfer stands out as the perfect method. This software provides a one-click and swift solution to all your transfer processes, including the contacts. Moreover, Dr.Fone can deal with all types of phone transfers, such as iPhone to iPhone, Android to iPhone, iPhone to Android, and Android to Android.
-
-
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -595,5 +519,23 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-building-dreams-in-mc-ideal-village-housing-plans-for-2024/"><u>[New] Building Dreams in MC Ideal Village Housing Plans for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-breakthrough-techniques-for-outstanding-youtube-openers-technique-1plus2/"><u>[New] In 2024, Breakthrough Techniques for Outstanding YouTube Openers (Technique 1+2)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-optimal-action-capture-software-insights/"><u>[New] Optimal Action Capture Software Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-the-secrets-maximizing-your-video-content-on-zoom-and-youtube-live/"><u>[New] Unlock the Secrets Maximizing Your Video Content on Zoom & YouTube Live</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harness-the-power-of-your-mobile-content-on-youtube-starting-now-for-2024/"><u>[Updated] Harness the Power of Your Mobile Content on YouTube, Starting Now for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/behind-the-scenes-crafting-a-screenplay/"><u>Behind the Scenes Crafting a Screenplay</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-a25-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy A25 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-pro-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 Pro to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-12-mini-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 12 mini Space | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-realme-gt-5-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Realme GT 5 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-oneplus-open-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on OnePlus Open</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-13-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 13 Without Backup? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-infinix-hot-30-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Infinix Hot 30 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-hub-catching-the-best-comedy-channels-ever/"><u>Humor Hub Catching the Best Comedy Channels Ever</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-infinix-smart-8-plus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Infinix Smart 8 Plus? Fixed | Dr.fone</u></a></li>
+</ul></div>
 

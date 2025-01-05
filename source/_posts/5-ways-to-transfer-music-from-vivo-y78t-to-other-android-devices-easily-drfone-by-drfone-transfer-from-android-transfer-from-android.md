@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Transfer Music from Vivo Y78t to Other Android Devices Easily | Dr.fone
-date: 2024-09-01T23:01:50.481Z
-updated: 2024-09-02T23:01:50.481Z
+date: 2025-01-02T01:51:53.026Z
+updated: 2025-01-04T18:04:34.219Z
 tags: 
   - transfer
 categories:
@@ -21,8 +21,6 @@ So, keep reading to know about five different ways that will help you transfer y
 ## Part 1: How to transfer music from Vivo Y78t to Other Android Devices in 1 click?
 
 The transfer of all music files from one Android phone to another with a single click of the mouse has never been easier. The switch feature on [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) program has made this action a lot simpler and even faster to transfer music from Vivo Y78t to Other Android Devices. It can also transfer other file formats such as other multimedia files, contacts, text messages, call logs, including apps and app data files.
-
-
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -57,13 +55,13 @@ You should now see your music files being transferred with the overall progress 
 
 There you go; within a few seconds, your music files will be transferred successfully.
 
-
-
 ## Part 2. How to Transfer Music from Vivo Y78t to Other Android Devices Selectively?
 
 Another way to transfer music from Vivo Y78t to Other Android Devices is by using the transfer feature on [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). As the name implies, this feature can be used to transfer files from one Android device to another by selecting the particular music file one by one instead of choosing an entire music file.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html "iphone transfer")
 
@@ -84,8 +82,9 @@ Here are a few easy steps to follow on how to transfer music from Vivo Y78t to O
 ![transfer music from android to android-click on the “Music” tab](https://images.wondershare.com/drfone/guide/transfer-files-quickly-to-android-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step 2.** The moment all the audio files or music files on the connected device are displayed on the Dr.Fone software screen. You can scroll down and select each file you wish to copy or select an entire folder from the left side pane.
 
 ![transfer music from android to android-select each file you wish to copy](https://images.wondershare.com/drfone/drfone/android-to-android-music-transfer-01.jpg)
@@ -94,12 +93,10 @@ Here are a few easy steps to follow on how to transfer music from Vivo Y78t to O
 
 ![transfer music from android to android-click on the “Export” button](https://images.wondershare.com/drfone/drfone/android-to-android-music-transfer-02.jpg)
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3. How to transfer music from Vivo Y78t to Other Android Devices using Bluetooth?
 
 Bluetooth transfer is one of the oldest methods that can be used to transfer music from Vivo Y78t to Other Android Devices, and it is a simple way to make use of it.
@@ -128,9 +125,6 @@ This is how you can transfer music files from Vivo Y78t to Other Android Devices
 
 ![transfer music from android to android-use Bluetooth](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4. How to transfer music from Vivo Y78t to Other Android Devices using NFC?
 
 NFC or Near Field Communication is another wireless means to transfer music from Vivo Y78t to Other Android Devices. Although, unlike Bluetooth, this method requires contact between the two devices making the transfer.
@@ -141,9 +135,6 @@ NFC or Near Field Communication is another wireless means to transfer music from
 
 ![transfer music from android to android-click on “More Settings”](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2.** Before you begin to transfer, you need to touch the back of both devices (whose NFC has already been turned on), you will notice that both devices vibrate upon a successful connection. This means you can now start transferring your music files.
 
 ![transfer music from android to android-start transferring your music files](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-12.jpg)
@@ -153,8 +144,9 @@ NFC or Near Field Communication is another wireless means to transfer music from
 ![transfer music from android to android-send the music files via NFC](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 5. How to transfer music from Vivo Y78t to Other Android Devices using Google Play Music?
 
 Google Play Music is a free Music streaming service provided by Google and available for all users with a Google account. Follow these steps to transfer music files to an Android phone using Google play.
@@ -165,9 +157,6 @@ Note: You need a Google account to be able to make use of this service
 
 ![transfer music from android to android-open Google Play Music](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 **Step 2.** You can now upload music files by clicking on the Upload button at the left corner of the screen to view the main Panel of the page. At the bottom of the page, click on “Select From Your Computer” to upload music files from your computer to Google Play.
 
 ![transfer music from android to android-Select From Your Computer](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-android-to-android-15.jpg)
@@ -176,27 +165,14 @@ Note: You need a Google account to be able to make use of this service
 
 At last, we hope that you now know how to transfer music from Vivo Y78t to Other Android Devices devices safely and securely through the above article. In fact, you have got two very good options to perform the transfer in the form of [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) and [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). Well, choose the most convenient one for you and make sure that you proceed with the guided steps mentioned for each way.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Best 3 Software to Transfer Files to/from Your Vivo Y78t via a USB Cable
 
 If you are worried about deleting important information from your Vivo Y78t, you may wish to simply transfer it up to your computer to keep it. Or you may simply want to [transfer the photos](https://tunesgo.wondershare.com/android/transfer-photos-from-android-to-pc.html) from your day at the beach onto your computer.
 
 However, due to the open nature of the Google Android operating system, there are several software available that aim to help you manage your Vivo Y78t through your computer. In this article, we will look at some of the best Android software management software available. Note that all the software enables you to [connect Android to PC for file transfer](https://drfone.wondershare.com/android-transfer/photos-from-android-to-computer.html), as well as allowing the selection of specific files onto your computer. But, some are better than other.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## _Wondershare Dr.Fone_
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Wondershare Dr.Fone](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
 One-Stop Solution for Android USB File Transfer
@@ -217,9 +193,6 @@ Step 1. Download Dr.Fone and install it on your computer. Connect your Vivo Y78t
 
 ![Android USB file transfer with Dr.Fone](https://images.wondershare.com/drfone/guide/connect-android-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 Step 2. Click on your Vivo Y78t, such as Galaxy S22 > Export All Data among other options. The following main interface for Wondershare Dr.Fone will be displayed.
 
 ![Android USB file transfer main screen](https://images.wondershare.com/drfone/guide/export-data-from-android-2.png)
@@ -228,12 +201,6 @@ Step 3. You can select the file type you want to transfer to the computer or sel
 
 ![select files for Android USB file transfer](https://images.wondershare.com/drfone/guide/export-data-from-android-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Video Guide: How to Achieve Android USB File Transfer with PC?
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/ydG4-iQS9Ek" id="video-iframe-t"></iframe>
@@ -241,6 +208,10 @@ Step 3. You can select the file type you want to transfer to the computer or sel
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 Wondershare Dr.Fone also features other helpful tools, such as the De-Duplicate option, which automatically scans all your contacts for any repetitions, which is always a nuisance (you often end up with duplicate contacts if you sync your contacts with Facebook, as well as already having them on your device, for example).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mobogenie Android USB File Transfer
 
@@ -276,9 +247,6 @@ The transfer of photo files is straightforward, and several photos can be select
 
 ![usb to android file transfer](https://images.wondershare.com/drfone/article/2018/03/transfer-photos-with-mobogenie.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Features:**
 
 - Free.
@@ -299,8 +267,6 @@ As with Mobogenie, once you are on the software, it is fairly easy to navigate a
 
 We recommend the use of Wondershare Dr.Fone, as it is more reliable and provides a simple user-friendly interface that allows you to manage your Vivo Y78t with ease. You can also transfer files between Android and Mac easily.
 
-
-
 ## How to Transfer Contacts from Vivo Y78t To Phone
 
 When you get a new phone or switch between Android and iPhone, transferring contacts is essential. Moreover, to avoid losing your important contacts, you need some techniques to move them smoothly. The method you select has to transfer your contacts efficiently on a new device without losing information.
@@ -308,8 +274,6 @@ When you get a new phone or switch between Android and iPhone, transferring cont
 In this article, we will move you through various effective methods on **how to copy contacts from phone to phone**. Also, we have provided the best software that will assist you in transferring contacts securely. After that, you can seamlessly continue communication with your family, friends, and colleagues.
 
 ![transfer contacts phone to phone](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-1.jpg)
-
-
 
 ## Part 1. One-Click Solution To Handle All Contacts Transfer Between iPhone and Android
 
@@ -327,17 +291,12 @@ Also, besides contacts, you can transfer other content from your old device to a
 
 This software will require a few steps to transfer your contacts to another device. Here is the answer in a step-wise manner to your "**how do I transfer contacts from phone to phone**" question. Moreover, this toolkit can work in all directions, such as from one iPhone to another or from an old Android smartphone to a new one.
 
-
-
 - Step 1. Open Dr.Fone to Transfer Your Contacts
 
 First, you have to activate Wondershare Dr.Fone on your computer and navigate to the “Toolbox" section. In that section, you have to select the "Phone Transfer” tool to proceed further.
 
 ![choose phone transfer in toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Step 2. Designate the “Source” and “Destination” Devices
 
 Here, you need to set “Source” and “Destination” devices. In either case, you must set the Vivo Y78t device as a source from which you want to transfer the contacts. Moreover, you can also use the “Flip” button to change the transfer direction between the Vivo Y78t devices.
@@ -351,21 +310,22 @@ Now, select the type of data you want to transfer, which, in your case, is “Co
 ![start transferring contacts](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 - Step 4. Finalize the Contact Transfer Process
 
 After you turn off iCloud syncing on your iOS device, a notification will indicate the successful execution of the process once it is complete. Tap the “OK” button to close the window promptly.
 
 ![data transfer process completed](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Part 2. 2 Methods To Transfer Contacts From iPhone to iPhone
 
 Although Wondershare Dr.Fone is the perfect solution to transfer your contacts, we'll consider various scenarios in which you can transfer contacts. Now, if you have an iPhone and want to know **how to copy contacts from phone to phone**, you can adopt the following two methods:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1. Use NameDrop
 
@@ -383,12 +343,6 @@ Apple has introduced a new feature in the latest iPhones named NameDrop. The fea
 
 ![select fields to share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2. iCloud Sync
 
 The alternate method to transfer your phone contacts is via iCloud synchronization. The technique involves your iCloud contacts option to be toggled on. You can sign in with the same iCloud account to transfer the contact list to your new iPhone. Here's how to transfer contacts from iPhone to iPhone using iCloud Sync:
@@ -397,26 +351,14 @@ The alternate method to transfer your phone contacts is via iCloud synchronizati
 
 ![choose contacts within icloud](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 2.** Next, you can see the "Contacts" option; toggle on the switch to synchronize them. When you sign in with your iCloud account on the new iPhone, contacts will be restored there.
 
 ![toggle switch for contacts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. 2 Methods To Transfer Contacts From Vivo Y78t to iPhone
 
 Let's discuss another scenario in which we will transfer the contact list from an Android to an iPhone. If you want to switch from Vivo Y78t to a new iPhone, you will probably need an effective method to transfer your phone numbers. In this section, we will discuss two simple and quick ways to **how do I transfer contacts from phone to phone:**
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1. Sync Google Account
 
 Android users can back up their phone's data to Google Drive. Also, an Android phone's "Google Contacts" app saves the contact information to their linked Google account. The same account can be logged in a new iPhone, where they can be restored. Follow the simple guide to sync your Google account with the updated contact information:
@@ -429,12 +371,13 @@ Android users can back up their phone's data to Google Drive. Also, an Android p
 
 ![enable back up and sync option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 - **Step 3.** Subsequently, navigate to the "Contacts" settings within your iPhone's "Settings" app. Here, find and select the "Accounts" option and proceed to the next step.
 
 ![explore connected accounts](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4.** As you lead to the next window, tap the "Add Account" option. You have to sign in with your Google Account and ensure that the "Contacts" option is enabled.
 
@@ -448,16 +391,10 @@ This method simplifies transferring contacts from Vivo Y78t to iPhone without re
 
 ![share contacts from contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 2.** Now, on your iPhone, you need to open the email containing the “Contacts VCF” file from your Vivo Y78t. Tap to open the attached file and choose the “arrow” icon on the top to select the "Share" option. Next, choose the "Contacts" app and tap the "Add All Contacts" option to save contacts on your iPhone.
 
 ![share vcf file to contacts app](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. 2 Methods To Transfer Contacts from Vivo Y78t to Other Android Devices
 
 This section will shed some light on the transfer process of contacts between one Android phone to another. Android devices offer various options to share content with another Android device. You can send contact lists and achieve **how to copy contacts from phone to phone** with these two methods:
@@ -470,16 +407,10 @@ Nearby Share is a feature available on Android devices that allows you to easily
 
 ![access nearby share option](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 2.** As you proceed into the “Nearby Share” option, you have to turn on the “Device visibility” toggle. This will enable Nearby Share on your Android smartphone.
 
 ![enable nearby share on android](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 3.** Now, you have to open the "Google Contacts" app on your Vivo Y78t and access the "Fix & manage" tab. Choose the "Export to file" option and select the Vivo Y78t device and account from which you want to share contacts. After making the selection, hit the "Export" button and save the file within your device.
 
 ![select contacts to export](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-19.jpg)
@@ -488,9 +419,6 @@ Nearby Share is a feature available on Android devices that allows you to easily
 
 ![select the Vivo Y78t device in nearby share](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Method 2. Use Google Account
 
 The Google account transfer method can also transfer between Android and Android devices. You just have to ensure that the contacts synchronization is turned on. You can follow these steps to handle your “**How do I transfer contacts from phone to phone**” question.
@@ -499,9 +427,6 @@ The Google account transfer method can also transfer between Android and Android
 
 ![navigate to google account for sync](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-21.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 2.** In the next step, navigate to “Settings” of your new Android device and tap “Accounts & Sync.” Afterward, log in using your Google account credentials and select the "Sync Now” feature within the "More” option. This will import the synced contacts to your new Android device.
 
 ![sync contacts on new device](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-22.jpg)
@@ -510,9 +435,6 @@ The Google account transfer method can also transfer between Android and Android
 
 This section will discuss two methods to transfer contacts from an iPhone to an Android. Similarly, in this iPhone-to-Android transfer case, the iPhone synchronization method and importing VCF file method can be used to move your contact list.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1. Enable iPhone Sync Feature
 
 You can enable the iPhone Sync feature to transfer contacts from an iPhone to an Android device. In this case, ensure the contacts option in the Gmail synchronization is toggled on. Later, the contacts are saved when you sign in with the same Google account on your Vivo Y78t. Let's learn **how to transfer from phone to phone using this feature**:
@@ -528,16 +450,13 @@ You can enable the iPhone Sync feature to transfer contacts from an iPhone to an
 ![view sync in google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-24.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 - **Step 3.** There, you need to select the “Contacts" option and click "Set up Sync.” Next, proceed to the “Upload Contacts” option.Subsequently, contacts will sync to your Vivo Y78t.
 
 ![upload contacts via google one](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Method 2. Import the VCF File
 
 Importing a VCF file is another simple method for transferring contacts. It includes a vCard creation, in which contacts are saved. Then, this card can be downloaded from an iCloud account and imported to your Vivo Y78t. Moreover, this simple process does not involve any complicated steps to implement it. You can import a VCF file by following these simple steps.
@@ -550,24 +469,17 @@ Importing a VCF file is another simple method for transferring contacts. It incl
 
 ![access icloud site on android](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-27.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 - **Step 3.** Now, choose "Contacts" on the iCloud website, tap the "Three Dots" icon, and proceed with the "Select All" option. After that, you can tap the "Share" icon to choose the "Export vCard" feature. Subsequently, you need to open the exported file and select your Google account to import the contacts to your Vivo Y78t.
 
 ![export vcard via icloud site](https://images.wondershare.com/drfone/article/2023/12/how-to-copy-contacts-from-phone-to-phone-28.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We have discussed various scenarios on **how to copy contacts from phone to phone,** whether the Vivo Y78t devices are Android or iPhone. Nonetheless, Wondershare Dr.Fone - Phone Transfer stands out as the perfect method. This software provides a one-click and swift solution to all your transfer processes, including the contacts. Moreover, Dr.Fone can deal with all types of phone transfers, such as iPhone to iPhone, Android to iPhone, iPhone to Android, and Android to Android.
-
-
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -581,5 +493,26 @@ We have discussed various scenarios on **how to copy contacts from phone to phon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-exclusive-strategies-for-photovideo-importers-in-win11-for-2024/"><u>[New] Exclusive Strategies for Photo/Video Importers in Win11 for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-formulating-a-singular-hashtag-for-your-tiktok-sphere/"><u>[New] Formulating a Singular Hashtag for Your TikTok Sphere</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-prime-16-video-apps-no-cost-on-pcs-and-macs/"><u>[New] In 2024, Prime 16 Video Apps, No Cost on PCs & Macs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-revolutionizing-video-recording-insights-on-camstudios-latest-release-for-2024/"><u>[New] Revolutionizing Video Recording - Insights on CamStudio's Latest Release for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-t2x-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo T2x 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-t2-pro-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo T2 Pro 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2010-formulas-not-working-properly-step-by-step-guide-by-stellar-guide/"><u>How to Fix Excel 2010 Formulas Not Working Properly | Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-google-pixel-7a-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Google Pixel 7a.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone Factory Reset? | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-data/"><u>How to recover lost data from Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-asus-rog-phone-8-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Asus ROG Phone 8 on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-itel-s23-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Itel S23</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-nubia-red-magic-9-pro-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-itel-p40plus-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Itel P40+</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-poco-x6-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Poco X6 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/reimagining-art-top-6-influencers-shaping-nft-culture/"><u>Reimagining Art Top 6 Influencers Shaping NFT Culture</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/troubleshooting-and-solutions-for-low-quality-images-on-dvds-with-upconverting-equipment/"><u>Troubleshooting and Solutions for Low-Quality Images on DVDs with Upconverting Equipment</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/uberwindung-von-winload-fehlern-und-das-fehlen-der-efi-firmware-in-windows-11-strategien-zum-erfolg-im-jahr-2024/"><u>Überwindung Von Winload-Fehlern Und Das Fehlen Der Efi-Firmware in Windows 11: Strategien Zum Erfolg Im Jahr 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-11-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 11 Without Passcode Easily | Dr.fone</u></a></li>
+</ul></div>
 

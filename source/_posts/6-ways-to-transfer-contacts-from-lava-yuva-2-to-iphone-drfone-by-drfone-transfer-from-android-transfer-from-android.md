@@ -1,7 +1,7 @@
 ---
 title: 6 Ways To Transfer Contacts From Lava Yuva 2 to iPhone | Dr.fone
-date: 2024-09-01T22:59:48.681Z
-updated: 2024-09-02T22:59:48.681Z
+date: 2024-12-31T23:47:55.410Z
+updated: 2025-01-04T18:52:54.635Z
 tags: 
   - transfer
 categories:
@@ -22,13 +22,9 @@ This article will delve into 6 effective ways to effortlessly migrate your conta
 
 **Author Recommendation. The Best Method to Transfer Contacts from Lava Yuva 2 to iPhone**
 
-
-
 ## Way 1: Wondershare Dr.Fone
 
 [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is a powerful and user-friendly tool. It simplifies the process of transferring contacts from an Android device to an iPhone. Dr.Fone offers a robust phone transfer feature that can transfer your contacts and other data in minutes. With its user-friendly interface, the process involves straightforward clicks. This powerful tool efficiently moves data between devices operating on different systems, such as iOS and Android.
-
-
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -53,8 +49,9 @@ Once devices are detected by Wondershare Dr.Fone, ensure that they are correctly
 ![press the start transfer button](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Way 2: Utilize Move to iOS App
 
 The Move to iOS app is a dedicated solution provided by Apple. It is specifically designed to help the migration of data, including contacts, from an Android device to an iPhone. This official app aims to simplify the transition process. Nevertheless, its utilization is limited to setting up an iPhone for the initial time or following a factory reset. Here is how to **transfer contacts from Lava Yuva 2 to iPhone** using Move to iOS app:
@@ -64,8 +61,9 @@ The Move to iOS app is a dedicated solution provided by Apple. It is specificall
 ![tap move data from android](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 - **Step 2.** Proceed by tapping “Continue” on both your devices and consenting to the terms and conditions. Follow it by tapping “Next” and insert the code from the iPhone to the Move to iOS app to establish a connection. From the available data transfer options, ensure to choose "Contacts." Now, follow the on-screen prompts to complete the transfer process.
 
 ![transfer contacts using move to ios](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-5.jpg)
@@ -82,9 +80,6 @@ Syncing contacts to a Google account serves as a convenient method. It can autom
 
 ![enable automatically backup and sync option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 3.** Go to the “Settings” app and locate the “Contacts” settings. Proceed by scrolling to locate “Accounts” and then tap on it. Afterwards, choose “Add Account” and sign in with your Google Account. Once logged in, make sure to enable the “Contacts” option.
 
 ![enable the contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-8.jpg)
@@ -101,12 +96,6 @@ Transferring contacts using a SIM card provides a basic yet effective method. Th
 
 ![tap import sim contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Way 5: Sync Using iTunes/Finder
 
 Syncing contacts from an Android device to an iPhone using iTunes or Finder is another method. It is an indirect transfer by syncing Google contacts from your account to your iPhone. This method enables you to consolidate your contacts from your Google account onto your iPhone. Here is **how to send contacts from Lava Yuva 2 to iPhone** via iTunes/Finder:
@@ -119,12 +108,6 @@ Syncing contacts from an Android device to an iPhone using iTunes or Finder is a
 
 ![enable sync contacts with option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Way 6: Import the VCF File
 
 Importing a VCF file directly to your iPhone allows for a simple and direct transfer of contacts. It happens without the need for additional software or complex procedures. This method retains contact details and ensures a smooth transition. Follow these steps to import a VCF file containing your contacts while answering **how to move contacts from Lava Yuva 2 to iPhone**:
@@ -137,12 +120,6 @@ Importing a VCF file directly to your iPhone allows for a simple and direct tran
 
 ![tap add all 3 contacts option](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-android-to-iphone-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Author Recommendation: The Best Method To Transfer Contacts From Lava Yuva 2 to iPhone
 
 When considering the most efficient and reliable method to **transfer contacts from Lava Yuva 2 to iPhone**, our recommendation leans toward using Wondershare Dr.Fone. Among various available methods, Wondershare Dr.Fone offers a comprehensive, user-friendly experience.
@@ -156,21 +133,15 @@ It simplifies the transfer process with its intuitive interface and dependable p
 5. **Efficiency and Speed:** The software streamlines the transfer process to an excellent measure. It saves valuable time by swiftly migrating contacts and other data without data loss or errors.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, transitioning from an Android device to an iPhone doesn't have to be a daunting task. It is especially not the case when it comes to **how to transfer contacts from Lava Yuva 2 to iPhone**. Throughout this guide, we've explored various effective methods. Each one offered its unique approach to simplify the transfer process.
 
 You can opt for the user-friendly interface of Wondershare Dr.Fone, the official Move to iOS app, or sync via Google accounts. Other options include utilizing the SIM card, syncing through iTunes/Finder, or the direct import of a VCF file. Selecting the ideal method often depends on personal preferences. Wondershare Dr.Fone emerges as a standout recommendation due to its versatility, reliability, and ease of use.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8 Ways to Transfer Photos from Lava Yuva 2 to iPhone Easily
 
 Transferring photos from an Android device to an iPhone might seem daunting, given the differences in their operating systems. However, it doesn't have to be a complicated process. In this guide, we'll explore easy and efficient methods to transfer your cherished photos smoothly, ensuring that your memories remain intact during the transition from the Android to the iOS ecosystem. Whether you're switching to an iPhone, sharing photos with a friend, or simply looking to create a backup, we've got you covered with practical solutions.
@@ -185,19 +156,10 @@ If you are confused over which method you should choose for transferring photos 
 
 Dr.Fone is perfect because you can transfer across multiple devices regardless of OS. As an example, if you want to transfer photos from Lava Yuva 2 to iPad /iPhone and vice versa, it can be done quickly by following two ways as mentioned below:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Method 1.1 One-click to Transfer Photos from Lava Yuva 2 to iPhone using Dr.Fone - Phone Transfer
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is a software package that facilitates cross-device transactions, such as transferring photos from Lava Yuva 2 to iPhone. If you are in the process of replacing your Android with a new iPhone, then use Dr.Fone to transfer all contents to the new phone. The content can include photos, contacts, videos, and social media messages.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
 Transfer Photo from Lava Yuva 2 to iPhone in 1 Click Directly!
@@ -216,9 +178,6 @@ Let us see the steps on how to transfer photos from Lava Yuva 2 to iPhone using 
 
 ![transfer photos from android to iphone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2.** Now, connect your Android and iPhone to the computer. As soon as you connect the Lava Yuva 2 device, it will start recognizing it and mention it as the ‘Source’ phone or ‘Target’ phone accordingly. In this case, make sure the Android phone is the Source and the iPhone is the Target. You can change their position using the Flip button.
 
 ![transfer photos from android to iphone-make sure the source and destination](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
@@ -227,16 +186,9 @@ Let us see the steps on how to transfer photos from Lava Yuva 2 to iPhone using 
 
 ![transfer photos from android to iphone-start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-
-
 ### Method 1.2 Selectively Transfer photos from Lava Yuva 2 to iPhone using Dr.Fone's Phone Manager Feature
 
 Another way that can assist you in **moving photos from Lava Yuva 2 to iPhone** is the [Wondershare Dr.Fone](https://drfone.wondershare.com/android-transfer.html). What is incredibly convenient about Dr.Fone is its ability to transfer photos selectively. You can also use it to transfer contacts, videos, messages, podcasts, and anything else stored on your Android in minutes. Wondershare Dr.Fone is a secure, trustworthy program. Hence you can be reassured that your information will be safe while transferring from one device to another.
-
-
 
 ### [Wondershare Dr.Fone](https://drfone.wondershare.com/android-transfer.html "android transfer")
 
@@ -254,16 +206,6 @@ Here, either you can select the photos that you wish to transfer selectively or 
 
 ![transfer photos from android to iphone-export to device](https://images.wondershare.com/drfone/guide/manage-android-photos-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Part 2: How to Transfer Photos from Lava Yuva 2 to iPhone Using Move to iOS App
 
 Now, to answer **how to transfer photos from Lava Yuva 2 to iPhone**, there is another simple solution that you can make use of. It is called the “Move to iOS app,” which you can download freely from the Google Play store.
@@ -274,9 +216,6 @@ Now to proceed, first of all, you need to do some settings on your iPhone device
 
 ![how to transfer photos from android to iphone-app and data](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-6.jpg) ![how to transfer photos from android to iphone-move data from android](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The next step is to take your Lava Yuva 2 to complete the transfer process with the “Move to iOS” app.
 
 - **Step 2:** Switch to your Lava Yuva 2, open the Google Play Store, and search for the ‘Move to iOS’ app.
@@ -285,36 +224,24 @@ The next step is to take your Lava Yuva 2 to complete the transfer process with 
 
 ![how to transfer photos from android to iphone-move from android to ios](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 5:** On your Lava Yuva 2, enter the 12-digit code of the iPhone. This is so that the ‘Move to iOS’ app knows which iOS device it has to transfer the data to.
 
 ![how to transfer photos from android to iphone-enrer the code](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 - **Step 6:** Before the transfer starts, you will be asked several questions, like do you want to transfer Google Account information, Bookmarks, etc. Now, since you only wish to videos and photos, deselect the other options except ‘Camera Roll.’
 
 The above process to **transfer pictures from Lava Yuva 2 to iPhone** is suitable for mobile users who are unwilling to invest money in software. However, the method is not perfect because it is time-consuming. The transaction can neither be done quickly nor can it be done with a single click.
 
 **Note:** This solution only works when you set up the iPhone. If the iPhone is already set up, you need to factory reset it and set it up to restore photos with this App. If you'd like to save existing data after transferring, [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is a good solution.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: How to Transfer Photos from Lava Yuva 2 to iPhone via Bluetooth
 
 Bluetooth is an excellent option to transfer photos and videos across both Android and iPhone devices. This is because Bluetooth is available on both Android and iOS devices, making it widely useful. Furthermore, you don’t have to download a third-party app to transfer pictures via Bluetooth. The process can also be completed quickly with just a few taps on the screen.
@@ -332,9 +259,6 @@ Bluetooth is an excellent option to transfer photos and videos across both Andro
 
 It is important to note that the rate of data transfer on Bluetooth is heavily dependent on the version of Bluetooth you use. For example, if you use Bluetooth 2.x data transfer happens at 0.25 MB/s, whereas Bluetooth 5.x transfers data at 6 MB/s.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Part 4: How to Transfer Photos from Lava Yuva 2 to iPhone Using Google Drive?
 
 Google Drive is cloud storage that is available to those who have a Gmail address. It can store anything ranging from Word Documents to photos and videos. Hence, if you are wondering **how to move photos from Lava Yuva 2 to iPhone**, then Google Drive is your answer.
@@ -353,14 +277,9 @@ Now, move to your iPhone.
 
 ![how to transfer photos from android to iphone-install the Google Drive app](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** Open the Drive (you must log in with the same Google ID). There you will see all the uploaded media files (Photos). Now, select ‘Save Image’ or ‘Save Video’ depending on your file type.
 
 This way takes some manual steps. If you want a one-click solution, try [Dr.Fone - Phone Transfer (iOS&Android)](https://tools.techidaily.com/wondershare/drfone/phone-switch/).
-
-
 
 ## Part 5. How to Transfer Photos from Lava Yuva 2 to iPhone Via Email?
 
@@ -374,20 +293,18 @@ Employing email represents a simple technique for sending a restricted set of ph
 
 ![select photos to transfer](https://images.wondershare.com/drfone/article/2023/10/transfer-photos-from-android-to-iphone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 **Step 3:** Then log in using the same email account on your iPhone. After logging in, access the email with your photos and download the attachments to complete the photo transfer.
 
 ![receive on other end and download](https://images.wondershare.com/drfone/article/2023/10/transfer-photos-from-android-to-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: Top 3 Android to iPhone Photo Transfer Apps
 
 Several apps are specifically designed for storing and transferring images from an Android device to an iPhone. We have found the three best apps based on ease of use and accessibility.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### PhotoSync
 
 PhotoSync is a free photo-sharing app available on both Android and iOS devices. The app lets you store all your photos on one device and then transfer it to another device through Wi-Fi. PhotoSync is designed to work with several methods besides Android and iOS devices. It works on different platforms, including desktop computers, NAS, and Cloud Services.
@@ -396,14 +313,19 @@ You can extract videos and photos directly from the camera and transfer them to 
 
 ![how to transfer photos from android to iphone-PhotoSync](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Photo Transfer
 
 The photo transfer app is incredibly popular and with a good reason. You can perform Android to iPhone photo transfer without any cables. You can access Photo Transfer on different platforms, including desktop computers. It allows you to access your photos stored on the app via a web browser. You can easily download multiple images for storage and exchange these photos across various platforms. If you need an intuitive, easy-to-use app to **send photos from Lava Yuva 2 to iPhone** then consider using the Photo Transfer app.
 
 ![how to transfer photos from android to iphone-Photo Transfer](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Shareit
 
@@ -415,8 +337,6 @@ The best part of Shareit is the freedom allowed to users because you can transfe
 
 Thus, after going through the article, we are sure that you have a wide range of options to choose from to transfer your Lava Yuva 2 photos to the iPhone. Well, every method is excellent in itself; however, we would like to say that one of the best options for you would be the Dr.Fone tool without a doubt.
 
-
-
 ## How to Transfer Data from Lava Yuva 2 to Samsung Phone
 
 Samsung is undoubtedly the most widely used smartphone manufacturer today. Cutting edge functionalities in prices that are affordable makes Samsung a favorite. Therefore, more and more users will need to transfer data to Samsung’s devices. In this article, we are going to share how to transfer data from Motorola to Samsung, especially for **how to transfer contacts from Motorola to Samsung**. Check them out.
@@ -427,7 +347,9 @@ If you're going to buy a new Samsung S23, these solutions work as well.
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) can be used for transferring data from to phone to another phone like messages, contacts, call logs, calendars, photos, music, video, and apps. Also, you can back up your iPhone and save the data on your PC, for example, and restore it later when you wish. Basically, all your necessary data can be transferred fast from a phone to another phone, including transfer from Motorola to Samsung.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
 
@@ -455,9 +377,6 @@ To transfer data from your Motorola to your Samsung phone, you will require:
 
 ![Motorola to samsung-select device mode](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3.** There will be several modes listed on the screen. Select the “Phone Transfer” mode. Dr.Fone - Phone Transfer will display both of your devices after detecting them.
 
 ![Motorola to samsung-connect devices to computer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
@@ -466,12 +385,7 @@ To transfer data from your Motorola to your Samsung phone, you will require:
 
 ![Motorola to samsung-transfer from Motorola to Samsung](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Step 5.** You can cancel the transferring process at any time by hitting the “Cancel” button however, make sure that neither of the Lava Yuva 2 devices gets detached while the transferring process is still underway.
-
-
 
 ## Part 2: Transfer WhatsApp from Motorola to Samsung via WhatsApp Transfer Tool
 
@@ -500,28 +414,21 @@ Begin by opening Wondershare Dr.Fone on your computer and proceed to link your M
 ![choose the whatsapp transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step 2: Assign Correct Positions to Motorola and Samsung Devices**
 
 Now, you need to assign the Motorola and Samsung devices to their respective positions. Here, the Motorola phone should be in the "Source" position. In the same way, the Samsung device needs to be in the "Destination" position. Use the "Flip" button in case the assigned positions are incorrect.
 
 ![source and destination device](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-android-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 **Step 3: Complete the WhatsApp Transfer Process**
 
 Afterward, click "Transfer" to commence the WhatsApp transfer process. A prompt will appear asking whether you want to back up WhatsApp data on the destination device. After making your choice, wait for the transfer process to finish, which will take only a few moments.
 
 ![whatsapp data transfer in process](https://images.wondershare.com/drfone/guide/transfer-whatsapp-from-android-to-android-3.png)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3. Using Official Tools to Transfer Data from Motorola to Samsung
 
 Samsung Smart Switch is an official tool developed by Samsung. This tool is designed to simplify transferring data from an old device, including non-Samsung devices like Motorola, to a new Samsung smartphone or tablet. This tool supports various data types, such as contacts, photos, messages, videos, calendars, and music. You can use the steps given below to transfer your data from Motorola to Samsung using Smart Switch:
@@ -546,15 +453,7 @@ Moreover, it enables easy transfer of media files between iTunes and Android. Dr
 
 ![wondershare dr.fone phone manager](https://images.wondershare.com/drfone/guide/manage-android-apps-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
 To cater for the above mentioned problems and many other, Dr.Fone - Phone Transfer was developed. [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is an easy to use tool. It has been designed to assist you to in transferring data from your old phone to your new phone, including transferring contacts from Motorola to Samsung.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -568,5 +467,24 @@ To cater for the above mentioned problems and many other, Dr.Fone - Phone Transf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-exploring-the-depth-of-editing-with-gopro-studios-capabilities/"><u>[New] 2024 Approved Exploring the Depth of Editing with GoPro Studio's Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-going-against-the-flow-youtube-video-opposites/"><u>[New] 2024 Approved Going Against the Flow YouTube Video Opposites</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-navigating-networks-generating-social-media-sensations/"><u>[Updated] 2024 Approved Navigating Networks Generating Social Media Sensations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-first-steps-to-proficiency-in-iphone-voice-memos-for-2024/"><u>[Updated] From First Steps to Proficiency in iPhone Voice Memos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-poco-c50-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Poco C50 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-setting-up-parent-filters-on-discord/"><u>A Step-by-Step Guide: Setting Up Parent Filters on Discord</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/engage-audiences-effortlessly-social-medias-screen-share-guide-for-2024/"><u>Engage Audiences Effortlessly Social Media's Screen Share Guide for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-redmi-note-12-4g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Redmi Note 12 4G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-se-2022-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone SE (2022) Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-infinix-note-30i-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Infinix Note 30i?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-gionee-f3-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Gionee F3 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-magic-5-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Magic 5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-realme-11-pro-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Realme 11 Pro Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-best-practices-for-youtube-thumbnail-dimensions/"><u>In 2024, Best Practices for YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/twitters-looming-crisis-and-demise-predicted-by-experts-at-zdnet/"><u>Twitter's Looming Crisis and Demise Predicted by Experts at ZDNet</u></a></li>
+</ul></div>
 

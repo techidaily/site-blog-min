@@ -1,7 +1,7 @@
 ---
 title: Tutorial Paso a Paso Para Hacer Una Foto Sin Fondo Y Con Transparencia Usando GIMP
-date: 2024-12-23T16:53:57.509Z
-updated: 2024-12-26T23:12:27.673Z
+date: 2024-12-31T06:53:17.532Z
+updated: 2025-01-05T09:58:18.063Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d0a4215acf2250fc3083c5a7.jpg
@@ -45,10 +45,6 @@ Si vous avez besoin d'un enregistreur de jeu, essayez Gecata by Movavi.
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [![](https://cdn.staticont.net/pages/0023/55/8e3299ceec11a282886103c3bfcf9215af3372c3.webp)](https://tools.techidaily.com/movavi/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Édité par [Elinor Zucchet](https://tools.techidaily.com/movavi/products/)
 
@@ -160,6 +156,10 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -214,6 +214,10 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -231,6 +235,10 @@ Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -258,10 +266,6 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Réglez les paramètres de vos effets visuels
 
 Les interfaces utilisateur graphiques (IUG) de Windows 10 regorgent d'effets visuels fantaisistes. Néanmoins, ces jolis graphiques d'arrière-plan, dont la plupart sont activés par défaut, peuvent affecter la puissance de traitement disponible de votre PC lorsqu'un jeu est en cours d'exécution au premier plan. Ainsi, une façon d'optimiser Windows 10 pour les performances de jeu est de sacrifier certains, voire tous, ces paramètres.
@@ -274,17 +278,9 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
@@ -342,10 +338,6 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
@@ -382,10 +374,6 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -419,17 +407,21 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
@@ -440,7 +432,7 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
@@ -452,13 +444,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 
 
@@ -495,6 +487,10 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -528,6 +524,10 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Comment obtenir 60 fps dans un jeu ?
 
 Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer votre système en général, mais voici ce que vous pouvez faire :
@@ -547,7 +547,7 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
@@ -585,16 +585,18 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-smooth-strategies-for-uncluttered-google-meet-sessions/"><u>[New] 2024 Approved Smooth Strategies for Uncluttered Google Meet Sessions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-iphoneandroid-choose-great-focus-shots/"><u>[Updated] IPhone/Android Choose Great Focus Shots</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/breaking-the-mold-pushing-a-video-into-hot-water-for-2024/"><u>Breaking the Mold Pushing a Video Into Hot Water for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/cultivating-excellence-the-best-seed-strategy-in-valheim/"><u>Cultivating Excellence The Best Seed Strategy in Valheim</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-realme-11-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Realme 11 Pro? </u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-lava-yuva-2-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Lava Yuva 2</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Itel Pictures An Easy Method Explained.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-magic-v2-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor Magic V2</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/huawei-mediapad-m5-tablet-showdown-a-device-built-around-optimal-display-and-audio-quality/"><u>Huawei MediaPad M5 Tablet Showdown: A Device Built Around Optimal Display and Audio Quality</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-smooth-copy-paste-functionality-chromeedgefirefox/"><u>Restoring Smooth Copy-Paste Functionality (Chrome/Edge/Firefox)</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-edit-like-a-pro-with-wax-a-free-video-editing-software-guide/"><u>Updated 2024 Approved Edit Like a Pro with Wax A Free Video Editing Software Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-enhancing-engagement-share-tiktoks-on-twitter-for-2024/"><u>[New] Enhancing Engagement Share TikToks on Twitter for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discord-broadcasting-the-essential-checklist-for-successful-streaming/"><u>[Updated] Discord Broadcasting The Essential Checklist for Successful Streaming</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-motorola-edge-40-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Motorola Edge 40 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/efficient-screenshot-with-audio-layered/"><u>Efficient Screenshot With Audio Layered</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-hp-victus-15-gaming-laptop-at-a-steal-just-515-during-best-buys-prime-day-salezdnet/"><u>Get the HP Victus 15 Gaming Laptop at a Steal - Just $515 During Best Buy's Prime Day Sale![ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-v27-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo V27? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-samsung-galaxy-a14-4g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Samsung Galaxy A14 4G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-infinix-note-30i-by-fonelab-android-recover-music/"><u>How to restore wiped music on Infinix Note 30i</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oneplus-ace-2-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track OnePlus Ace 2 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/wav-naar-swf-online-gratuita-converteertool-professioneel-service-by-movavi/"><u>Wav Naar Swf Online Gratuita Converteertool - Professioneel Service by Movavi</u></a></li>
 </ul></div>
 

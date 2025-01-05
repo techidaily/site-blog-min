@@ -1,7 +1,7 @@
 ---
 title: "Los Máximos Preferidos: 19 Fabricantes De Presentaciones Interactivas Sin Gaste Un Peso"
-date: 2024-12-12T20:52:35.627Z
-updated: 2024-12-17T19:49:27.411Z
+date: 2024-12-31T09:25:43.811Z
+updated: 2025-01-05T03:37:29.839Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c595922f616f6d67ab2cd3c7.jpg
@@ -152,13 +152,13 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 
 Afficher plus
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
@@ -167,12 +167,16 @@ Afficher plus
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
@@ -218,9 +222,17 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -229,10 +241,6 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 
 
@@ -279,7 +287,7 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Lisser les bords des polices d'écran.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
@@ -350,10 +358,6 @@ Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les perfo
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
@@ -363,6 +367,10 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -381,6 +389,10 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -422,14 +434,10 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
@@ -451,10 +459,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 
 
@@ -488,7 +492,7 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -546,10 +550,6 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -585,20 +585,20 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-engage-audiences-writing-magical-youtube-description-templates-for-higher-views-for-2024/"><u>[New] Engage Audiences Writing Magical YouTube Description Templates for Higher Views for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-5-innovative-approaches-to-choosing-a-dynamic-podcast-name-for-2024/"><u>[Updated] 5 Innovative Approaches to Choosing a Dynamic Podcast Name for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-become-a-close-up-connoisseur-advanced-roleplay-tips/"><u>[Updated] Become a Close-Up Connoisseur Advanced Roleplay Tips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-videotweeteraudio-quick-audio-extractor/"><u>2024 Approved VideoTweeterAudio Quick Audio Extractor</u></a></li>
-<li><a href="https://blog-min.techidaily.com/conversao-gratuita-de-m2ts-para-mp4-pela-web-easy-e-facil-com-o-movavi/"><u>Conversão Gratuita De M2TS Para MP4 Pela Web - Easy E Fácil Com O Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/convert-audio-files-effortlessly-in-line-opus-to-mp4-on-movavi-without-costs/"><u>Convert Audio Files Effortlessly in Line: Opus to MP4 on Movavi Without Costs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ekran-kaydi-soruda-sonucu-oluyor-ses-olmaya-basladi-movavi/"><u>Ekran Kaydı Soruda [Sonucu Oluyor - Ses Olmaya Başladı] | Movavi</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-perfect-your-instagram-vids-with-ease/"><u>In 2024, Perfect Your Instagram Vids with Ease</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-website-downtime-how-to-diagnose-and-fix-the-503-service-unavailable-error/"><u>Mastering Website Downtime: How to Diagnose and Fix the 503 Service Unavailable Error</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mov-to-asf-file-transformation-quick-and-easy-methods-available-online-at-no-cost/"><u>MOV to ASF File Transformation: Quick & Easy Methods Available Online at No Cost</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movavi-converter-archivos-online-gratis-para-format-orf/"><u>Movavi: Converter Archivos Online Gratis Para Format ORF</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/openai-joins-forces-with-apple-unleashing-chatgpt-on-ios-ipados-and-macos-innovative-tech-update/"><u>OpenAI Joins Forces with Apple: Unleashing ChatGPT on iOS, iPadOS, and MacOS | Innovative Tech Update</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transformar-videos-vob-a-formato-asf-online-sin-coste-guia-paso-a-paso-con-movavi/"><u>Transformar Videos VOB a Formato ASF Online Sin Coste: Guía Paso a Paso Con Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/flac-aiff-movavi/"><u>원격 강조 공사: FLAC, AIFF 파일 바로 바꾸기 Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fpv-mastery-with-top-5-hmds-for-drones/"><u>[Updated] FPV Mastery with Top 5 HMDs for Drones</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-step-by-step-process-for-free-youtube-video-texting/"><u>[Updated] In 2024, Step-by-Step Process for FREE YouTube Video Texting</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-other-formats/"><u>[Updated] In 2024, The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Other Formats</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-google-pixel-fold-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Google Pixel Fold to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/channel-building-gear-a-quick-start-guide-for-2024/"><u>Channel-Building Gear A Quick Start Guide for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-edge-40-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Motorola Edge 40 has native MKV support?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/fcc-prohibits-secret-charges-understanding-new-regulations-on-hidden-wireless-costs/"><u>FCC Prohibits Secret Charges: Understanding New Regulations on Hidden Wireless Costs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-150-2023-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on 150 (2023)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-vivo-v29e-by-fonelab-android-recover-data/"><u>How to recover lost data from Vivo V29e?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-samsung-galaxy-a05-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Samsung Galaxy A05 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-x-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone X without Backup | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-honor-v-purse-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Honor V Purse</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-xiaomi-redmi-12-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Xiaomi Redmi 12?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-ipados-and-macos-get-set-to-integrate-chatgpt-through-apples-collaboration-with-microsoft-backed-ai-pioneer-openai-zdnet/"><u>IOS, iPadOS & MacOS Get Set to Integrate ChatGPT Through Apple's Collaboration with Microsoft-Backed AI Pioneer OpenAI - ZDNet</u></a></li>
 </ul></div>
 
